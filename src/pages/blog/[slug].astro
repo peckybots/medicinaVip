@@ -1,0 +1,160 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articulos', a => !a.data.draft);
+  return articles.map(a => ({
+    params: { slug: a.id },
+    props: { entry: a },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const data = entry.data;
+
+const allArticles = await getCollection('articulos', a => !a.data.draft && a.id !== entry.id);
+const related = allArticles
+  .filter(a => a.data.especialidad === data.especialidad || a.data.pais === data.pais)
+  .slice(0, 3);
+
+const formattedDate = new Date(data.date).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' });
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": data.title,
+  "description": data.description,
+  "datePublished": data.date,
+  ...(data.updated && { "dateModified": data.updated }),
+  "author": { "@type": "Person", "name": data.author },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MedicinaVip",
+    "logo": { "@type": "ImageObject", "url": "https://medicinaVip.com/logo.png" }
+  },
+  ...(data.heroImage && { "image": `https://medicinaVip.com${data.heroImage}` }),
+  "url": `https://medicinaVip.com/blog/${entry.id}/`,
+  "keywords": data.keywords.join(', '),
+};
+---
+
+<BaseLayout
+  title={`${data.title} | MedicinaVip`}
+  description={data.description}
+  ogImage={data.heroImage}
+>
+  <JsonLd schema={articleSchema} slot="head" />
+
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    <Breadcrumb items={[
+      { label: 'Blog', href: '/blog/' },
+      { label: data.title }
+    ]} />
+
+    <!-- Article header -->
+    <header class="mb-8">
+      <div class="flex flex-wrap gap-2 mb-4">
+        {data.especialidad && (
+          <span class="text-xs px-3 py-1 bg-[#1A3A4A]/10 text-[#1A3A4A] rounded-full font-medium capitalize">
+            {data.especialidad}
+          </span>
+        )}
+        {data.pais && (
+          <span class="text-xs px-3 py-1 bg-[#C9973A]/10 text-[#C9973A] rounded-full font-medium capitalize">
+            {data.pais}
+          </span>
+        )}
+      </div>
+
+      <h1 class="font-serif text-4xl md:text-5xl text-[#1A3A4A] leading-tight mb-4">
+        {data.title}
+      </h1>
+
+      <p class="text-xl text-gray-600 mb-6">{data.description}</p>
+
+      <div class="flex items-center gap-4 text-sm text-gray-500 pb-6 border-b border-gray-100">
+        <span class="font-medium text-gray-700">{data.author}</span>
+        <span>·</span>
+        <time datetime={data.date}>{formattedDate}</time>
+        {data.updated && (
+          <>
+            <span>·</span>
+            <span>Actualizado: {new Date(data.updated).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+          </>
+        )}
+      </div>
+    </header>
+
+    <!-- Hero image -->
+    {data.heroImage && (
+      <div class="mb-8 rounded-2xl overflow-hidden">
+        <img
+          src={data.heroImage}
+          alt={data.imageAlt || data.title}
+          class="w-full h-72 object-cover"
+        />
+      </div>
+    )}
+
+    <!-- Article content -->
+    <div class="prose prose-lg max-w-none prose-headings:font-serif prose-headings:text-[#1A3A4A] prose-a:text-[#C9973A] prose-a:no-underline hover:prose-a:underline mb-8">
+      <Content />
+    </div>
+
+    <!-- Keywords -->
+    {data.keywords.length > 0 && (
+      <div class="flex flex-wrap gap-2 mb-8 pt-6 border-t border-gray-100">
+        {data.keywords.map(kw => (
+          <span class="text-xs px-3 py-1 bg-gray-100 text-gray-600 rounded-full">{kw}</span>
+        ))}
+      </div>
+    )}
+
+    <!-- Share -->
+    <div class="bg-[#F8F9FA] rounded-2xl p-6 mb-8">
+      <ShareButtons title={data.title} />
+    </div>
+
+    <!-- Author card -->
+    <div class="bg-white rounded-2xl border border-gray-100 p-6 mb-12">
+      <div class="flex items-center gap-4">
+        <div class="w-14 h-14 rounded-full bg-[#1A3A4A]/10 flex items-center justify-center">
+          <svg class="w-7 h-7 text-[#1A3A4A]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+          </svg>
+        </div>
+        <div>
+          <p class="font-semibold text-[#1A3A4A]">{data.author}</p>
+          <p class="text-sm text-gray-500">Equipo editorial de MedicinaVip</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Related articles -->
+    {related.length > 0 && (
+      <div>
+        <h2 class="font-serif text-2xl text-[#1A3A4A] mb-6">Artículos relacionados</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {related.map(articulo => (
+            <ArticleCard
+              title={articulo.data.title}
+              slug={articulo.id}
+              description={articulo.data.description}
+              date={articulo.data.date}
+              author={articulo.data.author}
+              heroImage={articulo.data.heroImage}
+              especialidad={articulo.data.especialidad}
+              pais={articulo.data.pais}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</BaseLayout>

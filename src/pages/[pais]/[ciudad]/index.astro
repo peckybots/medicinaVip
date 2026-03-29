@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ClinicCard from '../../../components/ClinicCard.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import JsonLd from '../../../components/JsonLd.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allClinics = await getCollection('clinicas', c => !c.data.draft);
+  const paisMap: Record<string, string> = {
+    mexico: 'México', argentina: 'Argentina', colombia: 'Colombia',
+    espana: 'España', chile: 'Chile', peru: 'Perú', uruguay: 'Uruguay',
+  };
+
+  // Get unique pais+ciudad combos
+  const combos = [...new Map(
+    allClinics.map(c => [`${c.data.pais}:${c.data.ciudad}`, { pais: c.data.pais, ciudad: c.data.ciudad }])
+  ).values()];
+
+  return combos.map(({ pais, ciudad }) => ({
+    params: { pais, ciudad },
+    props: { paisLabel: paisMap[pais] || pais },
+  }));
+}
+
+const { pais, ciudad } = Astro.params;
+const { paisLabel } = Astro.props as { paisLabel: string };
+const ciudadLabel = ciudad!.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+const clinics = await getCollection('clinicas', c => !c.data.draft && c.data.pais === pais && c.data.ciudad === ciudad);
+
+const collectionSchema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `Clínicas privadas en ${ciudadLabel}, ${paisLabel}`,
+    "description": `Directorio de clínicas privadas y hospitales VIP en ${ciudadLabel}, ${paisLabel}.`,
+    "url": `https://medicinaVip.com/${pais}/${ciudad}/`,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://medicinaVip.com/" },
+      { "@type": "ListItem", "position": 2, "name": paisLabel, "item": `https://medicinaVip.com/${pais}/` },
+      { "@type": "ListItem", "position": 3, "name": ciudadLabel, "item": `https://medicinaVip.com/${pais}/${ciudad}/` },
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title={`Clínicas Privadas en ${ciudadLabel}, ${paisLabel} | MedicinaVip`}
+  description={`Encuentra las mejores clínicas privadas y hospitales VIP en ${ciudadLabel}, ${paisLabel}. Especialidades, certificaciones JCI y perfiles detallados.`}
+>
+  <JsonLd schema={collectionSchema} slot="head" />
+
+  <div class="max-w-7xl mx-auto px-4 py-10">
+    <Breadcrumb items={[
+      { label: paisLabel, href: `/${pais}/` },
+      { label: ciudadLabel }
+    ]} />
+
+    <h1 class="font-serif text-4xl text-[#1A3A4A] mb-3">
+      Clínicas privadas en {ciudadLabel}, {paisLabel}
+    </h1>
+    <p class="text-gray-600 text-lg mb-10">
+      {clinics.length} clínica{clinics.length !== 1 ? 's' : ''} registrada{clinics.length !== 1 ? 's' : ''} en {ciudadLabel}
+    </p>
+
+    {clinics.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {clinics.map(clinica => (
+          <ClinicCard
+            name={clinica.data.name}
+            slug={clinica.data.slug}
+            pais={clinica.data.pais}
+            ciudad={clinica.data.ciudad}
+            especialidades={clinica.data.especialidades}
+            certificaciones={clinica.data.certificaciones}
+            imagen={clinica.data.imagen}
+            descripcion={clinica.data.descripcion}
+            featured={clinica.data.featured}
+          />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-gray-400">
+        <p>No hay clínicas registradas en esta ciudad todavía.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ClinicCard from '../../components/ClinicCard.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const paises = [
+    { slug: 'mexico', label: 'México', flag: '🇲🇽', desc: 'Descubre las mejores clínicas privadas de México: centros hospitalarios certificados internacionalmente en Ciudad de México, Monterrey, Guadalajara y más ciudades.' },
+    { slug: 'argentina', label: 'Argentina', flag: '🇦🇷', desc: 'Las mejores clínicas privadas de Argentina, con hospitales de alta complejidad en Buenos Aires, Córdoba, Rosario y otras ciudades del país.' },
+    { slug: 'colombia', label: 'Colombia', flag: '🇨🇴', desc: 'Clínicas VIP en Colombia: centros médicos de excelencia en Bogotá, Medellín, Cali y otras ciudades colombianas.' },
+    { slug: 'espana', label: 'España', flag: '🇪🇸', desc: 'Hospitales y clínicas privadas de España: los mejores centros médicos en Madrid, Barcelona, Valencia y toda la geografía española.' },
+    { slug: 'chile', label: 'Chile', flag: '🇨🇱', desc: 'Clínicas privadas en Chile: hospitales de primer nivel en Santiago, Viña del Mar, Concepción y otras ciudades chilenas.' },
+    { slug: 'peru', label: 'Perú', flag: '🇵🇪', desc: 'Las mejores clínicas privadas del Perú, con centros especializados en Lima, Arequipa, Trujillo y otros destinos peruanos.' },
+    { slug: 'uruguay', label: 'Uruguay', flag: '🇺🇾', desc: 'Clínicas VIP en Uruguay: hospitales privados en Montevideo y otras ciudades del país.' },
+  ];
+
+  return paises.map(p => ({
+    params: { pais: p.slug },
+    props: p,
+  }));
+}
+
+interface Props {
+  slug: string;
+  label: string;
+  flag: string;
+  desc: string;
+}
+
+const { slug, label, flag, desc } = Astro.props;
+const { pais } = Astro.params;
+
+const allClinics = await getCollection('clinicas', c => !c.data.draft && c.data.pais === pais);
+const allArticles = await getCollection('articulos', a => !a.data.draft && a.data.pais === pais);
+
+// Get unique cities
+const ciudades = [...new Set(allClinics.map(c => c.data.ciudad))];
+
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": `Clínicas privadas en ${label}`,
+  "description": desc,
+  "url": `https://medicinaVip.com/${pais}/`,
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://medicinaVip.com/" },
+      { "@type": "ListItem", "position": 2, "name": label, "item": `https://medicinaVip.com/${pais}/` },
+    ]
+  }
+};
+---
+
+<BaseLayout
+  title={`Clínicas Privadas en ${label} | MedicinaVip`}
+  description={desc}
+>
+  <JsonLd schema={collectionSchema} slot="head" />
+
+  <div class="max-w-7xl mx-auto px-4 py-10">
+    <Breadcrumb items={[{ label }]} />
+
+    <!-- Header -->
+    <div class="mb-10">
+      <h1 class="font-serif text-4xl text-[#1A3A4A] mb-3">
+        {flag} Clínicas privadas en {label}
+      </h1>
+      <p class="text-gray-600 text-lg max-w-3xl">{desc}</p>
+    </div>
+
+    <!-- City filter -->
+    {ciudades.length > 0 && (
+      <div class="mb-8">
+        <h2 class="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-3">Filtrar por ciudad</h2>
+        <div class="flex flex-wrap gap-2">
+          <a
+            href={`/${pais}/`}
+            class="px-4 py-1.5 rounded-full text-sm font-medium bg-[#1A3A4A] text-white"
+          >
+            Todas
+          </a>
+          {ciudades.map(ciudad => (
+            <a
+              href={`/${pais}/${ciudad}/`}
+              class="px-4 py-1.5 rounded-full text-sm font-medium border border-gray-200 text-gray-600 hover:border-[#1A3A4A] hover:text-[#1A3A4A] transition-colors capitalize"
+            >
+              {ciudad.replace(/-/g, ' ')}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Clinics grid -->
+    {allClinics.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+        {allClinics.map(clinica => (
+          <ClinicCard
+            name={clinica.data.name}
+            slug={clinica.data.slug}
+            pais={clinica.data.pais}
+            ciudad={clinica.data.ciudad}
+            especialidades={clinica.data.especialidades}
+            certificaciones={clinica.data.certificaciones}
+            imagen={clinica.data.imagen}
+            descripcion={clinica.data.descripcion}
+            featured={clinica.data.featured}
+          />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-gray-400">
+        <p class="text-lg">Aún no hay clínicas registradas en {label}.</p>
+        <a href="/contacto/" class="mt-4 inline-block text-[#C9973A] hover:underline">¿Quieres agregar la tuya?</a>
+      </div>
+    )}
+
+    <!-- Related articles -->
+    {allArticles.length > 0 && (
+      <div>
+        <h2 class="font-serif text-2xl text-[#1A3A4A] mb-6">Artículos sobre medicina en {label}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {allArticles.slice(0, 3).map(articulo => (
+            <ArticleCard
+              title={articulo.data.title}
+              slug={articulo.id}
+              description={articulo.data.description}
+              date={articulo.data.date}
+              author={articulo.data.author}
+              heroImage={articulo.data.heroImage}
+              especialidad={articulo.data.especialidad}
+              pais={articulo.data.pais}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</BaseLayout>

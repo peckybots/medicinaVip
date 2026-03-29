@@ -1,0 +1,79 @@
+---
+const paises = [
+  { href: '/mexico/', label: '🇲🇽 México' },
+  { href: '/argentina/', label: '🇦🇷 Argentina' },
+  { href: '/colombia/', label: '🇨🇴 Colombia' },
+  { href: '/espana/', label: '🇪🇸 España' },
+  { href: '/chile/', label: '🇨🇱 Chile' },
+  { href: '/peru/', label: '🇵🇪 Perú' },
+  { href: '/uruguay/', label: '🇺🇾 Uruguay' },
+];
+
+const especialidades = [
+  { href: '/especialidades/oncologia/', label: 'Oncología' },
+  { href: '/especialidades/cardiologia/', label: 'Cardiología' },
+  { href: '/especialidades/neurologia/', label: 'Neurología' },
+  { href: '/especialidades/cirugia/', label: 'Cirugía' },
+  { href: '/especialidades/fertilidad/', label: 'Fertilidad' },
+  { href: '/especialidades/ortopedia/', label: 'Ortopedia' },
+];
+---
+
+<footer class="bg-[#1A3A4A] text-gray-300 mt-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+      <!-- Brand -->
+      <div class="md:col-span-1">
+        <a href="/" class="flex items-center gap-2 text-white mb-4">
+          <div class="w-8 h-8 rounded-full bg-[#C9973A] flex items-center justify-center font-bold text-[#1A3A4A] text-sm">M</div>
+          <span class="font-serif text-xl font-bold">
+            Medicina<span class="text-[#C9973A]">Vip</span>
+          </span>
+        </a>
+        <p class="text-sm text-gray-400 leading-relaxed">
+          El directorio de referencia para clínicas privadas y VIP en Hispanoamérica.
+        </p>
+      </div>
+
+      <!-- Países -->
+      <div>
+        <h3 class="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Países</h3>
+        <ul class="space-y-2">
+          {paises.map(p => (
+            <li><a href={p.href} class="text-sm text-gray-400 hover:text-[#C9973A] transition-colors">{p.label}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Especialidades -->
+      <div>
+        <h3 class="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Especialidades</h3>
+        <ul class="space-y-2">
+          {especialidades.map(e => (
+            <li><a href={e.href} class="text-sm text-gray-400 hover:text-[#C9973A] transition-colors">{e.label}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Links -->
+      <div>
+        <h3 class="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Información</h3>
+        <ul class="space-y-2">
+          <li><a href="/blog/" class="text-sm text-gray-400 hover:text-[#C9973A] transition-colors">Blog</a></li>
+          <li><a href="/sobre-nosotros/" class="text-sm text-gray-400 hover:text-[#C9973A] transition-colors">Sobre nosotros</a></li>
+          <li><a href="/contacto/" class="text-sm text-gray-400 hover:text-[#C9973A] transition-colors">Contacto</a></li>
+          <li><a href="/politica-privacidad/" class="text-sm text-gray-400 hover:text-[#C9973A] transition-colors">Política de privacidad</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-8 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
+      <p class="text-sm text-gray-500">
+        © {new Date().getFullYear()} MedicinaVip. Todos los derechos reservados.
+      </p>
+      <p class="text-xs text-gray-600">
+        La información médica de este sitio es orientativa. Siempre consulte a un profesional de la salud.
+      </p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,97 @@
+---
+interface Props {
+  name: string;
+  slug: string;
+  pais: string;
+  ciudad: string;
+  especialidades: string[];
+  certificaciones?: string[];
+  imagen?: string;
+  descripcion: string;
+  featured?: boolean;
+}
+
+const { name, slug, pais, ciudad, especialidades, certificaciones, imagen, descripcion, featured } = Astro.props;
+
+const ciudadLabel = ciudad.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const paisLabel = pais.charAt(0).toUpperCase() + pais.slice(1);
+const href = `/${pais}/${ciudad}/${slug}/`;
+
+const especialidadColors: Record<string, string> = {
+  oncologia: 'bg-rose-100 text-rose-700',
+  cardiologia: 'bg-red-100 text-red-700',
+  neurologia: 'bg-purple-100 text-purple-700',
+  cirugia: 'bg-blue-100 text-blue-700',
+  estetica: 'bg-pink-100 text-pink-700',
+  checkup: 'bg-green-100 text-green-700',
+  fertilidad: 'bg-yellow-100 text-yellow-700',
+  ortopedia: 'bg-orange-100 text-orange-700',
+};
+---
+
+<article class={`bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow overflow-hidden border border-gray-100 flex flex-col ${featured ? 'ring-2 ring-[#C9973A]' : ''}`}>
+  <!-- Image -->
+  <div class="relative h-48 bg-gradient-to-br from-[#1A3A4A] to-[#2a5a70] flex items-center justify-center overflow-hidden">
+    {imagen ? (
+      <img src={imagen} alt={name} class="w-full h-full object-cover" loading="lazy" />
+    ) : (
+      <div class="text-white/30 text-6xl font-serif">{name.charAt(0)}</div>
+    )}
+    {featured && (
+      <div class="absolute top-3 right-3 bg-[#C9973A] text-white text-xs font-semibold px-2 py-1 rounded-full">
+        ⭐ Destacada
+      </div>
+    )}
+  </div>
+
+  <!-- Content -->
+  <div class="p-5 flex flex-col flex-1">
+    <div class="flex items-start justify-between gap-2 mb-2">
+      <h3 class="font-serif text-lg text-[#1A3A4A] leading-tight">
+        <a href={href} class="hover:text-[#C9973A] transition-colors">{name}</a>
+      </h3>
+    </div>
+
+    <p class="text-sm text-gray-500 mb-3 flex items-center gap-1">
+      <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+      </svg>
+      {ciudadLabel}, {paisLabel}
+    </p>
+
+    <p class="text-sm text-gray-600 mb-4 line-clamp-2 flex-1">{descripcion}</p>
+
+    <!-- Specialties -->
+    <div class="flex flex-wrap gap-1 mb-3">
+      {especialidades.slice(0, 3).map(esp => (
+        <span class={`text-xs px-2 py-0.5 rounded-full font-medium capitalize ${especialidadColors[esp] || 'bg-gray-100 text-gray-700'}`}>
+          {esp}
+        </span>
+      ))}
+      {especialidades.length > 3 && (
+        <span class="text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">
+          +{especialidades.length - 3}
+        </span>
+      )}
+    </div>
+
+    <!-- Certifications -->
+    {certificaciones && certificaciones.length > 0 && (
+      <div class="flex flex-wrap gap-1 mb-4">
+        {certificaciones.map(cert => (
+          <span class="text-xs px-2 py-0.5 rounded border border-[#C9973A] text-[#C9973A] font-medium">
+            {cert}
+          </span>
+        ))}
+      </div>
+    )}
+
+    <a
+      href={href}
+      class="mt-auto block text-center bg-[#1A3A4A] text-white text-sm font-medium py-2 px-4 rounded-lg hover:bg-[#C9973A] transition-colors"
+    >
+      Ver perfil completo →
+    </a>
+  </div>
+</article>

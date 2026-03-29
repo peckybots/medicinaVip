@@ -1,0 +1,204 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ClinicCard from '../components/ClinicCard.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import JsonLd from '../components/JsonLd.astro';
+import { getCollection } from 'astro:content';
+
+const allClinics = await getCollection('clinicas', c => !c.data.draft);
+const featuredClinics = allClinics.filter(c => c.data.featured).slice(0, 6);
+const allArticles = await getCollection('articulos', a => !a.data.draft);
+const recentArticles = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 3);
+
+const paises = [
+  { slug: 'mexico', label: 'México', flag: '🇲🇽', count: allClinics.filter(c => c.data.pais === 'mexico').length },
+  { slug: 'argentina', label: 'Argentina', flag: '🇦🇷', count: allClinics.filter(c => c.data.pais === 'argentina').length },
+  { slug: 'colombia', label: 'Colombia', flag: '🇨🇴', count: allClinics.filter(c => c.data.pais === 'colombia').length },
+  { slug: 'espana', label: 'España', flag: '🇪🇸', count: allClinics.filter(c => c.data.pais === 'espana').length },
+  { slug: 'chile', label: 'Chile', flag: '🇨🇱', count: allClinics.filter(c => c.data.pais === 'chile').length },
+  { slug: 'peru', label: 'Perú', flag: '🇵🇪', count: allClinics.filter(c => c.data.pais === 'peru').length },
+  { slug: 'uruguay', label: 'Uruguay', flag: '🇺🇾', count: allClinics.filter(c => c.data.pais === 'uruguay').length },
+];
+
+const especialidades = [
+  { slug: 'oncologia', label: 'Oncología', icon: '🎗️', desc: 'Diagnóstico y tratamiento del cáncer' },
+  { slug: 'cardiologia', label: 'Cardiología', icon: '❤️', desc: 'Salud cardiovascular avanzada' },
+  { slug: 'neurologia', label: 'Neurología', icon: '🧠', desc: 'Sistema nervioso central y periférico' },
+  { slug: 'cirugia', label: 'Cirugía', icon: '⚕️', desc: 'Cirugía robótica y mínimamente invasiva' },
+  { slug: 'estetica', label: 'Medicina Estética', icon: '✨', desc: 'Tratamientos de rejuvenecimiento' },
+  { slug: 'fertilidad', label: 'Fertilidad', icon: '🤱', desc: 'Reproducción asistida de alta complejidad' },
+  { slug: 'ortopedia', label: 'Ortopedia', icon: '🦴', desc: 'Cirugía articular y deportiva' },
+  { slug: 'checkup', label: 'Check-up VIP', icon: '🩺', desc: 'Revisiones médicas integrales' },
+];
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "MedicinaVip",
+  "url": "https://medicinaVip.com",
+  "description": "Directorio de clínicas privadas y VIP en Hispanoamérica",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://medicinaVip.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+};
+---
+
+<BaseLayout
+  title="MedicinaVip — Clínicas Privadas en Hispanoamérica"
+  description="Encuentra la mejor clínica privada en México, Argentina, Colombia, Chile, España y más. Directorio VIP con hospitales certificados JCI, especialidades y reseñas."
+>
+  <JsonLd schema={websiteSchema} slot="head" />
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-[#1A3A4A] to-[#2a5a70] text-white py-20 px-4">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="font-serif text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+        Encuentra la mejor clínica privada<br class="hidden md:block" />
+        <span class="text-[#C9973A]">en Hispanoamérica</span>
+      </h1>
+      <p class="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl mx-auto">
+        El directorio de referencia para clínicas y hospitales VIP en México, Argentina, Colombia, Chile, España y más.
+      </p>
+
+      <!-- Search bar -->
+      <form action="/buscar/" method="get" class="max-w-2xl mx-auto">
+        <div class="flex flex-col sm:flex-row gap-3 bg-white/10 backdrop-blur p-2 rounded-2xl border border-white/20">
+          <select name="pais" class="flex-1 bg-white text-gray-800 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#C9973A]">
+            <option value="">🌎 Todos los países</option>
+            <option value="mexico">🇲🇽 México</option>
+            <option value="argentina">🇦🇷 Argentina</option>
+            <option value="colombia">🇨🇴 Colombia</option>
+            <option value="espana">🇪🇸 España</option>
+            <option value="chile">🇨🇱 Chile</option>
+            <option value="peru">🇵🇪 Perú</option>
+            <option value="uruguay">🇺🇾 Uruguay</option>
+          </select>
+          <select name="especialidad" class="flex-1 bg-white text-gray-800 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#C9973A]">
+            <option value="">🏥 Todas las especialidades</option>
+            <option value="oncologia">Oncología</option>
+            <option value="cardiologia">Cardiología</option>
+            <option value="neurologia">Neurología</option>
+            <option value="cirugia">Cirugía</option>
+            <option value="fertilidad">Fertilidad</option>
+            <option value="ortopedia">Ortopedia</option>
+            <option value="estetica">Medicina Estética</option>
+            <option value="checkup">Check-up VIP</option>
+          </select>
+          <button type="submit" class="bg-[#C9973A] hover:bg-[#b8862f] text-white font-semibold px-8 py-3 rounded-xl transition-colors whitespace-nowrap">
+            Buscar →
+          </button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- Countries grid -->
+  <section class="py-16 px-4 bg-white">
+    <div class="max-w-7xl mx-auto">
+      <h2 class="font-serif text-3xl text-[#1A3A4A] text-center mb-2">Explora por país</h2>
+      <p class="text-gray-500 text-center mb-10">Selecciona tu destino para ver clínicas disponibles</p>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-7 gap-4">
+        {paises.map(pais => (
+          <a
+            href={`/${pais.slug}/`}
+            class="flex flex-col items-center gap-2 p-4 rounded-xl border border-gray-100 hover:border-[#C9973A] hover:shadow-md transition-all group"
+          >
+            <span class="text-4xl">{pais.flag}</span>
+            <span class="text-sm font-semibold text-[#1A3A4A] group-hover:text-[#C9973A] transition-colors text-center">{pais.label}</span>
+            <span class="text-xs text-gray-400">{pais.count} clínica{pais.count !== 1 ? 's' : ''}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured clinics -->
+  {featuredClinics.length > 0 && (
+    <section class="py-16 px-4 bg-[#F8F9FA]">
+      <div class="max-w-7xl mx-auto">
+        <h2 class="font-serif text-3xl text-[#1A3A4A] text-center mb-2">Clínicas destacadas</h2>
+        <p class="text-gray-500 text-center mb-10">Los centros médicos más reconocidos de la región</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {featuredClinics.map(clinica => (
+            <ClinicCard
+              name={clinica.data.name}
+              slug={clinica.data.slug}
+              pais={clinica.data.pais}
+              ciudad={clinica.data.ciudad}
+              especialidades={clinica.data.especialidades}
+              certificaciones={clinica.data.certificaciones}
+              imagen={clinica.data.imagen}
+              descripcion={clinica.data.descripcion}
+              featured={clinica.data.featured}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Specialties -->
+  <section class="py-16 px-4 bg-white">
+    <div class="max-w-7xl mx-auto">
+      <h2 class="font-serif text-3xl text-[#1A3A4A] text-center mb-2">Especialidades médicas</h2>
+      <p class="text-gray-500 text-center mb-10">Encuentra clínicas especializadas por área médica</p>
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+        {especialidades.map(esp => (
+          <a
+            href={`/especialidades/${esp.slug}/`}
+            class="flex flex-col items-center gap-3 p-6 rounded-xl border border-gray-100 hover:border-[#1A3A4A] hover:shadow-md transition-all group text-center"
+          >
+            <span class="text-4xl">{esp.icon}</span>
+            <span class="font-semibold text-[#1A3A4A] group-hover:text-[#C9973A] transition-colors text-sm">{esp.label}</span>
+            <span class="text-xs text-gray-500">{esp.desc}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Blog -->
+  {recentArticles.length > 0 && (
+    <section class="py-16 px-4 bg-[#F8F9FA]">
+      <div class="max-w-7xl mx-auto">
+        <div class="flex items-center justify-between mb-10">
+          <div>
+            <h2 class="font-serif text-3xl text-[#1A3A4A]">Artículos recientes</h2>
+            <p class="text-gray-500 mt-1">Guías y recursos sobre medicina privada</p>
+          </div>
+          <a href="/blog/" class="text-[#C9973A] font-semibold hover:underline text-sm">Ver todos →</a>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {recentArticles.map(articulo => (
+            <ArticleCard
+              title={articulo.data.title}
+              slug={articulo.id}
+              description={articulo.data.description}
+              date={articulo.data.date}
+              author={articulo.data.author}
+              heroImage={articulo.data.heroImage}
+              especialidad={articulo.data.especialidad}
+              pais={articulo.data.pais}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- CTA Banner -->
+  <section class="py-16 px-4 bg-gradient-to-r from-[#1A3A4A] to-[#2a5a70] text-white">
+    <div class="max-w-3xl mx-auto text-center">
+      <h2 class="font-serif text-3xl mb-4">¿Quieres agregar tu clínica?</h2>
+      <p class="text-gray-300 mb-8">Conecta con pacientes de toda Hispanoamérica que buscan atención médica de calidad.</p>
+      <a
+        href="/contacto/"
+        class="inline-block bg-[#C9973A] hover:bg-[#b8862f] text-white font-semibold px-8 py-3 rounded-xl transition-colors"
+      >
+        Registrar mi clínica
+      </a>
+    </div>
+  </section>
+</BaseLayout>

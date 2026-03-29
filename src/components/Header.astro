@@ -1,0 +1,109 @@
+---
+const navLinks = [
+  { href: '/', label: 'Inicio' },
+  { href: '/mexico/', label: 'Países', dropdown: [
+    { href: '/mexico/', label: '🇲🇽 México' },
+    { href: '/argentina/', label: '🇦🇷 Argentina' },
+    { href: '/colombia/', label: '🇨🇴 Colombia' },
+    { href: '/espana/', label: '🇪🇸 España' },
+    { href: '/chile/', label: '🇨🇱 Chile' },
+    { href: '/peru/', label: '🇵🇪 Perú' },
+    { href: '/uruguay/', label: '🇺🇾 Uruguay' },
+  ]},
+  { href: '/especialidades/', label: 'Especialidades' },
+  { href: '/blog/', label: 'Blog' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-[#1A3A4A] text-white shadow-lg sticky top-0 z-50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-2 text-white hover:opacity-90 transition-opacity">
+        <div class="w-8 h-8 rounded-full bg-[#C9973A] flex items-center justify-center font-bold text-[#1A3A4A] text-sm">M</div>
+        <span class="font-serif text-xl font-bold tracking-tight">
+          Medicina<span class="text-[#C9973A]">Vip</span>
+        </span>
+      </a>
+
+      <!-- Desktop Nav -->
+      <nav class="hidden md:flex items-center gap-1">
+        <a href="/" class={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${currentPath === '/' ? 'text-[#C9973A]' : 'text-gray-200 hover:text-white hover:bg-white/10'}`}>
+          Inicio
+        </a>
+
+        <!-- Países dropdown -->
+        <div class="relative group">
+          <button class="px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:text-white hover:bg-white/10 transition-colors flex items-center gap-1">
+            Países
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div class="absolute top-full left-0 mt-1 w-48 bg-white rounded-lg shadow-xl py-1 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+            {[
+              { href: '/mexico/', label: '🇲🇽 México' },
+              { href: '/argentina/', label: '🇦🇷 Argentina' },
+              { href: '/colombia/', label: '🇨🇴 Colombia' },
+              { href: '/espana/', label: '🇪🇸 España' },
+              { href: '/chile/', label: '🇨🇱 Chile' },
+              { href: '/peru/', label: '🇵🇪 Perú' },
+              { href: '/uruguay/', label: '🇺🇾 Uruguay' },
+            ].map(item => (
+              <a href={item.href} class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-50 hover:text-[#1A3A4A]">
+                {item.label}
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <a href="/especialidades/" class={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${currentPath.startsWith('/especialidades') ? 'text-[#C9973A]' : 'text-gray-200 hover:text-white hover:bg-white/10'}`}>
+          Especialidades
+        </a>
+        <a href="/blog/" class={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${currentPath.startsWith('/blog') ? 'text-[#C9973A]' : 'text-gray-200 hover:text-white hover:bg-white/10'}`}>
+          Blog
+        </a>
+      </nav>
+
+      <!-- Mobile menu button -->
+      <button
+        id="mobile-menu-btn"
+        class="md:hidden p-2 rounded-md text-gray-200 hover:text-white hover:bg-white/10 transition-colors"
+        aria-label="Abrir menú"
+      >
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="md:hidden hidden border-t border-white/10">
+    <div class="px-4 py-2 space-y-1">
+      <a href="/" class="block px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:bg-white/10">Inicio</a>
+      <div class="px-3 py-2 text-xs font-semibold text-gray-400 uppercase tracking-wider">Países</div>
+      {[
+        { href: '/mexico/', label: '🇲🇽 México' },
+        { href: '/argentina/', label: '🇦🇷 Argentina' },
+        { href: '/colombia/', label: '🇨🇴 Colombia' },
+        { href: '/espana/', label: '🇪🇸 España' },
+        { href: '/chile/', label: '🇨🇱 Chile' },
+        { href: '/peru/', label: '🇵🇪 Perú' },
+        { href: '/uruguay/', label: '🇺🇾 Uruguay' },
+      ].map(item => (
+        <a href={item.href} class="block px-6 py-2 rounded-md text-sm text-gray-300 hover:bg-white/10">{item.label}</a>
+      ))}
+      <a href="/especialidades/" class="block px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:bg-white/10">Especialidades</a>
+      <a href="/blog/" class="block px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:bg-white/10">Blog</a>
+    </div>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+</script>

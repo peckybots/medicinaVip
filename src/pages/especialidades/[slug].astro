@@ -1,0 +1,133 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ClinicCard from '../../components/ClinicCard.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const especialidades = [
+    {
+      slug: 'oncologia',
+      label: 'Oncología',
+      icon: '🎗️',
+      intro: 'La oncología privada en Hispanoamérica ha alcanzado niveles de excelencia internacional. Los mejores centros oncológicos combinan diagnóstico molecular avanzado, radioterapia de última generación e inmunoterapia con un enfoque multidisciplinario centrado en el paciente. Centros como Médica Sur en México y Clínica Las Condes en Chile ofrecen protocolos de tratamiento equiparables a los mejores hospitales del mundo. La acreditación JCI garantiza los estándares más exigentes de seguridad y calidad asistencial.',
+    },
+    {
+      slug: 'cardiologia',
+      label: 'Cardiología',
+      icon: '❤️',
+      intro: 'La cardiología privada en Hispanoamérica ofrece diagnóstico completo y tratamiento de alta complejidad para todas las enfermedades cardiovasculares. Desde la cardiología clínica y el diagnóstico no invasivo hasta la hemodinámica, electrofisiología y la cirugía cardiovascular mínimamente invasiva, los mejores centros de la región cuentan con tecnología de vanguardia y equipos médicos de excelencia internacional.',
+    },
+    {
+      slug: 'neurologia',
+      label: 'Neurología',
+      icon: '🧠',
+      intro: 'La neurología y neurocirugía privada en Hispanoamérica atiende las patologías más complejas del sistema nervioso, desde el ictus y la epilepsia hasta los tumores cerebrales y las enfermedades neurodegenerativas. Los mejores centros neurológicos privados de la región cuentan con unidades de neurointensivismo, resonancia magnética funcional y equipos quirúrgicos altamente especializados.',
+    },
+    {
+      slug: 'cirugia',
+      label: 'Cirugía',
+      icon: '⚕️',
+      intro: 'La cirugía privada de alta complejidad ha evolucionado enormemente en Hispanoamérica. Los mejores centros quirúrgicos privados ofrecen cirugía robótica con sistemas Da Vinci, cirugía laparoscópica avanzada y procedimientos mínimamente invasivos en múltiples especialidades. Clínica Las Condes en Chile y Hospital Austral en Argentina son referentes continentales en este campo.',
+    },
+    {
+      slug: 'estetica',
+      label: 'Medicina Estética',
+      icon: '✨',
+      intro: 'La medicina estética y la cirugía plástica en clínicas privadas de Hispanoamérica combina resultados naturales con las más altas medidas de seguridad. Desde tratamientos faciales no invasivos hasta cirugías de contorno corporal, los mejores centros estéticos de la región cuentan con médicos certificados y equipos tecnológicos de última generación.',
+    },
+    {
+      slug: 'fertilidad',
+      label: 'Fertilidad',
+      icon: '🤱',
+      intro: 'La medicina reproductiva privada en Hispanoamérica ofrece soluciones integrales para las parejas que desean ser padres. Desde la fertilización in vitro (FIV) y la microinyección espermática (ICSI) hasta el diagnóstico genético preimplantacional y la preservación de fertilidad, los mejores centros de reproducción asistida de la región trabajan con protocolos internacionales de excelencia.',
+    },
+    {
+      slug: 'ortopedia',
+      label: 'Ortopedia',
+      icon: '🦴',
+      intro: 'La ortopedia y traumatología privada en Hispanoamérica abarca desde la cirugía de reemplazo articular y la artroscopia hasta el tratamiento de fracturas complejas y la medicina deportiva de alto rendimiento. Los mejores centros ortopédicos privados de la región cuentan con cirujanos especializados, tecnología de imagen avanzada y programas de rehabilitación completos.',
+    },
+    {
+      slug: 'checkup',
+      label: 'Check-up VIP',
+      icon: '🩺',
+      intro: 'Los programas de revisión médica integral o check-up ejecutivo en clínicas privadas de Hispanoamérica permiten detectar precozmente enfermedades y evaluar el estado de salud general. Estos programas incluyen análisis completos de laboratorio, pruebas de imagen, valoraciones especializadas y un informe médico detallado con recomendaciones personalizadas.',
+    },
+  ];
+
+  return especialidades.map(e => ({
+    params: { slug: e.slug },
+    props: e,
+  }));
+}
+
+interface Props {
+  slug: string;
+  label: string;
+  icon: string;
+  intro: string;
+}
+
+const { slug, label, icon, intro } = Astro.props;
+
+const clinics = await getCollection('clinicas', c => !c.data.draft && c.data.especialidades.includes(slug as any));
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": `Clínicas de ${label} en Hispanoamérica`,
+  "description": intro.slice(0, 200) + '...',
+  "url": `https://medicinaVip.com/especialidades/${slug}/`,
+};
+---
+
+<BaseLayout
+  title={`Clínicas de ${label} en Hispanoamérica | MedicinaVip`}
+  description={`Encuentra las mejores clínicas privadas de ${label} en México, Argentina, Colombia, Chile, España y más. Centros certificados JCI con especialistas de alto nivel.`}
+>
+  <JsonLd schema={schema} slot="head" />
+
+  <div class="max-w-7xl mx-auto px-4 py-10">
+    <Breadcrumb items={[
+      { label: 'Especialidades', href: '/especialidades/' },
+      { label }
+    ]} />
+
+    <div class="flex items-center gap-4 mb-6">
+      <span class="text-6xl">{icon}</span>
+      <div>
+        <h1 class="font-serif text-4xl text-[#1A3A4A]">{label}</h1>
+        <p class="text-gray-500 mt-1">{clinics.length} clínica{clinics.length !== 1 ? 's' : ''} disponible{clinics.length !== 1 ? 's' : ''}</p>
+      </div>
+    </div>
+
+    <!-- Editorial intro -->
+    <div class="bg-[#1A3A4A]/5 rounded-2xl p-6 mb-10 border-l-4 border-[#C9973A]">
+      <p class="text-gray-700 leading-relaxed">{intro}</p>
+    </div>
+
+    {clinics.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {clinics.map(clinica => (
+          <ClinicCard
+            name={clinica.data.name}
+            slug={clinica.data.slug}
+            pais={clinica.data.pais}
+            ciudad={clinica.data.ciudad}
+            especialidades={clinica.data.especialidades}
+            certificaciones={clinica.data.certificaciones}
+            imagen={clinica.data.imagen}
+            descripcion={clinica.data.descripcion}
+            featured={clinica.data.featured}
+          />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-gray-400">
+        <p>Aún no hay clínicas registradas para esta especialidad.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>
