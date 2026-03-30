@@ -13,6 +13,7 @@ fundacion: 1908
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/hospital-evangelico-montevideo.png"
 ---
 
 El Hospital Evangélico es una institución mutual privada de Montevideo con larga trayectoria, vinculada a la comunidad protestante histórica. Reconocido por la calidez de su atención y la calidad de su cuerpo médico, es una opción mutualista privada de nivel medio-alto en la capital uruguaya.

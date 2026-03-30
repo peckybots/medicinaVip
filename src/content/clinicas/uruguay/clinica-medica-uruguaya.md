@@ -12,6 +12,7 @@ fundacion: 1945
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/clinica-medica-uruguaya.png"
 ---
 
 Una de las principales instituciones de salud privadas de Uruguay con una amplia cobertura de especialidades médico-quirúrgicas. Reconocida por su trayectoria y calidad de atención en el sistema privado uruguayo.

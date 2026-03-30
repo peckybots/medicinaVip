@@ -12,6 +12,7 @@ fundacion: 1853
 camas: 280
 featured: true
 draft: false
+imagen: "/images/clinicas/uruguay/asociacion-espanola-uruguay.png"
 ---
 
 Una de las instituciones de salud más antiguas y reconocidas de Uruguay, con más de 150 años de historia. Centro de referencia nacional en múltiples especialidades, reconocido por su infraestructura hospitalaria y tecnología de punta.

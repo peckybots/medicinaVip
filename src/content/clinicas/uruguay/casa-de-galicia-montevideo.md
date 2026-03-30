@@ -13,6 +13,7 @@ fundacion: 1952
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/casa-de-galicia-montevideo.png"
 ---
 
 Casa de Galicia es una institución mutual privada de Montevideo con décadas de trayectoria, conocida por su calidad asistencial y trato humano. Es una opción privada consolidada para quienes buscan atención personalizada en cardiología, oncología y geriatría en Uruguay.

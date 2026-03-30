@@ -13,6 +13,7 @@ fundacion: 1857
 camas: 180
 featured: true
 draft: false
+imagen: "/images/clinicas/uruguay/hospital-britanico-montevideo.png"
 ---
 
 El Hospital Británico es el hospital privado de mayor prestigio internacional en Uruguay, con más de 160 años de trayectoria y certificación JCI. Es referente en cardiología, oncología y checkup ejecutivo para el segmento premium y para expatriados. Opera también una clínica en Punta del Este para la temporada de verano.

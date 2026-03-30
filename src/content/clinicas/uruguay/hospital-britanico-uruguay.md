@@ -12,6 +12,7 @@ fundacion: 1857
 camas: 300
 featured: true
 draft: false
+imagen: "/images/clinicas/uruguay/hospital-britanico-uruguay.png"
 ---
 
 Institución mutual privada con más de 100 años de historia, reconocida como una de las mejores instituciones de salud del Uruguay. Líder en cardiología, trasplantes y tecnología médica. Referente nacional e internacional en medicina privada.

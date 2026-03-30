@@ -12,6 +12,7 @@ fundacion: 1962
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/sanatorio-americano-montevideo.png"
 ---
 
 Importante institución de salud privada en Montevideo con décadas de trayectoria en cardiología y cirugía cardiovascular. Referente del sector privado uruguayo con instalaciones modernas y tecnología actualizada.

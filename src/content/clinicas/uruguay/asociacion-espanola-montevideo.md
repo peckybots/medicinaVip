@@ -13,6 +13,7 @@ fundacion: 1853
 camas: 400
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/asociacion-espanola-montevideo.png"
 ---
 
 La Asociación Española es una de las instituciones de salud privadas más importantes y antiguas de Uruguay, con más de 130 años de historia. Es referente en trasplante renal, cardiología de alta complejidad y oncología para su amplia base de socios.

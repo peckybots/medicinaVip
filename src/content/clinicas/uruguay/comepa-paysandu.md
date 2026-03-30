@@ -8,6 +8,7 @@ descripcion: "COMEPA en Paysandú, la segunda ciudad del Uruguay, es la principa
 web: "https://www.comepa.com.uy"
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/comepa-paysandu.png"
 ---
 
 COMEPA en Paysandú, la segunda ciudad del Uruguay, es la principal institución mutualista del litoral oeste del país. Con décadas de historia atendiendo a la comunidad sanducera y las zonas limítrofes con Argentina. Sus programas de cardiología y cirugía son referentes del interior del país.

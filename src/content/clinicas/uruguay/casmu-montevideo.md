@@ -12,6 +12,7 @@ fundacion: 1935
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/uruguay/casmu-montevideo.png"
 ---
 
 Centro de Asistencia del Sindicato Médico del Uruguay, una de las instituciones de salud privada más importantes de Uruguay. Con varias sedes en Montevideo, ofrece cobertura integral en todas las especialidades médico-quirúrgicas.
