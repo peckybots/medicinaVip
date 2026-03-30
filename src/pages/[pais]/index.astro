@@ -96,7 +96,7 @@ const collectionSchema = {
       <div class="mb-8" id="city-filter-section">
         <div class="flex items-center justify-between mb-4">
           <h2 class="text-sm font-semibold text-gray-500 uppercase tracking-wider">Filtrar por ciudad</h2>
-          <span class="text-xs text-gray-400 tabular-nums">{allCities.length} ciudades</span>
+          <span class="text-xs text-gray-400 tabular-nums">{allCities.length} ciudad{allCities.length !== 1 ? 'es' : ''}</span>
         </div>
 
         {/* Searchable combobox for all cities */}
@@ -115,7 +115,7 @@ const collectionSchema = {
               aria-autocomplete="list"
               aria-label="Buscar ciudad"
               autocomplete="off"
-              placeholder={`Buscar entre ${allCities.length} ciudades...`}
+              placeholder={`Buscar entre ${allCities.length} ciudad${allCities.length !== 1 ? 'es' : ''}...`}
               class="w-full pl-10 pr-10 py-2.5 text-sm rounded-xl border border-gray-200 bg-white text-gray-700 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#C9973A]/40 focus:border-[#C9973A] transition-all duration-200"
             />
             <button
@@ -144,7 +144,7 @@ const collectionSchema = {
                 <a href={`/${pais}/${city.slug}/`}
                    class="flex items-center justify-between px-4 py-2.5 text-sm text-gray-700 hover:bg-[#1A3A4A]/5 hover:text-[#1A3A4A] transition-colors cursor-pointer">
                   <span class="city-label capitalize">{city.name}</span>
-                  <span class="text-xs text-gray-400 tabular-nums">{city.clinicCount} clínicas</span>
+                  <span class="text-xs text-gray-400 tabular-nums">{city.clinicCount} clínica{city.clinicCount !== 1 ? 's' : ''}</span>
                 </a>
               </li>
             ))}
