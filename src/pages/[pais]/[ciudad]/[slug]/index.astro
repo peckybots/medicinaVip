@@ -5,11 +5,12 @@ import Breadcrumb from '../../../../components/Breadcrumb.astro';
 import ShareButtons from '../../../../components/ShareButtons.astro';
 import JsonLd from '../../../../components/JsonLd.astro';
 import { getCollection, render } from 'astro:content';
+import { slugify } from '../../../../utils/slugify';
 
 export async function getStaticPaths() {
   const clinics = await getCollection('clinicas', c => !c.data.draft);
   return clinics.map(c => ({
-    params: { pais: c.data.pais, ciudad: c.data.ciudad, slug: c.data.slug },
+    params: { pais: c.data.pais, ciudad: slugify(c.data.ciudad), slug: c.data.slug },
     props: { entry: c },
   }));
 }
@@ -23,12 +24,13 @@ const paisMap: Record<string, string> = {
   espana: 'España', chile: 'Chile', peru: 'Perú', uruguay: 'Uruguay',
 };
 const paisLabel = paisMap[data.pais] || data.pais;
-const ciudadLabel = data.ciudad.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
+const ciudadSlug = slugify(data.ciudad);
+const ciudadLabel = ciudadSlug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 
 // Related clinics (same city or specialty)
 const allClinics = await getCollection('clinicas', c => !c.data.draft && c.data.slug !== data.slug);
 const related = allClinics
-  .filter(c => c.data.ciudad === data.ciudad || c.data.especialidades.some(e => data.especialidades.includes(e)))
+  .filter(c => slugify(c.data.ciudad) === ciudadSlug || c.data.especialidades.some(e => data.especialidades.includes(e)))
   .slice(0, 3);
 
 const especialidadMap: Record<string, string> = {
@@ -42,7 +44,7 @@ const jsonLdSchema = {
   "@type": data.camas && data.camas > 100 ? "Hospital" : "MedicalClinic",
   "name": data.name,
   "description": data.descripcion,
-  "url": `https://medicinaVip.com/${data.pais}/${data.ciudad}/${data.slug}/`,
+  "url": `https://medicinaVip.com/${data.pais}/${ciudadSlug}/${data.slug}/`,
   "address": {
     "@type": "PostalAddress",
     "streetAddress": data.direccion,
@@ -74,7 +76,7 @@ const jsonLdSchema = {
   <div class="max-w-5xl mx-auto px-4 py-10">
     <Breadcrumb items={[
       { label: paisLabel, href: `/${data.pais}/` },
-      { label: ciudadLabel, href: `/${data.pais}/${data.ciudad}/` },
+      { label: ciudadLabel, href: `/${data.pais}/${ciudadSlug}/` },
       { label: data.name }
     ]} />
 

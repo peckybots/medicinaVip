@@ -1,4 +1,6 @@
 ---
+import { slugify } from '../utils/slugify';
+
 interface Props {
   name: string;
   slug: string;
@@ -13,9 +15,10 @@ interface Props {
 
 const { name, slug, pais, ciudad, especialidades, certificaciones, imagen, descripcion, featured } = Astro.props;
 
-const ciudadLabel = ciudad.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const ciudadSlug = slugify(ciudad);
+const ciudadLabel = ciudadSlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 const paisLabel = pais.charAt(0).toUpperCase() + pais.slice(1);
-const href = `/${pais}/${ciudad}/${slug}/`;
+const href = `/${pais}/${ciudadSlug}/${slug}/`;
 
 const especialidadColors: Record<string, string> = {
   oncologia: 'bg-rose-100 text-rose-700',

@@ -4,21 +4,24 @@ import ClinicCard from '../components/ClinicCard.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { getCollection } from 'astro:content';
+import { PAIS_INFO } from '../utils/paises';
 
 const allClinics = await getCollection('clinicas', c => !c.data.draft);
 const featuredClinics = allClinics.filter(c => c.data.featured).slice(0, 6);
 const allArticles = await getCollection('articulos', a => !a.data.draft);
 const recentArticles = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 3);
 
-const paises = [
-  { slug: 'mexico', label: 'México', flag: '🇲🇽', count: allClinics.filter(c => c.data.pais === 'mexico').length },
-  { slug: 'argentina', label: 'Argentina', flag: '🇦🇷', count: allClinics.filter(c => c.data.pais === 'argentina').length },
-  { slug: 'colombia', label: 'Colombia', flag: '🇨🇴', count: allClinics.filter(c => c.data.pais === 'colombia').length },
-  { slug: 'espana', label: 'España', flag: '🇪🇸', count: allClinics.filter(c => c.data.pais === 'espana').length },
-  { slug: 'chile', label: 'Chile', flag: '🇨🇱', count: allClinics.filter(c => c.data.pais === 'chile').length },
-  { slug: 'peru', label: 'Perú', flag: '🇵🇪', count: allClinics.filter(c => c.data.pais === 'peru').length },
-  { slug: 'uruguay', label: 'Uruguay', flag: '🇺🇾', count: allClinics.filter(c => c.data.pais === 'uruguay').length },
-];
+// Build paises list dynamically from collection
+const uniquePaisSlugs = [...new Set(allClinics.map(c => c.data.pais))].sort();
+const paises = uniquePaisSlugs.map(slug => {
+  const info = PAIS_INFO[slug];
+  return {
+    slug,
+    label: info?.label ?? slug,
+    flag: info?.flag ?? '🌎',
+    count: allClinics.filter(c => c.data.pais === slug).length,
+  };
+});
 
 const especialidades = [
   { slug: 'oncologia', label: 'Oncología', icon: '🎗️', desc: 'Diagnóstico y tratamiento del cáncer' },
@@ -67,13 +70,9 @@ const websiteSchema = {
         <div class="flex flex-col sm:flex-row gap-3 bg-white/10 backdrop-blur p-2 rounded-2xl border border-white/20">
           <select name="pais" class="flex-1 bg-white text-gray-800 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#C9973A]">
             <option value="">🌎 Todos los países</option>
-            <option value="mexico">🇲🇽 México</option>
-            <option value="argentina">🇦🇷 Argentina</option>
-            <option value="colombia">🇨🇴 Colombia</option>
-            <option value="espana">🇪🇸 España</option>
-            <option value="chile">🇨🇱 Chile</option>
-            <option value="peru">🇵🇪 Perú</option>
-            <option value="uruguay">🇺🇾 Uruguay</option>
+            {paises.map(p => (
+              <option value={p.slug}>{p.flag} {p.label}</option>
+            ))}
           </select>
           <select name="especialidad" class="flex-1 bg-white text-gray-800 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#C9973A]">
             <option value="">🏥 Todas las especialidades</option>

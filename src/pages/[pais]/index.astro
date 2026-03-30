@@ -5,6 +5,7 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import { getCollection } from 'astro:content';
+import { slugify } from '../../utils/slugify';
 
 export async function getStaticPaths() {
   const paises = [
@@ -36,8 +37,8 @@ const { pais } = Astro.params;
 const allClinics = await getCollection('clinicas', c => !c.data.draft && c.data.pais === pais);
 const allArticles = await getCollection('articulos', a => !a.data.draft && a.data.pais === pais);
 
-// Get unique cities
-const ciudades = [...new Set(allClinics.map(c => c.data.ciudad))];
+// Get unique cities (as slugified strings, deduplicated)
+const ciudades = [...new Set(allClinics.map(c => slugify(c.data.ciudad)))];
 
 const collectionSchema = {
   "@context": "https://schema.org",
@@ -83,12 +84,12 @@ const collectionSchema = {
           >
             Todas
           </a>
-          {ciudades.map(ciudad => (
+          {ciudades.map(ciudadSlug => (
             <a
-              href={`/${pais}/${ciudad}/`}
+              href={`/${pais}/${ciudadSlug}/`}
               class="px-4 py-1.5 rounded-full text-sm font-medium border border-gray-200 text-gray-600 hover:border-[#1A3A4A] hover:text-[#1A3A4A] transition-colors capitalize"
             >
-              {ciudad.replace(/-/g, ' ')}
+              {ciudadSlug.replace(/-/g, ' ')}
             </a>
           ))}
         </div>

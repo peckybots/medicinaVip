@@ -4,6 +4,7 @@ import ClinicCard from '../../../components/ClinicCard.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 import JsonLd from '../../../components/JsonLd.astro';
 import { getCollection } from 'astro:content';
+import { slugify } from '../../../utils/slugify';
 
 export async function getStaticPaths() {
   const allClinics = await getCollection('clinicas', c => !c.data.draft);
@@ -12,13 +13,16 @@ export async function getStaticPaths() {
     espana: 'España', chile: 'Chile', peru: 'Perú', uruguay: 'Uruguay',
   };
 
-  // Get unique pais+ciudad combos
+  // Get unique pais+slugifiedCiudad combos
   const combos = [...new Map(
-    allClinics.map(c => [`${c.data.pais}:${c.data.ciudad}`, { pais: c.data.pais, ciudad: c.data.ciudad }])
+    allClinics.map(c => [
+      `${c.data.pais}:${slugify(c.data.ciudad)}`,
+      { pais: c.data.pais, ciudadSlug: slugify(c.data.ciudad) }
+    ])
   ).values()];
 
-  return combos.map(({ pais, ciudad }) => ({
-    params: { pais, ciudad },
+  return combos.map(({ pais, ciudadSlug }) => ({
+    params: { pais, ciudad: ciudadSlug },
     props: { paisLabel: paisMap[pais] || pais },
   }));
 }
@@ -27,7 +31,8 @@ const { pais, ciudad } = Astro.params;
 const { paisLabel } = Astro.props as { paisLabel: string };
 const ciudadLabel = ciudad!.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
-const clinics = await getCollection('clinicas', c => !c.data.draft && c.data.pais === pais && c.data.ciudad === ciudad);
+// Match clinics whose slugified ciudad matches the route param
+const clinics = await getCollection('clinicas', c => !c.data.draft && c.data.pais === pais && slugify(c.data.ciudad) === ciudad);
 
 const collectionSchema = [
   {
