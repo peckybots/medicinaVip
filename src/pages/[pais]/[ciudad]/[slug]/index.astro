@@ -6,6 +6,7 @@ import ShareButtons from '../../../../components/ShareButtons.astro';
 import JsonLd from '../../../../components/JsonLd.astro';
 import { getCollection, render } from 'astro:content';
 import { slugify } from '../../../../utils/slugify';
+import { PAIS_INFO } from '../../../../utils/paises';
 
 export async function getStaticPaths() {
   const clinics = await getCollection('clinicas', c => !c.data.draft);
@@ -19,11 +20,7 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const data = entry.data;
 
-const paisMap: Record<string, string> = {
-  mexico: 'México', argentina: 'Argentina', colombia: 'Colombia',
-  espana: 'España', chile: 'Chile', peru: 'Perú', uruguay: 'Uruguay',
-};
-const paisLabel = paisMap[data.pais] || data.pais;
+const paisLabel = PAIS_INFO[data.pais]?.label ?? data.pais;
 const ciudadSlug = slugify(data.ciudad);
 const ciudadLabel = ciudadSlug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 

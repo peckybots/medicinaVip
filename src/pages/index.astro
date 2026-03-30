@@ -66,7 +66,7 @@ const websiteSchema = {
       </p>
 
       <!-- Search bar -->
-      <form action="/buscar/" method="get" class="max-w-2xl mx-auto">
+      <form onsubmit="handleSearch(event)" class="max-w-2xl mx-auto">
         <div class="flex flex-col sm:flex-row gap-3 bg-white/10 backdrop-blur p-2 rounded-2xl border border-white/20">
           <select name="pais" class="flex-1 bg-white text-gray-800 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-[#C9973A]">
             <option value="">🌎 Todos los países</option>
@@ -90,6 +90,19 @@ const websiteSchema = {
           </button>
         </div>
       </form>
+      <script>
+        function handleSearch(e: Event) {
+          e.preventDefault();
+          const form = e.target as HTMLFormElement;
+          const pais = (form.elements.namedItem('pais') as HTMLSelectElement)?.value;
+          const especialidad = (form.elements.namedItem('especialidad') as HTMLSelectElement)?.value;
+          if (pais) {
+            window.location.href = '/' + pais + '/';
+          } else if (especialidad) {
+            window.location.href = '/especialidades/' + especialidad + '/';
+          }
+        }
+      </script>
     </div>
   </section>
 
@@ -98,7 +111,7 @@ const websiteSchema = {
     <div class="max-w-7xl mx-auto">
       <h2 class="font-serif text-3xl text-[#1A3A4A] text-center mb-2">Explora por país</h2>
       <p class="text-gray-500 text-center mb-10">Selecciona tu destino para ver clínicas disponibles</p>
-      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-7 gap-4">
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
         {paises.map(pais => (
           <a
             href={`/${pais.slug}/`}

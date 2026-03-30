@@ -6,22 +6,24 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import { getCollection } from 'astro:content';
 import { slugify } from '../../utils/slugify';
+import { PAIS_INFO } from '../../utils/paises';
 
 export async function getStaticPaths() {
-  const paises = [
-    { slug: 'mexico', label: 'México', flag: '🇲🇽', desc: 'Descubre las mejores clínicas privadas de México: centros hospitalarios certificados internacionalmente en Ciudad de México, Monterrey, Guadalajara y más ciudades.' },
-    { slug: 'argentina', label: 'Argentina', flag: '🇦🇷', desc: 'Las mejores clínicas privadas de Argentina, con hospitales de alta complejidad en Buenos Aires, Córdoba, Rosario y otras ciudades del país.' },
-    { slug: 'colombia', label: 'Colombia', flag: '🇨🇴', desc: 'Clínicas VIP en Colombia: centros médicos de excelencia en Bogotá, Medellín, Cali y otras ciudades colombianas.' },
-    { slug: 'espana', label: 'España', flag: '🇪🇸', desc: 'Hospitales y clínicas privadas de España: los mejores centros médicos en Madrid, Barcelona, Valencia y toda la geografía española.' },
-    { slug: 'chile', label: 'Chile', flag: '🇨🇱', desc: 'Clínicas privadas en Chile: hospitales de primer nivel en Santiago, Viña del Mar, Concepción y otras ciudades chilenas.' },
-    { slug: 'peru', label: 'Perú', flag: '🇵🇪', desc: 'Las mejores clínicas privadas del Perú, con centros especializados en Lima, Arequipa, Trujillo y otros destinos peruanos.' },
-    { slug: 'uruguay', label: 'Uruguay', flag: '🇺🇾', desc: 'Clínicas VIP en Uruguay: hospitales privados en Montevideo y otras ciudades del país.' },
-  ];
+  const allClinics = await getCollection('clinicas', c => !c.data.draft);
+  const uniquePaisSlugs = [...new Set(allClinics.map(c => c.data.pais))];
 
-  return paises.map(p => ({
-    params: { pais: p.slug },
-    props: p,
-  }));
+  return uniquePaisSlugs.map(slug => {
+    const info = PAIS_INFO[slug];
+    return {
+      params: { pais: slug },
+      props: {
+        slug,
+        label: info?.label ?? slug,
+        flag: info?.flag ?? '🌎',
+        desc: info?.desc ?? `Directorio de clínicas privadas en ${info?.label ?? slug}.`,
+      },
+    };
+  });
 }
 
 interface Props {

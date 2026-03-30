@@ -1539,3 +1539,819 @@
 - **descripcion:** Hospital Ángeles en Gómez Palacio, parte de la Comarca Lagunera que comparte con Torreón el área metropolitana binacional más importante del norte central de México. Sus servicios de cardiología y urgencias son complementarios al sistema de salud privado de la Laguna. Con instalaciones modernas y equipo de especialistas certificados.
 - **web:** https://www.hospitalesangeles.com/gomez-palacio
 - **featured:** false
+
+## Hospital H+ Pedregal
+- **ciudad:** Ciudad de México
+- **slug:** hospital-h-plus-pedregal
+- **especialidades:** cardiología, neurología, oncología, cirugía bariátrica, medicina interna
+- **descripcion:** Hospital H+ ubicado en Pedregal, una de las zonas residenciales más exclusivas del sur de Ciudad de México. Ofrece atención de alta especialidad con tecnología de punta en diagnóstico y tratamiento. Su modelo de atención personalizada lo posiciona como una de las mejores opciones de salud privada en la capital.
+- **web:** https://www.hmas.com.mx
+- **featured:** false
+
+## Hospital H+ Insurgentes
+- **ciudad:** Ciudad de México
+- **slug:** hospital-h-plus-insurgentes
+- **especialidades:** medicina interna, cardiología, urgencias, cirugía general, ginecología
+- **descripcion:** Hospital H+ sobre Insurgentes Sur, uno de los corredores hospitalarios más importantes de la Ciudad de México. Cuenta con unidad de cuidados intensivos, quirófanos de última generación y servicio de urgencias las 24 horas. Ofrece planes de atención médica integrales para pacientes nacionales e internacionales.
+- **web:** https://www.hmas.com.mx
+- **featured:** false
+
+## Hospital H+ Coyoacán
+- **ciudad:** Ciudad de México
+- **slug:** hospital-h-plus-coyoacan
+- **especialidades:** pediatría, ginecología, cirugía, ortopedia, urgencias
+- **descripcion:** Hospital H+ en la delegación Coyoacán, zona sur de la Ciudad de México. Especializado en atención familiar con servicios pediátricos y obstétricos de excelencia. Sus instalaciones modernas y equipo multidisciplinario garantizan atención de calidad.
+- **web:** https://www.hmas.com.mx
+- **featured:** false
+
+## Hospital CIMA Hermosillo
+- **ciudad:** Hermosillo
+- **slug:** hospital-cima-hermosillo
+- **especialidades:** cardiología, oncología, cirugía robótica, neurología, urgencias
+- **descripcion:** Hospital CIMA en Hermosillo, Sonora, referente de la medicina privada en el noroeste de México. Cuenta con tecnología robótica para cirugías mínimamente invasivas y un centro oncológico de alto nivel. Forma parte de la red CIMA con estándares internacionales de calidad.
+- **web:** https://www.cimahospitales.com/hermosillo
+- **featured:** false
+
+## Hospital CIMA San José del Cabo
+- **ciudad:** San José del Cabo
+- **slug:** hospital-cima-san-jose-del-cabo
+- **especialidades:** medicina interna, cirugía, urgencias, traumatología, ginecología
+- **descripcion:** Hospital CIMA en Los Cabos, atendiendo a residentes y turistas internacionales en el corredor turístico de Baja California Sur. Sus servicios están diseñados para dar atención de urgencias y programada a una población cosmopolita. Bilingual staff and full insurance coordination for international patients.
+- **web:** https://www.cimahospitales.com/loscabos
+- **featured:** false
+
+## Hospital CIMA Chihuahua
+- **ciudad:** Chihuahua
+- **slug:** hospital-cima-chihuahua
+- **especialidades:** cardiología, cirugía bariátrica, ortopedia, ginecología, medicina interna
+- **descripcion:** Hospital CIMA en la capital del estado de Chihuahua, el estado más grande de México. Ofrece servicios de alta especialidad con médicos certificados y tecnología de diagnóstico avanzada. Es la principal opción de salud privada de calidad internacional en la región.
+- **web:** https://www.cimahospitales.com/chihuahua
+- **featured:** false
+
+## Hospital CIMA Celaya
+- **ciudad:** Celaya
+- **slug:** hospital-cima-celaya
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, pediatría
+- **descripcion:** Hospital CIMA en Celaya, Guanajuato, zona del Bajío con importante actividad industrial y comercial. Atiende a la creciente clase media profesional del estado con servicios de alta calidad. Sus instalaciones modernas complementan la oferta de salud privada de la región.
+- **web:** https://www.cimahospitales.com/celaya
+- **featured:** false
+
+## Hospital CIMA Mérida
+- **ciudad:** Mérida
+- **slug:** hospital-cima-merida
+- **especialidades:** oncología, cardiología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital CIMA en Mérida, Yucatán, una de las ciudades con mayor crecimiento económico y turístico del sureste mexicano. Referente de salud privada en la Península de Yucatán con servicios oncológicos y cardiológicos de alto nivel. Atiende a pacientes locales e internacionales con estándares de excelencia.
+- **web:** https://www.cimahospitales.com/merida
+- **featured:** false
+
+## Hospital Galenia Cancún
+- **ciudad:** Cancún
+- **slug:** hospital-galenia-cancun
+- **especialidades:** cirugía plástica, medicina estética, cardiología, ortopedia, urgencias
+- **descripcion:** Hospital Galenia es uno de los principales centros hospitalarios privados de Cancún y el Caribe mexicano. Con enfoque en turismo médico, atiende a pacientes internacionales que combinan procedimientos médicos con la experiencia turística de la Riviera Maya. Cuenta con más de 100 especialidades y certificaciones internacionales.
+- **web:** https://www.hospitalegalenia.com
+- **featured:** false
+
+## Hospital San Javier Guadalajara
+- **ciudad:** Guadalajara
+- **slug:** hospital-san-javier-guadalajara
+- **especialidades:** cardiología, oncología, neurología, cirugía robótica, trasplantes
+- **descripcion:** Hospital San Javier en Guadalajara, uno de los hospitales privados más reconocidos de México y líder en la región occidental. Cuenta con programa de trasplantes, cirugía robótica y un centro de oncología de referencia nacional. Forma parte de los hospitales con mayor prestigio médico-académico del país.
+- **web:** https://www.hospitalsanjavier.com
+- **featured:** false
+
+## Hospital San Javier Marina
+- **ciudad:** Puerto Vallarta
+- **slug:** hospital-san-javier-marina
+- **especialidades:** urgencias, cirugía, medicina interna, cardiología, atención a turistas
+- **descripcion:** Hospital San Javier Marina en Puerto Vallarta, especializado en atención a turistas nacionales e internacionales del destino más importante del Pacífico mexicano. Con personal bilingüe y coordinación con aseguradoras internacionales, ofrece atención de urgencia y programada de alta calidad. Es el hospital de referencia del corredor turístico Vallarta-Nayarit.
+- **web:** https://www.hospitalsanjavier.com/marina
+- **featured:** false
+
+## Hospital OCA Nuevo Laredo
+- **ciudad:** Nuevo Laredo
+- **slug:** hospital-oca-nuevo-laredo
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, pediatría
+- **descripcion:** Hospital OCA en Nuevo Laredo, frontera con Texas, atendiendo tanto a la población local como a pacientes que cruzan desde Estados Unidos. Sus servicios de calidad a precios competitivos lo hacen atractivo para el turismo médico fronterizo. Forma parte de la red OCA con presencia en el noreste de México.
+- **web:** https://www.oca.com.mx
+- **featured:** false
+
+## Hospital OCA Tampico
+- **ciudad:** Tampico
+- **slug:** hospital-oca-tampico
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital OCA en Tampico, Tamaulipas, importante puerto industrial del Golfo de México. Es referente de salud privada en la zona conurbada Tampico-Madero-Altamira, una de las más importantes del noreste. Sus servicios cardiológicos y oncológicos atienden a la población de toda la región.
+- **web:** https://www.oca.com.mx
+- **featured:** false
+
+## Hospital OCA Ciudad Victoria
+- **ciudad:** Ciudad Victoria
+- **slug:** hospital-oca-ciudad-victoria
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, ortopedia
+- **descripcion:** Hospital OCA en Ciudad Victoria, capital del estado de Tamaulipas. Cubre la demanda de servicios médicos privados de calidad en la capital estatal y municipios aledaños. Sus instalaciones modernas y personal especializado hacen de este hospital la primera opción privada en la región.
+- **web:** https://www.oca.com.mx
+- **featured:** false
+
+## Star Médica Querétaro
+- **ciudad:** Querétaro
+- **slug:** star-medica-queretaro
+- **especialidades:** cardiología, cirugía bariátrica, neurología, oncología, pediatría
+- **descripcion:** Star Médica en Querétaro, uno de los estados con mayor crecimiento industrial y tecnológico de México. Ofrece servicios de alta especialidad a la creciente clase profesional de la región del Bajío. Cuenta con tecnología de diagnóstico avanzada y médicos de reconocido prestigio nacional.
+- **web:** https://www.starmedica.com
+- **featured:** false
+
+## Star Médica Puebla
+- **ciudad:** Puebla
+- **slug:** star-medica-puebla
+- **especialidades:** oncología, cardiología, cirugía, medicina interna, urgencias
+- **descripcion:** Star Médica en Puebla, cuarta ciudad más grande de México y centro industrial del sureste. Referente de salud privada en la Angelópolis con especializaciones oncológicas y cardiovasculares de alto nivel. Sus instalaciones de vanguardia atienden a pacientes de toda la región Centro-Sur del país.
+- **web:** https://www.starmedica.com
+- **featured:** false
+
+## Star Médica Aguascalientes
+- **ciudad:** Aguascalientes
+- **slug:** star-medica-aguascalientes
+- **especialidades:** cardiología, cirugía general, ginecología, pediatría, medicina interna
+- **descripcion:** Star Médica en Aguascalientes, ciudad con importante desarrollo industrial y alta calidad de vida. Atiende a la población local con servicios hospitalarios de alto estándar en un hospital de infraestructura moderna. Sus especialidades cardiológicas y pediátricas son las más demandadas en la región.
+- **web:** https://www.starmedica.com
+- **featured:** false
+
+## Hospital del Parque Chihuahua
+- **ciudad:** Chihuahua
+- **slug:** hospital-del-parque-chihuahua
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital del Parque en Chihuahua, referencia de la medicina privada en la capital del estado más extenso de México. Con historia de décadas en la atención médica regional, este hospital combina experiencia y tecnología actualizada. Sus servicios de urgencias y medicina interna son los más reconocidos en la zona.
+- **web:** https://www.hospitaldelparque.com.mx
+- **featured:** false
+
+## Hospital Cemain Monterrey
+- **ciudad:** Monterrey
+- **slug:** hospital-cemain-monterrey
+- **especialidades:** neurología, neurocirugía, columna vertebral, rehabilitación neurológica
+- **descripcion:** Hospital Cemain en Monterrey, especializado en neurología y neurocirugía de alta complejidad. Es referente regional en el tratamiento de enfermedades del sistema nervioso central y periférico. Su equipo de neurocirujanos y tecnología de imagen avanzada lo posicionan como el centro neurológico más importante del noreste.
+- **web:** https://www.cemain.com
+- **featured:** false
+
+## Hospital Muguerza Saltillo
+- **ciudad:** Saltillo
+- **slug:** hospital-muguerza-saltillo
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital Muguerza en Saltillo, capital de Coahuila y ciudad con fuerte actividad industrial automotriz. Parte de la red Muguerza con presencia en el noreste de México, ofrece servicios especializados de alta calidad. Sus instalaciones modernas y equipo certificado atienden a toda la región lagunera y fronteriza.
+- **web:** https://www.christus.com.mx
+- **featured:** false
+
+## Hospital Ángeles Tijuana
+- **ciudad:** Tijuana
+- **slug:** angeles-tijuana
+- **especialidades:** cirugía bariátrica, oncología, trasplantes, cardiología, medicina estética
+- **descripcion:** Hospital Ángeles en Tijuana, uno de los destinos de turismo médico más importantes del mundo por su cercanía con San Diego, California. Miles de pacientes estadounidenses y canadienses viajan cada año para tratamientos de alta calidad a precios accesibles. Ofrece más de 40 especialidades con personal bilingüe y coordinación internacional.
+- **web:** https://www.hospitalesangeles.com/tijuana
+- **featured:** false
+
+## Hospital Ángeles Puebla
+- **ciudad:** Puebla
+- **slug:** angeles-puebla
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, materno-infantil
+- **descripcion:** Hospital Ángeles en Puebla, sirviendo a la segunda área metropolitana del sur de México. Con más de 300 médicos especialistas y 7 quirófanos, ofrece la gama completa de servicios hospitalarios de alta especialidad. Su torre materno-infantil y centro oncológico son referentes en la región.
+- **web:** https://www.hospitalesangeles.com/puebla
+- **featured:** false
+
+## Hospital Ángeles León
+- **ciudad:** León
+- **slug:** angeles-leon
+- **especialidades:** cardiología, cirugía bariátrica, ortopedia, ginecología, pediatría
+- **descripcion:** Hospital Ángeles en León, Guanajuato, la ciudad más grande del Bajío y uno de los principales centros industriales de México. Con vocación de servicio a la clase media y alta empresarial de la región, ofrece servicios cardiológicos y bariátricos de excelencia. Es el hospital privado de mayor referencia del estado.
+- **web:** https://www.hospitalesangeles.com/leon
+- **featured:** false
+
+## Hospital Ángeles Querétaro
+- **ciudad:** Querétaro
+- **slug:** angeles-queretaro
+- **especialidades:** oncología, neurología, cardiología, cirugía mínimamente invasiva, urgencias
+- **descripcion:** Hospital Ángeles en Querétaro, atendiendo al creciente mercado de salud privada de uno de los estados más dinámicos de México. Sus servicios oncológicos y neurológicos atraen a pacientes de toda la región Centro-Bajío. Con instalaciones de vanguardia y médicos de alto perfil, es la opción preferida de ejecutivos y profesionales.
+- **web:** https://www.hospitalesangeles.com/queretaro
+- **featured:** false
+
+## Hospital Ángeles Acoxpa
+- **ciudad:** Ciudad de México
+- **slug:** angeles-acoxpa
+- **especialidades:** cirugía, medicina interna, urgencias, cardiología, ginecología
+- **descripcion:** Hospital Ángeles Acoxpa en el sur de la Ciudad de México, accesible desde Tlalpan, Xochimilco y Coyoacán. Ofrece atención de urgencias y hospitalaria de calidad para los residentes del sur de la capital. Sus instalaciones completas y equipo de especialistas garantizan atención oportuna y eficaz.
+- **web:** https://www.hospitalesangeles.com/acoxpa
+- **featured:** false
+
+## Hospital Ángeles Metropolitano
+- **ciudad:** Ciudad de México
+- **slug:** angeles-metropolitano
+- **especialidades:** oncología, cardiología, neurología, trasplantes, hematología
+- **descripcion:** Hospital Ángeles Metropolitano en la colonia Doctores de la Ciudad de México, uno de los hospitales de mayor complejidad de la red. Con programa de trasplantes y centro de hematología-oncología de referencia nacional, atiende los casos más difíciles del sistema privado. Su ubicación central facilita el acceso desde toda la zona metropolitana.
+- **web:** https://www.hospitalesangeles.com/metropolitano
+- **featured:** false
+
+## Hospital Ángeles Xalapa
+- **ciudad:** Xalapa
+- **slug:** angeles-xalapa
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Ángeles en Xalapa, capital del estado de Veracruz y centro universitario y cultural. Primera opción de salud privada de alta calidad en la ciudad, atiende a profesionales, universitarios y familias de la región. Sus servicios de urgencias 24 horas y quirófanos bien equipados garantizan atención oportuna.
+- **web:** https://www.hospitalesangeles.com/xalapa
+- **featured:** false
+
+## Hospital Ángeles Villahermosa
+- **ciudad:** Villahermosa
+- **slug:** angeles-villahermosa
+- **especialidades:** cardiología, cirugía, medicina interna, oncología, urgencias
+- **descripcion:** Hospital Ángeles en Villahermosa, capital de Tabasco y centro de la industria petrolera del sureste mexicano. Referente de salud privada en la región con servicios cardiológicos y oncológicos especializados. Atiende a la comunidad empresarial y petrolera de Tabasco y estados vecinos.
+- **web:** https://www.hospitalesangeles.com/villahermosa
+- **featured:** false
+
+## Hospital Ángeles Torreón
+- **ciudad:** Torreón
+- **slug:** angeles-torreon
+- **especialidades:** cardiología, oncología, cirugía bariátrica, neurología, urgencias
+- **descripcion:** Hospital Ángeles en Torreón, parte de la Comarca Lagunera que abarca Coahuila y Durango. Con servicios oncológicos y cardiológicos de alto nivel, atiende a una región con más de 1.5 millones de habitantes. Es la instalación hospitalaria privada más completa de La Laguna.
+- **web:** https://www.hospitalesangeles.com/torreon
+- **featured:** false
+
+## Hospital Ángeles Culiacán
+- **ciudad:** Culiacán
+- **slug:** angeles-culiacan
+- **especialidades:** oncología, cirugía, cardiología, medicina interna, urgencias
+- **descripcion:** Hospital Ángeles en Culiacán, capital de Sinaloa y uno de los centros agroindustriales más importantes del norte de México. Sus servicios oncológicos atienden a la población de toda la región noroccidental del país. Modernas instalaciones y amplio equipo de especialistas hacen de este hospital la primera opción privada en Sinaloa.
+- **web:** https://www.hospitalesangeles.com/culiacan
+- **featured:** false
+
+## Hospital Ángeles Durango
+- **ciudad:** Durango
+- **slug:** angeles-durango
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Hospital Ángeles en la ciudad de Durango, capital del estado homónimo en el norte de México. Ofrece servicios hospitalarios completos para la capital duranguense y los municipios de la sierra tarahumara y valles. Con médicos especialistas certificados y tecnología de diagnóstico actualizada.
+- **web:** https://www.hospitalesangeles.com/durango
+- **featured:** false
+
+## Hospital Ángeles Tlalnepantla
+- **ciudad:** Tlalnepantla
+- **slug:** angeles-tlalnepantla
+- **especialidades:** cirugía, cardiología, medicina interna, urgencias, pediatría
+- **descripcion:** Hospital Ángeles en Tlalnepantla, uno de los municipios más poblados e industriales del Estado de México contiguo a la CDMX. Atiende a la gran población del norte del área metropolitana con servicios hospitalarios completos. Sus servicios de urgencias y pediatría son los más demandados en esta densamente poblada zona.
+- **web:** https://www.hospitalesangeles.com/tlalnepantla
+- **featured:** false
+
+## Hospital Ángeles Lomas
+- **ciudad:** Ciudad de México
+- **slug:** angeles-lomas
+- **especialidades:** cardiología, oncología, neurología, cirugía robótica, medicina interna
+- **descripcion:** Hospital Ángeles Lomas en Santa Fe, uno de los hospitales privados más exclusivos y mejor equipados de México. Con tecnología de cirugía robótica da Vinci, centro de oncología avanzada y unidad de trasplantes, es referente nacional en medicina de alta complejidad. Atiende a ejecutivos, embajadores y personalidades que demandan la máxima calidad médica.
+- **web:** https://www.hospitalesangeles.com/lomas
+- **featured:** false
+
+## Hospital Ángeles Lindavista
+- **ciudad:** Ciudad de México
+- **slug:** angeles-lindavista
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Hospital Ángeles en Lindavista, norte de la Ciudad de México, con amplia cobertura a las delegaciones Gustavo A. Madero, Azcapotzalco y Cuauhtémoc. Ofrece servicios hospitalarios completos con enfoque en atención cardiológica y cirugía general. Sus urgencias atienden las 24 horas con especialistas de guardia permanente.
+- **web:** https://www.hospitalesangeles.com/lindavista
+- **featured:** false
+
+## Hospital Ángeles Morelia
+- **ciudad:** Morelia
+- **slug:** angeles-morelia
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital Ángeles en Morelia, capital de Michoacán y Patrimonio de la Humanidad. Primera opción de salud privada de alta calidad en la capital michoacana, con servicios oncológicos y cardiológicos especializados. Sus instalaciones de vanguardia atienden a residentes de Morelia y municipios aledaños.
+- **web:** https://www.hospitalesangeles.com/morelia
+- **featured:** false
+
+## Hospital Ángeles Mérida
+- **ciudad:** Mérida
+- **slug:** angeles-merida
+- **especialidades:** oncología, cardiología, cirugía bariátrica, neurología, medicina preventiva
+- **descripcion:** Hospital Ángeles en Mérida, capital de Yucatán y ciudad de mayor crecimiento del sureste mexicano. Sus servicios oncológicos y cardiológicos atraen a pacientes de toda la Península de Yucatán y el Caribe. Con enfoque en turismo médico, ofrece paquetes para pacientes internacionales con coordinación de seguros.
+- **web:** https://www.hospitalesangeles.com/merida
+- **featured:** false
+
+## Hospital Ángeles Chihuahua
+- **ciudad:** Chihuahua
+- **slug:** angeles-chihuahua
+- **especialidades:** cardiología, cirugía bariátrica, oncología, medicina interna, urgencias
+- **descripcion:** Hospital Ángeles en Chihuahua, el estado fronterizo más grande de México con importante industria manufacturera. Sus servicios cardiológicos y bariátricos atienden a la población del norte del estado y reciben pacientes del sur de Texas y Nuevo México. Con certificaciones internacionales y personal bilingüe.
+- **web:** https://www.hospitalesangeles.com/chihuahua
+- **featured:** false
+
+## Hospital Ángeles Saltillo
+- **ciudad:** Saltillo
+- **slug:** angeles-saltillo
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, ortopedia
+- **descripcion:** Hospital Ángeles en Saltillo, capital de Coahuila y polo automotriz de México. Atiende a la comunidad ejecutiva industrial con servicios hospitalarios completos de alta calidad. Sus urgencias y servicios de medicina interna son los más reconocidos en la capital coahuilense.
+- **web:** https://www.hospitalesangeles.com/saltillo
+- **featured:** false
+
+## Hospital Ángeles Tuxtla
+- **ciudad:** Tuxtla Gutiérrez
+- **slug:** angeles-tuxtla
+- **especialidades:** medicina interna, cirugía, urgencias, pediatría, cardiología
+- **descripcion:** Hospital Ángeles en Tuxtla Gutiérrez, capital de Chiapas, el estado más al sur de México. Primera opción hospitalaria privada de alta calidad en la capital chiapaneca, atendiendo a familias, profesionales y turistas de la región. Sus servicios pediátricos y de urgencias son los más demandados en la ciudad.
+- **web:** https://www.hospitalesangeles.com/tuxtla
+- **featured:** false
+
+## Hospital Ángeles Iztapalapa
+- **ciudad:** Ciudad de México
+- **slug:** angeles-iztapalapa
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Ángeles en Iztapalapa, la delegación más poblada de la Ciudad de México con más de 1.8 millones de habitantes. Cubre la enorme demanda de servicios médicos privados en el oriente de la capital con instalaciones accesibles y completas. Sus servicios materno-infantiles y de urgencias atienden a miles de familias de la zona.
+- **web:** https://www.hospitalesangeles.com/iztapalapa
+- **featured:** false
+
+## Clínica del Country Bogotá
+- **ciudad:** Ciudad de México
+- **slug:** clinica-country-mexico
+- **especialidades:** cardiología, ortopedia, oncología, cirugía plástica, medicina interna
+- **descripcion:** Clínica del Country en Ciudad de México, referente de la medicina privada de lujo con más de 50 años de historia. Sus especialidades en ortopedia y cardiología son reconocidas a nivel nacional e internacional. La clínica cuenta con tecnología de diagnóstico de última generación y un equipo médico de alto prestigio.
+- **web:** https://www.clinicadelcountry.com.mx
+- **featured:** false
+
+## Hospital Christus Muguerza Reynosa
+- **ciudad:** Reynosa
+- **slug:** christus-muguerza-reynosa
+- **especialidades:** cardiología, medicina interna, urgencias, cirugía, ginecología
+- **descripcion:** Hospital Christus Muguerza en Reynosa, ciudad fronteriza con McAllen, Texas, y una de las mayores maquiladoras del mundo. Atiende tanto a la población local como a pacientes que cruzan la frontera desde el sur de Texas. Sus servicios de cardiología y urgencias son los más demandados en la zona metropolitana.
+- **web:** https://www.christus.com.mx
+- **featured:** false
+
+## Hospital Christus Muguerza Monterrey
+- **ciudad:** Monterrey
+- **slug:** christus-muguerza-monterrey
+- **especialidades:** cardiología, oncología, trasplantes, neurología, cirugía robótica
+- **descripcion:** Hospital Christus Muguerza Alta Especialidad en Monterrey, uno de los hospitales privados más importantes y reconocidos del norte de México. Con programa de trasplantes de órganos, centro oncológico y cirugía robótica, es referente nacional en medicina de alta complejidad. Afiliado a la red internacional Christus Health con sede en Texas.
+- **web:** https://www.christus.com.mx
+- **featured:** false
+
+## Hospital Christus Muguerza Conchita
+- **ciudad:** Monterrey
+- **slug:** christus-muguerza-conchita
+- **especialidades:** materno-infantil, pediatría, neonatología, ginecología, urgencias pediátricas
+- **descripcion:** Hospital Christus Muguerza Conchita en Monterrey, especializado en atención materno-infantil y una de las maternidades privadas más reconocidas del noreste. Su unidad de neonatología atiende los casos más críticos de la región con tecnología de vanguardia. El programa de partos humanizados y lactancia materna lo hacen referente en obstetricia.
+- **web:** https://www.christus.com.mx
+- **featured:** false
+
+## Hospital Christus Muguerza del Parque
+- **ciudad:** Chihuahua
+- **slug:** christus-muguerza-del-parque
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, ortopedia
+- **descripcion:** Hospital Christus Muguerza del Parque en Chihuahua, parte de la red hospitalaria más importante del norte de México. Ofrece servicios de alta especialidad a la capital del estado más grande del país. Sus servicios cardiovasculares y ortopédicos atienden a la creciente población industrial de la región.
+- **web:** https://www.christus.com.mx
+- **featured:** false
+
+## Hospital Christus Muguerza Vidriera
+- **ciudad:** Monterrey
+- **slug:** christus-muguerza-vidriera
+- **especialidades:** cirugía bariátrica, medicina interna, cardiología, urgencias, ortopedia
+- **descripcion:** Hospital Christus Muguerza Vidriera en Monterrey, uno de los hospitales de la red con mayor enfoque en cirugía bariátrica y metabólica. Sus instalaciones modernas en el sur de Monterrey atienden a la clase media alta de la zona con servicios de alta calidad. La unidad bariátrica es referente en el noreste de México.
+- **web:** https://www.christus.com.mx
+- **featured:** false
+
+## Hospital Zambrano Hellion TecSalud
+- **ciudad:** San Pedro Garza García
+- **slug:** hospital-zambrano-hellion-tecsalud
+- **especialidades:** cardiología, oncología, neurología, trasplantes, cirugía robótica
+- **descripcion:** Hospital Zambrano Hellion, parte de TecSalud del Tecnológico de Monterrey, uno de los hospitales académicos privados más avanzados de América Latina. Referente en medicina de alta complejidad con programa de trasplantes y centro de innovación médica. Sus médicos combinan práctica clínica con investigación de vanguardia.
+- **web:** https://tecsalud.mx/zambrano-hellion
+- **featured:** false
+
+## Hospital San José TecSalud
+- **ciudad:** Monterrey
+- **slug:** hospital-san-jose-tecsalud
+- **especialidades:** cardiología, oncología, materno-infantil, neurología, cirugía general
+- **descripcion:** Hospital San José TecSalud en Monterrey, parte del sistema hospitalario del Tecnológico de Monterrey con más de 70 años de historia. Referente de medicina académica y docente con las más altas credenciales nacionales e internacionales. Su centro de oncología y unidad cardiovascular son reconocidos como los mejores del noreste.
+- **web:** https://tecsalud.mx/san-jose
+- **featured:** false
+
+## Hospital Médica Sur
+- **ciudad:** Ciudad de México
+- **slug:** hospital-medica-sur-cdmx
+- **especialidades:** gastroenterología, hepatología, trasplante de hígado, oncología, cardiología
+- **descripcion:** Hospital Médica Sur, reconocido internacionalmente como el principal centro de gastroenterología y hepatología de México y uno de los más importantes de América Latina. Su programa de trasplante de hígado es el de mayor volumen en el sector privado latinoamericano. Atrae a pacientes de toda América con problemas hepáticos y gastrointestinales complejos.
+- **web:** https://www.medicasur.com.mx
+- **featured:** false
+
+## Hospital ABC Santa Fe
+- **ciudad:** Ciudad de México
+- **slug:** hospital-abc-santa-fe
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, medicina interna
+- **descripcion:** Hospital ABC Santa Fe en el corredor corporativo de Santa Fe, CDMX, el hospital más moderno de la red ABC. Con tecnología de cirugía robótica da Vinci y un centro de oncología de clase mundial, atiende a ejecutivos y familias de alto nivel del poniente capitalino. Sus instalaciones de lujo combinan medicina de primer nivel con experiencia hospitalaria excepcional.
+- **web:** https://www.abchospital.com
+- **featured:** false
+
+## Hospital ABC Observatorio
+- **ciudad:** Ciudad de México
+- **slug:** hospital-abc-observatorio
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital ABC Observatorio, el campus original del American British Cowdray Medical Center, con más de 70 años de excelencia médica en Ciudad de México. Referente histórico de la medicina privada mexicana con programas de cardiología y oncología de renombre internacional. Su afiliación con hospitales de EE.UU. facilita la atención a pacientes internacionales.
+- **web:** https://www.abchospital.com
+- **featured:** false
+
+## Hospital Español de México
+- **ciudad:** Ciudad de México
+- **slug:** hospital-espanol-mexico
+- **especialidades:** oncología, cardiología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Español de México, institución centenaria fundada por la comunidad española en México con más de 100 años de historia médica. Con amplia experiencia en oncología y cardiología, es uno de los hospitales privados con mayor tradición y prestigio de la capital. Sus servicios atienden tanto a descendientes de la comunidad española como al público en general.
+- **web:** https://www.hespanol.com
+- **featured:** false
+
+## Hospital Ángeles Valle Oriente
+- **ciudad:** San Pedro Garza García
+- **slug:** angeles-valle-oriente
+- **especialidades:** cardiología, oncología, cirugía robótica, neurología, medicina interna
+- **descripcion:** Hospital Ángeles Valle Oriente en San Pedro Garza García, el municipio más exclusivo del área metropolitana de Monterrey. Con tecnología de vanguardia y el equipo médico de mayor prestigio del noreste, atiende a la élite empresarial regiomontana. Su centro de oncología y unidad cardiovascular son los más modernos de Nuevo León.
+- **web:** https://www.hospitalesangeles.com/valleoriente
+- **featured:** false
+
+## Hospital Ángeles Pedregal
+- **ciudad:** Ciudad de México
+- **slug:** angeles-pedregal
+- **especialidades:** cardiología, neurología, cirugía bariátrica, oncología, ortopedia
+- **descripcion:** Hospital Ángeles Pedregal en el sur de la Ciudad de México, uno de los hospitales privados más completos y modernos de la capital. Con más de 40 especialidades médicas y quirúrgicas, atiende a las familias del sur de la CDMX y los municipios del Estado de México. Sus servicios bariátricos y cardiológicos gozan de amplio reconocimiento.
+- **web:** https://www.hospitalesangeles.com/pedregal
+- **featured:** false
+
+## Hospital Médico Familiar Praxedis de Oaxaca
+- **ciudad:** Oaxaca de Juárez
+- **slug:** hospital-medico-familiar-oaxaca
+- **especialidades:** medicina interna, cirugía, ginecología, pediatría, urgencias
+- **descripcion:** Principal hospital privado de Oaxaca de Juárez, capital del estado con gran riqueza cultural y turística. Atiende a residentes, turistas nacionales y extranjeros que visitan este destino patrimonio de la humanidad. Sus servicios hospitalarios completos cubren la demanda de atención privada de la región.
+- **web:** https://www.hospitalmedicofamiliar.com
+- **featured:** false
+
+## Hospital Ángeles Veracruz
+- **ciudad:** Veracruz
+- **slug:** angeles-veracruz
+- **especialidades:** cardiología, medicina interna, cirugía, urgencias, ginecología
+- **descripcion:** Hospital Ángeles en el puerto de Veracruz, la ciudad portuaria más importante de México. Atiende a residentes, turistas y la comunidad portuaria e industrial de Veracruz. Sus servicios de urgencias y cardiología son fundamentales para la gran ciudad costera del Golfo de México.
+- **web:** https://www.hospitalesangeles.com/veracruz
+- **featured:** false
+
+## Hospital San Ángel Inn Universidad
+- **ciudad:** Ciudad de México
+- **slug:** hospital-san-angel-inn-universidad
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, materno-infantil
+- **descripcion:** Hospital San Ángel Inn Universidad en la Ciudad de México, parte de la red de hospitales privados de alto estándar. Con más de 25 años de experiencia atendiendo a familias del sur de la capital, es reconocido por su atención personalizada y calidad médica. Sus servicios materno-infantiles y cardiológicos son los más demandados.
+- **web:** https://www.hospitalsanangelinn.com.mx
+- **featured:** false
+
+## Hospital San Ángel Inn Patriotismo
+- **ciudad:** Ciudad de México
+- **slug:** hospital-san-angel-inn-patriotismo
+- **especialidades:** medicina interna, cirugía, urgencias, ortopedia, ginecología
+- **descripcion:** Hospital San Ángel Inn Patriotismo en la Colonia Insurgentes Mixcoac, Ciudad de México. Reconocido por su atención de urgencias y hospitalización con alto nivel de calidez y profesionalismo. Sus instalaciones bien mantenidas y personal capacitado hacen de este hospital una opción confiable en la zona centro-sur de la capital.
+- **web:** https://www.hospitalsanangelinn.com.mx
+- **featured:** false
+
+## Hospital Juárez del Norte Monterrey
+- **ciudad:** Monterrey
+- **slug:** hospital-juarez-del-norte-monterrey
+- **especialidades:** medicina interna, cirugía, urgencias, pediatría, ginecología
+- **descripcion:** Hospital privado en Monterrey especializado en atención médica completa para familias del norte de la ciudad. Sus servicios pediátricos y de urgencias son los más demandados en la zona norte del área metropolitana. Con médicos especialistas certificados y atención las 24 horas del día.
+- **web:** https://www.hospitaljuarezdelnorte.com
+- **featured:** false
+
+## Hospital Velmar Acapulco
+- **ciudad:** Acapulco
+- **slug:** hospital-velmar-acapulco
+- **especialidades:** urgencias, medicina interna, cirugía, cardiología, atención a turistas
+- **descripcion:** Hospital Velmar en Acapulco, el destino turístico de playa más histórico de México. Atiende a turistas nacionales e internacionales y residentes del puerto guerrerense con servicios hospitalarios completos. Su ubicación estratégica y servicio de urgencias las 24 horas lo hacen esencial para el corredor turístico de Acapulco.
+- **web:** https://www.hospitalvelmar.com
+- **featured:** false
+
+## Hospital Galenia Playa del Carmen
+- **ciudad:** Playa del Carmen
+- **slug:** hospital-galenia-playa-del-carmen
+- **especialidades:** urgencias, medicina interna, cirugía, atención a turistas, medicina hiperbárica
+- **descripcion:** Hospital Galenia en Playa del Carmen, corazón de la Riviera Maya y destino turístico internacional de primer nivel. Especializado en atención a turistas de todo el mundo que visitan las playas de Quintana Roo, con personal bilingüe y coordinación con aseguradoras internacionales. Su cámara hiperbárica atiende accidentes de buceo en el arrecife coralino de la región.
+- **web:** https://www.hospitalegalenia.com
+- **featured:** false
+
+## Hospital Ángeles Cabo San Lucas
+- **ciudad:** Cabo San Lucas
+- **slug:** angeles-cabo-san-lucas
+- **especialidades:** urgencias, medicina interna, cirugía, atención a turistas, cardiología
+- **descripcion:** Hospital Ángeles en Cabo San Lucas, uno de los destinos turísticos de lujo más visitados del mundo. Con personal bilingüe y coordinación con aseguradoras internacionales, atiende a turistas de Estados Unidos, Canadá y Europa. Sus servicios de urgencias y medicina de viajero son los más demandados en la punta de la Baja California.
+- **web:** https://www.hospitalesangeles.com/cabosanlucas
+- **featured:** false
+
+## Hospital MAC Guadalajara
+- **ciudad:** Guadalajara
+- **slug:** hospital-mac-guadalajara
+- **especialidades:** cirugía, medicina interna, cardiología, ortopedia, urgencias
+- **descripcion:** Hospital MAC en Guadalajara, parte de la cadena de hospitales de mediana complejidad con presencia en múltiples ciudades de México. Ofrece servicios hospitalarios de calidad a precios más accesibles que los grandes hospitales privados. Sus quirófanos y área de hospitalización atienden a pacientes del área metropolitana tapatía.
+- **web:** https://www.hospitalmac.com
+- **featured:** false
+
+## Hospital MAC Aguascalientes
+- **ciudad:** Aguascalientes
+- **slug:** hospital-mac-aguascalientes
+- **especialidades:** cirugía, ginecología, ortopedia, urgencias, medicina interna
+- **descripcion:** Hospital MAC en Aguascalientes, parte de la red hospitalaria MAC con presencia en todo México. Ofrece atención de cirugía programada y urgencias con precios competitivos y alta calidad médica. Sus instalaciones modernas y médicos certificados atienden a la creciente población de la capital hidrocálida.
+- **web:** https://www.hospitalmac.com
+- **featured:** false
+
+## Hospital MAC San Luis Potosí
+- **ciudad:** San Luis Potosí
+- **slug:** hospital-mac-san-luis-potosi
+- **especialidades:** cirugía, medicina interna, urgencias, ortopedia, ginecología
+- **descripcion:** Hospital MAC en San Luis Potosí, capital del estado homónimo en el centro de México con importante actividad industrial y minera. Atiende a residentes y trabajadores de la zona industrial con servicios quirúrgicos y de urgencias de alta calidad. Sus instalaciones bien equipadas y personal profesional lo hacen referente en la ciudad.
+- **web:** https://www.hospitalmac.com
+- **featured:** false
+
+## Hospital Ángeles Lomas Bosques
+- **ciudad:** Ciudad de México
+- **slug:** angeles-lomas-bosques
+- **especialidades:** cardiología, oncología, ginecología, cirugía, medicina interna
+- **descripcion:** Hospital Ángeles en Las Lomas y Bosques de las Lomas, zona residencial de más alto nivel de la Ciudad de México. Atiende a la comunidad empresarial y diplomática del poniente capitalino con servicios hospitalarios de primera clase. Sus instalaciones exclusivas y médicos de alto perfil lo posicionan entre los hospitales más exclusivos de México.
+- **web:** https://www.hospitalesangeles.com
+- **featured:** false
+
+## Hospital Terranova Guadalajara
+- **ciudad:** Guadalajara
+- **slug:** hospital-terranova-guadalajara
+- **especialidades:** cirugía plástica, medicina estética, ginecología, cardiología, medicina interna
+- **descripcion:** Hospital Terranova en Guadalajara, reconocido especialmente por sus servicios de cirugía plástica y estética que atraen a pacientes del occidente de México y el extranjero. Sus instalaciones modernas y médicos especializados ofrecen procedimientos de alta estética con estándares de seguridad internacionales. Es uno de los destinos de turismo médico estético más importantes de Jalisco.
+- **web:** https://www.hospitalterranova.com
+- **featured:** false
+
+## Hospital Las Américas Cancún
+- **ciudad:** Cancún
+- **slug:** hospital-las-americas-cancun
+- **especialidades:** urgencias, medicina interna, cirugía, cardiología, atención a turistas
+- **descripcion:** Hospital Las Américas en Cancún, una de las opciones hospitalarias más importantes del destino turístico número uno de México. Con larga historia en la atención a turistas internacionales, ofrece servicios en múltiples idiomas y coordinación con las principales aseguradoras del mundo. Sus urgencias atienden los 365 días del año con especialistas de guardia.
+- **web:** https://www.hospitallasamericas.com.mx
+- **featured:** false
+
+## Hospital CIMA Monterrey
+- **ciudad:** Monterrey
+- **slug:** hospital-cima-monterrey
+- **especialidades:** cardiología, cirugía robótica, oncología, neurología, medicina interna
+- **descripcion:** Hospital CIMA en Monterrey, parte de la red hospitalaria más completa del país con presencia en las principales ciudades. Sus servicios de alta especialidad atienden a la clase ejecutiva regiomontana con estándares internacionales. La cirugía robótica y el centro de oncología son las especialidades de mayor demanda.
+- **web:** https://www.cimahospitales.com/monterrey
+- **featured:** false
+
+## Hospital CIMA Culiacán
+- **ciudad:** Culiacán
+- **slug:** hospital-cima-culiacan
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital CIMA en Culiacán, Sinaloa, atendiendo a la capital del estado agroindustrial más productivo del norte de México. Sus servicios especializados cubren la demanda de la clase media y alta de Culiacán y municipios vecinos. Con tecnología de diagnóstico avanzada y médicos certificados en sus especialidades.
+- **web:** https://www.cimahospitales.com/culiacan
+- **featured:** false
+
+## Hospital CIMA Mexicali
+- **ciudad:** Mexicali
+- **slug:** hospital-cima-mexicali
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ortopedia
+- **descripcion:** Hospital CIMA en Mexicali, capital de Baja California y ciudad fronteriza con Calexico, California. Sus servicios atraen a pacientes de ambos lados de la frontera que buscan atención médica de calidad a precios competitivos. El turismo médico fronterizo es una de las principales fuentes de pacientes de este hospital.
+- **web:** https://www.cimahospitales.com/mexicali
+- **featured:** false
+
+## Hospital CIMA Veracruz
+- **ciudad:** Veracruz
+- **slug:** hospital-cima-veracruz
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Hospital CIMA en el puerto de Veracruz, la ciudad portuaria e industrial más importante del Golfo de México. Atiende a la población porteña y a trabajadores del sector oil & gas de la región. Sus servicios cardiológicos y de urgencias son los más demandados en la ciudad.
+- **web:** https://www.cimahospitales.com/veracruz
+- **featured:** false
+
+## Centro Médico ABC Interlomas
+- **ciudad:** Huixquilucan
+- **slug:** abc-interlomas
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Centro Médico ABC en Interlomas, atendiendo a las familias de los exclusivos fraccionamientos del poniente de la Ciudad de México. Con los estándares de calidad y servicio de la red ABC, ofrece atención hospitalaria y de consulta externa de primer nivel. Sus instalaciones modernas y accesibles desde la autopista México-Toluca lo hacen conveniente para residentes del área.
+- **web:** https://www.abchospital.com
+- **featured:** false
+
+## Hospital Regional de Alta Especialidad Oaxaca
+- **ciudad:** Oaxaca de Juárez
+- **slug:** hospital-regional-alta-especialidad-oaxaca
+- **especialidades:** oncología, cardiología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital regional privado de alta especialidad en Oaxaca, atendiendo a pacientes que buscan servicios especializados en la capital del estado. Sus servicios oncológicos y cardiológicos son los de mayor demanda en una región con carencias en el sistema público. Atiende a pacientes de toda la Mixteca, Sierra y Cañada oaxaqueña.
+- **web:** https://www.hospitalregionaloaxaca.com
+- **featured:** false
+
+## Hospital Excel Acapulco
+- **ciudad:** Acapulco
+- **slug:** hospital-excel-acapulco
+- **especialidades:** cirugía, medicina interna, urgencias, ortopedia, ginecología
+- **descripcion:** Hospital Excel en Acapulco, opción médica privada de calidad en el principal puerto turístico del Pacífico mexicano. Con servicios de urgencias, hospitalización y consulta externa, atiende tanto a residentes como a turistas nacionales e internacionales. Sus instalaciones modernas y personal capacitado ofrecen atención confiable en el puerto guerrerense.
+- **web:** https://www.hospitalexcel.com
+- **featured:** false
+
+## Clínica Cumbres Monterrey
+- **ciudad:** Monterrey
+- **slug:** clinica-cumbres-monterrey
+- **especialidades:** cirugía, medicina interna, urgencias, ginecología, pediatría
+- **descripcion:** Clínica Cumbres en la colonia del mismo nombre en el norte de Monterrey, atendiendo a las familias del corredor industrial y residencial de la zona. Sus servicios completos de hospitalización y cirugía atienden a la creciente población del municipio de Santa Catarina y Escobedo. Con médicos especialistas certificados y atención personalizada.
+- **web:** https://www.clinicacumbres.com
+- **featured:** false
+
+## Hospital Ángeles Naucalpan
+- **ciudad:** Naucalpan
+- **slug:** angeles-naucalpan
+- **especialidades:** cardiología, medicina interna, cirugía, urgencias, ortopedia
+- **descripcion:** Hospital Ángeles en Naucalpan de Juárez, uno de los municipios industriales y residenciales más importantes del Estado de México. Atiende a la densa población del poniente del área metropolitana de la Ciudad de México con servicios hospitalarios completos. Sus cardiología y urgencias son las especialidades de mayor demanda en esta zona de alta densidad poblacional.
+- **web:** https://www.hospitalesangeles.com/naucalpan
+- **featured:** false
+
+## Hospital Universitario UANL Monterrey
+- **ciudad:** Monterrey
+- **slug:** hospital-universitario-uanl
+- **especialidades:** oncología, cardiología, trasplantes, neurología, cirugía de alta especialidad
+- **descripcion:** Hospital Universitario de la Universidad Autónoma de Nuevo León, el principal centro médico académico del noreste con más de 70 años de historia. Con programa de trasplantes, centro oncológico y servicio de alta complejidad, atiende tanto a pacientes del sistema público como privado. Su vinculación académica garantiza médicos actualizados con los últimos avances científicos.
+- **web:** https://www.uanl.mx/hospitalu
+- **featured:** false
+
+## Hospital San Francisco de Asís Ciudad de México
+- **ciudad:** Ciudad de México
+- **slug:** hospital-san-francisco-asis-cdmx
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, ortopedia
+- **descripcion:** Hospital San Francisco de Asís en la Ciudad de México, institución hospitalaria privada con décadas de experiencia. Sus servicios médicos y quirúrgicos atienden a residentes de la zona centro-norte de la capital. Con personal médico comprometido y atención de calidad a precios razonables.
+- **web:** https://www.hospitalsanfranciscodeasis.com.mx
+- **featured:** false
+
+## Hospital Ángeles Mocel
+- **ciudad:** Ciudad de México
+- **slug:** angeles-mocel
+- **especialidades:** cardiología, oncología, neurología, cirugía plástica, medicina interna
+- **descripcion:** Hospital Ángeles Mocel en la colonia Granada de la Ciudad de México, referente de la medicina privada en la zona norte de la capital. Con más de 40 especialidades médicas y quirúrgicas y tecnología de diagnóstico avanzada, atiende a familias y ejecutivos de Polanco, Anzures y colonias aledañas. Sus servicios de cardiología y cirugía plástica tienen amplio reconocimiento.
+- **web:** https://www.hospitalesangeles.com/mocel
+- **featured:** false
+
+## Hospital Ángeles Interlomas
+- **ciudad:** Huixquilucan
+- **slug:** angeles-interlomas
+- **especialidades:** oncología, cardiología, cirugía, neurología, materno-infantil
+- **descripcion:** Hospital Ángeles Interlomas en Huixquilucan, Estado de México, atendiendo a los exclusivos fraccionamientos del poniente metropolitano. Con más de 250 camas y 40 especialidades, es el hospital privado más grande de la zona poniente de la ZMVM. Sus servicios materno-infantiles y oncológicos son los más demandados en la región.
+- **web:** https://www.hospitalesangeles.com/interlomas
+- **featured:** false
+
+## Hospital San Javier Tequila
+- **ciudad:** Zapopan
+- **slug:** hospital-san-javier-zapopan
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital San Javier en Zapopan, municipio del área metropolitana de Guadalajara con el mayor parque industrial de Jalisco. Atiende a ejecutivos y trabajadores de las empresas instaladas en la zona industrial con servicios hospitalarios de alta calidad. Sus instalaciones modernas complementan la oferta de salud de la red San Javier en el occidente de México.
+- **web:** https://www.hospitalsanjavier.com
+- **featured:** false
+
+## Hospital Ángeles Insurgentes Sur
+- **ciudad:** Ciudad de México
+- **slug:** angeles-insurgentes-sur
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ortopedia
+- **descripcion:** Hospital Ángeles sobre Insurgentes Sur en la Ciudad de México, accesible desde Benito Juárez, Coyoacán y Álvaro Obregón. Ofrece atención hospitalaria completa con especialidades médicas y quirúrgicas de alta calidad. Sus urgencias y hospitalización atienden las 24 horas con médicos de guardia permanente.
+- **web:** https://www.hospitalesangeles.com
+- **featured:** false
+
+## Hospital del Valle Hermosillo
+- **ciudad:** Hermosillo
+- **slug:** hospital-del-valle-hermosillo
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Hospital del Valle en Hermosillo, una de las opciones de salud privada de la capital sonorense. Sus servicios médicos y quirúrgicos atienden a residentes de Hermosillo y municipios cercanos. Con médicos especialistas locales y tecnología de diagnóstico actualizada.
+- **web:** https://www.hospitalvallehermosillo.com
+- **featured:** false
+
+## Hospital Ángeles Tijuana II
+- **ciudad:** Tijuana
+- **slug:** angeles-tijuana-segundo
+- **especialidades:** cirugía bariátrica, medicina estética, fertilidad, ortopedia, medicina interna
+- **descripcion:** Segundo hospital Ángeles en Tijuana, ampliando la capacidad del grupo para atender a la enorme demanda de turismo médico del destino fronterizo. Con especialidades en cirugía bariátrica, estética y fertilidad que atraen a miles de pacientes estadounidenses anuales. Sus tarifas competitivas en comparación con EE.UU. y la alta calidad médica lo consolidan como destino de referencia.
+- **web:** https://www.hospitalesangeles.com/tijuana
+- **featured:** false
+
+## Hospital Ángeles Cancún
+- **ciudad:** Cancún
+- **slug:** angeles-cancun
+- **especialidades:** urgencias, medicina interna, cirugía, cardiología, atención a turistas
+- **descripcion:** Hospital Ángeles en Cancún, reforzando la oferta de salud privada en el destino turístico más visitado de México. Con personal bilingüe y amplia experiencia en atención a turistas internacionales, coordina con las principales aseguradoras mundiales. Sus servicios de urgencias son esenciales para el millón de turistas que visitan Cancún mensualmente.
+- **web:** https://www.hospitalesangeles.com/cancun
+- **featured:** false
+
+## Hospital Ángeles Mazatlán
+- **ciudad:** Mazatlán
+- **slug:** angeles-mazatlan
+- **especialidades:** urgencias, medicina interna, cirugía, cardiología, atención a turistas
+- **descripcion:** Hospital Ángeles en Mazatlán, el destino turístico de playa más importante del norte de México. Atiende tanto a residentes como a turistas nacionales y extranjeros que visitan el Puerto Viejo y el Malecón. Sus servicios de urgencias y cardiología son los más demandados en el principal destino turístico de Sinaloa.
+- **web:** https://www.hospitalesangeles.com/mazatlan
+- **featured:** false
+
+## Hospital Ángeles Zacatecas
+- **ciudad:** Zacatecas
+- **slug:** angeles-zacatecas
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Ángeles en Zacatecas, capital del estado minero más importante de México con ciudad histórica Patrimonio de la Humanidad. Primera opción de salud privada de calidad internacional en la capital zacatecana. Atiende a residentes y turistas que visitan este bello destino colonial del altiplano mexicano.
+- **web:** https://www.hospitalesangeles.com/zacatecas
+- **featured:** false
+
+## Hospital Ángeles San Luis Potosí
+- **ciudad:** San Luis Potosí
+- **slug:** angeles-san-luis-potosi
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital Ángeles en San Luis Potosí, capital del estado homónimo en el centro-norte de México con importante industria automotriz. Sus servicios oncológicos y cardiológicos atienden a una región con más de un millón de habitantes. La cercanía con la industria automotriz genera demanda de servicios de salud privada de alta calidad.
+- **web:** https://www.hospitalesangeles.com/sanluispotosi
+- **featured:** false
+
+## Hospital Ángeles Tepic
+- **ciudad:** Tepic
+- **slug:** angeles-tepic
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Ángeles en Tepic, capital de Nayarit, estado costero del Pacífico mexicano. Primera opción privada de calidad en la capital nayarita, atendiendo a residentes y turistas de la Riviera Nayarit. Sus servicios completos cubren la demanda de atención médica privada de la región.
+- **web:** https://www.hospitalesangeles.com/tepic
+- **featured:** false
+
+## Hospital Ángeles Cuernavaca
+- **ciudad:** Cuernavaca
+- **slug:** angeles-cuernavaca
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Ángeles en Cuernavaca, la "Ciudad de la Eterna Primavera" y destino predilecto de residentes de fin de semana de la CDMX. Sus servicios oncológicos y cardiológicos atienden a la comunidad permanente y a los residentes temporales de Morelos. Instalaciones de primer nivel en un ambiente de ciudad media con excelente calidad de vida.
+- **web:** https://www.hospitalesangeles.com/cuernavaca
+- **featured:** false
+
+## Hospital Ángeles Pachuca
+- **ciudad:** Pachuca
+- **slug:** angeles-pachuca
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Hospital Ángeles en Pachuca, capital de Hidalgo y ciudad en rápido crecimiento por su proximidad a la Ciudad de México. Atiende a la clase media y profesionales de la capital hidalguense con servicios hospitalarios de alta calidad. Sus urgencias y medicina interna son los servicios más demandados en la ciudad.
+- **web:** https://www.hospitalesangeles.com/pachuca
+- **featured:** false
+
+## Hospital Ángeles Toluca
+- **ciudad:** Toluca
+- **slug:** angeles-toluca
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Ángeles en Toluca, capital del Estado de México y cuarta área metropolitana del país. Sus servicios oncológicos y cardiológicos atienden a una región con más de 2 millones de habitantes. Con instalaciones modernas y médicos de alto nivel, es la opción privada preferida de los tolucenses.
+- **web:** https://www.hospitalesangeles.com/toluca
+- **featured:** false
+
+## Clínica Juriquilla Querétaro
+- **ciudad:** Querétaro
+- **slug:** clinica-juriquilla-queretaro
+- **especialidades:** cirugía, medicina interna, ginecología, pediatría, urgencias
+- **descripcion:** Clínica Juriquilla en el exclusivo fraccionamiento del mismo nombre en Querétaro, atendiendo a las familias de residentes de los nuevos desarrollos inmobiliarios. Sus servicios hospitalarios completos y atención personalizada la hacen la opción preferida de las familias del norte de la ciudad. Con médicos especializados y tecnología de diagnóstico actualizada.
+- **web:** https://www.clinicajuriquilla.com
+- **featured:** false
+
+## Hospital Regional ISSSTE Mérida (Privado)
+- **ciudad:** Mérida
+- **slug:** hospital-privado-merida-sur
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital privado en el sur de Mérida, atendiendo a la creciente población de las nuevas zonas residenciales de la capital yucateca. Sus servicios oncológicos y cardiológicos complementan la oferta de salud de los hospitales de la zona norte. Con instalaciones modernas y equipo especializado para la atención de alta complejidad.
+- **web:** https://www.hospitalmerida.com
+- **featured:** false
+
+## Hospital Excel Torreón
+- **ciudad:** Torreón
+- **slug:** hospital-excel-torreon
+- **especialidades:** cirugía, medicina interna, urgencias, cardiología, ortopedia
+- **descripcion:** Hospital Excel en Torreón, Coahuila, parte de la dinámica Comarca Lagunera compartida con Durango. Ofrece servicios hospitalarios de calidad media-alta a la población lagunera con precios competitivos. Sus quirófanos bien equipados y médicos certificados atienden cirugía programada y de urgencias.
+- **web:** https://www.hospitalexcel.com
+- **featured:** false
+
+## Hospital Ángeles Tabasco
+- **ciudad:** Villahermosa
+- **slug:** angeles-tabasco
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital Ángeles en Tabasco, ampliando la cobertura del grupo en el sureste petrolero de México. Sus servicios especializados atienden a ejecutivos y trabajadores del sector energético de la región. Con tecnología de diagnóstico avanzada y médicos de alta especialidad.
+- **web:** https://www.hospitalesangeles.com/tabasco
+- **featured:** false
+
+## Hospital Santa Fe San Luis Potosí
+- **ciudad:** San Luis Potosí
+- **slug:** hospital-santa-fe-san-luis-potosi
+- **especialidades:** cirugía, medicina interna, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Santa Fe en San Luis Potosí, ubicado en la zona residencial y empresarial de mayor crecimiento de la ciudad. Sus servicios completos de hospitalización y cirugía atienden a las familias de profesionales y ejecutivos del polo automotriz-industrial. Con tecnología actualizada y médicos de reconocida trayectoria.
+- **web:** https://www.hospitalsantafesanluis.com
+- **featured:** false
+
+## Hospital del Niño Mexicano
+- **ciudad:** Ciudad de México
+- **slug:** hospital-del-nino-mexicano-cdmx
+- **especialidades:** pediatría, neonatología, cirugía pediátrica, oncología pediátrica, urgencias pediátricas
+- **descripcion:** Hospital del Niño Mexicano en Ciudad de México, especializado exclusivamente en atención médica de niños y adolescentes. Sus servicios pediátricos de alta complejidad atraen a familias de toda la Ciudad de México y el área metropolitana. La oncología pediátrica y neonatología son sus especialidades más reconocidas.
+- **web:** https://www.hospitaldelnino.com.mx
+- **featured:** false
+
+## Hospital Ángeles Ciudad Juárez
+- **ciudad:** Ciudad Juárez
+- **slug:** angeles-ciudad-juarez
+- **especialidades:** cirugía, cardiología, medicina interna, urgencias, ortopedia
+- **descripcion:** Hospital Ángeles en Ciudad Juárez, la ciudad fronteriza más grande de México frente a El Paso, Texas. Con importante flujo de turismo médico del sur de Texas, ofrece servicios de calidad en cirugía, cardiología y ortopedia a precios muy competitivos. Personal bilingüe y coordinación con aseguradoras estadounidenses.
+- **web:** https://www.hospitalesangeles.com/ciudadjuarez
+- **featured:** false
+
+## Hospital Ángeles Obregón
+- **ciudad:** Ciudad Obregón
+- **slug:** angeles-obregon
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Ángeles en Ciudad Obregón, Sonora, corazón del Valle del Yaqui y la agricultura más productiva del noroeste. Atiende a la comunidad empresarial agrícola e industrial de uno de los centros económicos más importantes del norte. Sus servicios de medicina interna y urgencias son los más demandados en la región.
+- **web:** https://www.hospitalesangeles.com/obregon
+- **featured:** false
+
+## Hospital Ángeles Los Mochis
+- **ciudad:** Los Mochis
+- **slug:** angeles-los-mochis
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Ángeles en Los Mochis, Sinaloa, ciudad clave del noroeste de México y punto de partida del tren Chepe hacia la Sierra Tarahumara. Sus servicios hospitalarios completos atienden a la población del norte de Sinaloa y sur de Sonora. Con médicos especialistas y atención las 24 horas.
+- **web:** https://www.hospitalesangeles.com/losmochis
+- **featured:** false

@@ -5,13 +5,10 @@ import Breadcrumb from '../../../components/Breadcrumb.astro';
 import JsonLd from '../../../components/JsonLd.astro';
 import { getCollection } from 'astro:content';
 import { slugify } from '../../../utils/slugify';
+import { PAIS_INFO } from '../../../utils/paises';
 
 export async function getStaticPaths() {
   const allClinics = await getCollection('clinicas', c => !c.data.draft);
-  const paisMap: Record<string, string> = {
-    mexico: 'México', argentina: 'Argentina', colombia: 'Colombia',
-    espana: 'España', chile: 'Chile', peru: 'Perú', uruguay: 'Uruguay',
-  };
 
   // Get unique pais+slugifiedCiudad combos
   const combos = [...new Map(
@@ -23,7 +20,7 @@ export async function getStaticPaths() {
 
   return combos.map(({ pais, ciudadSlug }) => ({
     params: { pais, ciudad: ciudadSlug },
-    props: { paisLabel: paisMap[pais] || pais },
+    props: { paisLabel: PAIS_INFO[pais]?.label ?? pais },
   }));
 }
 
