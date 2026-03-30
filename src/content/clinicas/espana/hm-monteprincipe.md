@@ -1,6 +1,6 @@
 ---
 name: "Hospital Universitario HM Montepríncipe"
-slug: "hm-montepríncipe"
+slug: "hm-monteprincipe"
 pais: "espana"
 ciudad: "Madrid"
 especialidades: ["cardiologia", "oncologia", "cirugia", "neurologia", "ortopedia", "ginecologia"]

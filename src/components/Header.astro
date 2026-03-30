@@ -42,20 +42,42 @@ const currentPath = Astro.url.pathname;
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
             </svg>
           </button>
-          <div class="absolute top-full left-0 mt-1 w-48 bg-white rounded-lg shadow-xl py-1 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+          <div class="absolute top-full left-0 mt-1 w-56 bg-white rounded-lg shadow-xl py-1 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 max-h-[80vh] overflow-y-auto">
+            <div class="px-3 py-1.5 text-xs font-semibold text-gray-400 uppercase tracking-wider border-b border-gray-100">América del Norte & Sur</div>
             {[
               { href: '/mexico/', label: '🇲🇽 México' },
               { href: '/argentina/', label: '🇦🇷 Argentina' },
               { href: '/colombia/', label: '🇨🇴 Colombia' },
-              { href: '/espana/', label: '🇪🇸 España' },
               { href: '/chile/', label: '🇨🇱 Chile' },
               { href: '/peru/', label: '🇵🇪 Perú' },
               { href: '/uruguay/', label: '🇺🇾 Uruguay' },
+              { href: '/venezuela/', label: '🇻🇪 Venezuela' },
+              { href: '/ecuador/', label: '🇪🇨 Ecuador' },
+              { href: '/bolivia/', label: '🇧🇴 Bolivia' },
+              { href: '/paraguay/', label: '🇵🇾 Paraguay' },
             ].map(item => (
               <a href={item.href} class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-50 hover:text-[#1A3A4A]">
                 {item.label}
               </a>
             ))}
+            <div class="px-3 py-1.5 text-xs font-semibold text-gray-400 uppercase tracking-wider border-t border-b border-gray-100">Centroamérica & Caribe</div>
+            {[
+              { href: '/guatemala/', label: '🇬🇹 Guatemala' },
+              { href: '/panama/', label: '🇵🇦 Panamá' },
+              { href: '/costa-rica/', label: '🇨🇷 Costa Rica' },
+              { href: '/cuba/', label: '🇨🇺 Cuba' },
+              { href: '/nicaragua/', label: '🇳🇮 Nicaragua' },
+              { href: '/el-salvador/', label: '🇸🇻 El Salvador' },
+              { href: '/republica-dominicana/', label: '🇩🇴 Rep. Dominicana' },
+              { href: '/puerto-rico/', label: '🇵🇷 Puerto Rico' },
+              { href: '/honduras/', label: '🇭🇳 Honduras' },
+            ].map(item => (
+              <a href={item.href} class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-50 hover:text-[#1A3A4A]">
+                {item.label}
+              </a>
+            ))}
+            <div class="px-3 py-1.5 text-xs font-semibold text-gray-400 uppercase tracking-wider border-t border-b border-gray-100">Europa</div>
+            <a href="/espana/" class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-50 hover:text-[#1A3A4A]">🇪🇸 España</a>
           </div>
         </div>
 
@@ -93,6 +115,19 @@ const currentPath = Astro.url.pathname;
         { href: '/chile/', label: '🇨🇱 Chile' },
         { href: '/peru/', label: '🇵🇪 Perú' },
         { href: '/uruguay/', label: '🇺🇾 Uruguay' },
+        { href: '/venezuela/', label: '🇻🇪 Venezuela' },
+        { href: '/ecuador/', label: '🇪🇨 Ecuador' },
+        { href: '/bolivia/', label: '🇧🇴 Bolivia' },
+        { href: '/paraguay/', label: '🇵🇾 Paraguay' },
+        { href: '/guatemala/', label: '🇬🇹 Guatemala' },
+        { href: '/panama/', label: '🇵🇦 Panamá' },
+        { href: '/costa-rica/', label: '🇨🇷 Costa Rica' },
+        { href: '/cuba/', label: '🇨🇺 Cuba' },
+        { href: '/nicaragua/', label: '🇳🇮 Nicaragua' },
+        { href: '/el-salvador/', label: '🇸🇻 El Salvador' },
+        { href: '/republica-dominicana/', label: '🇩🇴 Rep. Dominicana' },
+        { href: '/puerto-rico/', label: '🇵🇷 Puerto Rico' },
+        { href: '/honduras/', label: '🇭🇳 Honduras' },
       ].map(item => (
         <a href={item.href} class="block px-6 py-2 rounded-md text-sm text-gray-300 hover:bg-white/10">{item.label}</a>
       ))}

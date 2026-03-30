@@ -1,6 +1,6 @@
 ---
 name: "Hospital Ángeles León Norte"
-slug: "hospital-MAC-leon"
+slug: "hospital-mac-leon"
 pais: "mexico"
 ciudad: "León"
 especialidades: ["cirugia", "cardiologia", "ortopedia", "ginecologia", "urgencias", "medicina-interna"]

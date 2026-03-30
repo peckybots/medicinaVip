@@ -36,10 +36,10 @@ const articleSchema = {
   "publisher": {
     "@type": "Organization",
     "name": "MedicinaVip",
-    "logo": { "@type": "ImageObject", "url": "https://medicinaVip.com/logo.png" }
+    "logo": { "@type": "ImageObject", "url": "https://medicinavip.com/logo.png" }
   },
-  ...(data.heroImage && { "image": `https://medicinaVip.com${data.heroImage}` }),
-  "url": `https://medicinaVip.com/blog/${entry.id}/`,
+  ...(data.heroImage && { "image": `https://medicinavip.com${data.heroImage}` }),
+  "url": `https://medicinavip.com/blog/${entry.id}/`,
   "keywords": data.keywords.join(', '),
 };
 ---
