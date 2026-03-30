@@ -6,14 +6,23 @@ const clinicas = defineCollection({
   schema: z.object({
     name: z.string(),
     slug: z.string(),
-    pais: z.enum(['mexico', 'argentina', 'colombia', 'espana', 'chile', 'peru', 'uruguay']),
+    pais: z.enum([
+      'mexico', 'argentina', 'colombia', 'espana', 'chile', 'peru', 'uruguay',
+      'venezuela', 'ecuador', 'bolivia', 'paraguay', 'guatemala', 'panama',
+      'costa-rica', 'republica-dominicana', 'puerto-rico', 'honduras',
+      'el-salvador', 'nicaragua', 'cuba'
+    ]),
     ciudad: z.string(),
     especialidades: z.array(z.enum([
       'oncologia', 'cardiologia', 'neurologia', 'cirugia', 'estetica',
-      'checkup', 'fertilidad', 'ortopedia'
+      'checkup', 'fertilidad', 'ortopedia', 'trasplantes', 'neonatologia',
+      'pediatria', 'geriatria', 'oftalmologia', 'dermatologia', 'odontologia',
+      'psiquiatria', 'rehabilitacion', 'urgencias', 'medicina-interna', 'gastroenterologia',
+      'neumologia', 'urologia', 'ginecologia', 'endocrinologia', 'reumatologia',
+      'hematologia', 'infectologia', 'cirugia-robotica', 'hepatologia', 'general'
     ])),
     descripcion: z.string(),
-    direccion: z.string(),
+    direccion: z.string().optional(),
     telefono: z.string().optional(),
     web: z.string().optional(),
     email: z.string().optional(),
