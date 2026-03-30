@@ -39,8 +39,25 @@ const { pais } = Astro.params;
 const allClinics = await getCollection('clinicas', c => !c.data.draft && c.data.pais === pais);
 const allArticles = await getCollection('articulos', a => !a.data.draft && a.data.pais === pais);
 
-// Get unique cities (as slugified strings, deduplicated)
-const ciudades = [...new Set(allClinics.map(c => slugify(c.data.ciudad)))];
+// Build city data with clinic counts
+const cityMap = new Map<string, { slug: string; name: string; clinicCount: number }>();
+allClinics.forEach(c => {
+  const citySlug = slugify(c.data.ciudad);
+  const existing = cityMap.get(citySlug);
+  if (existing) {
+    existing.clinicCount++;
+  } else {
+    cityMap.set(citySlug, {
+      slug: citySlug,
+      name: c.data.ciudad,
+      clinicCount: 1,
+    });
+  }
+});
+
+const allCities = [...cityMap.values()];
+const popularCities = [...allCities].sort((a, b) => b.clinicCount - a.clinicCount).slice(0, 6);
+const sortedCities = [...allCities].sort((a, b) => a.name.localeCompare(b.name, 'es'));
 
 const collectionSchema = {
   "@context": "https://schema.org",
@@ -76,32 +93,108 @@ const collectionSchema = {
     </div>
 
     <!-- City filter -->
-    {ciudades.length > 0 && (
-      <div class="mb-8">
-        <h2 class="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-3">Filtrar por ciudad</h2>
-        <div class="flex flex-wrap gap-2">
+    {allCities.length > 0 && (
+      <div class="mb-8" id="city-filter-section">
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-sm font-semibold text-gray-500 uppercase tracking-wider">Filtrar por ciudad</h2>
+          <span class="text-xs text-gray-400 tabular-nums">{allCities.length} ciudades</span>
+        </div>
+
+        {/* Popular cities — quick access pills */}
+        <div class="flex flex-wrap gap-2 mb-3" id="popular-cities">
           <a
             href={`/${pais}/`}
-            class="px-4 py-1.5 rounded-full text-sm font-medium bg-[#1A3A4A] text-white"
+            class="px-4 py-1.5 rounded-full text-sm font-medium transition-all duration-200 bg-[#1A3A4A] text-white shadow-sm"
           >
             Todas
           </a>
-          {ciudades.map(ciudadSlug => (
+          {popularCities.map(city => (
             <a
-              href={`/${pais}/${ciudadSlug}/`}
-              class="px-4 py-1.5 rounded-full text-sm font-medium border border-gray-200 text-gray-600 hover:border-[#1A3A4A] hover:text-[#1A3A4A] transition-colors capitalize"
+              href={`/${pais}/${city.slug}/`}
+              class="px-4 py-1.5 rounded-full text-sm font-medium transition-all duration-200 border border-gray-200 text-gray-600 hover:border-[#C9973A] hover:text-[#C9973A]"
             >
-              {ciudadSlug.replace(/-/g, ' ')}
+              <span class="capitalize">{city.name}</span>
+              <span class="ml-1 text-xs opacity-60">{city.clinicCount}</span>
             </a>
           ))}
+        </div>
+
+        {/* Searchable combobox for all cities */}
+        <div class="relative" id="city-combobox-wrapper">
+          <div class="relative">
+            <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+            </svg>
+            <input
+              type="text"
+              id="city-search"
+              role="combobox"
+              aria-expanded="false"
+              aria-controls="city-listbox"
+              aria-haspopup="listbox"
+              aria-autocomplete="list"
+              aria-label="Buscar ciudad"
+              autocomplete="off"
+              placeholder={`Buscar entre ${allCities.length} ciudades...`}
+              class="w-full pl-10 pr-10 py-2.5 text-sm rounded-xl border border-gray-200 bg-white text-gray-700 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#C9973A]/40 focus:border-[#C9973A] transition-all duration-200"
+            />
+            <button
+              type="button"
+              id="city-search-toggle"
+              aria-label="Ver todas las ciudades"
+              class="absolute right-2 top-1/2 -translate-y-1/2 p-1 rounded-md text-gray-400 hover:text-[#1A3A4A] hover:bg-gray-100 transition-colors"
+            >
+              <svg id="chevron-icon" class="w-4 h-4 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+              </svg>
+              <svg id="clear-icon" class="w-4 h-4 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+              </svg>
+            </button>
+          </div>
+
+          <ul
+            id="city-listbox"
+            role="listbox"
+            aria-label="Ciudades disponibles"
+            class="absolute z-40 w-full mt-1 max-h-64 overflow-y-auto rounded-xl bg-white border border-gray-200 shadow-lg py-1 hidden"
+          >
+            {sortedCities.map(city => (
+              <li role="option" aria-selected="false" data-city-slug={city.slug} data-city-name={city.name}>
+                <a href={`/${pais}/${city.slug}/`}
+                   class="flex items-center justify-between px-4 py-2.5 text-sm text-gray-700 hover:bg-[#1A3A4A]/5 hover:text-[#1A3A4A] transition-colors cursor-pointer">
+                  <span class="city-label capitalize">{city.name}</span>
+                  <span class="text-xs text-gray-400 tabular-nums">{city.clinicCount} clínicas</span>
+                </a>
+              </li>
+            ))}
+            <li id="no-cities-match" class="hidden px-4 py-6 text-center text-sm text-gray-400">
+              <svg class="w-8 h-8 mx-auto mb-2 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+              No se encontraron ciudades
+            </li>
+          </ul>
         </div>
       </div>
     )}
 
     <!-- Specialty filter banner (shown when ?especialidad= is set) -->
-    <div id="especialidad-banner" class="hidden mb-6 flex items-center gap-3 bg-[#f0f7fa] border border-[#1A3A4A]/20 rounded-xl px-5 py-3">
-      <span class="text-[#1A3A4A] font-medium text-sm">Filtrando por especialidad: <strong id="especialidad-label" class="text-[#C9973A]"></strong></span>
-      <a href={`/${pais}/`} class="ml-auto text-xs text-gray-500 hover:text-[#1A3A4A] underline">Ver todas</a>
+    <div id="especialidad-banner" class="hidden mb-6">
+      <div class="flex items-center gap-3 bg-gradient-to-r from-[#f0f7fa] to-[#faf5ee] border border-[#1A3A4A]/10 rounded-xl px-5 py-3">
+        <div class="flex items-center gap-2 flex-1 min-w-0">
+          <svg class="w-4 h-4 text-[#C9973A] shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"/>
+          </svg>
+          <span class="text-[#1A3A4A] text-sm truncate">
+            Especialidad: <strong id="especialidad-label" class="text-[#C9973A]"></strong>
+          </span>
+        </div>
+        <a href={`/${pais}/`}
+           class="shrink-0 text-xs font-medium text-gray-500 hover:text-[#1A3A4A] bg-white/60 hover:bg-white px-3 py-1 rounded-full border border-gray-200 hover:border-[#1A3A4A]/20 transition-all">
+          Limpiar filtros
+        </a>
+      </div>
     </div>
 
     <!-- No results message -->
@@ -158,35 +251,164 @@ const collectionSchema = {
     )}
   </div>
 
-  <script>
-    const params = new URLSearchParams(window.location.search);
-    const esp = params.get('especialidad');
-    if (esp) {
-      // Show banner — use inline style to guarantee visibility regardless of CSS specificity
-      const banner = document.getElementById('especialidad-banner');
-      const label = document.getElementById('especialidad-label');
-      if (banner && label) {
-        label.textContent = esp.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-        banner.style.display = 'flex';
+  <script is:inline>
+    (function() {
+      // === Specialty filter ===
+      var params = new URLSearchParams(window.location.search);
+      var esp = params.get('especialidad');
+      if (esp) {
+        var banner = document.getElementById('especialidad-banner');
+        var label = document.getElementById('especialidad-label');
+        if (banner && label) {
+          label.textContent = esp.replace(/-/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
+          banner.classList.remove('hidden');
+        }
+        var wrappers = document.querySelectorAll('.clinic-card-wrapper');
+        var visibleCount = 0;
+        wrappers.forEach(function(wrapper) {
+          var especialidades = (wrapper.dataset.especialidades || '').split(',');
+          if (especialidades.includes(esp)) {
+            visibleCount++;
+          } else {
+            wrapper.style.display = 'none';
+          }
+        });
+        if (visibleCount === 0) {
+          var grid = document.getElementById('clinics-grid');
+          var noResults = document.getElementById('no-results');
+          if (grid) grid.style.display = 'none';
+          if (noResults) noResults.style.display = 'block';
+        }
       }
-      // Filter cards
-      const wrappers = document.querySelectorAll<HTMLElement>('.clinic-card-wrapper');
-      let visibleCount = 0;
-      wrappers.forEach(wrapper => {
-        const especialidades = (wrapper.dataset.especialidades || '').split(',');
-        if (especialidades.includes(esp)) {
-          visibleCount++;
+
+      // === City combobox ===
+      var input = document.getElementById('city-search');
+      var listbox = document.getElementById('city-listbox');
+      var toggle = document.getElementById('city-search-toggle');
+      var chevron = document.getElementById('chevron-icon');
+      var clearIcon = document.getElementById('clear-icon');
+      var noMatch = document.getElementById('no-cities-match');
+      var wrapper = document.getElementById('city-combobox-wrapper');
+
+      if (!input || !listbox) return;
+
+      var options = listbox.querySelectorAll('li[role="option"]');
+      var isOpen = false;
+      var activeIndex = -1;
+
+      function getVisibleOptions() {
+        var result = [];
+        options.forEach(function(opt) {
+          if (!opt.classList.contains('hidden')) result.push(opt);
+        });
+        return result;
+      }
+
+      function openDropdown() {
+        listbox.classList.remove('hidden');
+        input.setAttribute('aria-expanded', 'true');
+        if (chevron) chevron.style.transform = 'rotate(180deg)';
+        isOpen = true;
+      }
+
+      function closeDropdown() {
+        listbox.classList.add('hidden');
+        input.setAttribute('aria-expanded', 'false');
+        if (chevron) chevron.style.transform = '';
+        isOpen = false;
+        activeIndex = -1;
+        clearActive();
+      }
+
+      function clearActive() {
+        options.forEach(function(opt) {
+          var a = opt.querySelector('a');
+          if (a) a.classList.remove('bg-[#1A3A4A]/5');
+        });
+      }
+
+      function setActiveOption(index) {
+        clearActive();
+        var visible = getVisibleOptions();
+        if (index >= 0 && index < visible.length) {
+          activeIndex = index;
+          var a = visible[index].querySelector('a');
+          if (a) a.classList.add('bg-[#1A3A4A]/5');
+          visible[index].scrollIntoView({ block: 'nearest' });
+        }
+      }
+
+      function filterCities(query) {
+        var q = query.toLowerCase().trim();
+        var visibleCount = 0;
+        options.forEach(function(opt) {
+          var name = (opt.getAttribute('data-city-name') || '').toLowerCase();
+          var matches = !q || name.indexOf(q) !== -1;
+          opt.classList.toggle('hidden', !matches);
+          if (matches) visibleCount++;
+        });
+        if (noMatch) noMatch.classList.toggle('hidden', visibleCount > 0);
+        if (q) {
+          if (chevron) chevron.classList.add('hidden');
+          if (clearIcon) clearIcon.classList.remove('hidden');
         } else {
-          wrapper.style.display = 'none';
+          if (chevron) chevron.classList.remove('hidden');
+          if (clearIcon) clearIcon.classList.add('hidden');
+        }
+        activeIndex = -1;
+      }
+
+      input.addEventListener('focus', function() {
+        openDropdown();
+        filterCities(input.value);
+      });
+
+      input.addEventListener('input', function() {
+        if (!isOpen) openDropdown();
+        filterCities(input.value);
+      });
+
+      if (toggle) {
+        toggle.addEventListener('click', function(e) {
+          e.preventDefault();
+          if (input.value) {
+            input.value = '';
+            filterCities('');
+            input.focus();
+          } else if (isOpen) {
+            closeDropdown();
+          } else {
+            input.focus();
+          }
+        });
+      }
+
+      input.addEventListener('keydown', function(e) {
+        var visible = getVisibleOptions();
+        if (e.key === 'ArrowDown') {
+          e.preventDefault();
+          if (!isOpen) openDropdown();
+          setActiveOption(Math.min(activeIndex + 1, visible.length - 1));
+        } else if (e.key === 'ArrowUp') {
+          e.preventDefault();
+          setActiveOption(Math.max(activeIndex - 1, 0));
+        } else if (e.key === 'Enter') {
+          e.preventDefault();
+          if (activeIndex >= 0 && activeIndex < visible.length) {
+            var link = visible[activeIndex].querySelector('a');
+            if (link) window.location.href = link.href;
+          }
+        } else if (e.key === 'Escape') {
+          closeDropdown();
+          input.blur();
         }
       });
-      // Show no-results if nothing matches
-      if (visibleCount === 0) {
-        const grid = document.getElementById('clinics-grid');
-        const noResults = document.getElementById('no-results');
-        if (grid) grid.style.display = 'none';
-        if (noResults) noResults.style.display = 'block';
-      }
-    }
+
+      document.addEventListener('click', function(e) {
+        if (wrapper && !wrapper.contains(e.target)) {
+          closeDropdown();
+        }
+      });
+    })();
   </script>
 </BaseLayout>
