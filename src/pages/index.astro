@@ -38,13 +38,24 @@ const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "MedicinaVip",
-  "url": "https://medicinaVip.com",
+  "url": "https://medicinavip.com",
   "description": "Directorio de clínicas privadas y VIP en Hispanoamérica",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://medicinaVip.com/?q={search_term_string}",
+    "target": "https://medicinavip.com/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
+};
+
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "MedicalOrganization",
+  "name": "MedicinaVip",
+  "url": "https://medicinavip.com",
+  "description": "El directorio más completo de clínicas y centros médicos privados en Hispanoamérica. Más de 800 clínicas en 20 países.",
+  "email": "info@medicinavip.com",
+  "areaServed": "Hispanoamérica",
+  "logo": "https://medicinavip.com/logo.png"
 };
 ---
 
@@ -53,6 +64,7 @@ const websiteSchema = {
   description="Encuentra la mejor clínica privada en México, Argentina, Colombia, Chile, España y más. Directorio VIP con hospitales certificados JCI, especialidades y reseñas."
 >
   <JsonLd schema={websiteSchema} slot="head" />
+  <JsonLd schema={orgSchema} slot="head" />
 
   <!-- Hero -->
   <section class="bg-gradient-to-br from-[#1A3A4A] to-[#2a5a70] text-white py-20 px-4">
@@ -89,20 +101,11 @@ const websiteSchema = {
             Buscar →
           </button>
         </div>
+        <p id="search-validation-msg" class="hidden mt-3 text-sm text-yellow-200 bg-white/10 rounded-lg px-4 py-2">
+          ⚠️ Por favor selecciona un país o especialidad para buscar.
+        </p>
       </form>
-      <script>
-        function handleSearch(e: Event) {
-          e.preventDefault();
-          const form = e.target as HTMLFormElement;
-          const pais = (form.elements.namedItem('pais') as HTMLSelectElement)?.value;
-          const especialidad = (form.elements.namedItem('especialidad') as HTMLSelectElement)?.value;
-          if (pais) {
-            window.location.href = '/' + pais + '/';
-          } else if (especialidad) {
-            window.location.href = '/especialidades/' + especialidad + '/';
-          }
-        }
-      </script>
+
     </div>
   </section>
 
@@ -216,6 +219,7 @@ const websiteSchema = {
 
   <script>
     const form = document.getElementById('search-form');
+    const validationMsg = document.getElementById('search-validation-msg');
     if (form) {
       form.addEventListener('submit', (e) => {
         e.preventDefault();
@@ -225,8 +229,13 @@ const websiteSchema = {
           window.location.href = `/${pais}/`;
         } else if (esp) {
           window.location.href = `/especialidades/${esp}/`;
+        } else {
+          // Show validation message
+          if (validationMsg) {
+            validationMsg.classList.remove('hidden');
+            setTimeout(() => validationMsg.classList.add('hidden'), 4000);
+          }
         }
-        // both empty → stay on homepage (no redirect)
       });
     }
   </script>

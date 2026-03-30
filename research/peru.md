@@ -816,3 +816,545 @@
 - **descripcion:** Clínica privada de referencia en Lima Norte atiendiendo a la densa comunidad del cono norte limeño con servicios de alta calidad a precios accesibles. Sus programas de medicina interna y cirugía son los más demandados. Con instalaciones modernas y equipo médico certificado.
 - **web:** https://www.clinicasolidaridad.com.pe
 - **featured:** false
+
+## Clínica Delgado Lima
+- **ciudad:** Lima
+- **slug:** clinica-delgado-lima
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Clínica Delgado en el distrito de Miraflores, Lima, una de las clínicas privadas más reconocidas y exclusivas del Perú. Con más de 40 años de historia, sus servicios cardiológicos y oncológicos atraen a la élite empresarial y profesional limeña. Sus instalaciones de alto estándar y médicos de reconocido prestigio la posicionan entre las mejores opciones privadas del país.
+- **web:** https://www.clinicadelgado.pe
+- **featured:** false
+
+## Clínica El Golf Lima
+- **ciudad:** Lima
+- **slug:** clinica-el-golf-lima
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica El Golf en el distrito de San Isidro, Lima, referente de la medicina privada exclusiva en el corazón financiero de la capital peruana. Sus servicios de alta especialidad en cardiología y oncología atraen a ejecutivos, empresarios y familias de mayor poder adquisitivo. Con instalaciones de lujo y trato personalizado que la distinguen en el competitivo mercado de salud privada limeño.
+- **web:** https://www.clinicaelgolf.com.pe
+- **featured:** false
+
+## Clínica San Felipe Lima
+- **ciudad:** Lima
+- **slug:** clinica-san-felipe-lima
+- **especialidades:** cardiología, oncología, neurología, cirugía, reproducción asistida
+- **descripcion:** Clínica San Felipe en el distrito de Jesús María, Lima, una de las clínicas privadas más completas y reconocidas del Perú. Sus servicios cardiológicos y oncológicos son referentes nacionales, y su unidad de reproducción asistida es una de las más demandadas del país. Con tecnología de diagnóstico avanzada y un equipo médico de más de 300 especialistas.
+- **web:** https://www.clinicasanfelipe.com
+- **featured:** false
+
+## Clínica Good Hope Lima
+- **ciudad:** Lima
+- **slug:** clinica-good-hope-lima
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, materno-infantil
+- **descripcion:** Clínica Good Hope en el distrito de Miraflores, Lima, institución hospitalaria adventista con reconocida trayectoria en la capital peruana. Sus servicios de cardiopatía y materno-infantil son los más reconocidos entre sus especialidades. Con una filosofía de atención integral que combina la excelencia médica con valores humanistas.
+- **web:** https://www.goodhope.org.pe
+- **featured:** false
+
+## Clínica Tezza Lima
+- **ciudad:** Lima
+- **slug:** clinica-tezza-lima
+- **especialidades:** oncología, cuidados paliativos, medicina paliativa, acompañamiento oncológico
+- **descripcion:** Clínica Tezza en Lima, especializada exclusivamente en oncología y cuidados paliativos. Con un enfoque integral que abarca diagnóstico, tratamiento y acompañamiento al paciente oncológico y su familia, es referente nacional en oncología humanizada. Sus servicios de cuidados paliativos son los más reconocidos del Perú.
+- **web:** https://www.tezza.org.pe
+- **featured:** false
+
+## Sanna Clínica El Golf Lima
+- **ciudad:** Lima
+- **slug:** sanna-el-golf
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Sanna Clínica El Golf en San Isidro, Lima, parte de la red Sanna de clínicas privadas con presencia en múltiples ciudades del Perú. Sus servicios de alta especialidad atienden a la clase ejecutiva del distrito financiero limeño. Con los estándares de calidad e instalaciones modernas que caracterizan a la red Sanna.
+- **web:** https://www.sanna.pe
+- **featured:** false
+
+## Sanna Clínica San Borja Lima
+- **ciudad:** Lima
+- **slug:** sanna-san-borja
+- **especialidades:** cardiología, oncología, cirugía, ginecología, medicina interna
+- **descripcion:** Sanna Clínica en San Borja, Lima, atendiendo al distrito residencial de mayor densidad de familias de alto nivel de la capital. Sus servicios hospitalarios completos cubren la demanda del corredor Surquillo-San Borja-Surco. Con instalaciones modernas y equipo médico de alto nivel de la red Sanna.
+- **web:** https://www.sanna.pe
+- **featured:** false
+
+## Sanna Clínica Miraflores Lima
+- **ciudad:** Lima
+- **slug:** sanna-miraflores
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Sanna Clínica en Miraflores, el distrito más emblemático y turístico de Lima. Sus servicios de alta calidad atienden a residentes y turistas del corazón gastronómico y cultural de la capital peruana. Con urgencias 24 horas y coordinación con aseguradoras internacionales para turistas que visitan Lima.
+- **web:** https://www.sanna.pe
+- **featured:** false
+
+## Sanna Clínica Arequipa
+- **ciudad:** Arequipa
+- **slug:** sanna-arequipa
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Sanna Clínica en Arequipa, la Ciudad Blanca y segunda ciudad más importante del Perú. Sus servicios de alta especialidad son los de mayor referencia en el sur andino del país. La red Sanna en Arequipa complementa la oferta privada de salud con estándares limeños en la capital del sur peruano.
+- **web:** https://www.sanna.pe
+- **featured:** false
+
+## Auna Oncosalud Lima
+- **ciudad:** Lima
+- **slug:** auna-oncosalud-lima
+- **especialidades:** oncología médica, radioterapia, cirugía oncológica, hemato-oncología, diagnóstico molecular
+- **descripcion:** Auna Oncosalud en Lima, el grupo oncológico más importante de Perú y América Latina, con más de 35 años especializados en cáncer. Sus servicios oncológicos integrales con acceso a diagnóstico molecular avanzado y los tratamientos más innovadores del mundo hacen de Oncosalud el destino preferido de pacientes oncológicos peruanos. Con múltiples sedes en Lima y cobertura nacional.
+- **web:** https://www.oncosalud.pe
+- **featured:** false
+
+## Clínica Anglo Americana Lima
+- **ciudad:** Lima
+- **slug:** clinica-anglo-americana
+- **especialidades:** medicina interna, cardiología, oncología, cirugía, medicina del viajero
+- **descripcion:** Clínica Anglo Americana en el distrito de San Isidro, Lima, referente de atención a pacientes internacionales y expatriados en Perú. Con personal bilingüe y amplia experiencia en coordinación con aseguradoras internacionales, es la primera opción para turistas de negocios y expatriados. Sus servicios de medicina del viajero y atención a emergencias médicas internacionales son únicos en Lima.
+- **web:** https://www.clinicaangloamericana.pe
+- **featured:** false
+
+## Clínica Ricardo Palma Lima
+- **ciudad:** Lima
+- **slug:** clinica-ricardo-palma
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Ricardo Palma en el distrito de San Isidro, Lima, una de las clínicas privadas más completas y modernas del Perú. Con más de 250 médicos especialistas y tecnología de diagnóstico de última generación, atiende a pacientes privados de alta exigencia. Sus servicios cardiológicos y oncológicos son los de mayor referencia entre las opciones privadas limeñas.
+- **web:** https://www.crp.com.pe
+- **featured:** false
+
+## Hospital Clínica San Pablo Lima
+- **ciudad:** Lima
+- **slug:** hospital-clinica-san-pablo-lima
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica San Pablo en Lima, parte de la red que opera en múltiples distritos de la capital peruana. Con servicios hospitalarios completos y precios más accesibles que las clínicas premium, atiende a una amplia base de pacientes privados. Sus urgencias 24 horas y servicios de hospitalización son los más demandados entre la clase media profesional de Lima.
+- **web:** https://www.clinicasanpablo.com.pe
+- **featured:** false
+
+## Clínica San Pablo Surco Lima
+- **ciudad:** Lima
+- **slug:** clinica-san-pablo-surco
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Clínica San Pablo en el distrito de Santiago de Surco, atendiendo al mayor distrito residencial de Lima moderna. Sus servicios hospitalarios de calidad media-alta atienden a las familias del corredor Surco-La Molina con precios razonables. Con instalaciones modernas y equipo médico comprometido con la atención al paciente.
+- **web:** https://www.clinicasanpablo.com.pe
+- **featured:** false
+
+## Clínica Internacional Lima
+- **ciudad:** Lima
+- **slug:** clinica-internacional-lima
+- **especialidades:** medicina interna, cardiología, oncología, cirugía, urgencias
+- **descripcion:** Clínica Internacional en el centro de Lima, una de las clínicas privadas con mayor historia en la capital peruana. Sus servicios de medicina interna y urgencias atienden tanto a limeños como a turistas que visitan el centro histórico de la Ciudad de los Reyes. Con instalaciones completas y acceso al centro neurálgico de Lima.
+- **web:** https://www.clinicainternacional.com.pe
+- **featured:** false
+
+## Hospital de la Solidaridad Lima (privado-mixto)
+- **ciudad:** Lima
+- **slug:** hospital-solidaridad-lima
+- **especialidades:** medicina preventiva, cirugía menor, cardiología, ginecología, pediatría
+- **descripcion:** Red de clínicas de la Solidaridad en Lima, parte del sistema de salud semi-público municipal que ofrece servicios a precios subsidiados para la población de menores recursos. Con múltiples sedes en toda Lima Metropolitana, complementa la oferta de salud accesible. Sus servicios de medicina preventiva y diagnóstico básico son los más demandados.
+- **web:** https://www.sisol.gob.pe
+- **featured:** false
+
+## Clínica Arequipa S.A.
+- **ciudad:** Arequipa
+- **slug:** clinica-arequipa-sa
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Arequipa en la Ciudad Blanca, la principal institución hospitalaria privada del sur andino del Perú. Con más de 60 años de historia y constante renovación tecnológica, sus servicios cardiológicos y oncológicos son referentes en toda la macro-región sur. Atrae a pacientes de Arequipa, Puno, Moquegua y Tacna por su excelencia médica.
+- **web:** https://www.clinicaarequipa.com.pe
+- **featured:** false
+
+## Clínica Paz Holandesa Arequipa
+- **ciudad:** Arequipa
+- **slug:** clinica-paz-holandesa-arequipa
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Paz Holandesa en Arequipa, institución hospitalaria privada con décadas de servicio a la capital del sur peruano. Sus servicios de medicina interna y urgencias atienden a la clase media y alta arequipeña con calidad y profesionalismo. Con instalaciones modernas y equipo médico comprometido con la salud de la comunidad sureña.
+- **web:** https://www.clinicapazholandesa.com
+- **featured:** false
+
+## Hospital Regional Docente de Trujillo (privado)
+- **ciudad:** Trujillo
+- **slug:** clinica-privada-trujillo
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Principal clínica privada en Trujillo, la tercera ciudad del Perú y capital de La Libertad. Sus servicios de alta especialidad en cardiología y oncología atienden a pacientes del norte peruano. Con instalaciones modernas y equipo médico de reconocido nivel, es la principal opción privada de calidad en la ciudad de la eterna primavera.
+- **web:** https://www.clinicaprivadasur.com.pe
+- **featured:** false
+
+## Clínica San Lorenzo Trujillo
+- **ciudad:** Trujillo
+- **slug:** clinica-san-lorenzo-trujillo
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica San Lorenzo en Trujillo, institución hospitalaria privada con amplia trayectoria en la capital de La Libertad. Sus servicios de medicina interna y urgencias atienden a la gran población trujillana y del norte peruano. Con médicos especializados y tecnología de diagnóstico actualizada para la atención privada de calidad.
+- **web:** https://www.clinicasanlorenzo.com.pe
+- **featured:** false
+
+## Clínica Universitaria Particular de Ica
+- **ciudad:** Ica
+- **slug:** clinica-universitaria-ica
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica universitaria en Ica, la capital de la región vinícola más importante del Perú y puerta de entrada a las Líneas de Nazca. Sus servicios hospitalarios atienden a la población iqueña y a turistas que visitan los atractivos arqueológicos y naturales de la región. Con médicos especializados y atención de urgencias las 24 horas.
+- **web:** https://www.clinicaica.com.pe
+- **featured:** false
+
+## Clínica el Nazareno Lima
+- **ciudad:** Lima
+- **slug:** clinica-el-nazareno-lima
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Clínica El Nazareno en Lima, institución hospitalaria privada con presencia en distintos distritos de la capital peruana. Sus servicios de medicina interna y urgencias atienden a una amplia base de pacientes con precios accesibles. Con médicos especializados y atención personalizada para las familias limeñas.
+- **web:** https://www.clinicaelnazareno.com.pe
+- **featured:** false
+
+## Hospital Cayetano Heredia Lima (ala privada)
+- **ciudad:** Lima
+- **slug:** hospital-cayetano-heredia-privado
+- **especialidades:** medicina interna, cardiología, neurología, infectología, medicina tropical
+- **descripcion:** Hospital Cayetano Heredia en Lima, hospital universitario con servicios privados de alta especialidad vinculado a la Universidad Peruana Cayetano Heredia. Sus especialidades en infectología y medicina tropical son únicas en el Perú. Con investigación clínica de nivel internacional y médicos de alto nivel académico.
+- **web:** https://www.upch.edu.pe/hospital
+- **featured:** false
+
+## Clínica Centenario Peruano Japonesa Lima
+- **ciudad:** Lima
+- **slug:** clinica-centenario-peruano-japonesa
+- **especialidades:** medicina interna, cardiología, cirugía, ginecología, oncología
+- **descripcion:** Clínica Centenario Peruano Japonesa en Lima, institución hospitalaria fundada por la comunidad nikkei con más de 100 años de historia. Sus servicios de medicina interna y cardiología son reconocidos por la comunidad japonesa y limeña en general. Con instalaciones modernas y valores de excelencia y servicio propios de la cultura japonesa.
+- **web:** https://www.ccpj.com.pe
+- **featured:** false
+
+## Clínica Santa María del Sur Lima
+- **ciudad:** Lima
+- **slug:** clinica-santa-maria-sur
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Clínica Santa María del Sur en Lima, atendiendo al corredor sur de la capital peruana que incluye Chorrillos, San Juan de Miraflores y Villa María del Triunfo. Sus servicios hospitalarios completos cubren la demanda de una densamente poblada zona sur de Lima. Con médicos especializados y urgencias 24 horas.
+- **web:** https://www.clinicasantamariasur.com.pe
+- **featured:** false
+
+## Clínica Adventista Ana Stahl Iquitos
+- **ciudad:** Iquitos
+- **slug:** clinica-ana-stahl-iquitos
+- **especialidades:** medicina interna, cirugía, urgencias, medicina tropical, ginecología
+- **descripcion:** Clínica Adventista Ana Stahl en Iquitos, la principal institución hospitalaria privada de la mayor ciudad amazónica del mundo. Sus servicios de medicina tropical y urgencias son esenciales para la población amazónica y turistas que visitan la selva peruana. Con experiencia única en enfermedades tropicales y atención a comunidades indígenas de la Amazonía.
+- **web:** https://www.anastahl.org.pe
+- **featured:** false
+
+## Clínica Limatambo Lima
+- **ciudad:** Lima
+- **slug:** clinica-limatambo-lima
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Limatambo en el distrito de La Molina, Lima, atendiendo al corredor residencial más exclusivo del este limeño. Sus servicios hospitalarios de calidad atienden a las familias de mayor poder adquisitivo de La Molina y Cieneguilla. Con instalaciones modernas y médicos especializados para la atención privada de la clase alta limeña.
+- **web:** https://www.clinicalimatambo.com.pe
+- **featured:** false
+
+## Clínica Jesús del Norte Lima
+- **ciudad:** Lima
+- **slug:** clinica-jesus-del-norte
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Clínica Jesús del Norte en Lima, institución hospitalaria privada atendiendo al corredor norte de la capital peruana. Sus servicios de cardiología y urgencias son los más demandados en los distritos del cono norte de Lima. Con médicos especializados y atención personalizada para las familias del norte limeño.
+- **web:** https://www.clinicajesusdelnorte.com.pe
+- **featured:** false
+
+## Clínica San Judas Tadeo Lima
+- **ciudad:** Lima
+- **slug:** clinica-san-judas-tadeo
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica San Judas Tadeo en Lima, institución hospitalaria privada con atención médica de calidad accesible para las familias de clase media limeña. Sus servicios de urgencias y medicina general son los más demandados entre su base de pacientes. Con médicos comprometidos y atención humanizada en sus instalaciones.
+- **web:** https://www.clinicasjt.com.pe
+- **featured:** false
+
+## Hospital Clínica San Pablo Callao
+- **ciudad:** Callao
+- **slug:** clinica-san-pablo-callao
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica San Pablo en el Callao, el primer puerto del Perú y ciudad conurbada con Lima. Sus servicios hospitalarios atienden a la gran población portuaria e industrial del Callao con acceso rápido y atención de calidad. Con urgencias 24 horas para la numerosa población de la Provincia Constitucional del Callao.
+- **web:** https://www.clinicasanpablo.com.pe
+- **featured:** false
+
+## Clínica San Gabriel Lima
+- **ciudad:** Lima
+- **slug:** clinica-san-gabriel-lima
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Clínica San Gabriel en el distrito de San Miguel, Lima, una de las clínicas privadas modernas con fuerte crecimiento en el mercado de salud privada limeño. Sus servicios de alta especialidad en cardiología y oncología atraen a pacientes de los distritos costeros de la capital. Con tecnología de diagnóstico avanzada e instalaciones de alto estándar.
+- **web:** https://www.clinicasangabriel.com.pe
+- **featured:** false
+
+## Clínica Ciudad de Arequipa
+- **ciudad:** Arequipa
+- **slug:** clinica-ciudad-arequipa
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Ciudad de Arequipa, institución hospitalaria privada con servicios hospitalarios completos en la Ciudad Blanca. Sus servicios de urgencias y medicina interna atienden a la gran población arequipeña con calidad y accesibilidad. Con médicos especializados y atención las 24 horas del año.
+- **web:** https://www.clinicaciudadarequipa.com
+- **featured:** false
+
+## Clínica Vallesur Arequipa
+- **ciudad:** Arequipa
+- **slug:** clinica-vallesur-arequipa
+- **especialidades:** cardiología, cirugía, medicina interna, oncología, urgencias
+- **descripcion:** Clínica Vallesur en Arequipa, institución hospitalaria privada con creciente presencia en el mercado de salud del sur peruano. Sus servicios cardiológicos y de oncología son los más demandados entre los pacientes privados de la región. Con instalaciones modernas y equipo médico comprometido con la excelencia asistencial.
+- **web:** https://www.clinicavallesur.com.pe
+- **featured:** false
+
+## Clínica Stella Maris (Lima)
+- **ciudad:** Lima
+- **slug:** clinica-stella-maris-lima
+- **especialidades:** general, cirugía, ginecología, traumatología, urgencias
+- **descripcion:** La Clínica Stella Maris en Pueblo Libre es una institución privada de larga trayectoria en el área residencial de Lima Clásica. Con 37 especialidades y un equipo médico experimentado, atiende a familias de los distritos de Pueblo Libre, Jesús María y Magdalena. Sus programas de ginecología y medicina familiar son los más valorados por la comunidad del sector.
+- **direccion:** Av. Paso de los Andes 923, Pueblo Libre, Lima
+- **telefono:** +51 1 463-6666
+- **web:** http://www.stellamaris.com.pe
+- **featured:** false
+
+## Clínica Padre Luis Tezza (Lima)
+- **ciudad:** Lima
+- **slug:** clinica-padre-luis-tezza
+- **especialidades:** general, cirugía, oncología, ginecología, cardiología, neurología
+- **descripcion:** La Clínica Padre Luis Tezza en Monterrico, Surco, es una institución privada de inspiración religiosa con 59 especialidades y alta capacidad hospitalaria. Reconocida por su atención humanizada y ética, es referente en oncología y cirugía para los residentes del corredor Monterrico-La Molina. Sus programas de cuidados paliativos y oncología son de los más avanzados del sistema privado limeño.
+- **direccion:** Av. El Polo 570, Urb. El Polo Hunt, Monterrico, Surco, Lima
+- **telefono:** +51 1 610-5050
+- **web:** http://www.clinicatezza.com.pe
+- **featured:** false
+
+## Clínica Internacional Lima (sede Lima)
+- **ciudad:** Lima
+- **slug:** clinica-internacional-lima
+- **especialidades:** general, cirugía, urgencias, cardiología, neurología, oncología
+- **descripcion:** La Clínica Internacional en Lima es una de las instituciones privadas de mayor cobertura y reconocimiento en el centro histórico de Lima. Con 41 especialidades y presencia en múltiples sedes, atiende a una amplia base de asegurados de Isapres y seguros corporativos. Sus instalaciones de Jr. Washington la ubican estratégicamente en el corazón financiero de la capital peruana.
+- **direccion:** Jr. Washington 1471, Lima Centro
+- **telefono:** +51 1 619-6161
+- **web:** http://www.clinicainternacional.com.pe
+- **featured:** false
+
+## Clínica Montesur (Surco)
+- **ciudad:** Lima
+- **slug:** clinica-montesur-surco
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica Montesur en Monterrico, Surco, atiende a la numerosa población del cono sur de Lima, una de las zonas de mayor crecimiento residencial. Con instalaciones modernas y equipo médico calificado, es referente de salud privada para los residentes de Surco, La Molina y Miraflores sur. Sus servicios de urgencias y hospitalización son valorados por familias del exclusivo sector Monterrico.
+- **direccion:** Av. El Polo 505, Urb. Monterrico, Santiago de Surco, Lima
+- **telefono:** +51 1 317-4000
+- **web:** https://www.clinicamontesur.com.pe
+- **featured:** false
+
+## Clínica San Vicente (Lima)
+- **ciudad:** Lima
+- **slug:** clinica-san-vicente-lima
+- **especialidades:** general, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** La Clínica San Vicente en San Martín de Porres es un establecimiento privado que atiende a la numerosa población del cono norte de Lima. Con 30 especialidades y más de 56 ambientes, es referente de atención privada accesible para la clase media trabajadora de Lima Norte. Sus programas de ginecología, pediatría y medicina familiar son los más demandados en la zona.
+- **direccion:** Av. Perú 3220, Urb. Perú, San Martín de Porres, Lima
+- **telefono:** +51 1 568-2550
+- **web:** http://www.clinicasanvicente.com.pe
+- **featured:** false
+
+## Clínica Santa Isabel (San Borja)
+- **ciudad:** Lima
+- **slug:** clinica-santa-isabel-san-borja
+- **especialidades:** fertilidad, ginecología, obstetricia, reproducción asistida
+- **descripcion:** La Clínica Santa Isabel en San Borja, Lima, es un centro especializado en fertilidad y salud reproductiva femenina. Con décadas de trayectoria y un equipo de especialistas en reproducción asistida, es referente privado en fertilización in vitro y tratamientos de infertilidad en Lima. Sus programas de ginecología y obstetricia atienden al segmento de mayor poder adquisitivo de Lima moderna.
+- **direccion:** Av. Guardia Civil 135, Urb. Corpac, San Borja, Lima
+- **telefono:** +51 1 475-7777
+- **web:** http://www.clinicasantaisabel.com
+- **featured:** false
+
+## Instituto Oncológico Miraflores (Lima)
+- **ciudad:** Lima
+- **slug:** instituto-oncologico-miraflores
+- **especialidades:** oncología, radioterapia, quimioterapia, diagnóstico oncológico
+- **descripcion:** El Instituto Oncológico Miraflores es un centro privado especializado exclusivamente en el diagnóstico y tratamiento del cáncer, ubicado en el exclusivo distrito de Miraflores. Con 26 especialidades oncológicas y equipos de última generación, atiende a pacientes oncológicos de Lima y del interior del Perú. Sus programas de radioterapia e inmunoterapia son de los más avanzados del sistema privado peruano.
+- **direccion:** Jr. Independencia 1055, Miraflores, Lima
+- **telefono:** +51 1 222-2208
+- **web:** http://www.clinicaoncologica.com.pe
+- **featured:** false
+
+## Clínica San Borja Lima
+- **ciudad:** Lima
+- **slug:** san-borja-lima
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Clínica San Borja en el exclusivo distrito homónimo de Lima, referente de la medicina privada de alto nivel en la capital peruana. Sus especialidades en cardiología y oncología atraen a pacientes de todo el Perú y turismo médico de la región. Instalaciones de última generación y equipo médico con formación internacional.
+- **web:** https://www.clinicasanborja.com.pe
+- **featured:** false
+
+## Clínica Monte Sinaí Lima
+- **ciudad:** Lima
+- **slug:** monte-sinai-lima
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Monte Sinaí en Lima, institución privada con amplia trayectoria en la atención médica de la capital. Sus servicios hospitalarios completos atienden a una diversa población limeña. Con instalaciones modernas y equipo médico calificado, ofrece atención integral las 24 horas.
+- **web:** https://www.clinicamontesinaiperu.com
+- **featured:** false
+
+## Clínica San Gabriel Lima
+- **ciudad:** Lima
+- **slug:** san-gabriel-lima
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica San Gabriel en San Miguel, Lima, institución de alta complejidad con modernas instalaciones. Sus unidades de cardiología y oncología son de referencia en la zona oeste de la capital. Equipo médico especializado y tecnología diagnóstica de vanguardia para el manejo de patologías complejas.
+- **web:** https://www.clinicasangabriel.com.pe
+- **featured:** false
+
+## Clínica San Felipe Lima
+- **ciudad:** Lima
+- **slug:** san-felipe-lima
+- **especialidades:** cirugía, medicina interna, ginecología, urgencias, ortopedia
+- **descripcion:** Clínica San Felipe en el corazón de Lima, institución privada consolidada con décadas de servicio a la población limeña. Sus especialidades quirúrgicas y ginecológicas tienen alta demanda en la capital. Instalaciones remodeladas y personal médico comprometido con la calidad asistencial.
+- **web:** https://www.clinicasanfelipe.com.pe
+- **featured:** false
+
+## Clínica Good Hope Lima
+- **ciudad:** Lima
+- **slug:** good-hope-lima
+- **especialidades:** cirugía, medicina interna, cardiología, oncología, urgencias
+- **descripcion:** Clínica Good Hope en Miraflores, Lima, institución con vocación de servicio y valores adventistas que atiende a pacientes de todas las creencias. Sus servicios de cirugía y cardiología tienen excelente reputación entre la clase media y alta limeña. Instalaciones modernas en uno de los distritos más prósperos de Lima.
+- **web:** https://www.goodhope.org.pe
+- **featured:** false
+
+## Clínica Javier Prado Lima
+- **ciudad:** Lima
+- **slug:** javier-prado-lima
+- **especialidades:** medicina interna, cirugía, traumatología, urgencias, ginecología
+- **descripcion:** Clínica Javier Prado en San Isidro, Lima, estratégicamente ubicada en uno de los centros financieros más importantes de la capital. Sus servicios de traumatología y cirugía son especialmente valorados por la activa comunidad empresarial del distrito. Atención personalizada y equipos médicos certificados.
+- **web:** https://www.clinicajavierprado.com.pe
+- **featured:** false
+
+## Clínica Vesalio Lima
+- **ciudad:** Lima
+- **slug:** vesalio-lima
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Vesalio en San Borja, Lima, referente de la oncología y cardiología privada en la capital. Sus programas de quimioterapia, radioterapia y cirugía oncológica atraen pacientes de todo el Perú. Instalaciones diseñadas para el manejo integral del paciente oncológico, con áreas de soporte emocional.
+- **web:** https://www.clinicavesalio.com.pe
+- **featured:** false
+
+## Clínica Stella Maris Lima
+- **ciudad:** Lima
+- **slug:** stella-maris-lima
+- **especialidades:** ginecología, reproducción asistida, fertilidad, obstetricia, pediatría
+- **descripcion:** Clínica Stella Maris en Lima, especializada en ginecología y medicina reproductiva. Sus programas de fertilización in vitro y reproducción asistida son los más demandados de Lima. Equipo de especialistas en reproducción con formación internacional y tecnología de laboratorio de última generación.
+- **web:** https://www.clinicastellamaris.com.pe
+- **featured:** false
+
+## Clínica Internacional Lima Centro
+- **ciudad:** Lima
+- **slug:** internacional-lima-centro
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Internacional en el centro histórico de Lima, con presencia en varios distritos de la capital peruana. Sus servicios hospitalarios accesibles atienden a una amplia gama de pacientes. Parte de la red de clínicas que combina calidad médica con precios competitivos para la clase media limeña.
+- **web:** https://www.clinicainternacional.com.pe
+- **featured:** false
+
+## Clínica Cayetano Heredia Lima
+- **ciudad:** Lima
+- **slug:** cayetano-heredia-lima
+- **especialidades:** medicina tropical, infectología, medicina interna, neurología, cirugía
+- **descripcion:** Clínica Cayetano Heredia, vinculada a la Universidad Peruana Cayetano Heredia, referente en medicina tropical e infectología. Sus programas académicos y asistenciales la posicionan como centro de referencia para enfermedades infecciosas y tropicales. Importante actividad de investigación y formación médica de alto nivel.
+- **web:** https://www.upch.edu.pe/clinica
+- **featured:** false
+
+## Clínica Anglo Americana Lima
+- **ciudad:** Lima
+- **slug:** anglo-americana-lima
+- **especialidades:** medicina interna, cirugía, cardiología, neurología, urgencias
+- **descripcion:** Clínica Anglo Americana en San Isidro, Lima, institución con raíces anglosajonas que atiende preferentemente a la comunidad empresarial e internacional de la capital. Sus servicios en inglés y español, junto con su protocolo internacional de manejo de pacientes, la convierten en la opción preferida de extranjeros residentes. Tecnología médica de vanguardia y especialistas con formación internacional.
+- **web:** https://www.angloamericana.pe
+- **featured:** false
+
+## Clínica San Pablo Surco Lima
+- **ciudad:** Lima
+- **slug:** san-pablo-surco
+- **especialidades:** cardiología, cirugía, oncología, medicina interna, urgencias
+- **descripcion:** Clínica San Pablo en Surco, Lima, sede de la cadena San Pablo en el dinámico sur de la capital. Sus especialidades en cardiología y cirugía atienden a la próspera comunidad del distrito de Santiago de Surco. Instalaciones modernas y equipo médico de alta calidad.
+- **web:** https://www.clinicasanpablo.com.pe/surco
+- **featured:** false
+
+## Clínica el Pinar Arequipa
+- **ciudad:** Arequipa
+- **slug:** el-pinar-arequipa
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ginecología
+- **descripcion:** Clínica el Pinar en Arequipa, la Ciudad Blanca y segunda ciudad del Perú. Sus servicios hospitalarios integrales atienden a la dinámica población arequipeña. Con instalaciones modernas y equipo médico especializado, es referente de la salud privada en el sur del país.
+- **web:** https://www.clinicaelpinar.com.pe
+- **featured:** false
+
+## Hospital Clinigral Arequipa
+- **ciudad:** Arequipa
+- **slug:** clinigral-arequipa
+- **especialidades:** medicina interna, cirugía, cardiología, oncología, urgencias
+- **descripcion:** Hospital Clinigral en Arequipa, institución privada de alta complejidad en el sur del Perú. Sus programas de cardiología y oncología son referencia para los departamentos del sur andino. Con tecnología diagnóstica avanzada y equipo médico certificado, resuelve los casos más complejos de la región.
+- **web:** https://www.clinigral.com.pe
+- **featured:** false
+
+## Clínica San Juan de Dios Arequipa
+- **ciudad:** Arequipa
+- **slug:** san-juan-dios-arequipa
+- **especialidades:** cirugía, medicina interna, ginecología, pediatría, urgencias
+- **descripcion:** Clínica San Juan de Dios en Arequipa, institución de la congregación religiosa con vocación de servicio. Sus servicios médicos y quirúrgicos atienden a residentes y visitantes de la Ciudad Blanca. Equipo médico comprometido con la excelencia asistencial y la atención humanizada.
+- **web:** https://www.cliniicasanjuandediosarequipa.com.pe
+- **featured:** false
+
+## Clínica Peruano Americana Trujillo
+- **ciudad:** Trujillo
+- **slug:** peruano-americana-trujillo
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, oncología
+- **descripcion:** Clínica Peruano Americana en Trujillo, referente de la salud privada en la capital de La Libertad y tercera ciudad del Perú. Sus especialidades en cardiología y oncología atienden a la importante población del norte peruano. Instalaciones modernas y equipo médico especializado.
+- **web:** https://www.clinicaperuanoamericana.com.pe
+- **featured:** false
+
+## Clínica San Luis Trujillo
+- **ciudad:** Trujillo
+- **slug:** san-luis-trujillo
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica San Luis en Trujillo, institución privada con amplia cobertura en la región norte del Perú. Sus servicios de ginecología y pediatría son muy demandados entre las familias trujillanas. Con instalaciones actualizadas y personal médico calificado, brinda atención de calidad en el norte peruano.
+- **web:** https://www.clinicasanluistrujillo.com.pe
+- **featured:** false
+
+## Clínica del Pacifico Chiclayo
+- **ciudad:** Chiclayo
+- **slug:** pacifico-chiclayo
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica del Pacífico en Chiclayo, referente de la salud privada en la capital de Lambayeque. Sus servicios hospitalarios completos atienden a la activa comunidad chiclayana y a pacientes del norte del Perú. Con instalaciones modernas y médicos especialistas, brinda atención de alta calidad.
+- **web:** https://www.clinicadelpacifico.com.pe
+- **featured:** false
+
+## Clínica Limatambo Chiclayo
+- **ciudad:** Chiclayo
+- **slug:** limatambo-chiclayo
+- **especialidades:** cirugía, medicina interna, ortopedia, urgencias, cardiología
+- **descripcion:** Clínica Limatambo en Chiclayo, institución privada consolidada en el norte del Perú. Sus servicios de cirugía y ortopedia atienden a la activa comunidad agroindustrial de Lambayeque. Equipo médico de experiencia e instalaciones modernas para la atención integral de los pacientes del norte peruano.
+- **web:** https://www.clinicalimatambo.com.pe
+- **featured:** false
+
+## Clínica Miraflores Piura
+- **ciudad:** Piura
+- **slug:** miraflores-piura
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Miraflores en Piura, referente de la salud privada en la capital del departamento más septentrional del Perú. Sus servicios hospitalarios atienden a la creciente población piurana y a residentes de Tumbes y Sullana. Con instalaciones modernas y equipo médico especializado, ofrece atención de calidad en el extremo norte del país.
+- **web:** https://www.clinicamiraflorespiura.com.pe
+- **featured:** false
+
+## Clínica San Rafael Piura
+- **ciudad:** Piura
+- **slug:** san-rafael-piura
+- **especialidades:** cirugía, medicina interna, ginecología, pediatría, urgencias
+- **descripcion:** Clínica San Rafael en Piura, institución privada con tradición en la atención de salud en el norte del Perú. Sus servicios de ginecología y pediatría son especialmente demandados entre las familias piuranas. Con equipo médico calificado y modernas instalaciones, es referente de la salud privada en Piura.
+- **web:** https://www.clinicasanrafaelpiura.com.pe
+- **featured:** false
+
+## Clínica Arequipa
+- **ciudad:** Arequipa
+- **slug:** clinica-arequipa
+- **especialidades:** medicina interna, cirugía, cardiología, oncología, urgencias
+- **descripcion:** Clínica Arequipa, institución privada de referencia en la Ciudad Blanca con moderna infraestructura. Sus servicios especializados en cardiología y oncología son los más demandados en el sur del Perú. Equipo de especialistas con formación nacional e internacional para el manejo de casos complejos.
+- **web:** https://www.clinicaarequipa.com.pe
+- **featured:** false
+
+## Clínica Cayma Arequipa
+- **ciudad:** Arequipa
+- **slug:** cayma-arequipa
+- **especialidades:** ginecología, obstetricia, cirugía, pediatría, medicina interna
+- **descripcion:** Clínica Cayma en el exclusivo distrito de Cayma, Arequipa, especializada en salud materno-infantil. Sus servicios de obstetricia y ginecología atienden a las familias arequipeñas de los distritos más prósperos. Con instalaciones modernas y atención personalizada, es la opción preferida de muchos padres arequipeños.
+- **web:** https://www.clinicacayma.com.pe
+- **featured:** false
+
+## Clínica Santa María Lima
+- **ciudad:** Lima
+- **slug:** santa-maria-lima
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica Santa María en Lima, institución privada con amplia cobertura en la capital peruana. Sus servicios de ginecología y medicina interna son especialmente valorados. Con instalaciones cómodas y equipo médico comprometido, brinda atención de calidad a las familias limeñas.
+- **web:** https://www.clinicasantamaria.com.pe
+- **featured:** false
+
+## Clínica Cayetano Lima Norte
+- **ciudad:** Lima
+- **slug:** cayetano-lima-norte
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica de amplia cobertura en la zona norte de Lima, atendiendo a la densa población del Cono Norte. Sus servicios de urgencias y cirugía tienen alta demanda en una de las zonas de mayor crecimiento de la capital. Instalaciones modernas y accesibilidad para las familias del norte de Lima.
+- **web:** https://www.clinicalimanorte.com.pe
+- **featured:** false
+
+## Clínica Delgado Lima
+- **ciudad:** Lima
+- **slug:** delgado-lima
+- **especialidades:** medicina interna, cirugía, cardiología, oncología, geriatría
+- **descripcion:** Clínica Delgado en Miraflores, Lima, parte de la red AUNA de salud privada de alta complejidad. Sus especialidades en oncología y cardiología son de referencia en la capital. Instalaciones de última generación y equipo médico con credenciales internacionales para los tratamientos más avanzados.
+- **web:** https://www.clinicadelgado.pe
+- **featured:** false

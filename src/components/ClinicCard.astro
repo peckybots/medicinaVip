@@ -1,5 +1,6 @@
 ---
 import { slugify } from '../utils/slugify';
+import { getEspecialidadLabel } from '../utils/especialidades';
 
 interface Props {
   name: string;
@@ -68,8 +69,8 @@ const especialidadColors: Record<string, string> = {
     <!-- Specialties -->
     <div class="flex flex-wrap gap-1 mb-3">
       {especialidades.slice(0, 3).map(esp => (
-        <span class={`text-xs px-2 py-0.5 rounded-full font-medium capitalize ${especialidadColors[esp] || 'bg-gray-100 text-gray-700'}`}>
-          {esp}
+        <span class={`text-xs px-2 py-0.5 rounded-full font-medium ${especialidadColors[esp] || 'bg-gray-100 text-gray-700'}`}>
+          {getEspecialidadLabel(esp)}
         </span>
       ))}
       {especialidades.length > 3 && (

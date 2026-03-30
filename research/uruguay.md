@@ -213,3 +213,21 @@
 - **descripcion:** Médica Uruguaya es una de las principales instituciones mutualistas de Uruguay con décadas de excelencia en la atención a los socios. Sus programas de cardiología y oncología son reconocidos en el sistema de salud privado uruguayo. Con instalaciones modernas y equipo de especialistas de primer nivel.
 - **web:** https://www.medicauruguaya.com.uy
 - **featured:** false
+
+## MP — Medicina Personalizada (Montevideo)
+- **ciudad:** Montevideo
+- **slug:** mp-medicina-personalizada
+- **especialidades:** general, cardiología, ginecología, pediatría, cirugía, medicina interna
+- **descripcion:** MP Medicina Personalizada es una institución privada de salud uruguaya que combina cobertura integral con atención personalizada y humana. Con clínicas propias en Montevideo, red de policlínicas en todo el país y seguro de viaje, atiende a afiliados que buscan medicina privada de calidad con trato cercano. En 2026 inauguró su Clínica Mujer MP especializada en salud femenina integral.
+- **direccion:** Montevideo, Uruguay
+- **web:** https://www.mp.com.uy
+- **featured:** false
+
+## Summum Medicina Privada (Montevideo)
+- **ciudad:** Montevideo
+- **slug:** summum-medicina-privada
+- **especialidades:** general, cardiología, oncología, cirugía, neurología, medicina ejecutiva
+- **descripcion:** Summum Medicina Privada es una institución privada de salud en Montevideo orientada al segmento premium del mercado uruguayo. Con un modelo de atención personalizada y exclusiva, ofrece medicina de alto standing a ejecutivos y profesionales de primer nivel. Sus programas de medicina preventiva y checkup ejecutivo son referentes del mercado privado uruguayo de lujo.
+- **direccion:** Rambla República de México 6405, Montevideo
+- **web:** https://www.summum.com.uy
+- **featured:** false

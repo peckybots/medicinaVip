@@ -2247,3 +2247,4756 @@
 - **descripcion:** Hospital Universitario Quirónsalud Pozuelo, el buque insignia de la red Quirónsalud en Madrid y uno de los hospitales privados más reconocidos de España. Con programa de trasplantes, cirugía robótica y el centro oncológico más avanzado de la red, atrae a pacientes de toda España e internacional. Sus instalaciones de lujo y atención personalizada de cinco estrellas lo hacen destino preferido de ejecutivos, deportistas de élite y figuras públicas.
 - **web:** https://www.quironsalud.es/pozuelo
 - **featured:** false
+
+## Vithas Hospital Alicante
+- **ciudad:** Alicante
+- **slug:** vithas-alicante
+- **especialidades:** medicina interna, cirugía, cardiología, traumatología, oncología
+- **descripcion:** Hospital Vithas en Alicante, parte de la red Vithas que opera en las principales ciudades españolas. Ofrece servicios médicos y quirúrgicos de alta calidad a residentes y turistas de la Costa Blanca. Sus especialidades en cardiología y oncología están altamente valoradas en la Comunidad Valenciana.
+- **web:** https://vithas.es/alicante
+- **featured:** false
+
+## Vithas Hospital Málaga
+- **ciudad:** Málaga
+- **slug:** vithas-malaga
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Vithas en Málaga, referente sanitario en la Costa del Sol y una de las ciudades de mayor crecimiento de España. Con especialidades punteras en oncología y cardiología, atiende a residentes locales y al importante colectivo de residentes extranjeros de la zona. Modernas instalaciones y tecnología diagnóstica avanzada.
+- **web:** https://vithas.es/malaga
+- **featured:** false
+
+## Vithas Hospital Sevilla
+- **ciudad:** Sevilla
+- **slug:** vithas-sevilla
+- **especialidades:** cirugía, cardiología, medicina interna, ginecología, urgencias
+- **descripcion:** Hospital Vithas en Sevilla, la capital andaluza y cuarta ciudad de España. Brinda atención hospitalaria de primer nivel con especialistas de reconocida trayectoria. Sus instalaciones de última generación y enfoque en la experiencia del paciente lo convierten en referencia privada de la ciudad.
+- **web:** https://vithas.es/sevilla
+- **featured:** false
+
+## Vithas Hospital Valencia 9 de Octubre
+- **ciudad:** Valencia
+- **slug:** vithas-valencia-9-octubre
+- **especialidades:** cardiología, cirugía cardiovascular, oncología, neurología, urgencias
+- **descripcion:** Hospital Vithas 9 de Octubre en Valencia, especializado en cardiología y cirugía cardiovascular. Su unidad de cardiología intervencionista es de referencia en la Comunidad Valenciana. Instalaciones modernas y equipo médico de alto nivel para las enfermedades del corazón más complejas.
+- **web:** https://vithas.es/valencia-9-octubre
+- **featured:** false
+
+## Vithas Hospital Jerez
+- **ciudad:** Jerez de la Frontera
+- **slug:** vithas-jerez
+- **especialidades:** medicina interna, cirugía, traumatología, ginecología, urgencias
+- **descripcion:** Hospital Vithas en Jerez de la Frontera, Cádiz, cubriendo las necesidades sanitarias de una de las ciudades más grandes de Andalucía occidental. Servicios médicos y quirúrgicos completos para residentes y visitantes. Sus especialidades traumatológicas atienden a una activa comunidad deportiva y ecuestre.
+- **web:** https://vithas.es/jerez
+- **featured:** false
+
+## Vithas Hospital Las Palmas
+- **ciudad:** Las Palmas de Gran Canaria
+- **slug:** vithas-las-palmas
+- **especialidades:** cardiología, cirugía, oncología, medicina interna, urgencias
+- **descripcion:** Hospital Vithas en Las Palmas de Gran Canaria, referente sanitario privado en las Islas Canarias. Atiende a residentes y turistas en la segunda ciudad canaria, con tecnología de diagnóstico avanzada y especialistas de primer nivel. Unidades especializadas en cardiología y oncología para toda la isla.
+- **web:** https://vithas.es/las-palmas
+- **featured:** false
+
+## Vithas Hospital Santa Cruz de Tenerife
+- **ciudad:** Santa Cruz de Tenerife
+- **slug:** vithas-tenerife
+- **especialidades:** medicina interna, cirugía, traumatología, ginecología, neurología
+- **descripcion:** Hospital Vithas en Santa Cruz de Tenerife, capital de la isla de Tenerife y sede de numerosos residentes europeos. Su equipo médico especializado atiende a una población cosmopolita con diferentes necesidades sanitarias. Instalaciones modernas y servicios en varios idiomas para la comunidad internacional residente en la isla.
+- **web:** https://vithas.es/santa-cruz-tenerife
+- **featured:** false
+
+## Vithas Hospital Almería
+- **ciudad:** Almería
+- **slug:** vithas-almeria
+- **especialidades:** cirugía, medicina interna, traumatología, ginecología, urgencias
+- **descripcion:** Hospital Vithas en Almería, provincia de alto crecimiento económico y demográfico en el sureste de España. Con servicios hospitalarios completos y especialistas en múltiples áreas, atiende a una población diversa que incluye muchos residentes extranjeros. Sus instalaciones modernas garantizan una atención sanitaria de calidad.
+- **web:** https://vithas.es/almeria
+- **featured:** false
+
+## Vithas Hospital Murcia
+- **ciudad:** Murcia
+- **slug:** vithas-murcia
+- **especialidades:** cardiología, cirugía, oncología, medicina interna, urgencias
+- **descripcion:** Hospital Vithas en Murcia, capital de la Región de Murcia y centro de servicios del sureste español. Sus especialidades en cardiología y oncología son referencia en la región. Instalaciones de última generación y equipo médico altamente cualificado para una atención sanitaria integral.
+- **web:** https://vithas.es/murcia
+- **featured:** false
+
+## Vithas Hospital Xanit Benalmádena
+- **ciudad:** Benalmádena
+- **slug:** vithas-xanit-benalmadena
+- **especialidades:** cirugía, medicina interna, cardiología, traumatología, urgencias
+- **descripcion:** Hospital Vithas Xanit en Benalmádena, Málaga, referente sanitario de la Costa del Sol occidental. Sus servicios en múltiples idiomas atienden a la numerosa comunidad extranjera residente en la Costa del Sol. Modernas instalaciones y unidades especializadas en cirugía y cardiología.
+- **web:** https://vithas.es/xanit-benalmadena
+- **featured:** false
+
+## HLA Hospital Perpetuo Socorro Alicante
+- **ciudad:** Alicante
+- **slug:** hla-perpetuo-socorro
+- **especialidades:** cirugía, cardiología, oncología, medicina interna, ginecología
+- **descripcion:** Hospital HLA Perpetuo Socorro en Alicante, parte del Grupo HLA que opera una extensa red hospitalaria en la Comunidad Valenciana y Murcia. Con décadas de tradición médica y modernas instalaciones, es referente en cirugía y cardiología en la provincia. Atención personalizada y tecnología diagnóstica de alta resolución.
+- **web:** https://www.grupohla.com/alicante
+- **featured:** false
+
+## HLA Hospital Clínica Vistahermosa Alicante
+- **ciudad:** Alicante
+- **slug:** hla-vistahermosa
+- **especialidades:** oncología, neurología, cirugía, medicina interna, cardiología
+- **descripcion:** Hospital HLA Clínica Vistahermosa en Alicante, segunda unidad del Grupo HLA en la ciudad, especializada en oncología y neurología. Sus unidades de oncología clínica y radioterápica son referencia en la Comunidad Valenciana. Amplio equipo de especialistas y tecnología de diagnóstico por imagen avanzada.
+- **web:** https://www.grupohla.com/vistahermosa
+- **featured:** false
+
+## HLA Hospital Murcia
+- **ciudad:** Murcia
+- **slug:** hla-murcia
+- **especialidades:** cirugía, medicina interna, cardiología, traumatología, ginecología
+- **descripcion:** Hospital HLA en Murcia, parte de la red del Grupo HLA en el sureste de España. Brinda servicios hospitalarios completos con especialistas de reconocida trayectoria en la región. Sus instalaciones modernas y el buen acceso desde toda la ciudad lo convierten en una opción preferida de los murcianos.
+- **web:** https://www.grupohla.com/murcia
+- **featured:** false
+
+## HLA Hospital Inmaculada Granada
+- **ciudad:** Granada
+- **slug:** hla-inmaculada-granada
+- **especialidades:** cirugía, cardiología, neurología, oncología, medicina interna
+- **descripcion:** Hospital HLA Inmaculada en Granada, referente sanitario privado en la capital nazarí y sede universitaria. Su equipo médico de alto nivel atiende a residentes y a los muchos turistas que visitan la ciudad. Especialidades punteras en neurología y cardiología con tecnología diagnóstica avanzada.
+- **web:** https://www.grupohla.com/inmaculada-granada
+- **featured:** false
+
+## HLA Hospital El Ángel Málaga
+- **ciudad:** Málaga
+- **slug:** hla-el-angel-malaga
+- **especialidades:** cirugía, medicina interna, cardiología, ginecología, urgencias
+- **descripcion:** Hospital HLA El Ángel en Málaga, con larga tradición en la atención sanitaria de la capital de la Costa del Sol. Sus servicios hospitalarios atienden a una ciudad en plena expansión demográfica y económica. Instalaciones renovadas y equipo médico especializado en las principales áreas clínicas.
+- **web:** https://www.grupohla.com/el-angel-malaga
+- **featured:** false
+
+## Clínica Baviera Madrid
+- **ciudad:** Madrid
+- **slug:** clinica-baviera-madrid
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Madrid, especializada en oftalmología y cirugía refractiva con tecnología láser de última generación. Con varias sedes en la capital española, es la opción preferida de miles de madrileños para corrección visual y tratamiento de cataratas. Sus cirujanos especializados realizan más de 100,000 intervenciones al año en toda la red.
+- **web:** https://www.clinicabaviera.com/madrid
+- **featured:** false
+
+## Clínica Baviera Barcelona
+- **ciudad:** Barcelona
+- **slug:** clinica-baviera-barcelona
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Barcelona, referente de la oftalmología privada en Cataluña. Sus técnicas avanzadas de cirugía láser y tratamiento de cataratas atraen a pacientes de toda la región. Con varias sedes en el área metropolitana de Barcelona, ofrece accesibilidad y calidad quirúrgica oftalmológica de primer nivel.
+- **web:** https://www.clinicabaviera.com/barcelona
+- **featured:** false
+
+## Clínica Baviera Valencia
+- **ciudad:** Valencia
+- **slug:** clinica-baviera-valencia
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Valencia, líderes en oftalmología en la Comunidad Valenciana. Sus cirugías de corrección visual con láser LASIK y tratamiento de cataratas son las más demandadas de la ciudad. Equipos de diagnóstico y cirugía oftalmológica de última generación.
+- **web:** https://www.clinicabaviera.com/valencia
+- **featured:** false
+
+## Clínica Baviera Sevilla
+- **ciudad:** Sevilla
+- **slug:** clinica-baviera-sevilla
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Sevilla, referente en salud ocular en Andalucía occidental. Sus tratamientos de miopía, astigmatismo y cataratas están disponibles con tecnología láser de vanguardia. Equipo de oftalmólogos altamente especializados con miles de cirugías exitosas en su historial.
+- **web:** https://www.clinicabaviera.com/sevilla
+- **featured:** false
+
+## Clínica Baviera Málaga
+- **ciudad:** Málaga
+- **slug:** clinica-baviera-malaga
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Málaga, especializada en cirugía refractiva y oftalmología avanzada en la Costa del Sol. Sus servicios en inglés atienden tanto a residentes españoles como a la numerosa comunidad extranjera de la provincia. Tecnología láser de última generación para corrección visual permanente.
+- **web:** https://www.clinicabaviera.com/malaga
+- **featured:** false
+
+## Clínica Baviera Bilbao
+- **ciudad:** Bilbao
+- **slug:** clinica-baviera-bilbao
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Bilbao, la mayor ciudad del País Vasco y centro financiero del norte de España. Con técnicas quirúrgicas oftalmológicas de vanguardia, atiende a pacientes del País Vasco y Navarra. Sus cirujanos especializados ofrecen las últimas innovaciones en corrección visual.
+- **web:** https://www.clinicabaviera.com/bilbao
+- **featured:** false
+
+## IDC Salud Hospital Pardo de Aravaca Madrid
+- **ciudad:** Madrid
+- **slug:** idc-pardo-aravaca
+- **especialidades:** cirugía, medicina interna, cardiología, oncología, neurología
+- **descripcion:** Hospital IDC Salud Pardo de Aravaca en el noroeste de Madrid, atendiendo a la próspera zona residencial de La Aravaca y la sierra madrileña. Sus servicios hospitalarios completos incluyen especialidades punteras en cardiología y oncología. Instalaciones modernas y acceso fácil desde las principales vías del noroeste capitalino.
+- **web:** https://www.idcsalud.es/pardo-de-aravaca
+- **featured:** false
+
+## IDC Salud Hospital Recoletas Burgos
+- **ciudad:** Burgos
+- **slug:** idc-recoletas-burgos
+- **especialidades:** cirugía, medicina interna, cardiología, neurología, urgencias
+- **descripcion:** Hospital IDC Salud Recoletas en Burgos, referente sanitario privado en Castilla y León. Con décadas de presencia en la ciudad castellana, ofrece servicios hospitalarios de calidad con especialistas de amplia trayectoria. Sus instalaciones han sido recientemente renovadas para incorporar la última tecnología médica.
+- **web:** https://www.idcsalud.es/recoletas-burgos
+- **featured:** false
+
+## IDC Salud Hospital Monterrey Valladolid
+- **ciudad:** Valladolid
+- **slug:** idc-monterrey-valladolid
+- **especialidades:** cirugía, cardiología, medicina interna, ginecología, urgencias
+- **descripcion:** Hospital IDC Salud Monterrey en Valladolid, parte del grupo hospitalario que integra la red Ribera Salud. Referente en la atención privada de la capital vallisoletana, con especialidades en cardiología y cirugía. Modernas instalaciones y equipo médico de alto nivel para toda la región de Castilla y León.
+- **web:** https://www.idcsalud.es/monterrey-valladolid
+- **featured:** false
+
+## Hospital Ribera Salud Torrevieja
+- **ciudad:** Torrevieja
+- **slug:** ribera-torrevieja
+- **especialidades:** medicina interna, cirugía, cardiología, traumatología, urgencias
+- **descripcion:** Hospital Ribera Salud en Torrevieja, Alicante, pionero en el modelo de colaboración público-privada en España. Atiende a la numerosa comunidad de residentes nacionales y extranjeros de la costa alicantina meridional. Sus servicios en múltiples idiomas y equipo multidisciplinar lo hacen referencia en la zona.
+- **web:** https://www.hospitaldetorrevieja.com
+- **featured:** false
+
+## Hospital de Manises Ribera Salud
+- **ciudad:** Manises
+- **slug:** ribera-manises
+- **especialidades:** cirugía, medicina interna, urgencias, cardiología, ginecología
+- **descripcion:** Hospital de Manises, gestionado por Ribera Salud en la comarca de l'Horta Oest de Valencia. Referente en el modelo de concesión sanitaria en España, combina eficiencia de gestión privada con cobertura universal. Sus servicios de urgencias y cardiología son altamente valorados por la población del área.
+- **web:** https://www.hospitaldemanises.es
+- **featured:** false
+
+## Hospital de Dénia Ribera Salud
+- **ciudad:** Dénia
+- **slug:** ribera-denia
+- **especialidades:** medicina interna, cirugía, traumatología, ginecología, urgencias
+- **descripcion:** Hospital de Dénia, gestionado por la Marina Salud bajo el modelo Ribera Salud en la Marina Alta. Atiende a residentes y turistas de uno de los destinos más populares de la Costa Blanca. Sus servicios multilingüe son especialmente valorados por la extensa comunidad alemana y nórdica residente en la zona.
+- **web:** https://www.marinasalud.es
+- **featured:** false
+
+## Clínica Ruber Internacional Madrid
+- **ciudad:** Madrid
+- **slug:** ruber-internacional-madrid
+- **especialidades:** oncología, cardiología, neurología, cirugía, medicina interna
+- **descripcion:** Clínica Ruber Internacional en Madrid, parte del Grupo Quirónsalud, especializada en atención a pacientes internacionales y de alto nivel. Con unidades de oncología, cardiología y neurología de referencia, atiende a pacientes de todo el mundo que buscan tratamientos avanzados en España. Servicio de intérpretes y coordinación internacional de casos.
+- **web:** https://www.ruberinternacional.es
+- **featured:** false
+
+## Hospital Vithas Madrid Arturo Soria
+- **ciudad:** Madrid
+- **slug:** vithas-madrid-arturo-soria
+- **especialidades:** cirugía, medicina interna, cardiología, traumatología, urgencias
+- **descripcion:** Hospital Vithas Madrid Arturo Soria en el exclusivo barrio del mismo nombre en el norte de la capital. Sus servicios hospitalarios atienden a los residentes de las zonas más pudientes del norte de Madrid. Instalaciones modernas y equipo médico de primer nivel para una atención personalizada y de calidad.
+- **web:** https://vithas.es/madrid-arturo-soria
+- **featured:** false
+
+## Hospital Vithas Valencia Consuelo
+- **ciudad:** Valencia
+- **slug:** vithas-valencia-consuelo
+- **especialidades:** ginecología, obstetricia, pediatría, cirugía, medicina interna
+- **descripcion:** Hospital Vithas Valencia Consuelo, especializado en salud de la mujer y atención pediátrica en la ciudad del Turia. Con larga tradición en obstetricia y ginecología, es elegido por miles de familias valencianas. Sus servicios de reproducción asistida tienen alta demanda en toda la Comunidad Valenciana.
+- **web:** https://vithas.es/valencia-consuelo
+- **featured:** false
+
+## Clínica Teknon Barcelona
+- **ciudad:** Barcelona
+- **slug:** teknon-barcelona
+- **especialidades:** oncología, cirugía robótica, cardiología, neurología, medicina interna
+- **descripcion:** Clínica Teknon en Barcelona, parte del grupo Quirónsalud y referente de la medicina privada de alta gama en España. Sus unidades de oncología y cirugía robótica son de las más avanzadas del país, atrayendo pacientes internacionales de todo el mundo. Tecnología médica de vanguardia y equipo de especialistas de renombre internacional.
+- **web:** https://www.teknon.es
+- **featured:** false
+
+## Hospital Quirónsalud Torrevieja
+- **ciudad:** Torrevieja
+- **slug:** quiron-torrevieja
+- **especialidades:** medicina interna, cirugía, traumatología, cardiología, urgencias
+- **descripcion:** Hospital Quirónsalud en Torrevieja, complementando la oferta sanitaria privada de la Costa Blanca Sur. Sus servicios médicos integrales en español e inglés atienden a la gran comunidad de residentes europeos de la zona. Especialidades en traumatología y cardiología especialmente demandadas.
+- **web:** https://www.quironsalud.es/torrevieja
+- **featured:** false
+
+## Hospital Quirónsalud Málaga
+- **ciudad:** Málaga
+- **slug:** quiron-malaga
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en Málaga, parte de la mayor red hospitalaria privada de España. Con unidades de cardiología y oncología de referencia en Andalucía, atiende a una ciudad en pleno auge demográfico y económico. Sus instalaciones de última generación y equipo multidisciplinar garantizan la atención más avanzada.
+- **web:** https://www.quironsalud.es/malaga
+- **featured:** false
+
+## Hospital Quirónsalud Sagrado Corazón Sevilla
+- **ciudad:** Sevilla
+- **slug:** quiron-sagrado-corazon-sevilla
+- **especialidades:** cirugía, cardiología, oncología, medicina interna, neurología
+- **descripcion:** Hospital Quirónsalud Sagrado Corazón en Sevilla, uno de los hospitales privados más tradicionales y reconocidos de Andalucía. Sus especialidades médico-quirúrgicas atienden a residentes y visitantes de la capital andaluza. Instalaciones renovadas con la más alta tecnología diagnóstica y terapéutica.
+- **web:** https://www.quironsalud.es/sagrado-corazon-sevilla
+- **featured:** false
+
+## Hospital Quirónsalud San José Almería
+- **ciudad:** Almería
+- **slug:** quiron-san-jose-almeria
+- **especialidades:** cirugía, medicina interna, cardiología, traumatología, ginecología
+- **descripcion:** Hospital Quirónsalud San José en Almería, referente sanitario privado en la provincia. Sus servicios hospitalarios completos atienden a una población en crecimiento y a los muchos residentes extranjeros del levante almeriense. Instalaciones modernas y equipo médico comprometido con la excelencia.
+- **web:** https://www.quironsalud.es/san-jose-almeria
+- **featured:** false
+
+## Clínica Baviera Zaragoza
+- **ciudad:** Zaragoza
+- **slug:** clinica-baviera-zaragoza
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, glaucoma, retina
+- **descripcion:** Clínica Baviera en Zaragoza, la quinta ciudad de España y capital aragonesa. Sus técnicas de cirugía refractiva con láser y tratamiento de cataratas son las más demandadas en Aragón. Equipo de oftalmólogos especializados con amplia experiencia en las últimas tecnologías de corrección visual.
+- **web:** https://www.clinicabaviera.com/zaragoza
+- **featured:** false
+
+## Hospital Vithas Nuestra Señora de Fátima Vigo
+- **ciudad:** Vigo
+- **slug:** vithas-fatima-vigo
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital Vithas Nuestra Señora de Fátima en Vigo, referente sanitario privado en la mayor ciudad gallega. Con décadas de tradición y modernas instalaciones, atiende a la población de la comarca de Vigo y sur de Galicia. Sus especialidades en cardiología y oncología tienen alta valoración entre los pacientes gallegos.
+- **web:** https://vithas.es/fatima-vigo
+- **featured:** false
+
+## Hospital Vithas Nisa Valencia al Mar
+- **ciudad:** Valencia
+- **slug:** vithas-nisa-valencia-al-mar
+- **especialidades:** neurología, neurocirugía, traumatología, medicina interna, urgencias
+- **descripcion:** Hospital Vithas Nisa Valencia al Mar, especializado en neurología y neurocirugía en la capital valenciana. Su Unidad de Neurociencias es de referencia en la Comunidad Valenciana para el tratamiento de enfermedades neurológicas complejas. Tecnología diagnóstica avanzada con RM de alto campo y neurofisiología.
+- **web:** https://vithas.es/nisa-valencia-al-mar
+- **featured:** false
+
+## Hospital La Milagrosa Madrid
+- **ciudad:** Madrid
+- **slug:** la-milagrosa-madrid
+- **especialidades:** cirugía, medicina interna, ginecología, traumatología, urgencias
+- **descripcion:** Hospital La Milagrosa en el barrio de Salamanca de Madrid, parte del Grupo Capio Sanidad. Con instalaciones recientemente renovadas y equipo médico especializado, atiende al exigente público de uno de los barrios más exclusivos de la capital. Sus servicios quirúrgicos y de medicina interna son especialmente valorados.
+- **web:** https://www.hospitallamilagrosa.com
+- **featured:** false
+
+## HLA Hospital Universitario Moncloa Madrid
+- **ciudad:** Madrid
+- **slug:** hla-moncloa-madrid
+- **especialidades:** oncología, neurología, cirugía, cardiología, medicina interna
+- **descripcion:** Hospital HLA Universitario Moncloa en el norte de Madrid, con funciones docentes vinculadas a la universidad madrileña. Sus unidades de oncología y neurología son de referencia en la ciudad. La actividad investigadora y docente potencia la calidad de la atención médica en todas sus especialidades.
+- **web:** https://www.grupohla.com/moncloa
+- **featured:** false
+
+
+## Hospital San Juan de Dios
+- **ciudad:** Pamplona/Iruña, Navarra
+- **slug:** hospital-san-juan-de-dios
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Pamplona/Iruña, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Beloso Alto 3 -, CP 31006
+- **telefono:** 948231800
+- **web:** 
+- **featured:** false
+
+
+## Clínica Universidad de Navarra
+- **ciudad:** Pamplona/Iruña, Navarra
+- **slug:** clinica-universidad-de-navarra
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Pamplona/Iruña, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Pio Xia 36 -, CP 31008
+- **telefono:** 948255400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Psiquiatrica Padre Menni
+- **ciudad:** Pamplona/Iruña, Navarra
+- **slug:** clinica-psiquiatrica-padre-menni
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Pamplona/Iruña, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Joaquín Beunza 45 -, CP 31014
+- **telefono:** 948140611
+- **web:** 
+- **featured:** false
+
+
+## Clínica Arcángel San Miguel - Pamplona
+- **ciudad:** Pamplona/Iruña, Navarra
+- **slug:** clinica-arcangel-san-miguel-pamplona
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Pamplona/Iruña, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Beloso Alto 32 -, CP 31006
+- **telefono:** 948296000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Santa Teresa
+- **ciudad:** Ourense, Ourense
+- **slug:** clinica-santa-teresa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ourense, Ourense (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sáenz Diez 11, CP 32003
+- **telefono:** 988371710
+- **web:** 
+- **featured:** false
+
+
+## Centro Medico El Carmen
+- **ciudad:** Ourense, Ourense
+- **slug:** centro-medico-el-carmen
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ourense, Ourense (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Habana (De La) 50, CP 32003
+- **telefono:** 988223400
+- **web:** 
+- **featured:** false
+
+
+## Hospital Rey D. Jaime
+- **ciudad:** Castelló de la Plana, Castellón
+- **slug:** hospital-rey-d-jaime
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Castelló de la Plana, Castellón (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maria Rosa Molas 25, CP 12004
+- **telefono:** 639711835;964726000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Ciudad Real
+- **ciudad:** Ciudad Real, Ciudad Real
+- **slug:** hospital-quironsalud-ciudad-real
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ciudad Real, Ciudad Real (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Alisos 19, CP 13002
+- **telefono:** 926255008
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Juan de Dios de Córdoba
+- **ciudad:** Córdoba, Córdoba
+- **slug:** hospital-san-juan-de-dios-de-cordoba
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Córdoba, Córdoba (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Del Brillante 106, CP 14012
+- **telefono:** 957274600
+- **web:** 
+- **featured:** false
+
+
+## Hospital Cruz Roja de Córdoba
+- **ciudad:** Córdoba, Córdoba
+- **slug:** hospital-cruz-roja-de-cordoba
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Córdoba, Córdoba (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo De La Victoria S/N, CP 14004
+- **telefono:** 957420666
+- **web:** 
+- **featured:** false
+
+
+## Hospital Centro de Andalucía
+- **ciudad:** Lucena, Córdoba
+- **slug:** hospital-centro-de-andalucia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lucena, Córdoba (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pontevedra 1, CP 14900
+- **telefono:** 000000000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud A Coruña
+- **ciudad:** Coruña, A, A Coruña
+- **slug:** hospital-quironsalud-a-coruna
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Coruña, A, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Londres 2, CP 15009
+- **telefono:** 981219800
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Rafael
+- **ciudad:** Coruña, A, A Coruña
+- **slug:** hospital-san-rafael
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Coruña, A, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Lugar Jubias de Arriba 82, CP 15006
+- **telefono:** 981179000
+- **web:** 
+- **featured:** false
+
+
+## HM Modelo-Belen
+- **ciudad:** Coruña, A, A Coruña
+- **slug:** hm-modelo-belen
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Coruña, A, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Virrey Osorio 30, CP 15011
+- **telefono:** 981147300
+- **web:** 
+- **featured:** false
+
+
+## Centro Oncoloxico de Galicia
+- **ciudad:** Coruña, A, A Coruña
+- **slug:** centro-oncoloxico-de-galicia
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Coruña, A, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Camilo Veiras 1, CP 15009
+- **telefono:** 981287499
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ribera Juan Cardona
+- **ciudad:** Ferrol, A Coruña
+- **slug:** hospital-ribera-juan-cardona
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ferrol, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pardo Bazán S/N, CP 15406
+- **telefono:** 981312500
+- **web:** 
+- **featured:** false
+
+
+## Hestia La Robleda
+- **ciudad:** Pino, O, A Coruña
+- **slug:** hestia-la-robleda
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Pino, O, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Lugar Santiso S/N, CP 15821
+- **telefono:** 981585811
+- **web:** 
+- **featured:** false
+
+
+## Hospital HM Rosaleda-HM La Esperanza
+- **ciudad:** Santiago de Compostela, A Coruña
+- **slug:** hospital-hm-rosaleda-hm-la-esperanza
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santiago de Compostela, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Santiago León de Caracas (De) 1, CP 15701
+- **telefono:** 981551200;981551225
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas Cuenca, S.L.U.
+- **ciudad:** Cuenca, Cuenca
+- **slug:** hospital-recoletas-cuenca-s-l-u
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Cuenca, Cuenca (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De San Julián 1, CP 16003
+- **telefono:** 969232500
+- **web:** 
+- **featured:** false
+
+
+## Clínica Salus Infirmorum
+- **ciudad:** Banyoles, Girona
+- **slug:** clinica-salus-infirmorum
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Banyoles, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Mossen Lluis Constans 130, CP 17820
+- **telefono:** 972570208
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Campdevanol
+- **ciudad:** Campdevànol, Girona
+- **slug:** hospital-de-campdevanol
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Campdevànol, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De Gombren 20, CP 17530
+- **telefono:** 972730028
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Figueres
+- **ciudad:** Figueres, Girona
+- **slug:** hospital-de-figueres
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Figueres, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda Rector Arolas S/N, CP 17600
+- **telefono:** 972501400
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Bernat Jaume
+- **ciudad:** Figueres, Girona
+- **slug:** centre-sociosanitari-bernat-jaume
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Figueres, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda Rector Arolas S/N, CP 17600
+- **telefono:** 972501400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Santa Creu
+- **ciudad:** Figueres, Girona
+- **slug:** clinica-santa-creu
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Figueres, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pere Mii, 41, CP 17600
+- **telefono:** 972503650
+- **web:** 
+- **featured:** false
+
+
+## Clínica Quirúrgica Onyar
+- **ciudad:** Girona, Girona
+- **slug:** clinica-quirurgica-onyar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Girona, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Heroines de Santa Barbara 6, CP 17004
+- **telefono:** 972204900
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sociosanitari Mutuam Girona
+- **ciudad:** Girona, Girona
+- **slug:** hospital-sociosanitari-mutuam-girona
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Girona, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida França 64, CP 17007
+- **telefono:** 972171819
+- **web:** 
+- **featured:** false
+
+
+## Residencia Geriátrica Maria Gay
+- **ciudad:** Girona, Girona
+- **slug:** residencia-geriatrica-maria-gay
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Girona, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Portal Nou 12, CP 17004
+- **telefono:** 972205045
+- **web:** 
+- **featured:** false
+
+
+## Clínica Bofill
+- **ciudad:** Girona, Girona
+- **slug:** clinica-bofill
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Girona, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda Sant Antoni Maria Claret 20, CP 17002
+- **telefono:** 972204350
+- **web:** 
+- **featured:** false
+
+
+## Hospital D'Olot I Comarcal de La Garrotxa
+- **ciudad:** Olot, Girona
+- **slug:** hospital-d-olot-i-comarcal-de-la-garrotxa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Olot, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Països Catalans 86, CP 17800
+- **telefono:** 972261800
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Palamós
+- **ciudad:** Palamós, Girona
+- **slug:** hospital-de-palamos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palamós, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Hospital. 36, CP 17230
+- **telefono:** 972600160
+- **web:** 
+- **featured:** false
+
+
+## Centre Palamós Gent Gran
+- **ciudad:** Palamós, Girona
+- **slug:** centre-palamos-gent-gran
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Palamós, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Provença 36, CP 17230
+- **telefono:** 972600160
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari de Puigcerdà
+- **ciudad:** Puigcerdà, Girona
+- **slug:** centre-sociosanitari-de-puigcerda
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Puigcerdà, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Antic de Llivia S/N, CP 17520
+- **telefono:** 972880150
+- **web:** 
+- **featured:** false
+
+
+## Hospital de La Inmaculada Concepción
+- **ciudad:** Granada, Granada
+- **slug:** hospital-de-la-inmaculada-concepcion
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Granada, Granada (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Alejandro Otero 8, CP 18004
+- **telefono:** 958187712
+- **web:** 
+- **featured:** false
+
+
+## Hospital Vithas Granada
+- **ciudad:** Granada, Granada
+- **slug:** hospital-vithas-granada
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Granada, Granada (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Santa Maria de La Alhambra S/N, CP 18008
+- **telefono:** 958001450
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Rafael
+- **ciudad:** Granada, Granada
+- **slug:** hospital-san-rafael
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Granada, Granada (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle San Juan de Dios 19-23, CP 18001
+- **telefono:** 958275700
+- **web:** 
+- **featured:** false
+
+
+## Clínica Doctor Sanz Vázquez
+- **ciudad:** Guadalajara, Guadalajara
+- **slug:** clinica-doctor-sanz-vazquez
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Guadalajara, Guadalajara (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Doctor Fernandez Iparraguirre 6, CP 19001
+- **telefono:** 949227200
+- **web:** 
+- **featured:** false
+
+
+## Hospital La Antigua
+- **ciudad:** Guadalajara, Guadalajara
+- **slug:** hospital-la-antigua
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Guadalajara, Guadalajara (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Constitución 18, CP 19003
+- **telefono:** 949223600
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ricardo Bermingham
+- **ciudad:** Donostia/San Sebastián, Guipúzcoa
+- **slug:** hospital-ricardo-bermingham
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Donostia/San Sebastián, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Los Pinos, Camino/Bidea 35, CP 20018
+- **telefono:** 943317102
+- **web:** 
+- **featured:** false
+
+
+## Fundacion Onkologikoa Fundazioa
+- **ciudad:** Donostia/San Sebastián, Guipúzcoa
+- **slug:** fundacion-onkologikoa-fundazioa
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Donostia/San Sebastián, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Doctor Begiristain 121, CP 20014
+- **telefono:** 943328000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Santa Maria de La Asunción (Inviza S. A.)
+- **ciudad:** Tolosa, Guipúzcoa
+- **slug:** clinica-santa-maria-de-la-asuncion-inviza-s-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Tolosa, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Cuesta Izaskungo Aldapa 9, CP 20400
+- **telefono:** 943697000
+- **web:** 
+- **featured:** false
+
+
+## Sanatorio Usurbil, S. L.
+- **ciudad:** Usurbil, Guipúzcoa
+- **slug:** sanatorio-usurbil-s-l
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Usurbil, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Barrio Urdaiaga, Barrio/Auzoa 48, CP 20170
+- **telefono:** 943361124
+- **web:** 
+- **featured:** false
+
+
+## Clínica Los Naranjos
+- **ciudad:** Huelva, Huelva
+- **slug:** clinica-los-naranjos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Huelva, Huelva (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo De Los Naranjos 1, CP 21004
+- **telefono:** 959243900
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Huelva
+- **ciudad:** Huelva, Huelva
+- **slug:** hospital-quironsalud-huelva
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Huelva, Huelva (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Punta Umbría 8, CP 21002
+- **telefono:** 959242100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Virgen de La Bella
+- **ciudad:** Lepe, Huelva
+- **slug:** hospital-virgen-de-la-bella
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lepe, Huelva (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Las Rosas, S/N S/N, CP 21440
+- **telefono:** 959180550
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Santiago
+- **ciudad:** Huesca, Huesca
+- **slug:** hospital-viamed-santiago
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Huesca, Huesca (Aragón), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sariñena 12, CP 22004
+- **telefono:** 974220600
+- **web:** 
+- **featured:** false
+
+
+## Hospital Metropolitano de Jaén
+- **ciudad:** Jaén, Jaén
+- **slug:** hospital-metropolitano-de-jaen
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Jaén, Jaén (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Córdoba-Valencia S/N, CP 23005
+- **telefono:** 654337950
+- **web:** 
+- **featured:** false
+
+
+## Clínica Cristo Rey
+- **ciudad:** Jaén, Jaén
+- **slug:** clinica-cristo-rey
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Jaén, Jaén (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo La Estación 40, CP 23008
+- **telefono:** 953250440
+- **web:** 
+- **featured:** false
+
+
+## Hospital HM San Francisco
+- **ciudad:** León, León
+- **slug:** hospital-hm-san-francisco
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en León, León (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Marqueses de San Isidro 11, CP 24004
+- **telefono:** 987202111
+- **web:** 
+- **featured:** false
+
+
+## Clínica Ponferrada Recoletas
+- **ciudad:** Ponferrada, León
+- **slug:** clinica-ponferrada-recoletas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ponferrada, León (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino De Santiago 101, CP 24404
+- **telefono:** 987423732
+- **web:** 
+- **featured:** false
+
+
+## Sant Joan de Deu Terres de Lleida
+- **ciudad:** Almacelles, Lleida
+- **slug:** sant-joan-de-deu-terres-de-lleida
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Almacelles, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera N-240 ., CP 25100
+- **telefono:** 973740010
+- **web:** 
+- **featured:** false
+
+
+## Residencia Terraferma
+- **ciudad:** Alpicat, Lleida
+- **slug:** residencia-terraferma
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Alpicat, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Partida del Grao S/N, CP 25110
+- **telefono:** 973737455
+- **web:** 
+- **featured:** false
+
+
+## Hestia Balaguer.
+- **ciudad:** Balaguer, Lleida
+- **slug:** hestia-balaguer
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Balaguer, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Gregori Gallego 22-28, CP 25600
+- **telefono:** 973450304
+- **web:** 
+- **featured:** false
+
+
+## Acompanya'M Lleida
+- **ciudad:** Lleida, Lleida
+- **slug:** acompanya-m-lleida
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Transversal D'Extremadura 13, CP 25001
+- **telefono:** 932142124
+- **web:** 
+- **featured:** false
+
+
+## Avantmedic
+- **ciudad:** Lleida, Lleida
+- **slug:** avantmedic
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Alfred Pereña 10, CP 25008
+- **telefono:** 973728292
+- **web:** 
+- **featured:** false
+
+
+## Clínica Mi Nova Aliança
+- **ciudad:** Lleida, Lleida
+- **slug:** clinica-mi-nova-alian-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Enric Prat de La Riba 79-81, CP 25004
+- **telefono:** 973232943
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sant Joan de Deu Lleida
+- **ciudad:** Lleida, Lleida
+- **slug:** hospital-sant-joan-de-deu-lleida
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Canadenca 28, CP 25001
+- **telefono:** 973740010
+- **web:** 
+- **featured:** false
+
+
+## Clínica Psiquiatrica Bellavista
+- **ciudad:** Lleida, Lleida
+- **slug:** clinica-psiquiatrica-bellavista
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Rovira Roure 116, CP 25198
+- **telefono:** 973231698
+- **web:** 
+- **featured:** false
+
+
+## Vithas Hospital Montserrat
+- **ciudad:** Lleida, Lleida
+- **slug:** vithas-hospital-montserrat
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Bisbe Torres 13, CP 25002
+- **telefono:** 973266300
+- **web:** 
+- **featured:** false
+
+
+## Clínica Perpetuo Socorro de Lérida, Grupo Ha, Slu
+- **ciudad:** Lleida, Lleida
+- **slug:** clinica-perpetuo-socorro-de-lerida-grupo-ha-slu
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Bisbe Messeguer 3, CP 25003
+- **telefono:** 973266100
+- **web:** 
+- **featured:** false
+
+
+## Castell D'Oliana Residencial, S.L
+- **ciudad:** Oliana, Lleida
+- **slug:** castell-d-oliana-residencial-s-l
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Oliana, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De Lleida A Puigcerdà ., CP 25790
+- **telefono:** 973463030
+- **web:** 
+- **featured:** false
+
+
+## Fundacio Sant Hospital.
+- **ciudad:** Seu d'Urgell, La, Lleida
+- **slug:** fundacio-sant-hospital
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Seu d'Urgell, La, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Joan Brudieu 8, CP 25700
+- **telefono:** 973350050
+- **web:** 
+- **featured:** false
+
+
+## Espitau Val D'Aran
+- **ciudad:** Vielha e Mijaran, Lleida
+- **slug:** espitau-val-d-aran
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vielha e Mijaran, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Espitau, 8, CP 25530
+- **telefono:** 973640004
+- **web:** 
+- **featured:** false
+
+
+## Centro Sociosanitario de Convalecencia Los Jazmines
+- **ciudad:** Haro, La Rioja
+- **slug:** centro-sociosanitario-de-convalecencia-los-jazmines
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Haro, La Rioja (La Rioja), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Severo Ochoa 5, CP 26200
+- **telefono:** 941303650
+- **web:** 
+- **featured:** false
+
+
+## Clínica Los Manzanos
+- **ciudad:** Lardero, La Rioja
+- **slug:** clinica-los-manzanos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lardero, La Rioja (La Rioja), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Hnos. Maristas S/N, CP 26140
+- **telefono:** 941499490
+- **web:** 
+- **featured:** false
+
+
+## Policlínico Riojano Nuestra Señora de Valvanera
+- **ciudad:** Logroño, La Rioja
+- **slug:** policlinico-riojano-nuestra-senora-de-valvanera
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Logroño, La Rioja (La Rioja), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ramon y Cajal S/N, CP 26006
+- **telefono:** 941211900
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quirón Salud Lugo
+- **ciudad:** Lugo, Lugo
+- **slug:** hospital-quiron-salud-lugo
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lugo, Lugo (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Montevideo 23, CP 27001
+- **telefono:** 982284040
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ribera Polusa
+- **ciudad:** Lugo, Lugo
+- **slug:** hospital-ribera-polusa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Lugo, Lugo (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doutor Iglesias Otero S/N, CP 27004
+- **telefono:** 982222854
+- **web:** 
+- **featured:** false
+
+
+## Hospital HM Valles
+- **ciudad:** Alcalá de Henares, Madrid
+- **slug:** hospital-hm-valles
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Alcalá de Henares, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Santiago 14, CP 28801
+- **telefono:** 918883262
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Sur
+- **ciudad:** Alcorcón, Madrid
+- **slug:** hospital-quironsalud-sur
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Alcorcón, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Estambul 30, CP 28922
+- **telefono:** 917810682
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario HM Monteprincipe
+- **ciudad:** Boadilla del Monte, Madrid
+- **slug:** hospital-universitario-hm-monteprincipe
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Boadilla del Monte, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Monteprincipe 25, CP 28660
+- **telefono:** 917089900
+- **web:** 
+- **featured:** false
+
+
+## Hospital Los Madroños
+- **ciudad:** Brunete, Madrid
+- **slug:** hospital-los-madronos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Brunete, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De M-501 (De Alcorcón A Plasencia) KM.17,900, CP 28690
+- **telefono:** 918163526
+- **web:** 
+- **featured:** false
+
+
+## Centro San Juan de Dios Ciempozuelos
+- **ciudad:** Ciempozuelos, Madrid
+- **slug:** centro-san-juan-de-dios-ciempozuelos
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Ciempozuelos, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De San Juan de Dios 1, CP 28350
+- **telefono:** 918930001
+- **web:** 
+- **featured:** false
+
+
+## Complejo Asistencial Benito Menni
+- **ciudad:** Ciempozuelos, Madrid
+- **slug:** complejo-asistencial-benito-menni
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Ciempozuelos, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Los Jardines 1, CP 28350
+- **telefono:** 918930150
+- **web:** 
+- **featured:** false
+
+
+## Casta Guadarrama
+- **ciudad:** Guadarrama, Madrid
+- **slug:** casta-guadarrama
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Guadarrama, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De La Coruña KM.50,300, CP 28440
+- **telefono:** 915949500
+- **web:** 
+- **featured:** false
+
+
+## Clínica Universidad de Navarra
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-universidad-de-navarra
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Del Marquesado de Santa Marta 1, CP 28022
+- **telefono:** 000000000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Pardo de Aravaca
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-pardo-de-aravaca
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De La Salle 12, CP 28023
+- **telefono:** 917402682
+- **web:** 
+- **featured:** false
+
+
+## Hospital Md Anderson Cáncer Center Madrid
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-md-anderson-cancer-center-madrid
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Gómez Hemans 2, CP 28033
+- **telefono:** 913834980
+- **web:** 
+- **featured:** false
+
+
+## Clínica Isadora S.A.
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-isadora-s-a
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Los Pirineos 7, CP 28040
+- **telefono:** 913111000
+- **web:** 
+- **featured:** false
+
+
+## Clínica San Miguel
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-san-miguel
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Arturo Soria 204, CP 28043
+- **telefono:** 914135011
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Rafael
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-san-rafael
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Serrano 199, CP 28016
+- **telefono:** 915649943
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario HM Madrid
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-universitario-hm-madrid
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Del Conde del Valle de Suchil 16, CP 28015
+- **telefono:** 914476600
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Camilo
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-san-camilo
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Juan Bravo 39, CP 28006
+- **telefono:** 914022100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario La Zarzuela
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-universitario-la-zarzuela
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Pléyades 25, CP 28023
+- **telefono:** 915858000
+- **web:** 
+- **featured:** false
+
+
+## Clínica La Luz, S.L.
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-la-luz-s-l
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Del Maestro Ángel Llorca 8, CP 28003
+- **telefono:** 915530500
+- **web:** 
+- **featured:** false
+
+
+## Hospital Fuensanta
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-fuensanta
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Arturo Soria 17, CP 28027
+- **telefono:** 914079295
+- **web:** 
+- **featured:** false
+
+
+## HM Hospitales 1989, S.A.
+- **ciudad:** Madrid, Madrid
+- **slug:** hm-hospitales-1989-s-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Cobos de Segovia 4, CP 28005
+- **telefono:** 914444244
+- **web:** 
+- **featured:** false
+
+
+## Alm Univass S.L.
+- **ciudad:** Madrid, Madrid
+- **slug:** alm-univass-s-l
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Las Cerilleras 7, CP 28054
+- **telefono:** 000000000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario HM Sanchinarro
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-universitario-hm-sanchinarro
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Oña 10, CP 28050
+- **telefono:** 917567800
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ha Universitario Moncloa
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-ha-universitario-moncloa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Valladolid 83, CP 28008
+- **telefono:** 915954500
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Francisco de Asís
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-san-francisco-de-asis
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Joaquín Costa 28, CP 28002
+- **telefono:** 915630360
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Santa Elena, S.L
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-viamed-santa-elena-s-l
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Abtao 25, CP 28007
+- **telefono:** 914539400
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario Fundacion Jimenez Diaz
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-universitario-fundacion-jimenez-diaz
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Los Reyes Católicos 2, CP 28040
+- **telefono:** 915504800
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario La Moraleja
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-universitario-la-moraleja
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Francisco Pi y Margall 81, CP 28050
+- **telefono:** 913244805
+- **web:** 
+- **featured:** false
+
+
+## Hospital La Milagrosa S.A.
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-la-milagrosa-s-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Modesto Lafuente 14, CP 28010
+- **telefono:** 914472100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Centro de Cuidados Laguna
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-centro-de-cuidados-laguna
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Del Concejal Francisco José Jimenez Martin 128, CP 28047
+- **telefono:** 914010708
+- **web:** 
+- **featured:** false
+
+
+## Clínica Cemtro
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-cemtro
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Del Ventisquero de La Condesa 42, CP 28035
+- **telefono:** 917355757
+- **web:** 
+- **featured:** false
+
+
+## Sanatorio Esquerdo, S.A.
+- **ciudad:** Madrid, Madrid
+- **slug:** sanatorio-esquerdo-s-a
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Los Poblados 70, CP 28044
+- **telefono:** 917061100
+- **web:** 
+- **featured:** false
+
+
+## Clínica Dr. León
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-dr-leon
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza De Mariano de Cavia 3, CP 28007
+- **telefono:** 914332948
+- **web:** 
+- **featured:** false
+
+
+## Hospital HM Nuevo Belen
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-hm-nuevo-belen
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De José Silva 7, CP 28043
+- **telefono:** 917444100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ruber Juan Bravo
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-ruber-juan-bravo
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Juan Bravo 49, CP 28006
+- **telefono:** 914026100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Nuestra Señora de América
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-nuestra-senora-de-america
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Arturo Soria 103-105-107, CP 28043
+- **telefono:** 914130061
+- **web:** 
+- **featured:** false
+
+
+## Hospital Hestia Madrid
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-hestia-madrid
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De Colmenar Viejo KM.16, CP 28049
+- **telefono:** 917340500
+- **web:** 
+- **featured:** false
+
+
+## Hospital Virgen del Mar
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-virgen-del-mar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Honduras 14, CP 28016
+- **telefono:** 913539500
+- **web:** 
+- **featured:** false
+
+
+## Clínica Nuestra Señora de La Paz
+- **ciudad:** Madrid, Madrid
+- **slug:** clinica-nuestra-senora-de-la-paz
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De López de Hoyos 259, CP 28043
+- **telefono:** 914156000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud San José
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-quironsalud-san-jose
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Cartagena 111, CP 28002
+- **telefono:** 914153100
+- **web:** 
+- **featured:** false
+
+
+## Hospital de La V.O.T. de San Francisco de Asís
+- **ciudad:** Madrid, Madrid
+- **slug:** hospital-de-la-v-o-t-de-san-francisco-de-asis
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De San Bernabé 13, CP 28005
+- **telefono:** 913657600
+- **web:** 
+- **featured:** false
+
+
+## Fundacion Instituto San José
+- **ciudad:** Madrid, Madrid
+- **slug:** fundacion-instituto-san-jose
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Del Pinar de San José 98, CP 28054
+- **telefono:** 915080140
+- **web:** 
+- **featured:** false
+
+
+## Sanatorio Nuestra Señora del Rosario
+- **ciudad:** Madrid, Madrid
+- **slug:** sanatorio-nuestra-senora-del-rosario
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Del Cardenal Cisneros 7, CP 28010
+- **telefono:** 914359100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario HM Puerta del Sur
+- **ciudad:** Móstoles, Madrid
+- **slug:** hospital-universitario-hm-puerta-del-sur
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Móstoles, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Carlos V 70, CP 28938
+- **telefono:** 000000000
+- **web:** 
+- **featured:** false
+
+
+## HM Hospitales 1.989, S.A.
+- **ciudad:** Rivas-Vaciamadrid, Madrid
+- **slug:** hm-hospitales-1-989-s-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Rivas-Vaciamadrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De José Hierro 94, CP 28521
+- **telefono:** 000000000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quirón Salud Valle del Henares
+- **ciudad:** Torrejón de Ardoz, Madrid
+- **slug:** hospital-quiron-salud-valle-del-henares
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Torrejón de Ardoz, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Constitución 249, CP 28850
+- **telefono:** 000000000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario HM Torrelodones
+- **ciudad:** Torrelodones, Madrid
+- **slug:** hospital-universitario-hm-torrelodones
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Torrelodones, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Castillo de Olivares S/N, CP 28250
+- **telefono:** 912675000
+- **web:** 
+- **featured:** false
+
+
+## Fundacion Cudeca. Centro de Cuidados Paliativos
+- **ciudad:** Benalmádena, Malaga
+- **slug:** fundacion-cudeca-centro-de-cuidados-paliativos
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Benalmádena, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Del Cosmos S/N, CP 29631
+- **telefono:** 952564910
+- **web:** 
+- **featured:** false
+
+
+## Hospital Vithas Xanit Internacional
+- **ciudad:** Benalmádena, Malaga
+- **slug:** hospital-vithas-xanit-internacional
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Benalmádena, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Los Argonautas S/N, CP 29630
+- **telefono:** 952443119
+- **web:** 
+- **featured:** false
+
+
+## Hospital Vithas Xanit Estepona
+- **ciudad:** Estepona, Malaga
+- **slug:** hospital-vithas-xanit-estepona
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Estepona, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Andalucía 2 y 4, CP 29680
+- **telefono:** 952808100
+- **web:** 
+- **featured:** false
+
+
+## Clínicas del Sur Slu
+- **ciudad:** Estepona, Malaga
+- **slug:** clinicas-del-sur-slu
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Estepona, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Nacional 340 S/N, CP 29680
+- **telefono:** 952760600
+- **web:** 
+- **featured:** false
+
+
+## Hospital Vithas Parque San Antonio
+- **ciudad:** Málaga, Malaga
+- **slug:** hospital-vithas-parque-san-antonio
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Pintor Joaquín Sorolla 2, CP 29016
+- **telefono:** 952211050
+- **web:** 
+- **featured:** false
+
+
+## Centro Asistencial Hnas. Hospitalarias del Sagrado Corazón de Jesús
+- **ciudad:** Málaga, Malaga
+- **slug:** centro-asistencial-hnas-hospitalarias-del-sagrado-corazon-de-jesus
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle San Juan Bosco 41, CP 29014
+- **telefono:** 952256150
+- **web:** 
+- **featured:** false
+
+
+## HM Gálvez
+- **ciudad:** Málaga, Malaga
+- **slug:** hm-galvez
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle San Agustín 1, CP 29015
+- **telefono:** 952224295
+- **web:** 
+- **featured:** false
+
+
+## Hospital Psiquiátrico San Francisco de Asís
+- **ciudad:** Málaga, Malaga
+- **slug:** hospital-psiquiatrico-san-francisco-de-asis
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Hernan Núñez de Toledo 5, CP 29018
+- **telefono:** 952201464
+- **web:** 
+- **featured:** false
+
+
+## Centro Asistencial San Juan de Dios
+- **ciudad:** Málaga, Malaga
+- **slug:** centro-asistencial-san-juan-de-dios
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Casabermeja 126, CP 29014
+- **telefono:** 952250550
+- **web:** 
+- **featured:** false
+
+
+## HM El Pilar
+- **ciudad:** Málaga, Malaga
+- **slug:** hm-el-pilar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo De Sancha 15, CP 29016
+- **telefono:** 952217606
+- **web:** 
+- **featured:** false
+
+
+## Hospital El Ángel
+- **ciudad:** Málaga, Malaga
+- **slug:** hospital-el-angel
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Corregidor Nicolas Isidro 16, CP 29007
+- **telefono:** 952045000
+- **web:** 
+- **featured:** false
+
+
+## HM Málaga
+- **ciudad:** Málaga, Malaga
+- **slug:** hm-malaga
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Carlos Haya 121, CP 29010
+- **telefono:** 952287766
+- **web:** 
+- **featured:** false
+
+
+## Helicópteros Sanitarios Hospital
+- **ciudad:** Marbella, Malaga
+- **slug:** helicopteros-sanitarios-hospital
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Marbella, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Nacional 340 S/N, CP 29600
+- **telefono:** 952816767
+- **web:** 
+- **featured:** false
+
+
+## Ha Marbella International Hospital
+- **ciudad:** Marbella, Malaga
+- **slug:** ha-marbella-international-hospital
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Marbella, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ventura del Mar 11, CP 29660
+- **telefono:** 952908628
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas Marbella Slu
+- **ciudad:** Marbella, Malaga
+- **slug:** hospital-recoletas-marbella-slu
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Marbella, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maestra Doña Carola 8, CP 29602
+- **telefono:** 952899350
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ochoa
+- **ciudad:** Marbella, Malaga
+- **slug:** hospital-ochoa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Marbella, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Alfonso Cañas Nogueras (Paseo Marítimo) S/N, CP 29603
+- **telefono:** 952861400
+- **web:** 
+- **featured:** false
+
+
+## Hospital Internacional HM Santa Elena
+- **ciudad:** Torremolinos, Malaga
+- **slug:** hospital-internacional-hm-santa-elena
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Torremolinos, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Urbanización Los Álamos S/N, CP 29620
+- **telefono:** 952386266
+- **web:** 
+- **featured:** false
+
+
+## Clínica El Seranil
+- **ciudad:** Vélez-Málaga, Malaga
+- **slug:** clinica-el-seranil
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Vélez-Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Almería S/N, CP 29790
+- **telefono:** 952513267
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed San José
+- **ciudad:** Alcantarilla, Murcia
+- **slug:** hospital-viamed-san-jose
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Alcantarilla, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maestra Lola Meseguer S/N, CP 30820
+- **telefono:** 658762214
+- **web:** 
+- **featured:** false
+
+
+## Hospital Centro Medico Virgen de La Caridad Caravaca
+- **ciudad:** Caravaca de la Cruz, Murcia
+- **slug:** hospital-centro-medico-virgen-de-la-caridad-caravaca
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Caravaca de la Cruz, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Robles S/N, CP 30400
+- **telefono:** 968705541
+- **web:** 
+- **featured:** false
+
+
+## Santo y Real Hospital de Caridad
+- **ciudad:** Cartagena, Murcia
+- **slug:** santo-y-real-hospital-de-caridad
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Cartagena, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Barrio Peral S/N, CP 30310
+- **telefono:** 968510300
+- **web:** 
+- **featured:** false
+
+
+## Hospital Perpetuo Socorro Alameda
+- **ciudad:** Cartagena, Murcia
+- **slug:** hospital-perpetuo-socorro-alameda
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Cartagena, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Alameda San Antón 6, CP 30205
+- **telefono:** 968510500
+- **web:** 
+- **featured:** false
+
+
+## Hospital C. M. Virgen de La Caridad Cartagena
+- **ciudad:** Cartagena, Murcia
+- **slug:** hospital-c-m-virgen-de-la-caridad-cartagena
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Cartagena, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Jorge Juan 30, CP 30205
+- **telefono:** 968506666
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ntra. Sra. del Perpetuo Socorro
+- **ciudad:** Cartagena, Murcia
+- **slug:** hospital-ntra-sra-del-perpetuo-socorro
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Cartagena, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sebastián Feringan 12, CP 30205
+- **telefono:** 968510500
+- **web:** 
+- **featured:** false
+
+
+## Hospital Asilo de La Real Piedad de Cehegín
+- **ciudad:** Cehegín, Murcia
+- **slug:** hospital-asilo-de-la-real-piedad-de-cehegin
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Cehegín, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Mesoncico 3, CP 30430
+- **telefono:** 968741156
+- **web:** 
+- **featured:** false
+
+
+## Hospital Virgen del Alcázar de Lorca
+- **ciudad:** Lorca, Murcia
+- **slug:** hospital-virgen-del-alcazar-de-lorca
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Lorca, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Alameda De Los Tristes S/N, CP 30800
+- **telefono:** 968468600
+- **web:** 
+- **featured:** false
+
+
+## Hospital del Guadalentín
+- **ciudad:** Mazarrón, Murcia
+- **slug:** hospital-del-guadalentin
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Mazarrón, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Jerez de La Frontera S/N URB CAMPOSOL SECOR A, CP 30875
+- **telefono:** 607758971
+- **web:** 
+- **featured:** false
+
+
+## Ribera Hospital de Molina
+- **ciudad:** Molina de Segura, Murcia
+- **slug:** ribera-hospital-de-molina
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Molina de Segura, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Asociación S/N, CP 30500
+- **telefono:** 968644030
+- **web:** 
+- **featured:** false
+
+
+## Hospital La Vega Grupo Ha
+- **ciudad:** Murcia, Murcia
+- **slug:** hospital-la-vega-grupo-ha
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Murcia, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Román Alberca S/N, CP 30008
+- **telefono:** 968278100
+- **web:** 
+- **featured:** false
+
+
+## Hospital IMED Virgen de La Fuensanta
+- **ciudad:** Murcia, Murcia
+- **slug:** hospital-imed-virgen-de-la-fuensanta
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Murcia, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Padre Félix Sánchez Blanco 5, CP 30009
+- **telefono:** 639142354
+- **web:** 
+- **featured:** false
+
+
+## Clínica San Felipe
+- **ciudad:** Murcia, Murcia
+- **slug:** clinica-san-felipe
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Murcia, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Finca El Mayayo 16, CP 30120
+- **telefono:** 968889096
+- **web:** 
+- **featured:** false
+
+
+## Sanatorio Dr. Muñoz
+- **ciudad:** Murcia, Murcia
+- **slug:** sanatorio-dr-munoz
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Murcia, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Cartagena 59, CP 30120
+- **telefono:** 968885550
+- **web:** 
+- **featured:** false
+
+
+## Hospital Mesa del Castillo
+- **ciudad:** Murcia, Murcia
+- **slug:** hospital-mesa-del-castillo
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Murcia, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda Sur 20, CP 30010
+- **telefono:** 968246116
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Cuidados Medios Villademar
+- **ciudad:** San Pedro del Pinatar, Murcia
+- **slug:** hospital-de-cuidados-medios-villademar
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en San Pedro del Pinatar, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Concejal Mariano Henarejos 13, CP 30740
+- **telefono:** 968187346
+- **web:** 
+- **featured:** false
+
+
+## Clínica Psico geriátrica Josefina Arregui
+- **ciudad:** Altsasu/Alsasua, Navarra
+- **slug:** clinica-psico-geriatrica-josefina-arregui
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Altsasu/Alsasua, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Erburua S/N -, CP 31800
+- **telefono:** 948563850
+- **web:** 
+- **featured:** false
+
+
+## Centro Hospitalario Benito Menni
+- **ciudad:** Baztan, Navarra
+- **slug:** centro-hospitalario-benito-menni
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Baztan, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Mendinueta S/N -, CP 31700
+- **telefono:** 948452162
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Montecanal
+- **ciudad:** Zaragoza, Zaragoza
+- **slug:** hospital-viamed-montecanal
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Zaragoza, Zaragoza (Aragón), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Franz Schubert 2, CP 50012
+- **telefono:** 876241818
+- **web:** 
+- **featured:** false
+
+
+## Hospital Hernan Cortes Miraflores
+- **ciudad:** Zaragoza, Zaragoza
+- **slug:** hospital-hernan-cortes-miraflores
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Zaragoza, Zaragoza (Aragón), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Torres (De Las) 51-53, CP 50008
+- **telefono:** 976222981
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Rehabilitación Psiquiatrica Prisma
+- **ciudad:** Zaragoza, Zaragoza
+- **slug:** hospital-de-rehabilitacion-psiquiatrica-prisma
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Zaragoza, Zaragoza (Aragón), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Torre del Cerezo (San Juan de Mozarrifar) 17, CP 50820
+- **telefono:** 976151152
+- **web:** 
+- **featured:** false
+
+
+## Clínica Montpellier, Grupo Ha, S.A.U
+- **ciudad:** Zaragoza, Zaragoza
+- **slug:** clinica-montpellier-grupo-ha-s-a-u
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Zaragoza, Zaragoza (Aragón), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Vía Hispanidad 37, CP 50012
+- **telefono:** 976765300
+- **web:** 
+- **featured:** false
+
+
+## EV Medical-Rusadir
+- **ciudad:** Melilla, Melilla
+- **slug:** ev-medical-rusadir
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Melilla, Melilla (Melilla), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle José Abadía Benhamú 1, CP 52003
+- **telefono:** 662691700
+- **web:** 
+- **featured:** false
+
+
+## Fundacion Hospital de Avilés
+- **ciudad:** Avilés, Asturias
+- **slug:** fundacion-hospital-de-aviles
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Avilés, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cabruñana 19, CP 33402
+- **telefono:** 627513515;985525744
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Jove
+- **ciudad:** Gijón, Asturias
+- **slug:** hospital-de-jove
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Eduardo Castro S/N, CP 33290
+- **telefono:** 985320050
+- **web:** 
+- **featured:** false
+
+
+## Hospital Covadonga
+- **ciudad:** Gijón, Asturias
+- **slug:** hospital-covadonga
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle General Suarez Valdés 40, CP 33204
+- **telefono:** 985365122
+- **web:** 
+- **featured:** false
+
+
+## Hospital Cruz Roja Gijón
+- **ciudad:** Gijón, Asturias
+- **slug:** hospital-cruz-roja-gijon
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Uría 37, CP 33202
+- **telefono:** 985195000
+- **web:** 
+- **featured:** false
+
+
+## Centro Terapeutico Vista Alegre
+- **ciudad:** Gijón, Asturias
+- **slug:** centro-terapeutico-vista-alegre
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Profesor Perez Pimentel (La Guía - Somio) 518, CP 33203
+- **telefono:** 985363435;985771677
+- **web:** 
+- **featured:** false
+
+
+## Clínica Psiquiatrica Somio
+- **ciudad:** Gijón, Asturias
+- **slug:** clinica-psiquiatrica-somio
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera La Providencia-Infanzon, 3518 3518, CP 33203
+- **telefono:** 985133806
+- **web:** 
+- **featured:** false
+
+
+## Hospital Begoña
+- **ciudad:** Gijón, Asturias
+- **slug:** hospital-begona
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Pablo Iglesias 92, CP 33204
+- **telefono:** 985367711
+- **web:** 
+- **featured:** false
+
+
+## Hospital Gijón
+- **ciudad:** Gijón, Asturias
+- **slug:** hospital-gijon
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De La Costa 45, CP 33201
+- **telefono:** 985360612;985360613
+- **web:** 
+- **featured:** false
+
+
+## Fundacion Sanatorio Adaro
+- **ciudad:** Langreo, Asturias
+- **slug:** fundacion-sanatorio-adaro
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Langreo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Jove y Canella 1, CP 33900
+- **telefono:** 985692111
+- **web:** 
+- **featured:** false
+
+
+## Centro Salud Mental Perez Espinosa
+- **ciudad:** Llanera, Asturias
+- **slug:** centro-salud-mental-perez-espinosa
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Llanera, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Santa Rosa 6, CP 33690
+- **telefono:** 985771677
+- **web:** 
+- **featured:** false
+
+
+## Centro Medico de Asturias
+- **ciudad:** Oviedo, Asturias
+- **slug:** centro-medico-de-asturias
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Richard Grandio S/N, CP 33193
+- **telefono:** 985250300
+- **web:** 
+- **featured:** false
+
+
+## Clínica Asturias
+- **ciudad:** Oviedo, Asturias
+- **slug:** clinica-asturias
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Naranjo de Bulnes 4-6, CP 33012
+- **telefono:** 985286000
+- **web:** 
+- **featured:** false
+
+
+## Clínica San Rafael
+- **ciudad:** Oviedo, Asturias
+- **slug:** clinica-san-rafael
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle La Estrecha, 33, CP 33011
+- **telefono:** 985282526
+- **web:** 
+- **featured:** false
+
+
+## Instituto Oftalmológico Fernandez-Vega
+- **ciudad:** Oviedo, Asturias
+- **slug:** instituto-oftalmologico-fernandez-vega
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Dres. Fernandez Vega 34, CP 33012
+- **telefono:** 985240141;985241508
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Luarca
+- **ciudad:** Valdés, Asturias
+- **slug:** hospital-de-luarca
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Valdés, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Villar S/N, CP 33700
+- **telefono:** 985470707;985470727
+- **web:** 
+- **featured:** false
+
+
+## Área Psiquiatrica San Juan de Dios
+- **ciudad:** Palencia, Palencia
+- **slug:** area-psiquiatrica-san-juan-de-dios
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Palencia, Palencia (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Padre Faustino Calvo 46, CP 34005
+- **telefono:** 979742300
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas de Palencia
+- **ciudad:** Palencia, Palencia
+- **slug:** hospital-recoletas-de-palencia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palencia, Palencia (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Simón Nieto 31-34, CP 34005
+- **telefono:** 979747700
+- **web:** 
+- **featured:** false
+
+
+## Centro Sanitario Residencial Las Palmas (Cesar Las Palmas)
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** centro-sanitario-residencial-las-palmas-cesar-las-palmas
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Párroco Villar Reina 1, CP 35011
+- **telefono:** 928296300
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario Vithas Las Palmas
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** hospital-universitario-vithas-las-palmas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle León y Castillo 292, CP 35005
+- **telefono:** 928297151
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario San Roque Las Palmas
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** hospital-universitario-san-roque-las-palmas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Dolores de La Rocha 5, CP 35001
+- **telefono:** 928404040
+- **web:** 
+- **featured:** false
+
+
+## Hospital La Paloma
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** hospital-la-paloma
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maestro Valle 20, CP 35005
+- **telefono:** 928234466
+- **web:** 
+- **featured:** false
+
+
+## Clínica Cajal
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** clinica-cajal
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Senador Castillo Olivares 15, CP 35003
+- **telefono:** 928369166
+- **web:** 
+- **featured:** false
+
+
+## Clínica Bandama
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** clinica-bandama
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Santa Teresa 9, CP 35017
+- **telefono:** 928350050;928350054
+- **web:** 
+- **featured:** false
+
+
+## Hospital San José
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** hospital-san-jose
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Padre Cueto 26, CP 35008
+- **telefono:** 928263708
+- **web:** 
+- **featured:** false
+
+
+## Hospital Perpetuo Socorro
+- **ciudad:** Palmas de Gran Canaria, Las, Las Palmas
+- **slug:** hospital-perpetuo-socorro
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle León y Castillo 407, CP 35007
+- **telefono:** 928499900
+- **web:** 
+- **featured:** false
+
+
+## Hospital Parque Fuerteventura
+- **ciudad:** Puerto del Rosario, Las Palmas
+- **slug:** hospital-parque-fuerteventura
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Puerto del Rosario, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle León y Castillo S/N, CP 35600
+- **telefono:** 928851500
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario San Roque Maspalomas
+- **ciudad:** San Bartolomé de Tirajana, Las Palmas
+- **slug:** hospital-universitario-san-roque-maspalomas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en San Bartolomé de Tirajana, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Mar de Siberia 1, CP 35100
+- **telefono:** 928063615
+- **web:** 
+- **featured:** false
+
+
+## Hospiten Clínica Roca San Agustín
+- **ciudad:** San Bartolomé de Tirajana, Las Palmas
+- **slug:** hospiten-clinica-roca-san-agustin
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en San Bartolomé de Tirajana, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Buganvilla 1, CP 35100
+- **telefono:** 928769004
+- **web:** 
+- **featured:** false
+
+
+## Quinta Medica de Reposo
+- **ciudad:** Santa Brígida, Las Palmas
+- **slug:** quinta-medica-de-reposo
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Santa Brígida, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Palma Romero 7, CP 35300
+- **telefono:** 928640050
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ciudad de Telde
+- **ciudad:** Telde, Las Palmas
+- **slug:** hospital-ciudad-de-telde
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Telde, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Mister Blisse S/N, CP 35212
+- **telefono:** 928707555
+- **web:** 
+- **featured:** false
+
+
+## Hospiten Lanzarote
+- **ciudad:** Tías, Las Palmas
+- **slug:** hospiten-lanzarote
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Tías, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Lomo Gordo S/N, CP 35572
+- **telefono:** 928596100
+- **web:** 
+- **featured:** false
+
+
+## Grupo Quironsalud Pontevedra
+- **ciudad:** Pontevedra, Pontevedra
+- **slug:** grupo-quironsalud-pontevedra
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Pontevedra, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Fray Juan Navarrete 9, CP 36001
+- **telefono:** 986856800
+- **web:** 
+- **featured:** false
+
+
+## Hestia San José
+- **ciudad:** Vigo, Pontevedra
+- **slug:** hestia-san-jose
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Vigo, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Tomas A Alonso 89, CP 36208
+- **telefono:** 986235606
+- **web:** 
+- **featured:** false
+
+
+## Vithas Hospital Nosa Señora de Fátima
+- **ciudad:** Vigo, Pontevedra
+- **slug:** vithas-hospital-nosa-senora-de-fatima
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vigo, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Vía Norte 48, CP 36206
+- **telefono:** 986821100
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ribera Povisa
+- **ciudad:** Vigo, Pontevedra
+- **slug:** hospital-ribera-povisa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vigo, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Salamanca 5, CP 36211
+- **telefono:** 986413144
+- **web:** 
+- **featured:** false
+
+
+## Concheiro Centro Medico Quirúrgico
+- **ciudad:** Vigo, Pontevedra
+- **slug:** concheiro-centro-medico-quirurgico
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vigo, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Madrid 4, CP 36204
+- **telefono:** 986413244
+- **web:** 
+- **featured:** false
+
+
+## Clínica Residencia El Pinar
+- **ciudad:** Vigo, Pontevedra
+- **slug:** clinica-residencia-el-pinar
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Vigo, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Vella Madrid 120, CP 36214
+- **telefono:** 986266400
+- **web:** 
+- **featured:** false
+
+
+## Centro Medico Pintado
+- **ciudad:** Vigo, Pontevedra
+- **slug:** centro-medico-pintado
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vigo, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Hispanidade 40, CP 36203
+- **telefono:** 986413300
+- **web:** 
+- **featured:** false
+
+
+## Hospital General de La Santísima Trinidad
+- **ciudad:** Salamanca, Salamanca
+- **slug:** hospital-general-de-la-santisima-trinidad
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Salamanca, Salamanca (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo De Carmelitas, 74-94, CP 37007
+- **telefono:** 923269300
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quirón Salud Costa Adeje
+- **ciudad:** Adeje, Santa Cruz De Tenerife
+- **slug:** hospital-quiron-salud-costa-adeje
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Adeje, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Urbanización San Eugenio S/N, CP 38660
+- **telefono:** 922752626
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario Hospiten Sur
+- **ciudad:** Arona, Santa Cruz De Tenerife
+- **slug:** hospital-universitario-hospiten-sur
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Arona, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Av. Marítima 8, CP 38660
+- **telefono:** 922750032
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Vida
+- **ciudad:** Orotava, La, Santa Cruz De Tenerife
+- **slug:** hospital-quironsalud-vida
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Orotava, La, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Magnolias 2, CP 38312
+- **telefono:** 922330550
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario Hospiten Bellevue
+- **ciudad:** Puerto de la Cruz, Santa Cruz De Tenerife
+- **slug:** hospital-universitario-hospiten-bellevue
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Puerto de la Cruz, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Alemania 4, CP 38400
+- **telefono:** 922368822;922383551
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quirón Salud Tenerife
+- **ciudad:** Santa Cruz de Tenerife, Santa Cruz De Tenerife
+- **slug:** hospital-quiron-salud-tenerife
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Cruz de Tenerife, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Poeta Rodriguez Herrera 1, CP 38006
+- **telefono:** 922270700
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitario Hospiten Rambla
+- **ciudad:** Santa Cruz de Tenerife, Santa Cruz De Tenerife
+- **slug:** hospital-universitario-hospiten-rambla
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Cruz de Tenerife, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Rambla Santa Cruz 115, CP 38001
+- **telefono:** 922291600
+- **web:** 
+- **featured:** false
+
+
+## Vithas Hospital Santa Cruz
+- **ciudad:** Santa Cruz de Tenerife, Santa Cruz De Tenerife
+- **slug:** vithas-hospital-santa-cruz
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Cruz de Tenerife, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Enrique Wolfson 8, CP 38006
+- **telefono:** 922534733
+- **web:** 
+- **featured:** false
+
+
+## Hospital Parque
+- **ciudad:** Santa Cruz de Tenerife, Santa Cruz De Tenerife
+- **slug:** hospital-parque
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Cruz de Tenerife, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Méndez Núñez 40-44, CP 38003
+- **telefono:** 922274400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Tara
+- **ciudad:** Tacoronte, Santa Cruz De Tenerife
+- **slug:** clinica-tara
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Tacoronte, Santa Cruz De Tenerife (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Casas Altas S/N, CP 38399
+- **telefono:** 922563351
+- **web:** 
+- **featured:** false
+
+
+## Hospital Mompia
+- **ciudad:** Santa Cruz de Bezana, Cantabria
+- **slug:** hospital-mompia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Cruz de Bezana, Cantabria (Cantabria), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Los Condes S/N, CP 39108
+- **telefono:** 942584100;942584114
+- **web:** 
+- **featured:** false
+
+
+## Centro Hospitalario Padre Menni
+- **ciudad:** Santander, Cantabria
+- **slug:** centro-hospitalario-padre-menni
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Santander, Cantabria (Cantabria), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Cantabria 52, CP 39012
+- **telefono:** 942390060;942391260
+- **web:** 
+- **featured:** false
+
+
+## Hospital Santa Clotilde
+- **ciudad:** Santander, Cantabria
+- **slug:** hospital-santa-clotilde
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Santander, Cantabria (Cantabria), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle General Dávila 35, CP 39006
+- **telefono:** 942211678;942217711
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas Segovia Nuestra Señora de La Misericordia
+- **ciudad:** Segovia, Segovia
+- **slug:** hospital-recoletas-segovia-nuestra-senora-de-la-misericordia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Segovia, Segovia (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Velasco 21-23, CP 40003
+- **telefono:** 921460112
+- **web:** 
+- **featured:** false
+
+
+## Residencia de Salud Mental Nuestra Señora del Carmen
+- **ciudad:** Bormujos, Sevilla
+- **slug:** residencia-de-salud-mental-nuestra-senora-del-carmen
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Bormujos, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Rio Pudio S/N, CP 41930
+- **telefono:** 954906671
+- **web:** 
+- **featured:** false
+
+
+## Adinfa, Sociedad Cooperativa Andaluza
+- **ciudad:** Coria del Río, Sevilla
+- **slug:** adinfa-sociedad-cooperativa-andaluza
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Coria del Río, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maria Jesús 3, CP 41100
+- **telefono:** 607271338
+- **web:** 
+- **featured:** false
+
+
+## Clínica de Salud Mental Miguel de Mañara
+- **ciudad:** Dos Hermanas, Sevilla
+- **slug:** clinica-de-salud-mental-miguel-de-manara
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Dos Hermanas, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Hermanos de La Cruz Blanca 1, CP 41089
+- **telefono:** 954127033
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Agustín
+- **ciudad:** Dos Hermanas, Sevilla
+- **slug:** hospital-san-agustin
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Dos Hermanas, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Prolongación Doctor Fleming, Sector 13 S/N, CP 41703
+- **telefono:** 955050570
+- **web:** 
+- **featured:** false
+
+
+## Clínica Santa Isabel
+- **ciudad:** Sevilla, Sevilla
+- **slug:** clinica-santa-isabel
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Luis Montoto 100, CP 41018
+- **telefono:** 954919000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Nuestra Señora de Aránzazu
+- **ciudad:** Sevilla, Sevilla
+- **slug:** clinica-nuestra-senora-de-aranzazu
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Jesús del Gran Poder 29, CP 41002
+- **telefono:** 954382110
+- **web:** 
+- **featured:** false
+
+
+## Ita Clinic Bcn
+- **ciudad:** Sevilla, Sevilla
+- **slug:** ita-clinic-bcn
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Vidrio 32, CP 41005
+- **telefono:** 954633252
+- **web:** 
+- **featured:** false
+
+
+## Hospital Victoria Eugenia de La Cruz Roja Española
+- **ciudad:** Sevilla, Sevilla
+- **slug:** hospital-victoria-eugenia-de-la-cruz-roja-espanola
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De La Cruz Roja 1, CP 41009
+- **telefono:** 954352082
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Sagrado Corazón
+- **ciudad:** Sevilla, Sevilla
+- **slug:** hospital-quironsalud-sagrado-corazon
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Rafael Salgado 3, CP 41013
+- **telefono:** 954937676
+- **web:** 
+- **featured:** false
+
+
+## Hospital Fátima
+- **ciudad:** Sevilla, Sevilla
+- **slug:** hospital-fatima
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Glorieta De Méjico 1, CP 41012
+- **telefono:** 954613300
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Santa Angela de La Cruz
+- **ciudad:** Sevilla, Sevilla
+- **slug:** hospital-viamed-santa-angela-de-la-cruz
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Jerez 59, CP 41014
+- **telefono:** 954032000
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Juan de Dios de Sevilla
+- **ciudad:** Sevilla, Sevilla
+- **slug:** hospital-san-juan-de-dios-de-sevilla
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sevilla, Sevilla (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Eduardo Dato 42, CP 41005
+- **telefono:** 954933870
+- **web:** 
+- **featured:** false
+
+
+## Hospital Latorre
+- **ciudad:** Soria, Soria
+- **slug:** hospital-latorre
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Soria, Soria (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino De Los Royales, 8 S/N, CP 42005
+- **telefono:** 975950450
+- **web:** 
+- **featured:** false
+
+
+## Unitat Polivalent En Salut Mental D'Amposta
+- **ciudad:** Amposta, Tarragona
+- **slug:** unitat-polivalent-en-salut-mental-d-amposta
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Amposta, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle América 15, CP 43870
+- **telefono:** 977338565
+- **web:** 
+- **featured:** false
+
+
+## Villablanca Serveis Assistencials, Sa
+- **ciudad:** Reus, Tarragona
+- **slug:** villablanca-serveis-assistencials-sa
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Reus, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Partida Bellisens S/N, CP 43204
+- **telefono:** 977391810
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Ciutat de Reus
+- **ciudad:** Reus, Tarragona
+- **slug:** centre-sociosanitari-ciutat-de-reus
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Reus, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino De Tarragona 10-12, CP 43204
+- **telefono:** 977300021
+- **web:** 
+- **featured:** false
+
+
+## Institut Pere Mata, S.A
+- **ciudad:** Reus, Tarragona
+- **slug:** institut-pere-mata-s-a
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Reus, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De L'Institut Pere Mata S/N, CP 43206
+- **telefono:** 977338565
+- **web:** 
+- **featured:** false
+
+
+## Centre Mq Reus
+- **ciudad:** Reus, Tarragona
+- **slug:** centre-mq-reus
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Reus, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Antoni Gaudí 26, CP 43203
+- **telefono:** 977010800
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari I Residencia Assistida Salou
+- **ciudad:** Salou, Tarragona
+- **slug:** centre-sociosanitari-i-residencia-assistida-salou
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Salou, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Pau Casals 4, CP 43840
+- **telefono:** 977385403
+- **web:** 
+- **featured:** false
+
+
+## Policlínica Comarcal del Vendrell.
+- **ciudad:** Santa Oliva, Tarragona
+- **slug:** policlinica-comarcal-del-vendrell
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Oliva, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Santa Oliva 1-13, CP 43710
+- **telefono:** 977660140
+- **web:** 
+- **featured:** false
+
+
+## Residencia Santa Tecla Ponent
+- **ciudad:** Tarragona, Tarragona
+- **slug:** residencia-santa-tecla-ponent
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Tarragona, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Menorca 26, CP 43006
+- **telefono:** 977540678
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Llevant
+- **ciudad:** Tarragona, Tarragona
+- **slug:** centre-sociosanitari-llevant
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Tarragona, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Joan Fuster Ortells S/N, CP 43007
+- **telefono:** 977239412
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Monegal
+- **ciudad:** Tarragona, Tarragona
+- **slug:** hospital-viamed-monegal
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Tarragona, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle López Peláez 15-17, CP 43002
+- **telefono:** 977225012
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Sant Pau I Santa Tecla
+- **ciudad:** Tarragona, Tarragona
+- **slug:** hospital-de-sant-pau-i-santa-tecla
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Tarragona, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Rambla Vella 14, CP 43003
+- **telefono:** 977259900
+- **web:** 
+- **featured:** false
+
+
+## Centro Zeus
+- **ciudad:** Ulldecona, Tarragona
+- **slug:** centro-zeus
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Ulldecona, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Tv-3319 (Els Rajolars) S/N, CP 43550
+- **telefono:** 643771223
+- **web:** 
+- **featured:** false
+
+
+## Pius Hospital de Valls
+- **ciudad:** Valls, Tarragona
+- **slug:** pius-hospital-de-valls
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Valls, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Sant Francesc S/N, CP 43800
+- **telefono:** 977613000
+- **web:** 
+- **featured:** false
+
+
+## Residencia Alt Camp
+- **ciudad:** Valls, Tarragona
+- **slug:** residencia-alt-camp
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Valls, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Del Bosc S/N, CP 43800
+- **telefono:** 977600292
+- **web:** 
+- **featured:** false
+
+
+## Hospital del Vendrell
+- **ciudad:** Vendrell, El, Tarragona
+- **slug:** hospital-del-vendrell
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vendrell, El, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera N-340 1193, CP 43700
+- **telefono:** 977257900
+- **web:** 
+- **featured:** false
+
+
+## Residencia Vila-Seca
+- **ciudad:** Vila-seca, Tarragona
+- **slug:** residencia-vila-seca
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Vila-seca, Tarragona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Requet de Félix 35, CP 43480
+- **telefono:** 977395825
+- **web:** 
+- **featured:** false
+
+
+## Hospital Parque Marazuela
+- **ciudad:** Talavera de la Reina, Toledo
+- **slug:** hospital-parque-marazuela
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Talavera de la Reina, Toledo (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De Extremadura 5, CP 45600
+- **telefono:** 925815281
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Toledo
+- **ciudad:** Toledo, Toledo
+- **slug:** hospital-quironsalud-toledo
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Toledo, Toledo (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Urbanización Tres Culturas S/N, CP 45005
+- **telefono:** 925266100
+- **web:** 
+- **featured:** false
+
+
+## IMED Valencia
+- **ciudad:** Burjassot, Valencia
+- **slug:** imed-valencia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Burjassot, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ferrocarril 57, CP 46100
+- **telefono:** 963003003;966878783
+- **web:** 
+- **featured:** false
+
+
+## Hospital Nisa Aguas Vivas
+- **ciudad:** Carcaixent, Valencia
+- **slug:** hospital-nisa-aguas-vivas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Carcaixent, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Urbanización Vall D'Aigues Vives, de La S/N, CP 46740
+- **telefono:** 962588800;962588933
+- **web:** 
+- **featured:** false
+
+
+## Hospital IMED Gandía
+- **ciudad:** Gandia, Valencia
+- **slug:** hospital-imed-gandia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Gandia, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Daimus 26, CP 46701
+- **telefono:** 962874740
+- **web:** 
+- **featured:** false
+
+
+## Ita Godella
+- **ciudad:** Godella, Valencia
+- **slug:** ita-godella
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Godella, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Joan Peset 31, CP 46110
+- **telefono:** 639634017;963638036
+- **web:** 
+- **featured:** false
+
+
+## Hospital Infanto-Juvenil J. Peirón
+- **ciudad:** Pobla de Vallbona, la, Valencia
+- **slug:** hospital-infanto-juvenil-j-peiron
+- **especialidades:** Otros Centros con Internamiento
+- **descripcion:** Otros Centros con Internamiento privado ubicado en Pobla de Vallbona, la, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle De Les Mareselves 1, CP 46185
+- **telefono:** 633312734
+- **web:** 
+- **featured:** false
+
+
+## Clínica Imske
+- **ciudad:** València, Valencia
+- **slug:** clinica-imske
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en València, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Suiza S/N, CP 46024
+- **telefono:** 646521270;963690000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Vithas Valencia Consuelo
+- **ciudad:** València, Valencia
+- **slug:** hospital-vithas-valencia-consuelo
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en València, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Callosa D'En Sarria 12, CP 46007
+- **telefono:** 963177800
+- **web:** 
+- **featured:** false
+
+
+## IMED Colón
+- **ciudad:** València, Valencia
+- **slug:** imed-colon
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en València, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Isabel La Católica 12, CP 46004
+- **telefono:** 966878783
+- **web:** 
+- **featured:** false
+
+
+## Hospital Católico Casa de Salud
+- **ciudad:** València, Valencia
+- **slug:** hospital-catolico-casa-de-salud
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en València, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Manuel Candela 41, CP 46021
+- **telefono:** 963897700;963897716
+- **web:** 
+- **featured:** false
+
+
+## Hospital 9 de Octubre
+- **ciudad:** València, Valencia
+- **slug:** hospital-9-de-octubre
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en València, Valencia (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Valle de La Ballestera 59, CP 46015
+- **telefono:** 963179100;963179200
+- **web:** 
+- **featured:** false
+
+
+## Hospital Casaverde Valladolid
+- **ciudad:** Valladolid, Valladolid
+- **slug:** hospital-casaverde-valladolid
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Valladolid, Valladolid (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Universo C.V. A C Astrofísico Carlos Sánchez Magro S/N, CP 47011
+- **telefono:** 0034000000000
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Valladolid Felipe Ir
+- **ciudad:** Valladolid, Valladolid
+- **slug:** hospital-de-valladolid-felipe-ir
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Valladolid, Valladolid (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Felipe Ir 9, CP 47003
+- **telefono:** 983358000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas Campo Grande
+- **ciudad:** Valladolid, Valladolid
+- **slug:** hospital-recoletas-campo-grande
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Valladolid, Valladolid (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza De Colon Sn S/N, CP 47007
+- **telefono:** 983135555
+- **web:** 
+- **featured:** false
+
+
+## Clínica Indautxu, S.A.
+- **ciudad:** Bilbao, Vizcaya
+- **slug:** clinica-indautxu-s-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Bilbao, Vizcaya (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Gordoniz 9, CP 48010
+- **telefono:** 639141723;944445012
+- **web:** 
+- **featured:** false
+
+
+## Clínica Virgen Blanca
+- **ciudad:** Bilbao, Vizcaya
+- **slug:** clinica-virgen-blanca
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Bilbao, Vizcaya (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maestro Mendiri 2, CP 48006
+- **telefono:** 944127011
+- **web:** 
+- **featured:** false
+
+
+## Clínica Imq Zorrotzaurre
+- **ciudad:** Bilbao, Vizcaya
+- **slug:** clinica-imq-zorrotzaurre
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Bilbao, Vizcaya (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ballets Olaeta 4, CP 48014
+- **telefono:** 944755000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Guimon, S.A.
+- **ciudad:** Bilbao, Vizcaya
+- **slug:** clinica-guimon-s-a
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Bilbao, Vizcaya (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Manuel Allende 24, CP 48010
+- **telefono:** 944215200
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Bizkaia
+- **ciudad:** Erandio, Vizcaya
+- **slug:** hospital-quironsalud-bizkaia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Erandio, Vizcaya (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Leioa-Unbe 33, CP 48950
+- **telefono:** 902445595;944898000
+- **web:** 
+- **featured:** false
+
+
+## Avances Médicos S.A.
+- **ciudad:** Santurtzi, Vizcaya
+- **slug:** avances-medicos-s-a
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Santurtzi, Vizcaya (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Cristóbal de Murrieta, Avenida/Etorbidea 70, CP 48980
+- **telefono:** 944947071
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas de Zamora
+- **ciudad:** Zamora, Zamora
+- **slug:** hospital-recoletas-de-zamora
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Zamora, Zamora (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pinar 7, CP 49023
+- **telefono:** 980545300
+- **web:** 
+- **featured:** false
+
+
+## Hospital Parque San Francisco
+- **ciudad:** Cáceres, Cáceres
+- **slug:** hospital-parque-san-francisco
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Cáceres, Cáceres (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda De San Francisco 0, CP 10005
+- **telefono:** 927012200
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Cáceres
+- **ciudad:** Cáceres, Cáceres
+- **slug:** hospital-quironsalud-caceres
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Cáceres, Cáceres (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De La Universidad 5, CP 10004
+- **telefono:** 927181360
+- **web:** 
+- **featured:** false
+
+
+## Clínica Soquimex
+- **ciudad:** Plasencia, Cáceres
+- **slug:** clinica-soquimex
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Plasencia, Cáceres (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida La Salle 22, CP 10600
+- **telefono:** 646542774
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quirón Campo de Gibraltar
+- **ciudad:** Barrios, Los, Cádiz
+- **slug:** hospital-quiron-campo-de-gibraltar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barrios, Los, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Arttysur - P. E. T. Las Marismas de Palmones S/N, CP 11379
+- **telefono:** 956798301
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Rafael
+- **ciudad:** Cádiz, Cádiz
+- **slug:** hospital-san-rafael
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Cádiz, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Diego Arias 2, CP 11002
+- **telefono:** 956017267
+- **web:** 
+- **featured:** false
+
+
+## Hospital Nuestra Sra. de La Salud Ha S.L.
+- **ciudad:** Cádiz, Cádiz
+- **slug:** hospital-nuestra-sra-de-la-salud-ha-s-l
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Cádiz, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Feduchy 8-14, CP 11001
+- **telefono:** 956225301
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Bahía de Cádiz
+- **ciudad:** Chiclana de la Frontera, Cádiz
+- **slug:** hospital-viamed-bahia-de-cadiz
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Chiclana de la Frontera, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ayala 2, CP 11130
+- **telefono:** 956533333
+- **web:** 
+- **featured:** false
+
+
+## Hospital Viamed Novo Sancti Petri
+- **ciudad:** Chiclana de la Frontera, Cádiz
+- **slug:** hospital-viamed-novo-sancti-petri
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Chiclana de la Frontera, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Octavio Augusto, S/N S/N, CP 11139
+- **telefono:** 956495000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Los Álamos
+- **ciudad:** Jerez de la Frontera, Cádiz
+- **slug:** clinica-los-alamos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Jerez de la Frontera, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Tamarix 4, CP 11407
+- **telefono:** 956182244
+- **web:** 
+- **featured:** false
+
+
+## Hospital Jerez Puerta del Sur
+- **ciudad:** Jerez de la Frontera, Cádiz
+- **slug:** hospital-jerez-puerta-del-sur
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Jerez de la Frontera, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Puerta del Sur S/N, CP 11408
+- **telefono:** 956357100
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Juan Grande
+- **ciudad:** Jerez de la Frontera, Cádiz
+- **slug:** hospital-san-juan-grande
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Jerez de la Frontera, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Glorieta Doctor Félix Rodriguez de La Fuente S/N, CP 11408
+- **telefono:** 956357300
+- **web:** 
+- **featured:** false
+
+
+## Hospital General Santa Maria del Puerto
+- **ciudad:** Puerto de Santa María, El, Cádiz
+- **slug:** hospital-general-santa-maria-del-puerto
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Puerto de Santa María, El, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Valdés S/N, CP 11500
+- **telefono:** 956017000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Virgen del Camino
+- **ciudad:** Sanlúcar de Barrameda, Cádiz
+- **slug:** hospital-virgen-del-camino
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sanlúcar de Barrameda, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Sanlúcar-Chipiona, S/N S/N, CP 11540
+- **telefono:** 956048068
+- **web:** 
+- **featured:** false
+
+
+## Hospital Virgen de Las Montañas
+- **ciudad:** Villamartín, Cádiz
+- **slug:** hospital-virgen-de-las-montanas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Villamartín, Cádiz (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Ambulatorio S/N, CP 11650
+- **telefono:** 956041000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Vithas Vitoria
+- **ciudad:** Vitoria-Gasteiz, Álava
+- **slug:** hospital-vithas-vitoria
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vitoria-Gasteiz, Álava (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Beato Tomas de Zumarraga 10, CP 01008
+- **telefono:** 945140900
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Vitoria
+- **ciudad:** Vitoria-Gasteiz, Álava
+- **slug:** hospital-quironsalud-vitoria
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vitoria-Gasteiz, Álava (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle La Esperanza 3, CP 01002
+- **telefono:** 945252500
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Albacete
+- **ciudad:** Albacete, Albacete
+- **slug:** hospital-quironsalud-albacete
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Albacete, Albacete (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Del Madroño 11, CP 02008
+- **telefono:** 967190072
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Santa Cristina
+- **ciudad:** Albacete, Albacete
+- **slug:** hospital-quironsalud-santa-cristina
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Albacete, Albacete (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Perez Galdós 7-9, CP 02003
+- **telefono:** 967223300
+- **web:** 
+- **featured:** false
+
+
+## Hospital IMED San Jorge
+- **ciudad:** Alcoy/Alcoi, Alicante
+- **slug:** hospital-imed-san-jorge
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Alcoy/Alcoi, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Oliver 55, CP 03802
+- **telefono:** 965330400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Vistahermosa Grupo Ha
+- **ciudad:** Alicante/Alacant, Alicante
+- **slug:** clinica-vistahermosa-grupo-ha
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Alicante/Alacant, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Denia 103, CP 03015
+- **telefono:** 649303489;965268000
+- **web:** 
+- **featured:** false
+
+
+## Vithas Hospital Perpetuo Internacional
+- **ciudad:** Alicante/Alacant, Alicante
+- **slug:** vithas-hospital-perpetuo-internacional
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Alicante/Alacant, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Doctor Gómez Ulla 15, CP 03013
+- **telefono:** 699507150;965230331
+- **web:** 
+- **featured:** false
+
+
+## Hospital Medimar Internacional
+- **ciudad:** Alicante/Alacant, Alicante
+- **slug:** hospital-medimar-internacional
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Alicante/Alacant, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Denia 78, CP 03016
+- **telefono:** 699507150;965230331
+- **web:** 
+- **featured:** false
+
+
+## Hospital IMED Levante
+- **ciudad:** Benidorm, Alicante
+- **slug:** hospital-imed-levante
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Benidorm, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Dr. Santiago Ramon y Cajal 7, CP 03503
+- **telefono:** 966878783;966878787
+- **web:** 
+- **featured:** false
+
+
+## Hospital Internacional Hcb Denia
+- **ciudad:** Dénia, Alicante
+- **slug:** hospital-internacional-hcb-denia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Dénia, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Gandía 45, CP 03700
+- **telefono:** 965853850
+- **web:** 
+- **featured:** false
+
+
+## Hospital San Carlos de Denia Grupo HA
+- **ciudad:** Dénia, Alicante
+- **slug:** hospital-san-carlos-de-denia-grupo-ha
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Dénia, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Partida Madrigueres Sud 8, CP 03700
+- **telefono:** 902300124;965781550
+- **web:** 
+- **featured:** false
+
+
+## Hospital IMED Elche
+- **ciudad:** Elche/Elx, Alicante
+- **slug:** hospital-imed-elche
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Elche/Elx, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Max Planck S/N, CP 03203
+- **telefono:** 965503030;966915151
+- **web:** 
+- **featured:** false
+
+
+## Centro de Rehabilitación Neurológica Casaverde
+- **ciudad:** Mutxamel, Alicante
+- **slug:** centro-de-rehabilitacion-neurologica-casaverde
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Mutxamel, Alicante (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ponent 15, CP 03110
+- **telefono:** 965950711
+- **web:** 
+- **featured:** false
+
+
+## Hospital Virgen del Mar
+- **ciudad:** Almería, Almería
+- **slug:** hospital-virgen-del-mar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Almería, Almería (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Del Mami KM 1, CP 04120
+- **telefono:** 950217167
+- **web:** 
+- **featured:** false
+
+
+## Hospital Mediterráneo
+- **ciudad:** Almería, Almería
+- **slug:** hospital-mediterraneo
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Almería, Almería (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Nueva Musa 8, CP 04007
+- **telefono:** 950621063
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Salud Mental Casta Salud Arévalo
+- **ciudad:** Arévalo, Ávila
+- **slug:** hospital-de-salud-mental-casta-salud-arevalo
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Arévalo, Ávila (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo San Juan Bosco, 2, CP 05200
+- **telefono:** 920301400
+- **web:** 
+- **featured:** false
+
+
+## Hospital Santa Teresa
+- **ciudad:** Ávila, Ávila
+- **slug:** hospital-santa-teresa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ávila, Ávila (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Santa Cruz de Tenerife 11, CP 05005
+- **telefono:** 920252525
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ribera Almendralejo
+- **ciudad:** Almendralejo, Badajoz
+- **slug:** hospital-ribera-almendralejo
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Almendralejo, Badajoz (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Monsalud 1, CP 06200
+- **telefono:** 924670017
+- **web:** 
+- **featured:** false
+
+
+## Hospital Ribera Badajoz
+- **ciudad:** Badajoz, Badajoz
+- **slug:** hospital-ribera-badajoz
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Badajoz, Badajoz (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Federico Mayor Zaragoza 0, CP 06006
+- **telefono:** 609009709
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Clideba
+- **ciudad:** Badajoz, Badajoz
+- **slug:** hospital-quironsalud-clideba
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Badajoz, Badajoz (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Eladio Salinero de Los Santos 6, CP 06011
+- **telefono:** 924229050
+- **web:** 
+- **featured:** false
+
+
+## Hospital de San Antonio
+- **ciudad:** Don Benito, Badajoz
+- **slug:** hospital-de-san-antonio
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Don Benito, Badajoz (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cervantes 12, CP 06400
+- **telefono:** 924801486
+- **web:** 
+- **featured:** false
+
+
+## Hospital Parque Vegas Altas
+- **ciudad:** Don Benito, Badajoz
+- **slug:** hospital-parque-vegas-altas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Don Benito, Badajoz (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Madrid 12, CP 06400
+- **telefono:** 924808482
+- **web:** 
+- **featured:** false
+
+
+## Casaverde Centro de Rehabilitación Neurológico de Extremadura S.L.
+- **ciudad:** Mérida, Badajoz
+- **slug:** casaverde-centro-de-rehabilitacion-neurologico-de-extremadura-s-l
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Mérida, Badajoz (Extremadura), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Adolfo Suarez 56, CP 06800
+- **telefono:** 924380330
+- **web:** 
+- **featured:** false
+
+
+## Clínica Juaneda Ciutadella
+- **ciudad:** Ciutadella de Menorca, Illes Balears
+- **slug:** clinica-juaneda-ciutadella
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ciutadella de Menorca, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Carretera Ciutadella - Sa Caleta 31, CP 07760
+- **telefono:** 971480508
+- **web:** 
+- **featured:** false
+
+
+## Clínica Juaneda Menorca
+- **ciudad:** Ciutadella de Menorca, Illes Balears
+- **slug:** clinica-juaneda-menorca
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Ciutadella de Menorca, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Canonge Moll S/N, CP 07760
+- **telefono:** 971480505
+- **web:** 
+- **featured:** false
+
+
+## Policlínica Nuestra Sra. del Rosario
+- **ciudad:** Eivissa, Illes Balears
+- **slug:** policlinica-nuestra-sra-del-rosario
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Eivissa, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Vía Romana S/N, CP 07800
+- **telefono:** 971301916
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sant Joan de Deu Inca
+- **ciudad:** Inca, Illes Balears
+- **slug:** hospital-sant-joan-de-deu-inca
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Inca, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Jaume Ir 44, CP 07300
+- **telefono:** 097126585
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Son Veri
+- **ciudad:** Llucmajor, Illes Balears
+- **slug:** hospital-quironsalud-son-veri
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Llucmajor, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Arbreda S/N, CP 07609
+- **telefono:** 971443030
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Llevant
+- **ciudad:** Manacor, Illes Balears
+- **slug:** hospital-de-llevant
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Manacor, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Escamarla 6, CP 07680
+- **telefono:** 971822400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Juaneda Mahón
+- **ciudad:** Maó-Mahón, Illes Balears
+- **slug:** clinica-juaneda-mahon
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Maó-Mahón, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Vives Llull 6, CP 07703
+- **telefono:** 971351115
+- **web:** 
+- **featured:** false
+
+
+## Hospital Juaneda Muro
+- **ciudad:** Muro, Illes Balears
+- **slug:** hospital-juaneda-muro
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Muro, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Veler S/N, CP 07459
+- **telefono:** 971891900
+- **web:** 
+- **featured:** false
+
+
+## Juaneda Miramar
+- **ciudad:** Palma, Illes Balears
+- **slug:** juaneda-miramar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cami de La Vileta 30, CP 07011
+- **telefono:** 971767000
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quironsalud Palmaplanas
+- **ciudad:** Palma, Illes Balears
+- **slug:** hospital-quironsalud-palmaplanas
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cami Dels Reis 308, CP 07010
+- **telefono:** 971918000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Juaneda
+- **ciudad:** Palma, Illes Balears
+- **slug:** clinica-juaneda
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Company 30, CP 07014
+- **telefono:** 971731647
+- **web:** 
+- **featured:** false
+
+
+## Clínica Rotger
+- **ciudad:** Palma, Illes Balears
+- **slug:** clinica-rotger
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Santiago Russinyol 9, CP 07012
+- **telefono:** 971448500
+- **web:** 
+- **featured:** false
+
+
+## Clínica Luz de Palma
+- **ciudad:** Palma, Illes Balears
+- **slug:** clinica-luz-de-palma
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Camilo José Cela 20, CP 07014
+- **telefono:** 971599167
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sant Joan de Deu
+- **ciudad:** Palma, Illes Balears
+- **slug:** hospital-sant-joan-de-deu
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Joan de Deu 7, CP 07007
+- **telefono:** 971265854
+- **web:** 
+- **featured:** false
+
+
+## Hospital de La Creu Roja Espanyola
+- **ciudad:** Palma, Illes Balears
+- **slug:** hospital-de-la-creu-roja-espanyola
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Palma, Illes Balears (Illes Balears), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pons I Gallarza 90, CP 07004
+- **telefono:** 971751445
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Can Torras
+- **ciudad:** Alella, Barcelona
+- **slug:** centre-sociosanitari-can-torras
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Alella, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ferrer I Guardia 9, CP 08328
+- **telefono:** 935551994
+- **web:** 
+- **featured:** false
+
+
+## Centre Polivalent Can Fosc
+- **ciudad:** Ametlla del Vallès, L', Barcelona
+- **slug:** centre-polivalent-can-fosc
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Ametlla del Vallès, L', Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De Llerona S/N, CP 08480
+- **telefono:** 938432786
+- **web:** 
+- **featured:** false
+
+
+## Comunitat Terapéutica Arenys de Munt
+- **ciudad:** Arenys de Munt, Barcelona
+- **slug:** comunitat-terapeutica-arenys-de-munt
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Arenys de Munt, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Barri Orient Can Zariquiey 26, CP 08358
+- **telefono:** 937938006
+- **web:** 
+- **featured:** false
+
+
+## Centre D'Hospitalitzacio I Hospital de Dia Trastorns de La Conducta
+- **ciudad:** Argentona, Barcelona
+- **slug:** centre-d-hospitalitzacio-i-hospital-de-dia-trastorns-de-la-conducta
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Argentona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cires S/N, CP 08310
+- **telefono:** 937533006
+- **web:** 
+- **featured:** false
+
+
+## Institut Guttmann
+- **ciudad:** Badalona, Barcelona
+- **slug:** institut-guttmann
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Badalona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino Can Ruti S/N, CP 08916
+- **telefono:** 934977700
+- **web:** 
+- **featured:** false
+
+
+## Clínica Nostra Senyora del Remei
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-nostra-senyora-del-remei
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Escorial 148, CP 08024
+- **telefono:** 932850010
+- **web:** 
+- **featured:** false
+
+
+## Eatica
+- **ciudad:** Barcelona, Barcelona
+- **slug:** eatica
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Angli 64, CP 08017
+- **telefono:** 620407483
+- **web:** 
+- **featured:** false
+
+
+## Ronda de Dalt, Centre Sociosanitari
+- **ciudad:** Barcelona, Barcelona
+- **slug:** ronda-de-dalt-centre-sociosanitari
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pare Mariana 15, CP 08035
+- **telefono:** 937064156
+- **web:** 
+- **featured:** false
+
+
+## Clínica Sagrada Familia
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-sagrada-familia
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Torras I Pujalt 1, CP 08022
+- **telefono:** 932122300
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari del Centre Integral de Salut Cotxeres
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-sociosanitari-del-centre-integral-de-salut-cotxeres
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Borbo 18-30, CP 08016
+- **telefono:** 932438991
+- **web:** 
+- **featured:** false
+
+
+## Centre Integral de Serveis En Salut Mental Comunitaria
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-integral-de-serveis-en-salut-mental-comunitaria
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Verntallat 11-19, CP 08024
+- **telefono:** 932184908
+- **web:** 
+- **featured:** false
+
+
+## Clínica Galatea
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-galatea
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Palafolls 15-19, CP 08017
+- **telefono:** 932057267
+- **web:** 
+- **featured:** false
+
+
+## Hospital Mare de Déu de La Mercé?
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-mare-de-deu-de-la-merce
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Universal 34, CP 08042
+- **telefono:** 934275250
+- **web:** 
+- **featured:** false
+
+
+## Clínica Coroleu - Ssr Hestia.
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-coroleu-ssr-hestia
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Coroleu 50, CP 08030
+- **telefono:** 931165500
+- **web:** 
+- **featured:** false
+
+
+## Centre Hospitalari Policlínica Barcelona
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-hospitalari-policlinica-barcelona
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Guillem Tell 4, CP 08006
+- **telefono:** 934161616
+- **web:** 
+- **featured:** false
+
+
+## Clínica Corachan
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-corachan
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Buigas 19, CP 08017
+- **telefono:** 932545800
+- **web:** 
+- **featured:** false
+
+
+## Lepant Residencial Qgg, S.L.
+- **ciudad:** Barcelona, Barcelona
+- **slug:** lepant-residencial-qgg-s-l
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Lepant 401-403, CP 08025
+- **telefono:** 934507438
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Isabel Roig
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-sociosanitari-isabel-roig
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Fernando Pessoa 47-51, CP 08030
+- **telefono:** 931780667
+- **web:** 
+- **featured:** false
+
+
+## Centre D'Oftalmologia Barraquer
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-d-oftalmologia-barraquer
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Muntaner 314, CP 08021
+- **telefono:** 936025342
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Barcelona
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-de-barcelona
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Diagonal 660, CP 08034
+- **telefono:** 932542400
+- **web:** 
+- **featured:** false
+
+
+## Centro Medico Teknon, Grupo Quironsalud
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centro-medico-teknon-grupo-quironsalud
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Vilana 12, CP 08022
+- **telefono:** 932906242
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitari Quirón Dexeus
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-universitari-quiron-dexeus
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sabino de Arana 5-19, CP 08028
+- **telefono:** 932274747
+- **web:** 
+- **featured:** false
+
+
+## HM Nou Delfos
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hm-nou-delfos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Vallcarca 151, CP 08023
+- **telefono:** 932545183
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitari Sagrat Cor
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-universitari-sagrat-cor
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Viladomat 288, CP 08029
+- **telefono:** 933221111
+- **web:** 
+- **featured:** false
+
+
+## Hospital de La Santa Creu I Sant Pau
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-de-la-santa-creu-i-sant-pau
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Quinti 89, CP 08041
+- **telefono:** 935537160
+- **web:** 
+- **featured:** false
+
+
+## Unitat Terapéutica-Educativa Acompanya'M
+- **ciudad:** Barcelona, Barcelona
+- **slug:** unitat-terapeutica-educativa-acompanya-m
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Jesús I Maria 18-20, CP 08022
+- **telefono:** 932532100
+- **web:** 
+- **featured:** false
+
+
+## Clínica Sant Antoni
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-sant-antoni
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Eloi 6-8, CP 08038
+- **telefono:** 932974010
+- **web:** 
+- **featured:** false
+
+
+## Ita Maresme
+- **ciudad:** Barcelona, Barcelona
+- **slug:** ita-maresme
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Avenir 14, CP 08006
+- **telefono:** 933621258
+- **web:** 
+- **featured:** false
+
+
+## Unitat Polivalent Salut Mental Barcelona-Nord
+- **ciudad:** Barcelona, Barcelona
+- **slug:** unitat-polivalent-salut-mental-barcelona-nord
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Jorda 8, CP 08035
+- **telefono:** 934275250
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Sant Jordi de La Vall D'Hebron
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-sociosanitari-sant-jordi-de-la-vall-d-hebron
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Vall D'Hebron 135-141, CP 08035
+- **telefono:** 934280000
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Blauclinic Dolors Aleu
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-sociosanitari-blauclinic-dolors-aleu
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Marques de Santa Anna 9, CP 08023
+- **telefono:** 934343216
+- **web:** 
+- **featured:** false
+
+
+## Hestia Gracia
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hestia-gracia
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Secretari Coloma 95, CP 08024
+- **telefono:** 934170400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Tres Torres
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-tres-torres
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Doctor Roux 76, CP 08017
+- **telefono:** 932041300
+- **web:** 
+- **featured:** false
+
+
+## Fundacio Puigvert - Iuna
+- **ciudad:** Barcelona, Barcelona
+- **slug:** fundacio-puigvert-iuna
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cartagena 340, CP 08025
+- **telefono:** 934169700
+- **web:** 
+- **featured:** false
+
+
+## Centro Residencial Domusvi La Salut Josep Servat.
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centro-residencial-domusvi-la-salut-josep-servat
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Antequera 8-18, CP 08024
+- **telefono:** 932857512
+- **web:** 
+- **featured:** false
+
+
+## Centre Collserola Mutual
+- **ciudad:** Barcelona, Barcelona
+- **slug:** centre-collserola-mutual
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Vall D'Hebron, 159, CP 08035
+- **telefono:** 933613900
+- **web:** 
+- **featured:** false
+
+
+## Parc Sanitari Sant Joan de Deu - Numancia
+- **ciudad:** Barcelona, Barcelona
+- **slug:** parc-sanitari-sant-joan-de-deu-numancia
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Numancia 7-13, CP 08029
+- **telefono:** 933249600
+- **web:** 
+- **featured:** false
+
+
+## Clínica Lluria
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-lluria
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Pasaje Mercader 14, CP 08008
+- **telefono:** 934882142
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sociosanitari Mutuam Güell
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-sociosanitari-mutuam-guell
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Mare de Deu de La Salut 49, CP 08024
+- **telefono:** 932133400
+- **web:** 
+- **featured:** false
+
+
+## Clínica Planas
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-planas
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pere Ir de Montcada 16, CP 08034
+- **telefono:** 932032812
+- **web:** 
+- **featured:** false
+
+
+## Serveis Clinics, S.A.
+- **ciudad:** Barcelona, Barcelona
+- **slug:** serveis-clinics-s-a
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Garcia Mariño 4, CP 08022
+- **telefono:** 934174602
+- **web:** 
+- **featured:** false
+
+
+## Hestia Palau.
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hestia-palau
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Antoni Maria Claret , 135, CP 08025
+- **telefono:** 934501819
+- **web:** 
+- **featured:** false
+
+
+## Nou Hospital Evangelic
+- **ciudad:** Barcelona, Barcelona
+- **slug:** nou-hospital-evangelic
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Ciutat de Granada 108, CP 08018
+- **telefono:** 932859955
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sanitas Cima
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-sanitas-cima
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Manuel Girona 33, CP 08034
+- **telefono:** 935522700
+- **web:** 
+- **featured:** false
+
+
+## Hospital El Pilar
+- **ciudad:** Barcelona, Barcelona
+- **slug:** hospital-el-pilar
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Balmes 271, CP 08006
+- **telefono:** 932360500
+- **web:** 
+- **featured:** false
+
+
+## Clínica Creu Blanca
+- **ciudad:** Barcelona, Barcelona
+- **slug:** clinica-creu-blanca
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Barcelona, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Reina Elisenda de Montcada, 17, CP 08034
+- **telefono:** 932522522
+- **web:** 
+- **featured:** false
+
+
+## Residencia Santa Susanna
+- **ciudad:** Caldes de Montbui, Barcelona
+- **slug:** residencia-santa-susanna
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Caldes de Montbui, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Font I Boet 16, CP 08140
+- **telefono:** 938654994
+- **web:** 
+- **featured:** false
+
+
+## Hospital Comarcal Sant Jaume de Calella
+- **ciudad:** Calella, Barcelona
+- **slug:** hospital-comarcal-sant-jaume-de-calella
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Calella, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Jaume 209-217, CP 03500
+- **telefono:** 937690201
+- **web:** 
+- **featured:** false
+
+
+## Ita Canet
+- **ciudad:** Canet de Mar, Barcelona
+- **slug:** ita-canet
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Canet de Mar, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda Sant Elm 2, CP 08360
+- **telefono:** 932530137
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Sarquavitae Sant Jordi
+- **ciudad:** Cornellà de Llobregat, Barcelona
+- **slug:** centre-sociosanitari-sarquavitae-sant-jordi
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Cornellà de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Sant Joan Despi 60, CP 08940
+- **telefono:** 934752690
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari D'Esplugues
+- **ciudad:** Esplugues de Llobregat, Barcelona
+- **slug:** centre-sociosanitari-d-esplugues
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Esplugues de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Vía Augusta 66-70, CP 08950
+- **telefono:** 936406350
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Sant Joan de Deu.
+- **ciudad:** Esplugues de Llobregat, Barcelona
+- **slug:** hospital-de-sant-joan-de-deu
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Esplugues de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Joan de Deu 2, CP 08950
+- **telefono:** 932804000
+- **web:** 
+- **featured:** false
+
+
+## Clínica Nostra Senyora de Guadalupe
+- **ciudad:** Esplugues de Llobregat, Barcelona
+- **slug:** clinica-nostra-senyora-de-guadalupe
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Esplugues de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Francesc Moragas 2, CP 08950
+- **telefono:** 934702970
+- **web:** 
+- **featured:** false
+
+
+## Clínica Diagonal
+- **ciudad:** Esplugues de Llobregat, Barcelona
+- **slug:** clinica-diagonal
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Esplugues de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Mateu 24-26, CP 08950
+- **telefono:** 932053213
+- **web:** 
+- **featured:** false
+
+
+## Benito Menni Complex Assistencial En Salut Mental
+- **ciudad:** Granollers, Barcelona
+- **slug:** benito-menni-complex-assistencial-en-salut-mental
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Granollers, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Francesc Ribas 59, CP 08402
+- **telefono:** 938425035
+- **web:** 
+- **featured:** false
+
+
+## Mutua de Granollers, Mutua de Previsio Social A Prima Fixa
+- **ciudad:** Granollers, Barcelona
+- **slug:** mutua-de-granollers-mutua-de-previsio-social-a-prima-fixa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Granollers, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Pau Casals S/N, CP 08402
+- **telefono:** 938708099
+- **web:** 
+- **featured:** false
+
+
+## Hospital General de Granollers.
+- **ciudad:** Granollers, Barcelona
+- **slug:** hospital-general-de-granollers
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Granollers, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Francesc Ribas 1, CP 08402
+- **telefono:** 938425000
+- **web:** 
+- **featured:** false
+
+
+## Unitat Polivalent Benito Menni En Salut Mental de L'Hospitalet-El Prat de Llobregat
+- **ciudad:** Hospitalet de Llobregat, L', Barcelona
+- **slug:** unitat-polivalent-benito-menni-en-salut-mental-de-l-hospitalet-el-prat-de-llobregat
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Hospitalet de Llobregat, L', Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Rafael 11, CP 08905
+- **telefono:** 936402400
+- **web:** 
+- **featured:** false
+
+
+## Prytanis Hospitalet Centre Sociosanitari
+- **ciudad:** Hospitalet de Llobregat, L', Barcelona
+- **slug:** prytanis-hospitalet-centre-sociosanitari
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Hospitalet de Llobregat, L', Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Aprestadora 43-45, CP 08902
+- **telefono:** 932988090
+- **web:** 
+- **featured:** false
+
+
+## Hestia Duran I Reynals
+- **ciudad:** Hospitalet de Llobregat, L', Barcelona
+- **slug:** hestia-duran-i-reynals
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Hospitalet de Llobregat, L', Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Gran Vía 203, CP 08908
+- **telefono:** 934170400
+- **web:** 
+- **featured:** false
+
+
+## Fundacio Sanitaria Sant Josep
+- **ciudad:** Igualada, Barcelona
+- **slug:** fundacio-sanitaria-sant-josep
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Igualada, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Carme Verdaguer 56, CP 08700
+- **telefono:** 938032650
+- **web:** 
+- **featured:** false
+
+
+## Residencia Nazaret
+- **ciudad:** Malgrat de Mar, Barcelona
+- **slug:** residencia-nazaret
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Malgrat de Mar, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Guillem de Palafolls 3, CP 08380
+- **telefono:** 937619900
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Sant Joan de Deu (Manresa)
+- **ciudad:** Manresa, Barcelona
+- **slug:** hospital-de-sant-joan-de-deu-manresa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Manresa, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Joan Soler 1-3, CP 08243
+- **telefono:** 939744050
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Sant Andreu
+- **ciudad:** Manresa, Barcelona
+- **slug:** hospital-de-sant-andreu
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Manresa, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Remei de Dalt 3, CP 08240
+- **telefono:** 938743312
+- **web:** 
+- **featured:** false
+
+
+## Clínica Sant Josep
+- **ciudad:** Manresa, Barcelona
+- **slug:** clinica-sant-josep
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Manresa, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Caputxins 16, CP 08241
+- **telefono:** 938744050
+- **web:** 
+- **featured:** false
+
+
+## Fundacio Hospital Sant Joan de Deu (Martorell)
+- **ciudad:** Martorell, Barcelona
+- **slug:** fundacio-hospital-sant-joan-de-deu-martorell
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Martorell, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Mancomunitats Comarcals 1, CP 08760
+- **telefono:** 937742020
+- **web:** 
+- **featured:** false
+
+
+## Germanes Hospitalaries. Hospital Sagrat Cor
+- **ciudad:** Martorell, Barcelona
+- **slug:** germanes-hospitalaries-hospital-sagrat-cor
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Martorell, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Comte de Llobregat 117, CP 08760
+- **telefono:** 937752200
+- **web:** 
+- **featured:** false
+
+
+## Cqm Clinic Maresme, S.L.
+- **ciudad:** Mataró, Barcelona
+- **slug:** cqm-clinic-maresme-s-l
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Mataró, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Lepant 13-21, CP 08301
+- **telefono:** 937556219
+- **web:** 
+- **featured:** false
+
+
+## Centre Geriatric del Maresme
+- **ciudad:** Mataró, Barcelona
+- **slug:** centre-geriatric-del-maresme
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Mataró, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Lepant 13-21, CP 08301
+- **telefono:** 937965003
+- **web:** 
+- **featured:** false
+
+
+## Centre Medic Molins, S.L.
+- **ciudad:** Molins de Rei, Barcelona
+- **slug:** centre-medic-molins-s-l
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Molins de Rei, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Del Terraple 97, CP 08750
+- **telefono:** 936680004
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Mollet
+- **ciudad:** Mollet del Vallès, Barcelona
+- **slug:** hospital-de-mollet
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Mollet del Vallès, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Ronda Pinetons 6-8, CP 08100
+- **telefono:** 935760300
+- **web:** 
+- **featured:** false
+
+
+## Parc Sanitari Sant Joan de Deu - Til·Lers
+- **ciudad:** Mollet del Vallès, Barcelona
+- **slug:** parc-sanitari-sant-joan-de-deu-til-lers
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Mollet del Vallès, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Mossos D'Esquadra 3, CP 08100
+- **telefono:** 935705289
+- **web:** 
+- **featured:** false
+
+
+## Hospital Sociosanitari de Mollet
+- **ciudad:** Mollet del Vallès, Barcelona
+- **slug:** hospital-sociosanitari-de-mollet
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Mollet del Vallès, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Llorenç 39-41, CP 08100
+- **telefono:** 935760300
+- **web:** 
+- **featured:** false
+
+
+## Sar Mont Marti
+- **ciudad:** Puig-reig, Barcelona
+- **slug:** sar-mont-marti
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Puig-reig, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Casserres (Abans Po. La Sala S/N) 1, CP 08692
+- **telefono:** 938290138
+- **web:** 
+- **featured:** false
+
+
+## Residencia Puig-Reig
+- **ciudad:** Puig-reig, Barcelona
+- **slug:** residencia-puig-reig
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Puig-reig, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Llobregat 75, CP 08692
+- **telefono:** 938380045
+- **web:** 
+- **featured:** false
+
+
+## Centre La Creueta
+- **ciudad:** Sabadell, Barcelona
+- **slug:** centre-la-creueta
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Sabadell, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza De Les Vaques S/N, CP 08202
+- **telefono:** 937451164
+- **web:** 
+- **featured:** false
+
+
+## Hospital Quirón Salud del Valles - Clínica del Valles
+- **ciudad:** Sabadell, Barcelona
+- **slug:** hospital-quiron-salud-del-valles-clinica-del-valles
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sabadell, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Paseo Rubio I Ors 25-27, CP 08203
+- **telefono:** 937283100
+- **web:** 
+- **featured:** false
+
+
+## Residencia L'Estada
+- **ciudad:** Sant Andreu de Llavaneres, Barcelona
+- **slug:** residencia-l-estada
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Sant Andreu de Llavaneres, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Camino De La Masía S/N, CP 08392
+- **telefono:** 937926612
+- **web:** 
+- **featured:** false
+
+
+## Prytanis Sant Boi Centre Sociosanitari
+- **ciudad:** Sant Boi de Llobregat, Barcelona
+- **slug:** prytanis-sant-boi-centre-sociosanitari
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Sant Boi de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Josep Torras I Bages 55, CP 08830
+- **telefono:** 936300931
+- **web:** 
+- **featured:** false
+
+
+## Parc Sanitari Sant Joan de Deu - Recinte Sant Boi.
+- **ciudad:** Sant Boi de Llobregat, Barcelona
+- **slug:** parc-sanitari-sant-joan-de-deu-recinte-sant-boi
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sant Boi de Llobregat, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Dr. Antoni Pujadas 42, CP 08830
+- **telefono:** 936406350
+- **web:** 
+- **featured:** false
+
+
+## Centre Sociosanitari Verge del Puig
+- **ciudad:** Sant Celoni, Barcelona
+- **slug:** centre-sociosanitari-verge-del-puig
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Sant Celoni, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Campins 37, CP 08470
+- **telefono:** 938673995
+- **web:** 
+- **featured:** false
+
+
+## Hospital de Sant Celoni.
+- **ciudad:** Sant Celoni, Barcelona
+- **slug:** hospital-de-sant-celoni
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sant Celoni, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida De L'Hospital 19, CP 08470
+- **telefono:** 938670617
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitari General de Catalunya
+- **ciudad:** Sant Cugat del Vallès, Barcelona
+- **slug:** hospital-universitari-general-de-catalunya
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sant Cugat del Vallès, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Pedro I Pons 1, CP 08195
+- **telefono:** 935656000
+- **web:** 
+- **featured:** false
+
+
+## Iván Mañero Clinic
+- **ciudad:** Sant Cugat del Vallès, Barcelona
+- **slug:** ivan-manero-clinic
+- **especialidades:** Hospitales especializados
+- **descripcion:** Hospitales especializados privado ubicado en Sant Cugat del Vallès, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Víctor Hugo 24, CP 08174
+- **telefono:** 902401540
+- **web:** 
+- **featured:** false
+
+
+## Parc Sanitari Sant Joan de Deu - App - 2
+- **ciudad:** Sant Esteve Sesrovires, Barcelona
+- **slug:** parc-sanitari-sant-joan-de-deu-app-2
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sant Esteve Sesrovires, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera Martorell A Capellades 23, CP 08635
+- **telefono:** 936935000
+- **web:** 
+- **featured:** false
+
+
+## Parc Sanitari Sant Joan de Deu - App - 1
+- **ciudad:** Sant Esteve Sesrovires, Barcelona
+- **slug:** parc-sanitari-sant-joan-de-deu-app-1
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Sant Esteve Sesrovires, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Carretera De Martorell A Capellades ,, CP 08635
+- **telefono:** 937758000
+- **web:** 
+- **featured:** false
+
+
+## Fundacio Hospital de L'Esperit Sant
+- **ciudad:** Santa Coloma de Gramenet, Barcelona
+- **slug:** fundacio-hospital-de-l-esperit-sant
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Santa Coloma de Gramenet, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Avenida Mossen Josep Pons I Robada  S/N, CP 08923
+- **telefono:** 933869648
+- **web:** 
+- **featured:** false
+
+
+## Mas Amigo Centre Especialitzat En Addiccions
+- **ciudad:** Santa Margarida de Montbui, Barcelona
+- **slug:** mas-amigo-centre-especialitzat-en-addiccions
+- **especialidades:** Hospitales de salud mental y tratamiento de toxicomanías
+- **descripcion:** Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Santa Margarida de Montbui, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Barriada Mas Amigo S/N, CP 08710
+- **telefono:** 931353464
+- **web:** 
+- **featured:** false
+
+
+## Aptima Centre Clinic - Mutua de Terrassa
+- **ciudad:** Terrassa, Barcelona
+- **slug:** aptima-centre-clinic-mutua-de-terrassa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Terrassa, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Doctor Robert 5, CP 08221
+- **telefono:** 937365072
+- **web:** 
+- **featured:** false
+
+
+## Hospital Universitari Mutua de Terrassa
+- **ciudad:** Terrassa, Barcelona
+- **slug:** hospital-universitari-mutua-de-terrassa
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Terrassa, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Plaza Doctor Robert 5, CP 08221
+- **telefono:** 937365050
+- **web:** 
+- **featured:** false
+
+
+## Clínica Sant Josep
+- **ciudad:** Vic, Barcelona
+- **slug:** clinica-sant-josep
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Vic, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Sant Segimon 3, CP 08500
+- **telefono:** 938861700
+- **web:** 
+- **featured:** false
+
+
+## Hospital de La Santa Creu
+- **ciudad:** Vic, Barcelona
+- **slug:** hospital-de-la-santa-creu
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Vic, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Rambla Hospital 52, CP 08500
+- **telefono:** 938833300
+- **web:** 
+- **featured:** false
+
+
+## Centre Social I Sanitari Frederica Montseny
+- **ciudad:** Viladecans, Barcelona
+- **slug:** centre-social-i-sanitari-frederica-montseny
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Viladecans, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Eslida 6-8, CP 08840
+- **telefono:** 936473525
+- **web:** 
+- **featured:** false
+
+
+## Casal de Curacio
+- **ciudad:** Vilassar de Mar, Barcelona
+- **slug:** casal-de-curacio
+- **especialidades:** Hospitales de media y larga estancia
+- **descripcion:** Hospitales de media y larga estancia privado ubicado en Vilassar de Mar, Barcelona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Maria Vidal 19, CP 08340
+- **telefono:** 937590241
+- **web:** 
+- **featured:** false
+
+
+## Hospital Recoletas de Burgos
+- **ciudad:** Burgos, Burgos
+- **slug:** hospital-recoletas-de-burgos
+- **especialidades:** Hospitales Generales
+- **descripcion:** Hospitales Generales privado ubicado en Burgos, Burgos (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.
+- **direccion:** Calle Cruz Roja S/N, CP 09006
+- **telefono:** 947244055
+- **web:** 
+- **featured:** false

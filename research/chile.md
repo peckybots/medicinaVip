@@ -644,3 +644,790 @@
 - **descripcion:** Clínica Alemana en Osorno, ciudad ganadera y agroindustrial del sur de Chile. Fundada por la comunidad germana del sur chileno, combina tradición e innovación médica. Sus programas de medicina interna y ginecología son los más valorados del sector privado de la región de Los Lagos.
 - **web:** https://www.clinicaalemanaosorno.cl
 - **featured:** false
+
+## Clínica Tabancura Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-tabancura
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Tabancura en el sector oriente de Santiago, una de las clínicas privadas de mayor prestigio y tradición de Chile. Sus servicios cardiológicos y oncológicos son los de mayor referencia entre la clase alta santiaguina. Con instalaciones de lujo en pleno barrio El Golf y Vitacura, combina excelencia médica con una experiencia hospitalaria de primer nivel.
+- **web:** https://www.tabancura.cl
+- **featured:** false
+
+## Clínica Universidad de los Andes Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-universidad-de-los-andes
+- **especialidades:** cardiología, oncología, trasplantes, neurología, cirugía robótica
+- **descripcion:** Clínica Universidad de los Andes en Las Condes, Santiago, el hospital universitario privado más moderno de Chile. Con cirugía robótica, programa de trasplantes y centro oncológico de investigación avanzada, es referente de la medicina académica privada chilena. Sus residencias médicas y vinculación con la Universidad de los Andes garantizan medicina de excelencia.
+- **web:** https://www.clinicauandes.cl
+- **featured:** false
+
+## Clínica MEDS Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-meds-santiago
+- **especialidades:** traumatología, medicina deportiva, cirugía articular, rehabilitación, ortopedia
+- **descripcion:** Clínica MEDS en Santiago, el centro de referencia en medicina deportiva y traumatología de Chile. Con los traumatólogos de clubes de fútbol profesionales y selecciones nacionales, atiende a deportistas de élite y aficionados con problemas musculoesqueléticos. Sus cirugías articulares y protocolos de rehabilitación deportiva son los de mayor reconocimiento en el país.
+- **web:** https://www.meds.cl
+- **featured:** false
+
+## Clínica Megasalud Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-megasalud-santiago
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica Megasalud en Santiago, parte de la red con mayor número de establecimientos de salud privada en Chile. Con múltiples sedes en la Región Metropolitana, ofrece servicios hospitalarios de calidad a precios más accesibles. Sus urgencias y medicina interna son los servicios más demandados por la amplia base de clientes de la red.
+- **web:** https://www.megasalud.cl
+- **featured:** false
+
+## Clínica Avansalud Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-avansalud-santiago
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, oncología
+- **descripcion:** Clínica Avansalud en Santiago, parte de la red de salud privada que ofrece atención de calidad en distintas comunas de la capital chilena. Sus servicios de cardiología y urgencias son los más demandados entre sus asegurados. Con instalaciones modernas y médicos especializados comprometidos con la salud de los chilenos.
+- **web:** https://www.avansalud.cl
+- **featured:** false
+
+## Red Salud Vitacura Santiago
+- **ciudad:** Santiago
+- **slug:** red-salud-vitacura
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Red Salud Vitacura en la comuna más exclusiva de Santiago, parte de la red hospitalaria privada de mayor crecimiento de Chile. Sus instalaciones en Vitacura atienden a la clase alta santiaguina con servicios de alta especialidad. Con equipo médico de alto perfil y tecnología de diagnóstico avanzada.
+- **web:** https://www.redsalud.cl
+- **featured:** false
+
+## Red Salud Providencia Santiago
+- **ciudad:** Santiago
+- **slug:** red-salud-providencia
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, ginecología
+- **descripcion:** Red Salud Providencia en la comuna céntrica y residencial del mismo nombre en Santiago. Sus servicios hospitalarios atienden a residentes y trabajadores de Providencia con calidad médica garantizada. Con urgencias 24 horas e instalaciones modernas en el corazón residencial de la capital chilena.
+- **web:** https://www.redsalud.cl
+- **featured:** false
+
+## Red Salud Antofagasta
+- **ciudad:** Antofagasta
+- **slug:** red-salud-antofagasta
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, medicina ocupacional
+- **descripcion:** Red Salud en Antofagasta, la capital minera de Chile y una de las ciudades de mayor ingreso per cápita del país. Sus servicios de medicina ocupacional y cardiología atienden principalmente a trabajadores de la gran minería del desierto de Atacama. Con instalaciones modernas para atender las exigencias del mercado laboral minero de la II Región.
+- **web:** https://www.redsalud.cl
+- **featured:** false
+
+## Clínica Antofagasta
+- **ciudad:** Antofagasta
+- **slug:** clinica-antofagasta
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica Antofagasta, la institución hospitalaria privada más importante de la segunda región de Chile y el norte minero. Sus servicios de alta especialidad atienden a trabajadores de la minería del cobre y litio y sus familias. Con instalaciones modernas y equipo médico que complementa la oferta de salud de esta rica región minera.
+- **web:** https://www.clinicaantofagasta.cl
+- **featured:** false
+
+## Clínica del Trabajador Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-del-trabajador-santiago
+- **especialidades:** medicina del trabajo, traumatología laboral, rehabilitación, medicina interna, urgencias
+- **descripcion:** Clínica del Trabajador en Santiago, especializada en salud ocupacional y accidentes del trabajo bajo el sistema de mutualidades chileno. Sus servicios de traumatología laboral y rehabilitación son los más demandados por trabajadores de todo el país. Referente en medicina ocupacional y prevención de riesgos laborales en Chile.
+- **web:** https://www.ist.cl/clinica-del-trabajador
+- **featured:** false
+
+## Hospital del Trabajador Santiago
+- **ciudad:** Santiago
+- **slug:** hospital-del-trabajador-santiago
+- **especialidades:** traumatología laboral, cirugía ortopédica, rehabilitación, medicina del trabajo, urgencias
+- **descripcion:** Hospital del Trabajador en Santiago, parte del sistema ACHS (Asociación Chilena de Seguridad) y el mayor hospital de accidentes del trabajo de Chile. Sus servicios de traumatología y rehabilitación son los de mayor excelencia para trabajadores accidentados. Con tecnología de última generación y protocolos de recuperación funcional reconocidos internacionalmente.
+- **web:** https://www.achs.cl/hospital-del-trabajador
+- **featured:** false
+
+## Clínica Bupa Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-bupa-santiago
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Bupa en Santiago, parte de la red hospitalaria del grupo internacional Bupa con presencia en múltiples países. Sus estándares de calidad internacional y servicios de alta especialidad atraen a ejecutivos y familias que valoran la medicina de primer nivel. La integración con los servicios de seguros de Bupa facilita la coordinación de atención.
+- **web:** https://www.bupa.cl
+- **featured:** false
+
+## Clínica Santa María Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-santa-maria-santiago
+- **especialidades:** cardiología, oncología, trasplantes, cirugía robótica, neurología
+- **descripcion:** Clínica Santa María en el sector Providencia de Santiago, una de las clínicas privadas más grandes y reconocidas de Chile. Con programa de trasplantes de múltiples órganos, cirugía robótica y centro oncológico de referencia nacional, es destino de los casos más complejos del sector privado chileno. Sus más de 800 médicos especialistas y tecnología de vanguardia la posicionan entre los mejores hospitales de América Latina.
+- **web:** https://www.clinicasantamaria.cl
+- **featured:** false
+
+## Clínica Las Condes Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-las-condes-santiago
+- **especialidades:** cardiología, oncología, trasplantes, cirugía robótica, neurología
+- **descripcion:** Clínica Las Condes en el sector oriente de Santiago, el hospital privado chileno con mayor reconocimiento internacional. Con acreditación Joint Commission Internacional, programa de trasplantes multivisceral y acceso a los tratamientos más innovadores del mundo, atiende a pacientes exigentes de Chile y América Latina. Es el principal destino de turismo médico de Chile.
+- **web:** https://www.clinicalascondes.cl
+- **featured:** false
+
+## Clínica Indisa Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-indisa-santiago
+- **especialidades:** materno-infantil, cardiología, oncología, cirugía, neurología
+- **descripcion:** Clínica Indisa en Santiago, reconocida especialmente por su excepcional unidad materno-infantil y neonatal. Con una de las mejores tasas de mortalidad neonatal del sector privado y programas de embarazo de alto riesgo de referencia nacional, es la maternidad privada más valorada de Chile. Sus servicios cardiológicos y oncológicos complementan la oferta integral de la clínica.
+- **web:** https://www.indisa.cl
+- **featured:** false
+
+## Clínica Dávila Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-davila-santiago
+- **especialidades:** oncología, cardiología, cirugía, neurología, materno-infantil
+- **descripcion:** Clínica Dávila en el sector norte de Santiago, una de las clínicas privadas más grandes y con mayor impacto social de la capital chilena. Con más de 500 camas y acceso para distintos niveles socioeconómicos a través de convenios con Fonasa, democratiza el acceso a la medicina de alta especialidad. Sus servicios oncológicos y cardiológicos son los más demandados del norte santiaguino.
+- **web:** https://www.davila.cl
+- **featured:** false
+
+## Clínica Bicentenario Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-bicentenario-santiago
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Clínica Bicentenario en Independencia, Santiago, atendiendo a las comunas del norte de la capital con servicios hospitalarios de calidad. Sus instalaciones modernas y servicios de urgencias atienden las 24 horas a la población del norte santiaguino. Con médicos especializados y equipo de diagnóstico actualizado.
+- **web:** https://www.clinicabicentenario.cl
+- **featured:** false
+
+## Hospital Clínico Universidad de Chile
+- **ciudad:** Santiago
+- **slug:** hospital-clinico-universidad-chile
+- **especialidades:** oncología, cardiología, trasplantes, neurología, medicina interna
+- **descripcion:** Hospital Clínico Universidad de Chile en Independencia, Santiago, el principal hospital universitario académico del país. Con programa de trasplantes y alta complejidad de nivel internacional, combina asistencia pública y privada de excelencia. Sus 120 años de historia médica y vinculación con la Universidad de Chile hacen de este centro el mayor formador de médicos del país.
+- **web:** https://www.redclinicauchile.cl
+- **featured:** false
+
+## Clínica Ciudad del Mar Viña del Mar
+- **ciudad:** Viña del Mar
+- **slug:** clinica-ciudad-del-mar-vina
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Ciudad del Mar en Viña del Mar, la principal institución hospitalaria privada de la Ciudad Jardín y el litoral central chileno. Sus servicios de alta especialidad atienden a residentes y turistas de la Región de Valparaíso. Con tecnología de diagnóstico avanzada y médicos de alto nivel que atienden la creciente demanda de salud privada en la costa.
+- **web:** https://www.clinicaciudaddelmar.cl
+- **featured:** false
+
+## Clínica Valparaíso
+- **ciudad:** Valparaíso
+- **slug:** clinica-valparaiso
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, ginecología
+- **descripcion:** Clínica Valparaíso en el histórico puerto chileno Patrimonio de la Humanidad, institución hospitalaria privada de referencia en la ciudad. Sus servicios de medicina interna y urgencias atienden a residentes del Gran Valparaíso y turistas. Con instalaciones modernas en la Ciudad Vertical más colorida de América del Sur.
+- **web:** https://www.clinicavalparaiso.cl
+- **featured:** false
+
+## Clínica Bío Bío Concepción
+- **ciudad:** Concepción
+- **slug:** clinica-bio-bio-concepcion
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Clínica Bío Bío en Concepción, la principal institución hospitalaria privada de la segunda ciudad más importante de Chile. Sus servicios de alta especialidad en cardiología y oncología son referentes en la Región del Bío Bío. Con tecnología de diagnóstico avanzada y médicos de alto nivel académico en la capital universitaria del sur.
+- **web:** https://www.clinicabiobio.cl
+- **featured:** false
+
+## Clínica Sanatorio Alemán Concepción
+- **ciudad:** Concepción
+- **slug:** sanatorio-aleman-concepcion
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Sanatorio Alemán en Concepción, institución hospitalaria fundada por la comunidad germana con más de 100 años de historia en el sur de Chile. Sus servicios cardiológicos y oncológicos son los de mayor tradición y reconocimiento en la región. Con instalaciones renovadas que combinan la historia médica con la tecnología más reciente.
+- **web:** https://www.sanatorioaleman.cl
+- **featured:** false
+
+## Clínica Magallanes Punta Arenas
+- **ciudad:** Punta Arenas
+- **slug:** clinica-magallanes-punta-arenas
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Magallanes en Punta Arenas, la ciudad más austral del mundo con clínica privada de referencia. Sus servicios hospitalarios completos atienden a los residentes de la Región de Magallanes y turistas que visitan la Patagonia. Con urgencias 24 horas para atender las emergencias de una región remota pero de alto tráfico turístico aventurero.
+- **web:** https://www.clinicamagallanes.cl
+- **featured:** false
+
+## Clínica Coyhaique
+- **ciudad:** Coyhaique
+- **slug:** clinica-coyhaique
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Coyhaique en la capital de la Región de Aysén, la más remota y preservada de Chile. Sus servicios hospitalarios son fundamentales para los habitantes de la Patagonia chilena y turistas que visitan los Lagos y Patagonia. Con atención de urgencias esencial en una de las regiones más aisladas y de mayor belleza natural del mundo.
+- **web:** https://www.clinicacoyhaique.cl
+- **featured:** false
+
+## Clínica Quilín Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-quilin-santiago
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica Quilín en la Región Metropolitana de Santiago, institución hospitalaria privada atendiendo al sector suroriente de la capital. Sus servicios de urgencias y medicina interna atienden a la densamente poblada zona de Macul, Peñalolén y La Florida. Con médicos especializados y atención personalizada para las familias del suroriente santiaguino.
+- **web:** https://www.clinicaquilin.cl
+- **featured:** false
+
+## Hospital Privado de La Florida Santiago
+- **ciudad:** Santiago
+- **slug:** hospital-privado-la-florida
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, pediatría
+- **descripcion:** Hospital Privado en La Florida, la comuna más poblada de la Región Metropolitana de Santiago con más de 400,000 habitantes. Sus servicios hospitalarios completos cubren la enorme demanda de salud privada del suroriente capitalino. Con urgencias 24 horas e instalaciones modernas para la gran comunidad de clase media de La Florida.
+- **web:** https://www.hospitalprivadolaflorida.cl
+- **featured:** false
+
+## Clínica Vespucio Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-vespucio-santiago
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Vespucio en La Florida, Santiago, una de las clínicas privadas de mayor crecimiento en el mercado de la salud chilena. Sus servicios de alta especialidad en cardiología y oncología atienden a la gran población del sector suroriente de Santiago. Con tecnología de diagnóstico avanzada e instalaciones de alto estándar a precios competitivos.
+- **web:** https://www.vespucio.cl
+- **featured:** false
+
+## Clínica La Portada La Serena
+- **ciudad:** La Serena
+- **slug:** clinica-la-portada-la-serena
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica La Portada en La Serena, la principal institución hospitalaria privada de la Región de Coquimbo. Sus servicios de alta especialidad atienden a residentes de La Serena, Coquimbo y el Valle del Elqui. Con tecnología de diagnóstico avanzada y equipo médico de reconocido nivel en la ciudad Dámaso Encina del norte chico.
+- **web:** https://www.clinicalaportada.cl
+- **featured:** false
+
+## Clínica San Agustín Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-san-agustin-santiago
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, ginecología
+- **descripcion:** Clínica San Agustín en Las Condes, Santiago, institución hospitalaria privada atendiendo al exclusivo sector oriente de la capital chilena. Sus servicios de medicina interna y urgencias atienden a las familias de mayor nivel socioeconómico de la zona. Con médicos especializados y atención personalizada en uno de los sectores más prósperos de Santiago.
+- **web:** https://www.clinicasanagustin.cl
+- **featured:** false
+
+## Clínica El Llano Santiago
+- **ciudad:** Santiago
+- **slug:** clinica-el-llano-santiago
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica El Llano en La Florida, Santiago, institución hospitalaria privada con atención médica de calidad para las familias del sector suroriente de la capital. Sus servicios de urgencias y medicina interna atienden las 24 horas a una amplia base de pacientes. Con médicos comprometidos y atención humanizada.
+- **web:** https://www.clinicaelllano.cl
+- **featured:** false
+
+## Clínica Reñaca Viña del Mar
+- **ciudad:** Viña del Mar
+- **slug:** clinica-renaca-vina
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Reñaca en el balneario de Reñaca, parte de la ciudad de Viña del Mar, atendiendo a turistas y residentes de las playas del litoral central. Sus servicios de urgencias son esenciales durante la temporada alta cuando miles de turistas llenan las playas de la V Región. Con atención personalizada y servicio las 24 horas.
+- **web:** https://www.clinicarenaca.cl
+- **featured:** false
+
+## Clínica Alemana de Temuco
+- **ciudad:** Temuco
+- **slug:** clinica-alemana-temuco
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Alemana en Temuco, la capital de La Araucanía y puerta de entrada al turismo de volcanes y lagos del sur de Chile. Sus servicios de alta especialidad son los de mayor referencia en la región, con cardiología y oncología bien reconocidas. La vinculación con la comunidad alemana que fundó la institución aporta estándares de calidad y rigor médico.
+- **web:** https://www.aleman-temuco.cl
+- **featured:** false
+
+## Clínica Arauco Temuco
+- **ciudad:** Temuco
+- **slug:** clinica-arauco-temuco
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Arauco en Temuco, institución hospitalaria privada con importante presencia en la capital de la Araucanía. Sus servicios de medicina interna y urgencias atienden a la diversa población de Temuco que incluye mapuches, alemanes y otras comunidades. Con médicos especializados y atención intercultural en la ciudad del poncho.
+- **web:** https://www.clinicaarauco.cl
+- **featured:** false
+
+## Clínica Puerto Montt
+- **ciudad:** Puerto Montt
+- **slug:** clinica-puerto-montt
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica Puerto Montt en la capital de Los Lagos, puerta de entrada a la Patagonia y las rutas de los fiordos y canales australes. Sus servicios hospitalarios completos atienden a residentes y turistas que inician sus aventuras patagónicas desde esta ciudad. Con urgencias 24 horas y equipo médico para las exigencias de una ciudad en rápido crecimiento turístico e industrial.
+- **web:** https://www.clinicapuertomontt.cl
+- **featured:** false
+
+## Clínica Alemana Temuco
+- **ciudad:** Temuco
+- **slug:** clinica-alemana-temuco
+- **especialidades:** general, cirugía, cardiología, neurología, ginecología, urgencias
+- **descripcion:** La Clínica Alemana de Temuco es la principal institución de salud privada de la Araucanía, parte del prestigioso sistema Clínicas Alemana de Chile. Con más de 80 años de tradición, es referente en el sur del país para cirugía de alta complejidad y programas de maternidad. Sus instalaciones modernas ofrecen atención integral de calidad reconocida en toda la macrozona sur.
+- **direccion:** Senador Estébanez 645, Temuco
+- **telefono:** +56 45 2201 201
+- **web:** https://www.clinicaalemanatemuco.cl
+- **featured:** false
+
+## Clínica Alemana Valdivia
+- **ciudad:** Valdivia
+- **slug:** clinica-alemana-valdivia
+- **especialidades:** general, cirugía, cardiología, ginecología, urgencias
+- **descripcion:** La Clínica Alemana de Valdivia es la institución privada de referencia en Los Ríos, heredera de la tradición médica de la comunidad germana en el sur de Chile. Ofrece atención de alta calidad en múltiples especialidades para la población de la región. Sus programas de salud integral y cirugía son los más avanzados de la zona sur.
+- **direccion:** Beauchef 765, Valdivia
+- **telefono:** +56 63 2246 200
+- **web:** https://www.clinicaalemanavaldivia.cl
+- **featured:** false
+
+## Clínica Andes Salud Chillán
+- **ciudad:** Chillán
+- **slug:** clinica-andes-salud-chillan
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica Andes Salud en Chillán es la principal clínica privada de la provincia de Ñuble. Parte de la red Andes Salud con presencia en todo Chile, ofrece atención médico-quirúrgica integral a la población del centro-sur. Con instalaciones modernas y cobertura de los principales seguros de salud del mercado chileno.
+- **direccion:** Pedro Aguirre Cerda 35, Chillán
+- **telefono:** +56 42 2433030
+- **web:** https://www.andessaludchillan.cl
+- **featured:** false
+
+## Clínica Andes Salud Concepción
+- **ciudad:** Concepción
+- **slug:** clinica-andes-salud-concepcion
+- **especialidades:** general, cirugía, cardiología, traumatología, urgencias
+- **descripcion:** Clínica Andes Salud Concepción es uno de los principales centros de salud privados del Gran Concepción, ubicado en Hualpén. Parte de la red nacional Andes Salud, con amplio espectro de especialidades y cobertura regional en el Biobío. Su tecnología de diagnóstico y equipos quirúrgicos son de los más modernos del sur de Chile.
+- **direccion:** Av. Jorge Alessandri 2047, Hualpén, Concepción
+- **telefono:** +56 41 2666000
+- **web:** https://www.andessaludconcepcion.cl
+- **featured:** false
+
+## Clínica Andes Salud El Loa (Calama)
+- **ciudad:** Calama
+- **slug:** clinica-andes-salud-el-loa
+- **especialidades:** general, urgencias, cirugía, traumatología, ginecología
+- **descripcion:** Clínica Andes Salud El Loa es la clínica privada de referencia en Calama, corazón minero del norte grande. Atiende a los trabajadores de la minería del cobre y sus familias con tecnología y especialistas de primer nivel. Con programas de medicina ocupacional y urgencias las 24 horas adaptados a la exigente actividad industrial de la región.
+- **direccion:** Av. Granaderos 2924, Calama
+- **telefono:** 600 401 2400
+- **web:** https://www.andessaludelloa.cl
+- **featured:** false
+
+## Clínica Andes Salud Puerto Montt
+- **ciudad:** Puerto Montt
+- **slug:** clinica-andes-salud-puerto-montt
+- **especialidades:** general, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** La Clínica Andes Salud de Puerto Montt es el principal establecimiento privado de Los Lagos, capital de la Patagonia norte. Ofrece cobertura completa en especialidades médico-quirúrgicas para la creciente población de la región. Sus programas de urgencias y cirugía son esenciales para la comunidad del sur extremo de Chile.
+- **direccion:** Avenida Bellavista 123, Puerto Montt
+- **telefono:** +56 65 2209800
+- **web:** https://www.andessaludpuertomontt.cl
+- **featured:** false
+
+## Clínica Bupa Antofagasta
+- **ciudad:** Antofagasta
+- **slug:** clinica-bupa-antofagasta
+- **especialidades:** general, cardiología, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica Bupa Antofagasta es la institución privada premium de Antofagasta, la capital minera de Chile. Parte del grupo asegurador internacional Bupa, ofrece cobertura de seguros globales y atención de alta calidad para ejecutivos mineros y sus familias. Su tecnología de diagnóstico y personal médico especializado son de estándares internacionales.
+- **direccion:** Manuel Antonio Matta 1945, Antofagasta
+- **telefono:** +56 55 2468100
+- **web:** https://www.clinicaantofagasta.cl
+- **featured:** false
+
+## Clínica Bupa Reñaca
+- **ciudad:** Viña del Mar
+- **slug:** clinica-bupa-renaca
+- **especialidades:** general, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** La Clínica Bupa Reñaca se ubica en la exclusiva zona balnearia de Reñaca, Viña del Mar. Atiende a la numerosa población veraneante de la costa central y a los residentes de la Quinta Región con estándares del grupo asegurador internacional Bupa. Conocida por su ambiente confortable y equipo médico altamente calificado.
+- **direccion:** Anabaena 336, Jardín del Mar, Viña del Mar
+- **telefono:** +56 32 2658000
+- **web:** https://www.clinicarenaca.cl
+- **featured:** false
+
+## Clínica RedSalud Elqui (La Serena)
+- **ciudad:** La Serena
+- **slug:** clinica-redsalud-elqui
+- **especialidades:** general, cirugía, urgencias, ginecología, cardiología
+- **descripcion:** La Clínica RedSalud Elqui es la principal clínica privada de La Serena, capital de la Región de Coquimbo. Parte de la red RedSalud con presencia nacional, ofrece atención integral en especialidades para la población del norte chico. Sus instalaciones modernas y equipo médico certificado la posicionan como referente de la salud privada en la zona.
+- **direccion:** Av. El Santo 1475, La Serena
+- **telefono:** +56 51 2563000
+- **web:** https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-elqui
+- **featured:** false
+
+## Clínica RedSalud Iquique
+- **ciudad:** Iquique
+- **slug:** clinica-redsalud-iquique
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica RedSalud Iquique es el establecimiento privado de referencia en Iquique, ciudad portuaria y zona franca del norte de Chile. Con cobertura de los principales seguros de salud, atiende a la población regional con especialidades médico-quirúrgicas completas. Sus programas de urgencias y hospitalización son los más accesibles de la ciudad.
+- **direccion:** Bernardo O'Higgins 103, Iquique
+- **web:** https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-iquique
+- **featured:** false
+
+## Clínica RedSalud Magallanes (Punta Arenas)
+- **ciudad:** Punta Arenas
+- **slug:** clinica-redsalud-magallanes
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica RedSalud Magallanes es la institución privada de referencia en Punta Arenas, la ciudad más austral del mundo. Atiende a la población de Magallanes con cobertura completa en especialidades, siendo esencial para residentes de zonas extremas y la industria ganadera y petrolera. Sus programas de urgencias y cirugía son vitales para esta región remota de Chile.
+- **direccion:** Av. Bulnes 01448, Punta Arenas
+- **telefono:** +56 61 2207200
+- **web:** https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-magallanes
+- **featured:** false
+
+## Clínica RedSalud Mayor de Temuco
+- **ciudad:** Temuco
+- **slug:** clinica-redsalud-mayor-temuco
+- **especialidades:** general, cirugía, urgencias, traumatología, ginecología
+- **descripcion:** La Clínica RedSalud Mayor es la segunda institución privada de relevancia en Temuco, complementando la oferta de salud privada de la Araucanía. Con programas de cirugía electiva y urgencias las 24 horas, atiende a una amplia cartera de asegurados de la región. Parte de la red RedSalud, con estándares nacionales de calidad y atención al paciente.
+- **direccion:** Av. Gabriela Mistral 01955, Temuco
+- **telefono:** +56 45 2310200
+- **web:** https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-mayor-temuco
+- **featured:** false
+
+## Clínica RedSalud Santiago (Estación Central)
+- **ciudad:** Santiago
+- **slug:** clinica-redsalud-santiago
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica RedSalud Santiago en Estación Central es un establecimiento privado de cobertura popular en la zona poniente de Santiago. Con acceso desde el metro y buses interregionales, atiende a una gran base de pacientes del sector central y oeste de la capital. Sus programas de urgencias y hospitalización son referentes en accesibilidad para asegurados de menores ingresos.
+- **direccion:** Alameda 4850, Estación Central, Santiago
+- **telefono:** +56 2 2998 3000
+- **web:** https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-santiago
+- **featured:** false
+
+## Clínica Colonial (Santiago)
+- **ciudad:** Santiago
+- **slug:** clinica-colonial-santiago
+- **especialidades:** general, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** La Clínica Colonial en Huechuraba, Santiago Norte, es un establecimiento privado moderno con instalaciones de última generación. Atiende a la creciente población de los sectores norte y oriente de Santiago con servicios hospitalarios completos. Sus programas de cardiología e internismo son los más solicitados entre los asegurados de los sectores nororiente de la capital.
+- **direccion:** Palacio Riesco 4515, Huechuraba, Santiago
+- **telefono:** +56 2 2578 8500
+- **web:** https://www.clinicacolonial.cl
+- **featured:** false
+
+## Clínica Hospital del Profesor (Santiago)
+- **ciudad:** Santiago
+- **slug:** clinica-hospital-del-profesor
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica Hospital del Profesor es un establecimiento privado orientado al personal docente y sus familias, ubicado en el sector poniente de Santiago. Con amplia trayectoria como institución mutualista del magisterio chileno, ofrece atención integral a tarifas preferenciales para los educadores del país. Sus programas de medicina preventiva y hospitalización son los más demandados entre sus afiliados.
+- **direccion:** Alameda 4860, Estación Central, Santiago
+- **telefono:** +56 2 2299 6000
+- **web:** http://www.chp.cl
+- **featured:** false
+
+## Clínica MEDS (Lo Barnechea)
+- **ciudad:** Santiago
+- **slug:** clinica-meds-santiago
+- **especialidades:** traumatología, rehabilitación, cirugía ortopédica, medicina deportiva
+- **descripcion:** La Clínica MEDS en Lo Barnechea es el principal centro privado de medicina deportiva y traumatología de Chile. Especializada en rehabilitación y cirugía ortopédica, atiende a deportistas de élite y pacientes con patologías del aparato locomotor. Sus programas de recuperación funcional y cirugía mínimamente invasiva son referentes a nivel latinoamericano.
+- **direccion:** Av. José Alcalde Délano 10581, Lo Barnechea, Santiago
+- **telefono:** +56 2 2499 6400
+- **web:** https://www.meds.cl
+- **featured:** false
+
+## Clínica Oftalmológica Pasteur (Vitacura)
+- **ciudad:** Santiago
+- **slug:** clinica-oftalmologica-pasteur
+- **especialidades:** oftalmología, cirugía ocular, retina, córnea
+- **descripcion:** La Clínica Oftalmológica Pasteur en Vitacura es el centro privado especializado en salud visual de mayor prestigio en Chile. Con décadas de experiencia en cirugía refractiva, trasplante de córnea y tratamiento de retina, es referente nacional en oftalmología avanzada. Su equipo de especialistas y tecnología de diagnóstico ocular son reconocidos por pacientes de toda Latinoamérica.
+- **direccion:** Av. Luis Pasteur 5917, Vitacura, Santiago
+- **telefono:** +56 2 2520 5900
+- **web:** https://www.pasteur.cl
+- **featured:** false
+
+## Clínica Los Carrera (Quilpué)
+- **ciudad:** Quilpué
+- **slug:** clinica-los-carrera
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica Los Carrera es el principal establecimiento privado de Quilpué, ciudad del interior del Gran Valparaíso. Con más de 30 años de trayectoria, atiende a la numerosa población del Valle del Marga Marga con servicios hospitalarios completos. Sus programas de urgencias y cirugía son vitales para una zona de alta densidad poblacional con limitado acceso a clínicas premium.
+- **direccion:** Caupolicán 958, Quilpué
+- **telefono:** +56 32 2539800
+- **web:** https://clinicaloscarrera.cl
+- **featured:** false
+
+## Clínica Puerto Varas
+- **ciudad:** Puerto Varas
+- **slug:** clinica-puerto-varas
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** La Clínica Puerto Varas es el establecimiento privado de referencia en la ciudad lago de Puerto Varas, destino turístico y centro de servicios del sur de Chile. Con instalaciones modernas y equipo médico competente, atiende tanto a residentes como al creciente flujo de turistas de la zona lacustre patagónica. Sus programas de urgencias y hospitalización son valorados por la comunidad local y extranjeros residentes.
+- **direccion:** Dr. Otto Bader 810, Puerto Varas
+- **telefono:** +56 65 2582100
+- **web:** https://www.clinicapv.cl
+- **featured:** false
+
+## FALP — Fundación Arturo López Pérez (Santiago)
+- **ciudad:** Santiago
+- **slug:** falp-santiago
+- **especialidades:** oncología, radioterapia, quimioterapia, diagnóstico oncológico
+- **descripcion:** La Fundación Arturo López Pérez (FALP) es el centro oncológico privado de mayor especialización y reconocimiento en Chile. Dedicada exclusivamente al diagnóstico y tratamiento del cáncer, ofrece los programas más avanzados del país en radioterapia, oncología médica y cuidados paliativos. Es destino de pacientes oncológicos de todo Chile y del cono sur latinoamericano.
+- **direccion:** José Manuel Infante 805, Providencia, Santiago
+- **telefono:** +56 2 2712 8000
+- **web:** https://www.falp.org
+- **featured:** false
+
+## Clínica Dávila Vespucio (La Florida)
+- **ciudad:** Santiago
+- **slug:** clinica-davila-vespucio
+- **especialidades:** general, cirugía, urgencias, cardiología, ginecología, traumatología
+- **descripcion:** La Clínica Dávila Vespucio en La Florida es la sucursal sur de la reconocida red Dávila, ubicada en el mayor distrito de Chile. Con instalaciones modernas y tecnología de diagnóstico avanzada, atiende a la masiva población del cono oriente y sur de Santiago. Sus programas de cardiología, urgencias y ginecología son los más demandados en la zona sur de la capital chilena.
+- **direccion:** Av. Serafín Zamora 190, La Florida, Santiago
+- **telefono:** +56 2 2270 2700
+- **web:** https://www.davila.cl
+- **featured:** false
+
+## Centros Médicos Vidaintegra (Santiago)
+- **ciudad:** Santiago
+- **slug:** vidaintegra-santiago
+- **especialidades:** general, medicina ambulatoria, cardiología, ginecología, salud preventiva
+- **descripcion:** Vidaintegra es la red de centros médicos ambulatorios privados más extensa del Gran Santiago, con múltiples sedes en la zona centro. Especializada en medicina preventiva y atención ambulatoria de alta calidad, es referente en consultas externas y diagnóstico temprano para asegurados de Isapres. Sus programas de checkup ejecutivo y medicina preventiva son los más accesibles del mercado privado capitalino.
+- **direccion:** Av. Libertador Bernardo O'Higgins 1620, Santiago Centro
+- **telefono:** 600 600 8432
+- **web:** https://www.vidaintegra.cl
+- **featured:** false
+
+## Clínica Reñaca Viña del Mar
+- **ciudad:** Viña del Mar
+- **slug:** renaca-vina-del-mar
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Reñaca en Viña del Mar, la Ciudad Jardín y principal balneario de Chile. Sus servicios hospitalarios atienden a residentes y turistas de la Quinta Región. Con instalaciones modernas y equipo médico calificado, brinda atención de calidad en una de las ciudades más visitadas del país.
+- **web:** https://www.clinicarenaca.cl
+- **featured:** false
+
+## Clínica Bupa Viña del Mar
+- **ciudad:** Viña del Mar
+- **slug:** bupa-vina-del-mar
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica Bupa en Viña del Mar, parte de la red internacional de salud Bupa con presencia en Chile. Sus especialidades en cardiología y oncología son de referencia en la Quinta Región. Instalaciones de alta tecnología y atención con estándares internacionales para los pacientes de la Costa Pacífica.
+- **web:** https://www.bupachile.cl/vina-del-mar
+- **featured:** false
+
+## Clínica Viña del Mar
+- **ciudad:** Viña del Mar
+- **slug:** clinica-vina-del-mar
+- **especialidades:** medicina interna, cirugía, traumatología, urgencias, ginecología
+- **descripcion:** Clínica Viña del Mar, institución privada consolidada en la Ciudad Jardín con décadas de servicio. Sus servicios hospitalarios completos atienden a los residentes de Viña y turistas de la región. Con atención de urgencias las 24 horas y especialistas en múltiples áreas, es referente de la salud privada local.
+- **web:** https://www.clinicaviñadelmar.cl
+- **featured:** false
+
+## Clínica Avansalud Viña del Mar
+- **ciudad:** Viña del Mar
+- **slug:** avansalud-vina
+- **especialidades:** cirugía, medicina ambulatoria, especialidades médicas, diagnóstico, urgencias
+- **descripcion:** Clínica Avansalud en Viña del Mar, parte de la red de centros médicos especializados Avansalud en Chile. Sus servicios ambulatorios y de diagnóstico atienden a la población de la Quinta Región. Con atención de especialidades y procedimientos ambulatorios de alta calidad.
+- **web:** https://www.avansalud.cl/vina-del-mar
+- **featured:** false
+
+## Clínica Concepción
+- **ciudad:** Concepción
+- **slug:** clinica-concepcion
+- **especialidades:** cardiología, cirugía, oncología, neurología, medicina interna
+- **descripcion:** Clínica Concepción, principal institución de salud privada de la capital del Biobío y segunda área metropolitana de Chile. Sus unidades de cardiología y oncología son referencia en toda la Macrorregión Sur. Con tecnología de última generación y especialistas de alto nivel, atiende casos complejos del sur del país.
+- **web:** https://www.clinicaconcepcion.cl
+- **featured:** false
+
+## Clínica Bupa Antofagasta
+- **ciudad:** Antofagasta
+- **slug:** bupa-antofagasta
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, traumatología
+- **descripcion:** Clínica Bupa en Antofagasta, la capital de la minería de cobre en Chile y ciudad de rápido crecimiento. Sus servicios hospitalarios atienden a los trabajadores de la industria minera y sus familias. Con instalaciones modernas y protocolos para emergencias ocupacionales, es referente de la salud privada en el norte árido chileno.
+- **web:** https://www.bupachile.cl/antofagasta
+- **featured:** false
+
+## Clínica Antofagasta
+- **ciudad:** Antofagasta
+- **slug:** clinica-antofagasta
+- **especialidades:** cirugía, medicina interna, traumatología, urgencias, ginecología
+- **descripcion:** Clínica Antofagasta, institución privada de referencia en la ciudad minera del norte de Chile. Sus servicios de traumatología y medicina interna atienden a la activa comunidad trabajadora de la región minera más importante del mundo. Con instalaciones modernas y equipo médico calificado.
+- **web:** https://www.clinicaantofagasta.cl
+- **featured:** false
+
+## Clínica Temuco
+- **ciudad:** Temuco
+- **slug:** clinica-temuco
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Temuco en la capital de la Araucanía, puerta de entrada a la Patagonia chilena. Sus servicios hospitalarios atienden a la población mapuche y chilena de la región. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en el sur de Chile.
+- **web:** https://www.clinicatemuco.cl
+- **featured:** false
+
+## Clínica Alemana Temuco
+- **ciudad:** Temuco
+- **slug:** alemana-temuco
+- **especialidades:** cirugía, medicina interna, cardiología, oncología, neurología
+- **descripcion:** Clínica Alemana en Temuco, parte de la red de la Universidad Alemana de Chile con presencia en el sur del país. Sus estándares médicos de alta calidad atienden a la creciente población de la Araucanía. Instalaciones modernas y equipo médico comprometido con la medicina de excelencia.
+- **web:** https://www.alemanatem.cl
+- **featured:** false
+
+## Clínica Rancagua
+- **ciudad:** Rancagua
+- **slug:** clinica-rancagua
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Rancagua en la capital de O'Higgins, en el corazón del valle central chileno. Sus servicios hospitalarios atienden a la población vitivinícola y agroindustrial de la región. Con instalaciones modernas y especialistas en múltiples áreas, es el principal centro de salud privada de O'Higgins.
+- **web:** https://www.clinicarancagua.cl
+- **featured:** false
+
+## Clínica Indisa Santiago
+- **ciudad:** Santiago
+- **slug:** indisa-santiago
+- **especialidades:** cardiología, cirugía, neurología, oncología, neonatología
+- **descripcion:** Clínica Indisa en Providencia, Santiago, institución de alta complejidad con unidades especializadas de referencia nacional. Sus programas de neonatología, cardiología y neurología son de los más reconocidos en Chile. Importante actividad docente con médicos vinculados a las principales universidades del país.
+- **web:** https://www.indisa.cl
+- **featured:** false
+
+## Clínica Bupa Santiago
+- **ciudad:** Santiago
+- **slug:** bupa-santiago
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Clínica Bupa en Las Condes, Santiago, parte de la red internacional de salud con presencia en Chile. Sus instalaciones de última generación y equipo médico de primer nivel atienden a los pacientes más exigentes de la capital. Sus especialidades en cardiología y oncología incorporan los protocolos internacionales de la red global Bupa.
+- **web:** https://www.bupachile.cl/santiago
+- **featured:** false
+
+## Clínica Dávila Santiago
+- **ciudad:** Santiago
+- **slug:** davila-santiago
+- **especialidades:** cardiología, oncología, trasplantes, neurología, cirugía compleja
+- **descripcion:** Clínica Dávila en Independencia, Santiago, hospital privado de alta complejidad con décadas de liderazgo médico en Chile. Sus programas de trasplante renal, cardiología intervencionista y oncología están entre los mejores del país. Con una robusta plataforma tecnológica y equipo médico de excelencia, resuelve los casos más complejos.
+- **web:** https://www.davila.cl
+- **featured:** false
+
+## Clínica Tabancura Santiago
+- **ciudad:** Santiago
+- **slug:** tabancura-santiago
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ortopedia
+- **descripcion:** Clínica Tabancura en Vitacura, Santiago, institución privada en uno de los municipios más exclusivos de la capital chilena. Sus servicios hospitalarios de alta calidad atienden a los residentes de la zona oriente de Santiago. Instalaciones modernas y equipo médico de primer nivel en el corazón del cono de alta renta.
+- **web:** https://www.tabancura.cl
+- **featured:** false
+
+## Clínica Bicentenario Santiago
+- **ciudad:** Santiago
+- **slug:** bicentenario-santiago
+- **especialidades:** cardiología, cirugía, oncología, medicina interna, urgencias
+- **descripcion:** Clínica Bicentenario en San Cristóbal, Santiago, institución de alta complejidad inaugurada para el Bicentenario de Chile. Sus modernas instalaciones incorporan la más reciente tecnología médica y quirúrgica. Referente de la salud privada en la zona norte de la capital con especialidades en cardiología y oncología.
+- **web:** https://www.clinicabicentenario.cl
+- **featured:** false
+
+## Megasalud Santiago Providencia
+- **ciudad:** Santiago
+- **slug:** megasalud-providencia
+- **especialidades:** medicina ambulatoria, especialidades médicas, diagnóstico, procedimientos, urgencias
+- **descripcion:** Megasalud en Providencia, Santiago, parte de la red de centros médicos ambulatorios de mayor cobertura en Chile. Sus servicios de consultas especializadas y diagnóstico están disponibles para pacientes de múltiples isapres. Con amplio horario de atención y accesibilidad en transporte público, es la opción más conveniente para muchos santiaguinos.
+- **web:** https://www.megasalud.cl/providencia
+- **featured:** false
+
+## Megasalud Santiago Las Condes
+- **ciudad:** Santiago
+- **slug:** megasalud-las-condes
+- **especialidades:** medicina ambulatoria, especialidades médicas, diagnóstico, imagenología, urgencias
+- **descripcion:** Megasalud en Las Condes, Santiago, atendiendo a la próspera comunidad del oriente capitalino. Sus servicios ambulatorios de alta calidad incluyen consultas con especialistas y diagnóstico por imagen avanzado. Conveniente para los pacientes del sector oriente de Santiago que prefieren la comodidad y amplitud de atención de la red Megasalud.
+- **web:** https://www.megasalud.cl/las-condes
+- **featured:** false
+
+## Clínica Las Lilas Santiago
+- **ciudad:** Santiago
+- **slug:** las-lilas-santiago
+- **especialidades:** ginecología, obstetricia, pediatría, neonatología, reproducción asistida
+- **descripcion:** Clínica Las Lilas en Providencia, Santiago, especializada en salud de la mujer y atención materno-infantil. Sus servicios de obstetricia y reproducción asistida son de los más reconocidos en Chile. Con modernas instalaciones y equipo médico altamente calificado, atiende a miles de familias chilenas cada año.
+- **web:** https://www.clinicalaslilias.cl
+- **featured:** false
+
+## Clínica Santa María Santiago
+- **ciudad:** Santiago
+- **slug:** santa-maria-santiago
+- **especialidades:** oncología, cardiología, neurología, cirugía, medicina interna
+- **descripcion:** Clínica Santa María en Providencia, Santiago, una de las instituciones más reconocidas de la salud privada chilena. Sus unidades de oncología y cardiología son referencia a nivel nacional e internacional. Con una historia de más de 80 años, combina tradición médica con innovación tecnológica de vanguardia.
+- **web:** https://www.clinicasantamaria.cl
+- **featured:** false
+
+## Hospital Clínico Universidad de los Andes
+- **ciudad:** Santiago
+- **slug:** clinico-uandes-santiago
+- **especialidades:** cardiología, oncología, trasplantes, neurología, cirugía compleja
+- **descripcion:** Hospital Clínico de la Universidad de los Andes en Las Condes, institución universitaria de alta complejidad en Santiago. Sus programas de trasplante, cardiología y oncología son de excelencia internacional. La actividad docente e investigadora de la universidad alimenta un constante nivel de actualización médica y tecnológica.
+- **web:** https://www.hcuch.cl
+- **featured:** false
+
+## Clínica Arauco Salud Antofagasta
+- **ciudad:** Antofagasta
+- **slug:** arauco-salud-antofagasta
+- **especialidades:** medicina ocupacional, traumatología, urgencias, medicina interna, cirugía
+- **descripcion:** Clínica Arauco Salud en Antofagasta, especializada en medicina ocupacional y atención de trabajadores mineros. Sus servicios de traumatología y urgencias atienden a los numerosos trabajadores de la industria del cobre. Protocolos especiales para accidentes laborales y enfermedades profesionales de la minería.
+- **web:** https://www.araucosalud.cl
+- **featured:** false
+
+## Clínica Puerto Montt
+- **ciudad:** Puerto Montt
+- **slug:** clinica-puerto-montt
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Puerto Montt en la capital de Los Lagos, puerta de entrada a la Patagonia chilena y la Carretera Austral. Sus servicios hospitalarios atienden a la creciente población de la ciudad y a los turistas que visitan el sur de Chile. Con especialistas de múltiples áreas y atención de urgencias permanente.
+- **web:** https://www.clinicapuertomontt.cl
+- **featured:** false
+
+## Clínica Iquique
+- **ciudad:** Iquique
+- **slug:** clinica-iquique
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, traumatología
+- **descripcion:** Clínica Iquique en la ciudad libre del extremo norte de Chile, puerto franco y destino de turismo de compras. Sus servicios hospitalarios atienden a la activa población de Iquique y Tarapacá. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en el norte chileno.
+- **web:** https://www.clinicaiquique.cl
+- **featured:** false
+
+## Clínica Red Salud Valparaíso
+- **ciudad:** Valparaíso
+- **slug:** red-salud-valparaiso
+- **especialidades:** medicina ambulatoria, especialidades médicas, diagnóstico, procedimientos, cirugía
+- **descripcion:** Clínica Red Salud en Valparaíso, parte de la red del Grupo Bupa en la ciudad Puerto. Sus servicios ambulatorios y especializados atienden a la importante comunidad portuaria y universitaria de Valparaíso. Con instalaciones modernas en el puerto más famoso de Chile y tecnología diagnóstica de calidad.
+- **web:** https://www.redsalud.cl/valparaiso
+- **featured:** false
+
+## Clínica Quilín Santiago
+- **ciudad:** Santiago
+- **slug:** quilin-santiago
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica Quilín en el sector sur-oriente de Santiago, cubriendo las necesidades de salud de una zona de alta densidad poblacional. Sus servicios hospitalarios completos atienden a las familias del cono sur de la capital. Instalaciones accesibles y equipo médico calificado para la atención de calidad.
+- **web:** https://www.clinicaquilin.cl
+- **featured:** false
+
+## Clínica San José Santiago
+- **ciudad:** Santiago
+- **slug:** san-jose-santiago
+- **especialidades:** cirugía, medicina interna, urgencias, ginecología, ortopedia
+- **descripcion:** Clínica San José en la zona sur de Santiago, brindando servicios de salud privada accesibles a las familias del sector. Sus instalaciones cómodas y equipo médico comprometido garantizan una atención de calidad. Con urgencias las 24 horas y hospitalización, atiende a la comunidad del sur capitalino.
+- **web:** https://www.clinicasanjosesantiago.cl
+- **featured:** false
+
+## Clínica Alemana Valdivia
+- **ciudad:** Valdivia
+- **slug:** alemana-valdivia
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Alemana en Valdivia, ciudad universitaria y capital de Los Ríos en el sur de Chile. Sus servicios hospitalarios de alta calidad atienden a la comunidad valdiviana y a los estudiantes de la Universidad Austral. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en el sur lacustre.
+- **web:** https://www.alemanavaldivia.cl
+- **featured:** false
+
+## Megasalud Maipú Santiago
+- **ciudad:** Santiago
+- **slug:** megasalud-maipu
+- **especialidades:** medicina ambulatoria, especialidades médicas, diagnóstico, procedimientos, urgencias
+- **descripcion:** Megasalud en Maipú, la segunda comuna más poblada de Chile, atendiendo a la densa comunidad del sector sur-poniente de Santiago. Sus servicios ambulatorios accesibles incluyen consultas con especialistas y diagnóstico por imagen. Con amplia capacidad instalada y horarios extendidos para las familias trabajadoras de Maipú.
+- **web:** https://www.megasalud.cl/maipu
+- **featured:** false
+
+## Clínica Lo Barnechea Santiago
+- **ciudad:** Santiago
+- **slug:** lo-barnechea-santiago
+- **especialidades:** cirugía, medicina interna, urgencias, ortopedia, cardiología
+- **descripcion:** Clínica en Lo Barnechea, el exclusivo municipio cordillerano de Santiago, atendiendo a la próspera comunidad de las laderas de los Andes. Sus servicios de urgencias y ortopedia son especialmente valorados por la activa comunidad de deportistas de montaña. Instalaciones modernas en el barrio más cotizado del oriente capitalino.
+- **web:** https://www.clinicalobarnechea.cl
+- **featured:** false
+
+## Clínica Los Carrera Rancagua
+- **ciudad:** Rancagua
+- **slug:** los-carrera-rancagua
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica Los Carrera en Rancagua, institución privada complementando la oferta de salud en la capital de O'Higgins. Sus servicios de ginecología y pediatría son especialmente demandados entre las familias rancagüinas. Con instalaciones modernas y equipo médico comprometido, brinda atención de calidad en el corazón del valle central.
+- **web:** https://www.clinicaloscarrera.cl
+- **featured:** false
+
+## Clínica Campogrande Concepción
+- **ciudad:** Concepción
+- **slug:** campogrande-concepcion
+- **especialidades:** cirugía, medicina interna, traumatología, urgencias, ginecología
+- **descripcion:** Clínica Campogrande en Concepción, brindando servicios hospitalarios a la capital del Biobío. Sus servicios de traumatología y cirugía son especialmente reconocidos en la región. Con instalaciones modernas y equipo médico de experiencia, atiende a residentes de Concepción y los municipios del Gran Concepción.
+- **web:** https://www.clinicacampogrande.cl
+- **featured:** false
+
+## Clínica Bío Bío Concepción
+- **ciudad:** Concepción
+- **slug:** bio-bio-concepcion
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Clínica Bío Bío en Concepción, institución privada de alta complejidad en la capital de la región homónima. Sus especialidades en cardiología y oncología atienden a pacientes de la Macrorregión Sur de Chile. Con tecnología diagnóstica avanzada y equipo médico altamente calificado, es referente del sur del país.
+- **web:** https://www.clinicabiobio.cl
+- **featured:** false
+
+## Clínica Integral San Joaquín Santiago
+- **ciudad:** Santiago
+- **slug:** san-joaquin-santiago
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica Integral San Joaquín en la zona sur de Santiago, atendiendo a la populosa comunidad del municipio homónimo. Sus servicios hospitalarios accesibles y la atención de urgencias las 24 horas son especialmente valorados. Con equipo médico comprometido y modernas instalaciones, brinda cobertura a las familias del sur capitalino.
+- **web:** https://www.clinicasanjoaquin.cl
+- **featured:** false
+
+## Clínica Isamédica Santiago
+- **ciudad:** Santiago
+- **slug:** isamedica-santiago
+- **especialidades:** medicina ambulatoria, especialidades médicas, diagnóstico, cardiología, urgencias
+- **descripcion:** Clínica Isamédica en Santiago, centro de salud ambulatorio con convenios con las principales isapres del país. Sus servicios de especialidades médicas y diagnóstico por imagen son accesibles para una amplia gama de asegurados. Con horarios convenientes y atención de calidad para los trabajadores de la capital.
+- **web:** https://www.isamedica.cl
+- **featured:** false
+
+## Clínica Colonia Española Santiago
+- **ciudad:** Santiago
+- **slug:** colonia-espanola-santiago
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ortopedia
+- **descripcion:** Clínica Colonia Española en Santiago, institución fundada por la comunidad hispana de Chile con décadas de tradición. Sus servicios hospitalarios completos atienden a una diversa población de la capital chilena. Con instalaciones renovadas y equipo médico calificado, mantiene los altos estándares que la identifican.
+- **web:** https://www.coloniaespanola.cl
+- **featured:** false
+
+## Clínica San Pedro Concepción
+- **ciudad:** Concepción
+- **slug:** san-pedro-concepcion
+- **especialidades:** ginecología, obstetricia, pediatría, cirugía, medicina interna
+- **descripcion:** Clínica San Pedro en San Pedro de la Paz, Concepción, institución especializada en salud materno-infantil en el sur de Chile. Sus servicios de obstetricia y neonatología atienden a las familias del Gran Concepción. Con instalaciones modernas y equipo médico comprometido con la atención humanizada.
+- **web:** https://www.clinicasanpedro.cl
+- **featured:** false
+
+## Clínica Quilpué
+- **ciudad:** Quilpué
+- **slug:** clinica-quilpue
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** Clínica Quilpué en la Ciudad del Sol de la Quinta Región, atendiendo a la población del gran Valparaíso interior. Sus servicios hospitalarios completos con urgencias las 24 horas son especialmente valorados. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en Quilpué y Villa Alemana.
+- **web:** https://www.clinicaquilpue.cl
+- **featured:** false

@@ -241,3 +241,91 @@
 - **descripcion:** Hospital privado en Almirante, principal ciudad de acceso a Bocas del Toro, provincia turística archipielágica panameña. Atiende a residentes, turistas y trabajadores del sector bananero de Bocas del Toro. Sus servicios de urgencias y medicina general son esenciales para la comunidad provincial.
 - **web:** https://www.hospitalalmirante.com.pa
 - **featured:** false
+
+## Clínica Hospital San Fernando Panamá Norte
+- **ciudad:** Panamá
+- **slug:** san-fernando-panama-norte
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ortopedia
+- **descripcion:** Clínica Hospital San Fernando unidad norte en Panamá, complementando la red del renombrado grupo en la zona norte de la capital. Sus instalaciones modernas atienden a las comunidades residenciales del norte de la ciudad. Con los altos estándares de la marca San Fernando, ofrece servicios hospitalarios de primer nivel.
+- **web:** https://www.hospitalsanfernando.com
+- **featured:** false
+
+## Hospital Nacional Panamá
+- **ciudad:** Panamá
+- **slug:** nacional-panama
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Nacional en la Ciudad de Panamá, institución de alta complejidad con unidades especializadas de referencia regional. Sus programas de oncología y cardiología son de los más avanzados en Centroamérica. Equipo médico con formación internacional y tecnología de última generación para el manejo de patologías complejas.
+- **web:** https://www.hospitalnacional.com.pa
+- **featured:** false
+
+## Clínica Paitilla Panamá
+- **ciudad:** Panamá
+- **slug:** paitilla-panama
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Paitilla en la exclusiva zona de Punta Paitilla, Panamá, institución privada de referencia en el corazón financiero del país. Sus servicios hospitalarios atienden a la élite empresarial y financiera panameña y a pacientes internacionales. Con instalaciones modernas y equipo médico de primer nivel, es destino de turismo médico.
+- **web:** https://www.clinicapaitilla.com.pa
+- **featured:** false
+
+## Hospital Chiriquí David
+- **ciudad:** David
+- **slug:** chiriqui-david
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Chiriquí en David, la capital de la próspera provincia de Chiriquí y segunda ciudad de Panamá. Sus servicios hospitalarios atienden a la activa comunidad agrícola y comercial del occidente panameño. Con instalaciones modernas y equipo médico especializado, es referente de la salud privada en la región fronteriza con Costa Rica.
+- **web:** https://www.hospitalchiriqui.com.pa
+- **featured:** false
+
+## Centro Médico Paitilla
+- **ciudad:** Panamá
+- **slug:** centro-medico-paitilla
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Centro Médico Paitilla en la Ciudad de Panamá, institución de alta complejidad vinculada a la Clínica Paitilla. Sus especialidades médicas avanzadas atienden a la exigente comunidad financiera e internacional que habita la zona de Punta Paitilla. Con tecnología de diagnóstico avanzada y especialistas de renombre.
+- **web:** https://www.cmpaitilla.com.pa
+- **featured:** false
+
+## Hospital Pacífica Salud Panamá
+- **ciudad:** Panamá
+- **slug:** pacifica-salud-panama
+- **especialidades:** cardiología, cirugía robótica, oncología, trasplantes, neurología
+- **descripcion:** Hospital Pacífica Salud en la Ciudad de Panamá, institución de alta complejidad parte del Johns Hopkins Medicine International. Sus programas de cardiología, cirugía robótica y oncología son de referencia internacional. Con estándares clínicos del Johns Hopkins, atiende a los pacientes más complejos de Centroamérica y el Caribe.
+- **web:** https://www.pacificasalud.com
+- **featured:** false
+
+## Clínica Hospital Colón
+- **ciudad:** Colón
+- **slug:** clinica-colon
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica Hospital en Colón, la ciudad portuaria en el Caribe panameño y entrada del Canal de Panamá. Sus servicios hospitalarios atienden a la comunidad colonense y a los trabajadores del Canal y las Zonas Francas. Con instalaciones modernas y atención de urgencias las 24 horas.
+- **web:** https://www.clinicacolon.com.pa
+- **featured:** false
+
+## Hospital Susana Jones Cano Panamá
+- **ciudad:** Panamá
+- **slug:** susana-jones-cano
+- **especialidades:** cardiología, cirugía cardiovascular, medicina interna, urgencias, ortopedia
+- **descripcion:** Hospital Susana Jones Cano en la Ciudad de Panamá, institución privada reconocida en la capital. Sus especialidades en cardiología y cirugía cardiovascular son de referencia en Panamá. Con equipo médico especializado e instalaciones modernas, atiende a pacientes de todo el país.
+- **web:** https://www.hospitalsujanajones.com.pa
+- **featured:** false
+
+## Clínica La Caja Hospital Panamá
+- **ciudad:** Panamá
+- **slug:** clinica-caja-panama
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica La Caja en Panamá, institución privada con amplia cobertura en la capital. Sus servicios hospitalarios accesibles atienden a una diversa población panameña. Con instalaciones modernas y equipo médico comprometido, brinda atención de calidad en el corazón de la Ciudad de Panamá.
+- **web:** https://www.clinicalacaja.com.pa
+- **featured:** false
+
+## Hospital San Miguel Panamá
+- **ciudad:** Panamá
+- **slug:** san-miguel-panama
+- **especialidades:** cirugía, medicina interna, urgencias, ortopedia, cardiología
+- **descripcion:** Hospital San Miguel en Panamá, institución privada complementando la oferta de salud en la capital panameña. Sus servicios de ortopedia y cirugía atienden a la activa comunidad de la ciudad. Con instalaciones modernas y equipo médico de calidad, brinda cobertura a los barrios residenciales de la capital.
+- **web:** https://www.hospitalsanmiguelpanama.com.pa
+- **featured:** false
+
+## Hospital Chiriquí Santiago de Veraguas
+- **ciudad:** Santiago de Veraguas
+- **slug:** chiriqui-santiago-veraguas
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Chiriquí en Santiago de Veraguas, capital de la provincia de Veraguas en el corazón de Panamá. Sus servicios hospitalarios atienden a la comunidad de la provincia más grande del país. Con instalaciones modernas y equipo médico especializado, cubre las necesidades sanitarias del centro de Panamá.
+- **web:** https://www.hospitalchiriqui.com.pa/santiago
+- **featured:** false

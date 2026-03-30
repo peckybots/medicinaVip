@@ -243,3 +243,99 @@
 - **descripcion:** Centro médico privado de referencia en Maracay, capital del estado Aragua. Sus instalaciones modernas y equipo de especialistas atienden a la población del centro-norte venezolano. Sus servicios de cardiología e internismo son los más demandados del sistema privado de Aragua.
 - **web:** https://www.cmedmaracay.com.ve
 - **featured:** false
+
+## Clínica Santa Sofía Caracas
+- **ciudad:** Caracas
+- **slug:** santa-sofia-caracas
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Santa Sofía en Caracas, institución privada de alta complejidad en la capital venezolana. Sus unidades de cardiología y oncología han mantenido estándares de excelencia. Con médicos especialistas de reconocida trayectoria y equipos diagnósticos, atiende a los pacientes más exigentes del país.
+- **web:** https://www.clinicasantasofia.com.ve
+- **featured:** false
+
+## Clínica El Ávila Caracas
+- **ciudad:** Caracas
+- **slug:** el-avila-caracas
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ortopedia
+- **descripcion:** Clínica El Ávila en el este de Caracas, institución privada de referencia en el corredor más próspero de la capital venezolana. Con décadas de historia, mantiene servicios hospitalarios de calidad para la comunidad caraqueña. Sus instalaciones y equipo médico son reconocidos en toda Venezuela.
+- **web:** https://www.clinicaelavila.com.ve
+- **featured:** false
+
+## Centro Médico de Caracas
+- **ciudad:** Caracas
+- **slug:** centro-medico-caracas
+- **especialidades:** cardiología, oncología, cirugía, neurología, trasplantes
+- **descripcion:** Centro Médico de Caracas, institución de alta complejidad con largo historial en la capital venezolana. Sus programas de cardiología y oncología han sido referencia nacional. Equipo médico de amplia experiencia y vocación de excelencia en la atención de los pacientes venezolanos.
+- **web:** https://www.centromedicocaracas.com.ve
+- **featured:** false
+
+## Clínica Caracas
+- **ciudad:** Caracas
+- **slug:** clinica-caracas
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Caracas, institución tradicional de la capital con décadas de servicio a la comunidad venezolana. Sus especialidades médicas y quirúrgicas mantienen una reputación ganada a lo largo de los años. Con instalaciones actualizadas y equipo médico comprometido con la calidad asistencial.
+- **web:** https://www.clinicacaracas.com.ve
+- **featured:** false
+
+## Clínica Sanatrix Caracas
+- **ciudad:** Caracas
+- **slug:** sanatrix-caracas
+- **especialidades:** medicina interna, cirugía, oncología, urgencias, cardiología
+- **descripcion:** Clínica Sanatrix en Caracas, institución privada con enfoque en oncología y medicina interna. Sus programas de tratamiento del cáncer son reconocidos en la comunidad médica venezolana. Con tecnología diagnóstica disponible y equipo médico especializado para el manejo integral del paciente oncológico.
+- **web:** https://www.sanatrix.com.ve
+- **featured:** false
+
+## Hospital de Clínicas Caracas
+- **ciudad:** Caracas
+- **slug:** clinicas-caracas
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital de Clínicas Caracas en el exclusivo sector de Alta Florida, la institución privada más emblemática de Venezuela. Con historia de más de 70 años, mantiene los estándares más exigentes del país. Sus programas en todas las especialidades médicas y quirúrgicas son referencia nacional e internacional.
+- **web:** https://www.hccaracas.com.ve
+- **featured:** false
+
+## Clínica Razetti Barquisimeto
+- **ciudad:** Barquisimeto
+- **slug:** razetti-barquisimeto
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Razetti en Barquisimeto, la Ciudad Musical y capital del Lara. Sus servicios hospitalarios atienden a la dinámica comunidad barquisimetana y a pacientes de la región centroccidental. Con instalaciones modernas y equipo médico de experiencia, es referente de la salud privada en el occidente venezolano.
+- **web:** https://www.clinicarazetti.com.ve
+- **featured:** false
+
+## Centro Médico Maracay
+- **ciudad:** Maracay
+- **slug:** centro-medico-maracay
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ortopedia
+- **descripcion:** Centro Médico en Maracay, la Ciudad Jardín y capital de Aragua. Sus servicios hospitalarios privados atienden a la activa comunidad industrial de los Valles de Aragua. Con instalaciones modernas y médicos especialistas de calidad, brinda cobertura sanitaria al importante polo industrial de la región central.
+- **web:** https://www.centromedicomaracay.com.ve
+- **featured:** false
+
+## Clínica Santa Cruz Valencia
+- **ciudad:** Valencia
+- **slug:** santa-cruz-valencia-ve
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Santa Cruz en Valencia, la principal ciudad industrial de Venezuela y capital de Carabobo. Sus servicios hospitalarios atienden a la importante comunidad empresarial e industrial valenciana. Con instalaciones modernas y equipo médico comprometido, brinda atención de calidad en el motor industrial venezolano.
+- **web:** https://www.clinicasantacruzvalencia.com.ve
+- **featured:** false
+
+## Clínica Ambrosio Ojeda Maracaibo
+- **ciudad:** Maracaibo
+- **slug:** ambrosio-ojeda-maracaibo
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, traumatología
+- **descripcion:** Clínica Ambrosio Ojeda en Maracaibo, institución privada en la capital del Zulia y la ciudad más grande del occidente venezolano. Sus servicios de cardiología y cirugía atienden a la activa comunidad petrolera y empresarial maracaibera. Con instalaciones modernas y equipo médico de experiencia.
+- **web:** https://www.clinicaambrosioojeda.com.ve
+- **featured:** false
+
+## Centro Clínico La Viña Maracaibo
+- **ciudad:** Maracaibo
+- **slug:** la-vina-maracaibo
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, ortopedia
+- **descripcion:** Centro Clínico La Viña en Maracaibo, institución privada en la ciudad del Lago de Maracaibo. Sus servicios hospitalarios completos atienden a la diversa y numerosa comunidad zuliana. Con modernas instalaciones y equipo médico especializado, es referente de la salud privada en el occidente venezolano.
+- **web:** https://www.centroclinicola-vina.com.ve
+- **featured:** false
+
+## Clínica Vista Alegre Maturín
+- **ciudad:** Maturín
+- **slug:** vista-alegre-maturin
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Vista Alegre en Maturín, capital del Monagas y ciudad petrolera del oriente venezolano. Sus servicios hospitalarios privados atienden a la comunidad empresarial e industrial del nororiente del país. Con instalaciones modernas y equipo médico de experiencia, brinda cobertura a los trabajadores de la industria del petróleo.
+- **web:** https://www.clinicavistaalegre.com.ve
+- **featured:** false

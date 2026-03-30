@@ -1,0 +1,36 @@
+export const ESPECIALIDAD_LABELS: Record<string, string> = {
+  'oncologia': 'Oncología',
+  'cardiologia': 'Cardiología',
+  'neurologia': 'Neurología',
+  'cirugia': 'Cirugía',
+  'estetica': 'Medicina Estética',
+  'checkup': 'Check-up Ejecutivo',
+  'fertilidad': 'Fertilidad',
+  'ortopedia': 'Ortopedia',
+  'trasplantes': 'Trasplantes',
+  'neonatologia': 'Neonatología',
+  'pediatria': 'Pediatría',
+  'geriatria': 'Geriatría',
+  'oftalmologia': 'Oftalmología',
+  'dermatologia': 'Dermatología',
+  'odontologia': 'Odontología',
+  'psiquiatria': 'Psiquiatría',
+  'rehabilitacion': 'Rehabilitación',
+  'urgencias': 'Urgencias',
+  'medicina-interna': 'Medicina Interna',
+  'gastroenterologia': 'Gastroenterología',
+  'neumologia': 'Neumología',
+  'urologia': 'Urología',
+  'ginecologia': 'Ginecología',
+  'endocrinologia': 'Endocrinología',
+  'reumatologia': 'Reumatología',
+  'hematologia': 'Hematología',
+  'infectologia': 'Infectología',
+  'cirugia-robotica': 'Cirugía Robótica',
+  'hepatologia': 'Hepatología',
+  'general': 'Medicina General',
+};
+
+export function getEspecialidadLabel(slug: string): string {
+  return ESPECIALIDAD_LABELS[slug] ?? slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+}

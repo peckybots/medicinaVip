@@ -232,3 +232,91 @@
 - **descripcion:** La Clínica Americana en Cochabamba es una institución médica privada de tradición en la capital del Valle boliviano. Con décadas de historia atendiendo a la comunidad cochabambina con servicios de alta calidad. Sus programas de cardiología y medicina interna son los más demandados del sistema privado valluno.
 - **web:** https://www.clinicaamericana.com.bo
 - **featured:** false
+
+## Clínica Foianini Santa Cruz
+- **ciudad:** Santa Cruz de la Sierra
+- **slug:** foianini-santa-cruz
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Foianini en Santa Cruz de la Sierra, institución de alta complejidad y referente de la salud privada en la capital económica de Bolivia. Sus programas de cardiología y oncología atraen pacientes de toda la región oriental del país. Con tecnología diagnóstica avanzada y especialistas de alto nivel.
+- **web:** https://www.foianini.com.bo
+- **featured:** false
+
+## Hospital Ángeles Santa Cruz Bolivia
+- **ciudad:** Santa Cruz de la Sierra
+- **slug:** angeles-santa-cruz-bo
+- **especialidades:** cirugía, medicina interna, urgencias, ginecología, ortopedia
+- **descripcion:** Hospital Ángeles en Santa Cruz de la Sierra, institución privada de referencia en la mayor ciudad de Bolivia. Sus servicios hospitalarios completos atienden a la dinámica y creciente población cruceña. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en el oriente boliviano.
+- **web:** https://www.hospitalangeles.com.bo
+- **featured:** false
+
+## Clínica Incor La Paz Bolivia
+- **ciudad:** La Paz
+- **slug:** incor-la-paz
+- **especialidades:** cardiología, cirugía cardiovascular, medicina interna, urgencias, hemodinamia
+- **descripcion:** Clínica Incor en La Paz, especializada en cardiología y cirugía cardiovascular en la sede de gobierno boliviana. Sus programas de hemodinamia y cirugía cardíaca son referencia en el altiplano boliviano. Equipo médico especializado para el manejo de enfermedades cardíacas en condiciones de alta altitud.
+- **web:** https://www.incorbolivia.com
+- **featured:** false
+
+## Clínica del Sur La Paz Bolivia
+- **ciudad:** La Paz
+- **slug:** del-sur-la-paz
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, cardiología
+- **descripcion:** Clínica del Sur en La Paz, institución privada consolidada en la capital política de Bolivia. Sus servicios hospitalarios atienden a la comunidad del sur paceño, uno de los sectores residenciales más prósperos de la ciudad. Con instalaciones modernas y equipo médico de experiencia.
+- **web:** https://www.clinicadelsur.com.bo
+- **featured:** false
+
+## Hospital de la Mujer La Paz Bolivia
+- **ciudad:** La Paz
+- **slug:** mujer-la-paz-bo
+- **especialidades:** ginecología, obstetricia, neonatología, pediatría, reproducción asistida
+- **descripcion:** Hospital de la Mujer en La Paz, institución especializada en salud materno-infantil en la sede de gobierno boliviana. Sus servicios de obstetricia y neonatología atienden a miles de familias paceñas. Con programas de reproducción asistida y ginecología especializada, es referente de la salud femenina en Bolivia.
+- **web:** https://www.hospitalmujer.gob.bo
+- **featured:** false
+
+## Clínica San Martín Cochabamba
+- **ciudad:** Cochabamba
+- **slug:** san-martin-cochabamba
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica San Martín en Cochabamba, la Ciudad Jardín de Bolivia y corazón agroindustrial del país. Sus servicios hospitalarios de calidad atienden a la dinámica comunidad cochabambina. Con instalaciones modernas y equipo médico especializado, es referente de la salud privada en el departamento de Cochabamba.
+- **web:** https://www.clinicasanmartin.com.bo
+- **featured:** false
+
+## Clínica Los Olivos Santa Cruz Bolivia
+- **ciudad:** Santa Cruz de la Sierra
+- **slug:** los-olivos-santa-cruz
+- **especialidades:** cirugía, ginecología, medicina interna, urgencias, ortopedia
+- **descripcion:** Clínica Los Olivos en Santa Cruz de la Sierra, institución privada con amplia cobertura en la capital del oriente boliviano. Sus servicios de ginecología y cirugía son especialmente valorados. Con instalaciones modernas en la ciudad de mayor crecimiento de Bolivia y equipo médico comprometido.
+- **web:** https://www.clinicalosolivos.com.bo
+- **featured:** false
+
+## Hospital Universitario Viedma Cochabamba
+- **ciudad:** Cochabamba
+- **slug:** viedma-cochabamba
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, oncología
+- **descripcion:** Hospital Universitario Viedma en Cochabamba, institución con actividad docente vinculada a la Universidad Mayor de San Simón. Sus servicios hospitalarios de alta complejidad atienden a la comunidad cochabambina. Con programas de formación médica y asistencia clínica de calidad.
+- **web:** https://www.viedma.edu.bo
+- **featured:** false
+
+## Clínica Médica Santa Cruz Palmasola
+- **ciudad:** Santa Cruz de la Sierra
+- **slug:** medica-palmasola-sc
+- **especialidades:** medicina interna, cirugía, urgencias, traumatología, ginecología
+- **descripcion:** Clínica Médica en la zona de Palmasola, Santa Cruz, cubriendo las necesidades de los barrios del norte cruceño. Sus servicios de traumatología y urgencias son especialmente demandados. Con instalaciones accesibles y equipo médico calificado, brinda cobertura a la creciente comunidad del norte de la capital boliviana.
+- **web:** https://www.clinicamedica.com.bo
+- **featured:** false
+
+## Hospital Santa María La Paz Bolivia
+- **ciudad:** La Paz
+- **slug:** santa-maria-la-paz-bo
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ortopedia
+- **descripcion:** Hospital Santa María en La Paz, institución privada en la fría pero dinámica capital boliviana. Sus servicios hospitalarios completos atienden a la comunidad paceña con calidad y compromiso. Con instalaciones modernas y equipo médico especializado, es referente de la salud privada en el altiplano boliviano.
+- **web:** https://www.hospitalsantamaria.com.bo
+- **featured:** false
+
+## Clínica Cruceña Santa Cruz Bolivia
+- **ciudad:** Santa Cruz de la Sierra
+- **slug:** crucena-santa-cruz
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica Cruceña en Santa Cruz de la Sierra, institución privada que refleja el dinamismo y crecimiento de la capital boliviana. Sus servicios hospitalarios atienden a una ciudad en constante expansión. Con instalaciones modernas y médicos especialistas, brinda atención de calidad a las familias cruceñas.
+- **web:** https://www.clinicacrucena.com.bo
+- **featured:** false

@@ -2355,3 +2355,1571 @@
 - **descripcion:** Hospital Ángeles en Los Mochis, Sinaloa, ciudad clave del noroeste de México y punto de partida del tren Chepe hacia la Sierra Tarahumara. Sus servicios hospitalarios completos atienden a la población del norte de Sinaloa y sur de Sonora. Con médicos especialistas y atención las 24 horas.
 - **web:** https://www.hospitalesangeles.com/losmochis
 - **featured:** false
+
+## Clínica H+ Mérida
+- **ciudad:** Mérida
+- **slug:** hmas-merida
+- **especialidades:** cirugía, ortopedia, cardiología, medicina interna, urgencias
+- **descripcion:** Hospital H+ en la capital de Yucatán, centro médico de referencia del sureste mexicano. Ofrece tecnología de punta en cirugía y cardiología para pacientes locales y turistas médicos que visitan la Península de Yucatán. Cuenta con médicos certificados y atención continua las 24 horas.
+- **web:** https://www.hmas.com.mx
+- **featured:** false
+
+## Hospital OCA Mérida
+- **ciudad:** Mérida
+- **slug:** oca-merida
+- **especialidades:** medicina interna, cirugía, oncología, neurología, cardiología
+- **descripcion:** Hospital OCA con presencia en Mérida, brindando atención médica de alto nivel a la población yucateca. Destaca por sus servicios de oncología y neurología, con especialistas altamente capacitados. Instalaciones modernas y equipos diagnósticos de última generación.
+- **web:** https://www.hospitaloca.com
+- **featured:** false
+
+## Hospital CIMA Hermosillo
+- **ciudad:** Hermosillo
+- **slug:** cima-hermosillo
+- **especialidades:** cirugía, cardiología, ortopedia, ginecología, medicina interna
+- **descripcion:** Hospital CIMA en Hermosillo, Sonora, capital del estado y ciudad de intenso dinamismo económico y turismo médico desde Arizona. Infraestructura hospitalaria de primer nivel con tecnología de vanguardia y equipo médico certificado en EE.UU. y México. Referente regional para cirugía cardiovascular y ortopédica.
+- **web:** https://www.hospitalcima.com/hermosillo
+- **featured:** false
+
+## Hospital CIMA Chihuahua
+- **ciudad:** Chihuahua
+- **slug:** cima-chihuahua
+- **especialidades:** cirugía, cardiología, oncología, ginecología, urgencias
+- **descripcion:** Hospital CIMA en Chihuahua, la ciudad más grande del norte de México y capital del estado más extenso del país. Ofrece servicios hospitalarios completos con estándares internacionales, siendo referente para pacientes de toda la región norte. Sus especialidades en cardiología y oncología atraen turismo médico del sur de Texas y Nuevo México.
+- **web:** https://www.hospitalcima.com/chihuahua
+- **featured:** false
+
+## Hospital Cemain
+- **ciudad:** Culiacán
+- **slug:** cemain-culiacan
+- **especialidades:** traumatología, ortopedia, rehabilitación, medicina deportiva, cirugía
+- **descripcion:** Hospital Cemain en Culiacán, Sinaloa, especializado en traumatología y ortopedia con décadas de experiencia en el norte de México. Cuenta con quirófanos especializados, sala de recuperación y programa integral de rehabilitación física. Referente en medicina deportiva para atletas profesionales y aficionados del noroeste mexicano.
+- **web:** https://www.cemain.com.mx
+- **featured:** false
+
+## Hospital H+ Querétaro
+- **ciudad:** Querétaro
+- **slug:** hmas-queretaro
+- **especialidades:** cirugía, cardiología, medicina interna, ortopedia, pediatría
+- **descripcion:** Hospital H+ en Querétaro, uno de los estados de mayor crecimiento económico e industrial de México. Brinda atención médica integral a la creciente población del Bajío, con servicios especializados en cirugía y cardiología. Ubicado estratégicamente para atender a empresarios y familias del corredor industrial Querétaro-San Juan del Río.
+- **web:** https://www.hmas.com.mx
+- **featured:** false
+
+## Hospital San José Querétaro
+- **ciudad:** Querétaro
+- **slug:** san-jose-queretaro
+- **especialidades:** medicina interna, cirugía, ginecología, pediatría, urgencias
+- **descripcion:** Hospital privado de referencia en Querétaro con amplia trayectoria atendiendo a familias queretanas. Sus servicios de ginecología y pediatría son especialmente reconocidos en la región. Modernas instalaciones y personal médico especializado comprometido con la atención personalizada.
+- **web:** https://www.hospitalsanjosequeretaro.com.mx
+- **featured:** false
+
+## Clínica del Parque San Luis Potosí
+- **ciudad:** San Luis Potosí
+- **slug:** clinica-parque-slp
+- **especialidades:** medicina interna, cirugía, cardiología, neurología, urgencias
+- **descripcion:** Clínica del Parque en San Luis Potosí, institución médica privada de referencia en la capital potosina. Ofrece atención integral con especialistas en cardiología y neurología. Sus instalaciones modernas y trato personalizado la hacen la opción preferida de muchas familias potosinas.
+- **web:** https://www.clinicadelparque.com.mx
+- **featured:** false
+
+## Hospital MAC San Luis Potosí
+- **ciudad:** San Luis Potosí
+- **slug:** mac-san-luis-potosi
+- **especialidades:** cirugía, ginecología, ortopedia, medicina interna, urgencias
+- **descripcion:** Hospital MAC en San Luis Potosí, parte de la red de hospitales de Alta Complejidad que opera en varias ciudades de México. Sus servicios quirúrgicos y de ginecología tienen alta demanda entre la población del altiplano potosino. Con tecnología diagnóstica avanzada y hospitalización de calidad.
+- **web:** https://www.hospitalmac.com
+- **featured:** false
+
+## Hospital Ángeles Oaxaca
+- **ciudad:** Oaxaca de Juárez
+- **slug:** angeles-oaxaca
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Ángeles en Oaxaca de Juárez, la capital cultural y gastronómica del sur de México. Brinda atención médica privada de calidad a residentes y turistas en una de las ciudades con mayor afluencia turística del país. Sus especialidades de urgencias y ginecología son las más demandadas.
+- **web:** https://www.hospitalesangeles.com/oaxaca
+- **featured:** false
+
+## Hospital Reforma Oaxaca
+- **ciudad:** Oaxaca de Juárez
+- **slug:** reforma-oaxaca
+- **especialidades:** cirugía, medicina interna, ginecología, pediatría, urgencias
+- **descripcion:** Hospital Reforma, institución médica privada consolidada en Oaxaca de Juárez. Ofrece servicios hospitalarios completos con atención personalizada y médicos especialistas de reconocida trayectoria. Destaca por su servicio de urgencias y la calidez en la atención a sus pacientes.
+- **web:** https://www.hospitalreformaoaxaca.com.mx
+- **featured:** false
+
+## Hospital OCA Chihuahua
+- **ciudad:** Chihuahua
+- **slug:** oca-chihuahua
+- **especialidades:** oncología, neurología, cirugía, medicina interna, cardiología
+- **descripcion:** Hospital OCA en Chihuahua con especialización en oncología y neurología, áreas de alta demanda en la región norte de México. Sus modernas instalaciones hospitalarias y equipos de diagnóstico avanzado lo posicionan como referente para el tratamiento del cáncer en el estado. Médicos especialistas certificados y protocolos internacionales.
+- **web:** https://www.hospitaloca.com
+- **featured:** false
+
+## Hospital Star Médica Mérida
+- **ciudad:** Mérida
+- **slug:** star-medica-merida
+- **especialidades:** cardiología, oncología, cirugía bariátrica, trasplantes, neurología
+- **descripcion:** Hospital Star Médica en Mérida, parte de la red hospitalaria de alta especialidad con presencia en las principales ciudades de México. Referente regional en cardiología y oncología, con infraestructura quirúrgica de primer nivel. Atiende a pacientes de toda la Península de Yucatán y Centroamérica.
+- **web:** https://www.starmedica.com/merida
+- **featured:** false
+
+## Hospital H+ Culiacán
+- **ciudad:** Culiacán
+- **slug:** hmas-culiacan
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital H+ en Culiacán, capital de Sinaloa y centro agroindustrial del noroeste mexicano. Con servicios hospitalarios integrales y atención de urgencias las 24 horas, atiende a la creciente población sinaloense. Sus áreas de cardiología y cirugía cuentan con especialistas de amplia experiencia.
+- **web:** https://www.hmas.com.mx
+- **featured:** false
+
+## Hospital Murguía Querétaro
+- **ciudad:** Querétaro
+- **slug:** murguia-queretaro
+- **especialidades:** ginecología, obstetricia, pediatría, medicina interna, cirugía
+- **descripcion:** Hospital Murguía en Querétaro, institución de larga tradición con enfoque en salud materno-infantil. Reconocido por sus servicios de ginecología y obstetricia, atendiendo a miles de familias queretanas. Sus instalaciones especializadas en pediatría hacen de este hospital una opción preferida para familias del Bajío.
+- **web:** https://www.hospitalmurguia.com.mx
+- **featured:** false
+
+## Clínica del Noroeste Hermosillo
+- **ciudad:** Hermosillo
+- **slug:** noroeste-hermosillo
+- **especialidades:** traumatología, ortopedia, medicina interna, cirugía, urgencias
+- **descripcion:** Clínica del Noroeste en Hermosillo, centro médico especializado que sirve a la capital de Sonora. Con énfasis en traumatología y ortopedia para la comunidad laboral e industrial de la ciudad. Atención de urgencias y hospitalización en instalaciones modernas.
+- **web:** https://www.clinicadelnoroeste.com.mx
+- **featured:** false
+
+## Hospital Ángeles Torreón
+- **ciudad:** Torreón
+- **slug:** angeles-torreon
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ortopedia
+- **descripcion:** Hospital Ángeles en Torreón, corazón de la Comarca Lagunera y una de las ciudades más dinámicas del norte de México. Ofrece servicios de salud privados de alto nivel con énfasis en cardiología y cirugía. Atiende a pacientes de Coahuila y Durango, regiones industriales y agropecuarias de primer orden.
+- **web:** https://www.hospitalesangeles.com/torreon
+- **featured:** false
+
+## Hospital Español de Mérida
+- **ciudad:** Mérida
+- **slug:** espanol-merida
+- **especialidades:** medicina interna, cirugía, cardiología, neurología, gastroenterología
+- **descripcion:** Hospital Español en Mérida, institución privada con larga tradición en la atención médica de calidad en Yucatán. Cuenta con especialidades médicas y quirúrgicas de alto nivel, además de diagnóstico por imagen avanzado. Su ubicación y reputación lo convierten en punto de referencia para la comunidad yucateca y de la Península.
+- **web:** https://www.hospitalespanolmerida.com.mx
+- **featured:** false
+
+## Hospital San José Hermosillo
+- **ciudad:** Hermosillo
+- **slug:** san-jose-hermosillo
+- **especialidades:** ginecología, obstetricia, pediatría, medicina interna, cirugía
+- **descripcion:** Hospital San José en Hermosillo, especializado en atención materno-infantil con décadas de presencia en Sonora. Sus servicios de obstetricia y neonatología son reconocidos en toda la región noroeste del país. Instalaciones modernas y médicos certificados garantizan el mejor cuidado para madres y recién nacidos.
+- **web:** https://www.hospitalsanjosehermosillo.com.mx
+- **featured:** false
+
+## Hospital CMQ Riviera Nayarit
+- **ciudad:** Nuevo Vallarta
+- **slug:** cmq-riviera-nayarit
+- **especialidades:** urgencias, medicina interna, cirugía, ortopedia, dermatología
+- **descripcion:** Hospital CMQ en la Riviera Nayarit, atendiendo a turistas y residentes del exclusivo corredor costero entre Puerto Vallarta y Punta Mita. Brinda atención médica de calidad en un destino turístico de clase mundial, con personal bilingüe y protocolos para emergencias médicas de visitantes extranjeros. Servicios de telemedicina y coordinación con hospitales de EE.UU.
+- **web:** https://www.cmqhospitals.com
+- **featured:** false
+
+## Hospital Regional del ISSEMyM Querétaro
+- **ciudad:** Querétaro
+- **slug:** issemym-queretaro
+- **especialidades:** medicina interna, cirugía, cardiología, ginecología, traumatología
+- **descripcion:** Hospital privado de segundo nivel en Querétaro con cobertura a trabajadores del Estado y sus familias. Ofrece servicios hospitalarios completos en un estado con uno de los mayores crecimientos económicos del país. Especialidades médicas y quirúrgicas con alto nivel de resolución.
+- **web:** https://www.issemym.gob.mx
+- **featured:** false
+
+## Hospital OCA Monterrey Sur
+- **ciudad:** Monterrey
+- **slug:** oca-monterrey-sur
+- **especialidades:** oncología, neurología, medicina interna, cirugía, urgencias
+- **descripcion:** Unidad hospitalaria OCA al sur de la zona metropolitana de Monterrey, expandiendo los servicios especializados de la red OCA a nuevas colonias regiomontanas. Sus servicios oncológicos y neurológicos siguen el mismo estándar de excelencia de la sede central. Modernas instalaciones diagnósticas y quirúrgicas.
+- **web:** https://www.hospitaloca.com
+- **featured:** false
+
+## Hospital San Javier Guadalajara Centro
+- **ciudad:** Guadalajara
+- **slug:** san-javier-guadalajara-centro
+- **especialidades:** cirugía, cardiología, medicina interna, ginecología, urgencias
+- **descripcion:** Clínica San Javier en el centro histórico de Guadalajara, complementando la red de este hospital en la zona metropolitana. Sus servicios de cirugía y cardiología atienden a la amplia población del municipio de Guadalajara. Accesibilidad y tradición médica tapatía en una de las zonas más densamente pobladas de la ciudad.
+- **web:** https://www.hospitalsanjavier.com
+- **featured:** false
+
+## Clínica Lomas Verdes San Luis Potosí
+- **ciudad:** San Luis Potosí
+- **slug:** lomas-verdes-slp
+- **especialidades:** medicina interna, cirugía, ginecología, pediatría, urgencias
+- **descripcion:** Clínica Lomas Verdes en la zona residencial de San Luis Potosí, ofreciendo atención médica de calidad en un entorno moderno y accesible. Sus especialidades de ginecología y pediatría son especialmente reconocidas. Con atención de urgencias las 24 horas y hospitalización de confort.
+- **web:** https://www.clinicalomasverdes.com.mx
+- **featured:** false
+
+## Hospital Angeles Chihuahua
+- **ciudad:** Chihuahua
+- **slug:** angeles-chihuahua
+- **especialidades:** cardiología, cirugía, ortopedia, medicina interna, urgencias
+- **descripcion:** Hospital Ángeles en Chihuahua, capital del estado más grande de México y ciudad de intensa actividad industrial y maquiladora. Referente en cardiología y cirugía para pacientes de todo el estado, con equipos diagnósticos de última generación. Sus servicios bilingües atienden también a turistas médicos del sur de Estados Unidos.
+- **web:** https://www.hospitalesangeles.com/chihuahua
+- **featured:** false
+
+## Clínica Integral de Yucatán
+- **ciudad:** Mérida
+- **slug:** integral-yucatan
+- **especialidades:** medicina familiar, odontología, dermatología, endocrinología, nutrición
+- **descripcion:** Clínica Integral de Yucatán en Mérida, ofreciendo atención médica ambulatoria con enfoque preventivo y de bienestar integral. Sus servicios de medicina familiar, dermatología y endocrinología son muy demandados entre la población yucateca. Consultorios especializados y laboratorio clínico en un mismo espacio.
+- **web:** https://www.clinicaintegralyucatan.com.mx
+- **featured:** false
+
+## Hospital MAC Culiacán
+- **ciudad:** Culiacán
+- **slug:** mac-culiacan
+- **especialidades:** cirugía, ginecología, ortopedia, medicina interna, urgencias
+- **descripcion:** Hospital MAC en Culiacán, parte de la red de hospitales de Alta Complejidad en el noroeste de México. Sus servicios quirúrgicos y de ginecología tienen alta demanda entre la población sinaloense. Con tecnología diagnóstica avanzada y habitaciones hospitalarias de confort.
+- **web:** https://www.hospitalmac.com
+- **featured:** false
+
+## Hospital Ángeles Torreón Norte
+- **ciudad:** Torreón
+- **slug:** angeles-torreon-norte
+- **especialidades:** pediatría, ginecología, medicina interna, cirugía, urgencias
+- **descripcion:** Segunda unidad de Hospital Ángeles en Torreón, expandiendo los servicios de salud de la cadena a la zona norte de la ciudad y sus áreas conurbadas. Especialidades pediátricas y ginecológicas de alto nivel. Atiende a familias de Torreón, Gómez Palacio y Ciudad Lerdo en la Comarca Lagunera.
+- **web:** https://www.hospitalesangeles.com/torreon
+- **featured:** false
+
+## Hospital Español Culiacán
+- **ciudad:** Culiacán
+- **slug:** espanol-culiacan
+- **especialidades:** medicina interna, cirugía, cardiología, ginecología, urgencias
+- **descripcion:** Hospital Español en Culiacán, institución privada con tradición en la capital de Sinaloa. Ofrece servicios hospitalarios integrales con enfoque en medicina interna y cirugía. Sus instalaciones modernas y equipo médico de experiencia lo posicionan como referente entre la comunidad sinaloense.
+- **web:** https://www.hospitalespanolculiacan.com.mx
+- **featured:** false
+
+## Hospital Beneficencia Española Mérida
+- **ciudad:** Mérida
+- **slug:** beneficencia-espanola-merida
+- **especialidades:** medicina interna, cirugía, ortopedia, urgencias, cardiología
+- **descripcion:** Hospital de la Beneficencia Española en Mérida, institución con raíces históricas en la comunidad hispana de Yucatán. Brinda atención médica de calidad con médicos especialistas y equipos modernos. Uno de los hospitales privados más tradicionales y respetados de la Península de Yucatán.
+- **web:** https://www.beneficenciaespanolamerida.com.mx
+- **featured:** false
+
+## Hospital San José Oaxaca
+- **ciudad:** Oaxaca de Juárez
+- **slug:** san-jose-oaxaca
+- **especialidades:** ginecología, obstetricia, pediatría, urgencias, medicina interna
+- **descripcion:** Hospital San José en Oaxaca de Juárez, especializado en salud materno-infantil para la población del valle central de Oaxaca. Sus servicios de obstetricia y neonatología son referencia en el sur de México. Atención personalizada y calidad médica en uno de los estados con mayor diversidad cultural del país.
+- **web:** https://www.hospitalsanjoseoaxaca.com.mx
+- **featured:** false
+
+
+## CLINICA SANTA CLARITA
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** clinica-santa-clarita
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, JUAN SARABIA, #8452, ZONA CENTRO, CP 22000
+- **telefono:** 6642317220
+- **web:** 
+- **featured:** false
+
+
+## COI CENTRO ÓNCOLOGICO INTERNACIONAL S.A.P.I DE C.V
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** coi-centro-oncologico-internacional-s-a-p-i-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, ANTONIO CASO, #2055  , ZONA URBANA RIO TIJUANA, CP 22010
+- **telefono:** 6641344605
+- **web:** 
+- **featured:** false
+
+
+## CENTRO BIOCEL
+- **ciudad:** Ensenada, BAJA CALIFORNIA
+- **slug:** centro-biocel
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Ensenada, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** BOULEVARD, LAGO VICTORIA, #791 , VALLE DORADO, CP 22890
+- **telefono:** 6461739090
+- **web:** 
+- **featured:** false
+
+
+## BIOADVANCED MEDICAL CENTER
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** bioadvanced-medical-center
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, DAVID ALFARO SIQUEIROS, #2795, ZONA URBANA RIO TIJUANA, CP 22010
+- **telefono:** 6646342233
+- **web:** 
+- **featured:** false
+
+
+## CLINICA HENAN
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** clinica-henan
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** BOULEVARD, PASEO BANDERAS, #10, FRANCISCO ZARCO, SANTA FE, CP 22564
+- **telefono:** 6646991823
+- **web:** 
+- **featured:** false
+
+
+## UNIDAD ONCOLOGICA
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** unidad-oncologica
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, GONZÁLEZ ORTEGA, #938, ZONA CENTRO, CP 22000
+- **telefono:** 6646880628
+- **web:** 
+- **featured:** false
+
+
+## TIJUANA EYE CENTER
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** tijuana-eye-center
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, IGNACION COMONFORT, #9350, ZONA URBANA RIO TIJUANA, CP 22010
+- **telefono:** 6646340080
+- **web:** 
+- **featured:** false
+
+
+## CELAG DE TIJUANA S.A DE C.V
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** celag-de-tijuana-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, COLIMA, #2225, CACHO, CP 22040
+- **telefono:** 6646847280
+- **web:** 
+- **featured:** false
+
+
+## CENTRO BARIÁTRICO DE LA FRONTERA NORTE
+- **ciudad:** Tijuana, BAJA CALIFORNIA
+- **slug:** centro-bariatrico-de-la-frontera-norte
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, RODOLFO SÁNCHEZ TABOADA, #1701, ZONA ESTE, CP 22000
+- **telefono:** 6642073667
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA LUPITA
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** clinica-lupita
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MARIA ELENA HERNANDEZ, #SIN NUMERO  , REVOLUCION, CP 31135
+- **telefono:** 6144848400
+- **web:** 
+- **featured:** false
+
+
+## CLINICA SANTA FE
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** clinica-santa-fe
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** BOULEVARD, OSCAR FLORES, #4934  , LA CUESTA, CP 32650
+- **telefono:** 6564067925
+- **web:** 
+- **featured:** false
+
+
+## LOS OJOS DE DIOS A. C.
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** los-ojos-de-dios-a-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MIGUEL DE LA MADRID, #8768  , PARQUE INDUSTRIAL AEROJUÁREZ, CP 32696
+- **telefono:** 6562880759
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA RIBERAS
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** clinica-riberas
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, RÍO URUGUAY, #1600  , RIBERAS DEL SACRAMENTO, CP 31184
+- **telefono:** 6144364146
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DE LA FAMILIA
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** clinica-de-la-familia
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, HENEQUEN, #950 , MORELOS II, CP 32573
+- **telefono:** 6566147011
+- **web:** 
+- **featured:** false
+
+
+## CHRISTUS MUGUERZA JUVENTUD
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** christus-muguerza-juventud
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, VALLE ESCONDIDO, #3201 , DESARROLLO EL SAUCITO, CP 31125
+- **telefono:** 6144397979
+- **web:** 
+- **featured:** false
+
+
+## SERVICIOS MEDICOS DE LA FRONTERA S.A. DE C.V.
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** servicios-medicos-de-la-frontera-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, RAMON RIVERA LARA, #8950 , PARTIDO SENECU, CP 32540
+- **telefono:** 6566882700
+- **web:** 
+- **featured:** false
+
+
+## CMEMI, S. DER. L. DE C. V.
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** cmemi-s-der-l-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, HOMERO, #348, REVOLUCIÓN, CP 31135
+- **telefono:** 6144811116
+- **web:** 
+- **featured:** false
+
+
+## ARCOSE BIOMEDICAL GROUP S.A. DE C.V.
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** arcose-biomedical-group-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CERRADA, IGNACIO DE LA PEÑA, #3051, PARTIDO ESCOBEDO, CP 32330
+- **telefono:** 6562870061
+- **web:** 
+- **featured:** false
+
+
+## INSTITUTO REGIONAL DE TRATAMIENTO DEL CÁNCER S.A DE C.V.
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** instituto-regional-de-tratamiento-del-cancer-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MANUEL DIAZ H, #725, ZONA PRONAF, CP 32315
+- **telefono:** 6566131303
+- **web:** 
+- **featured:** false
+
+
+## ALTA TECNOLOGIA EN RESONANCIA Y SERVICIOS MEDICOS SA DE CV
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** alta-tecnologia-en-resonancia-y-servicios-medicos-sa-de-cv
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** EJE VIAL, JUAN GABRIEL, #2130, REFORMA, CP 32380
+- **telefono:** 5537224278
+- **web:** 
+- **featured:** false
+
+
+## CENTRO QUIRÚRGICO EMA
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** centro-quirurgico-ema
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** BOULEVARD, TOMAS FERNANDEZ, #8743, PARQUE INDUSTRIAL ANTONIO JAIME BERMÚDEZ, CP 32470
+- **telefono:** 6569000260
+- **web:** 
+- **featured:** false
+
+
+## UNIDAD MÉDICA DE CIRUGÍA Y DIAGNÓSTICO S.C.
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** unidad-medica-de-cirugia-y-diagnostico-s-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, RAMIREZ CALDERON, #100, SAN FELIPE, CP 31203
+- **telefono:** 6144131635
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA INTEGRAL LEMANS - CONSULTORIOS
+- **ciudad:** Juarez, CHIHUAHUA
+- **slug:** clinica-integral-lemans-consultorios
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, JUNIPERO SERRA, #6686, SAN LORENZO, CP 32320
+- **telefono:** 6562183118
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA CALIFORNIA
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** clinica-california
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, CALIFORNIA, #5313, HACIENDAS II, CP 31215
+- **telefono:** 6144606040
+- **web:** 
+- **featured:** false
+
+
+## CENTRO MEDICO QUIRURGICO SF, S.A. DE C.V.
+- **ciudad:** Chihuahua, CHIHUAHUA
+- **slug:** centro-medico-quirurgico-sf-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, COLEGIO, #7303, LOMAS DEL VALLE, CP 31216
+- **telefono:** 6144432713
+- **web:** 
+- **featured:** false
+
+
+## HSAI CORTA ESTANCIA S.A DE C.V
+- **ciudad:** Benito Juarez, CIUDAD DE MEXICO
+- **slug:** hsai-corta-estancia-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MIER Y PESADO, #224  , DEL VALLE, CP 03100
+- **telefono:** 5547425959
+- **web:** 
+- **featured:** false
+
+
+## SALAUNO SALUD,S.A.P.I. DE C.V.
+- **ciudad:** Cuauhtemoc, CIUDAD DE MEXICO
+- **slug:** salauno-salud-s-a-p-i-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, HAMBURGO, #115  , JUAREZ, CP 06600
+- **telefono:** 5541637463
+- **web:** 
+- **featured:** false
+
+
+## MEDALFA S.A. DE C.V.
+- **ciudad:** Xochimilco, CIUDAD DE MEXICO
+- **slug:** medalfa-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Xochimilco, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, NIÑOS HÉROES, #51  , SANTA MARÍA TEPEPAN, CP 16020
+- **telefono:** 5579202506
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE DIAGNÓSTICO ÁNGELES S.A DE C.V
+- **ciudad:** Iztapalapa, CIUDAD DE MEXICO
+- **slug:** centro-de-diagnostico-angeles-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Iztapalapa, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LEBRIJA, #232  , CERRO DE LA ESTRELLA, CP 09860
+- **telefono:** 5511015400
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DE ESPECIALIDADES GINECOLOGICAS 
+- **ciudad:** Iztapalapa, CIUDAD DE MEXICO
+- **slug:** clinica-de-especialidades-ginecologicas
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Iztapalapa, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, CAZADORES DE MORELIA, #26 A  , EJÉRCITO DE ORIENTE, CP 09230
+- **telefono:** 5557441044
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE REHABILITACIÓN RENAL S.A DE C.V
+- **ciudad:** Alvaro Obregon, CIUDAD DE MEXICO
+- **slug:** centro-de-rehabilitacion-renal-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Alvaro Obregon, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, GUILLERMO GONZALEZ CAMARENA , #1100  , SANTA FE , CP 01210
+- **telefono:** 5510805998
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA ML BENITO JUÁREZ  
+- **ciudad:** Benito Juarez, CIUDAD DE MEXICO
+- **slug:** clinica-ml-benito-juarez
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, CASTILLA, #SIN NUMERO  , ÁLAMOS, CP 03400
+- **telefono:** 5541657070
+- **web:** 
+- **featured:** false
+
+
+## SERVICIO MÉDICO DE CORTA ESTANCIA SC.
+- **ciudad:** Cuauhtemoc, CIUDAD DE MEXICO
+- **slug:** servicio-medico-de-corta-estancia-sc
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, TLAXCALA , #116  , Roma Sur, CP 06760
+- **telefono:** 5555847041
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA ML CUAJIMALPA  
+- **ciudad:** Cuajimalpa De Morelos, CIUDAD DE MEXICO
+- **slug:** clinica-ml-cuajimalpa
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuajimalpa De Morelos, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CARRETERA, FEDERAL MEXICO - TOLUCA , #3876  , EL ÉBANO, CP 05230
+- **telefono:** 5541657070
+- **web:** 
+- **featured:** false
+
+
+## UNIDAD DE ESPECIALIDADES MÉDICAS ML  
+- **ciudad:** Miguel Hidalgo, CIUDAD DE MEXICO
+- **slug:** unidad-de-especialidades-medicas-ml
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Miguel Hidalgo, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, INGENIEROS MILITARES, #34  , PERIODISTA, CP 11220
+- **telefono:** 5553952191
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA DE DIAGNOSTICO ASPOBU, S DE R.L. DE C.V.
+- **ciudad:** Benito Juarez, CIUDAD DE MEXICO
+- **slug:** clinica-de-diagnostico-aspobu-s-de-r-l-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LUZ SAVIÑON, #13  , DEL VALLE CENTRO, CP 03100
+- **telefono:** 5534443795
+- **web:** 
+- **featured:** false
+
+
+## CONSULTORIOS DE LA UNIDAD MÉDICA MIGUEL HIDALGO LOMAS DE SOTELO  
+- **ciudad:** Miguel Hidalgo, CIUDAD DE MEXICO
+- **slug:** consultorios-de-la-unidad-medica-miguel-hidalgo-lomas-de-sotelo
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Miguel Hidalgo, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, RODOLFO GAONA, #SIN NUMERO  , LOMAS DE SOTELO, CP 11200
+- **telefono:** 5571565388
+- **web:** 
+- **featured:** false
+
+
+## GEFARMA S.A.P.I DE C.V  
+- **ciudad:** Benito Juarez, CIUDAD DE MEXICO
+- **slug:** gefarma-s-a-p-i-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, INSURGENTES SUR , #1431  , INSURGENTES MIXCOAC, CP 03920
+- **telefono:** 5548775412
+- **web:** 
+- **featured:** false
+
+
+## MEDICACENTERFEM  
+- **ciudad:** Gustavo A. Madero, CIUDAD DE MEXICO
+- **slug:** medicacenterfem
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Gustavo A. Madero, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, VENTURINA, #28  , ESTRELLA, CP 07810
+- **telefono:** 5557500233
+- **web:** 
+- **featured:** false
+
+
+## CORPORATIVO MEDICO LGS 
+- **ciudad:** Gustavo A. Madero, CIUDAD DE MEXICO
+- **slug:** corporativo-medico-lgs
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Gustavo A. Madero, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** BOULEVARD, DEL TEMOLUCO, #374  , RESIDENCIAL ACUEDUCTO DE GUADALUPE, CP 07270
+- **telefono:** 5544376223
+- **web:** 
+- **featured:** false
+
+
+## ASOCIACIÓN PARA EVITAR LA CEGUERA EN MÉXICO, I.A.P.      
+- **ciudad:** Gustavo A. Madero, CIUDAD DE MEXICO
+- **slug:** asociacion-para-evitar-la-ceguera-en-mexico-i-a-p
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Gustavo A. Madero, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, INSTITUTO POLITECNICO NACIONAL , #S/N , LINDAVISTA SUR, CP 07300
+- **telefono:** 5510841400
+- **web:** 
+- **featured:** false
+
+
+## MARIE STOPES MÉXICO CLINICA PEDREGAL
+- **ciudad:** Tlalpan, CIUDAD DE MEXICO
+- **slug:** marie-stopes-mexico-clinica-pedregal
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tlalpan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, PERIFERICO SUR, #4829, PARQUE DEL PEDREGAL, CP 14010
+- **telefono:** 5589953080
+- **web:** 
+- **featured:** false
+
+
+## FUNDACIÓN MARIE STOPES MÉXICO A.C.
+- **ciudad:** Cuauhtemoc, CIUDAD DE MEXICO
+- **slug:** fundacion-marie-stopes-mexico-a-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, ATLIXCO, #12, CONDESA, CP 06140
+- **telefono:** 5589953080
+- **web:** 
+- **featured:** false
+
+
+## MEXPHARM MEDICAL AND HEALTH SOLUTIONS, S.A DE C.V
+- **ciudad:** Benito Juarez, CIUDAD DE MEXICO
+- **slug:** mexpharm-medical-and-health-solutions-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MONTECITO, #38, NÁPOLES, CP 03810
+- **telefono:** 5572616886
+- **web:** 
+- **featured:** false
+
+
+## ESPECIALIDADES MÉDICAS LAS TORRES
+- **ciudad:** Coyoacan, CIUDAD DE MEXICO
+- **slug:** especialidades-medicas-las-torres
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Coyoacan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, CERRO DEL CHIQUIHUITE, #145, CAMPESTRE CHURUBUSCO, CP 04200
+- **telefono:** 5553360970
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE SERVICIOS MÉDICOS DE WALMART SALUD
+- **ciudad:** Iztapalapa, CIUDAD DE MEXICO
+- **slug:** centro-de-servicios-medicos-de-walmart-salud
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Iztapalapa, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, CANAL DE TEZÓNTLE, #1520, DR. ALFONSO ORTÍZ TIRADO, CP 09020
+- **telefono:** 5580695210
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA VITA CARE MD
+- **ciudad:** Coyoacan, CIUDAD DE MEXICO
+- **slug:** clinica-vita-care-md
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Coyoacan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALZADA, DE TLALPAN, #2492, AVANTE, CP 04460
+- **telefono:** 5589987031
+- **web:** 
+- **featured:** false
+
+
+## HEALTHEC MEDICA
+- **ciudad:** La Magdalena Contreras, CIUDAD DE MEXICO
+- **slug:** healthec-medica
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en La Magdalena Contreras, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, CONTRERAS, #300, SAN JERÓNIMO LÍDICE, CP 10200
+- **telefono:** 5546350178
+- **web:** 
+- **featured:** false
+
+
+## PUNTO MEDICO
+- **ciudad:** Cuauhtemoc, CIUDAD DE MEXICO
+- **slug:** punto-medico
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, FRONTERA, #187 BIS, ROMA NORTE, CP 06700
+- **telefono:** 5555743060
+- **web:** 
+- **featured:** false
+
+
+## REINA MADRE TLATELOLCO
+- **ciudad:** Cuauhtemoc, CIUDAD DE MEXICO
+- **slug:** reina-madre-tlatelolco
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, RICARDO FLORES MAGÓN, #210, GUERRERO, CP 06300
+- **telefono:** 5552451879
+- **web:** 
+- **featured:** false
+
+
+## REINA MADRE JUÁREZ
+- **ciudad:** Cuauhtemoc, CIUDAD DE MEXICO
+- **slug:** reina-madre-juarez
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LIVERPOOL, #109, JUÁREZ, CP 06600
+- **telefono:** 5552451879
+- **web:** 
+- **featured:** false
+
+
+## REINA MADRE ARAGÓN
+- **ciudad:** Gustavo A. Madero, CIUDAD DE MEXICO
+- **slug:** reina-madre-aragon
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Gustavo A. Madero, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, CONSTITUCIÓN DE LA REPUBLICA, #221, LA PRADERA, CP 07500
+- **telefono:** 5585266020
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA DE REHABILITACIÓN THIERS
+- **ciudad:** Miguel Hidalgo, CIUDAD DE MEXICO
+- **slug:** clinica-de-rehabilitacion-thiers
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Miguel Hidalgo, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, THIERS, #42, ANZURES, CP 11590
+- **telefono:** 5552035583
+- **web:** 
+- **featured:** false
+
+
+## GRUPO MEDICO SANEMOS
+- **ciudad:** Tlalpan, CIUDAD DE MEXICO
+- **slug:** grupo-medico-sanemos
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tlalpan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALZADA, TLALPAN, #4620, DEL NIÑO JESÚS, CP 14080
+- **telefono:** 5556554964
+- **web:** 
+- **featured:** false
+
+
+## HMC SERVICIOS MÉDICOS
+- **ciudad:** Tlalpan, CIUDAD DE MEXICO
+- **slug:** hmc-servicios-medicos
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tlalpan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, CALCALCHEN, #96, LOMAS DE PADIERNA, CP 14240
+- **telefono:** 5588662785
+- **web:** 
+- **featured:** false
+
+
+## FUNDACIÓN VAMOS MÉXICO A. C. / CENTRO DE REHABILITACIÓN INTEGRAL SAN MIGUEL DE ALLENDE
+- **ciudad:** San Miguel De Allende, GUANAJUATO
+- **slug:** fundacion-vamos-mexico-a-c-centro-de-rehabilitacion-integral-san-miguel-de-allende
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Miguel De Allende, GUANAJUATO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CARRETERA, FEDERAL SAN MIGUEL DE ALLENDE - DR. MORA KM 1.1, #SIN NUMERO  , PALMITA DE LANDETA, CP 37748
+- **telefono:** 4151526039
+- **web:** 
+- **featured:** false
+
+
+## SMA HEALTH SERVICES S.C.
+- **ciudad:** San Miguel De Allende, GUANAJUATO
+- **slug:** sma-health-services-s-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Miguel De Allende, GUANAJUATO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CARRETERA, LIBRAMIENTO JOSE MANUEL ZAVALA ZAVALA, #96, SAN ANTONIO, CP 37750
+- **telefono:** 4151522255
+- **web:** 
+- **featured:** false
+
+
+## PRODUCTOS HOSPITALARIOS S.A. DE C.V. (SANEFRO)
+- **ciudad:** Irapuato, GUANAJUATO
+- **slug:** productos-hospitalarios-s-a-de-c-v-sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Irapuato, GUANAJUATO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, JACARANDAS, #455, LA ESTANCIA, CP 36615
+- **telefono:** 4626245545
+- **web:** 
+- **featured:** false
+
+
+## ION ONCO BIOTECNOLOGÍAS DE MÉXICO S. A. DE C.V. 
+- **ciudad:** Guadalajara, JALISCO
+- **slug:** ion-onco-biotecnologias-de-mexico-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Guadalajara, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MEXICO, #2582  , LADRON DE GUEVARA, CP 44600
+- **telefono:** 3316524624
+- **web:** 
+- **featured:** false
+
+
+## CARINT
+- **ciudad:** Tepatitlan De Morelos, JALISCO
+- **slug:** carint
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tepatitlan De Morelos, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, GOMEZ MORIN, #192, BOSQUES DE LA GLORIA, CP 47685
+- **telefono:** 3787015179
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DENTAL TORRES
+- **ciudad:** Tonala, JALISCO
+- **slug:** clinica-dental-torres
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tonala, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, EMILIANO ZAPATA, #126, CENTRO, CP 45400
+- **telefono:** 3312002241
+- **web:** 
+- **featured:** false
+
+
+## SANEFRO CIUDAD GUZMAN
+- **ciudad:** Zapotlan El Grande, JALISCO
+- **slug:** sanefro-ciudad-guzman
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Zapotlan El Grande, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LIC. SEBASTIÁN LERDO DE TEJADA, #71, CENTRO, CP 49000
+- **telefono:** 3414120906
+- **web:** 
+- **featured:** false
+
+
+## PRODUCTOS HOSPITALARIOS S.A DE C.V. (SANEFRO)
+- **ciudad:** Guadalajara, JALISCO
+- **slug:** productos-hospitalarios-s-a-de-c-v-sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Guadalajara, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, VENEZUELA, #821, MODERNA, CP 44190
+- **telefono:** 3332680470
+- **web:** 
+- **featured:** false
+
+
+## PRODUCOS HOSPITALARIOS S.A. DE C.V. SANEFRO
+- **ciudad:** Zapopan, JALISCO
+- **slug:** producos-hospitalarios-s-a-de-c-v-sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Zapopan, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MOCTEZUMA, #179, CIUDAD DEL SOL, CP 45050
+- **telefono:** 3336781612
+- **web:** 
+- **featured:** false
+
+
+## PRODUCOS HOSPITALARIOS S.A. DE C.V. SANEFRO
+- **ciudad:** Guadalajara, JALISCO
+- **slug:** producos-hospitalarios-s-a-de-c-v-sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Guadalajara, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, LA PAZ, #2298, AMERICANA, CP 44280
+- **telefono:** 3336305981
+- **web:** 
+- **featured:** false
+
+
+## SANEFRO
+- **ciudad:** Tlajomulco De Zuñiga, JALISCO
+- **slug:** sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tlajomulco De Zuñiga, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, ADOLFO LOPEZ MATEOS SUR, #1450, LAS VILLAS, CP 45643
+- **telefono:** 3336849082
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DE HEMODIALISIS JUAN PABLO II, S. C.
+- **ciudad:** Lagos De Moreno, JALISCO
+- **slug:** clinica-de-hemodialisis-juan-pablo-ii-s-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Lagos De Moreno, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, TEPEYAC, #8, EL TEPEYAC, CP 47410
+- **telefono:** 4741180186
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DENTAL CENTAURO
+- **ciudad:** Zapopan, JALISCO
+- **slug:** clinica-dental-centauro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Zapopan, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, PATRIA, #2360, EL COLLI URBANO 1ª SECCIÓN., CP 45070
+- **telefono:** 3318937483
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DENTAL CENTAURO
+- **ciudad:** Guadalajara, JALISCO
+- **slug:** clinica-dental-centauro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Guadalajara, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MEXICO, #3300, MONRAZ, CP 44670
+- **telefono:** 3322576559
+- **web:** 
+- **featured:** false
+
+
+## PRODUCTOS HOSPITALARIOS S.A DE C.V. (SANEFRO)
+- **ciudad:** Tala, JALISCO
+- **slug:** productos-hospitalarios-s-a-de-c-v-sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tala, JALISCO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, ABASOLO, #92, CENTRO, CP 45300
+- **telefono:** 3336781652
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE OFTALMOLOGÍA SALAUNO (CHALCO)
+- **ciudad:** Chalco, MEXICO
+- **slug:** centro-de-oftalmologia-salauno-chalco
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chalco, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, CUAUHTÉMOC PONIENTE, #45  , CHALCO DE DÍAZ COVARRUBIAS, CP 56600
+- **telefono:** 5541637463
+- **web:** 
+- **featured:** false
+
+
+## CENTRO OFTALMOLÓGICO SALAUNO (SATÉLITE)
+- **ciudad:** Naucalpan De Juarez, MEXICO
+- **slug:** centro-oftalmologico-salauno-satelite
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Naucalpan De Juarez, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, CIRCUITO MEDICOS, #24  , CIUDAD SATÉLITE, CP 53100
+- **telefono:** 5541637463
+- **web:** 
+- **featured:** false
+
+
+## CENTRO OFTALMOLÓGICO SALAUNO SALUD (TEXCOCO)
+- **ciudad:** La Paz, MEXICO
+- **slug:** centro-oftalmologico-salauno-salud-texcoco
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en La Paz, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CARRETERA, MÉXICO - PUEBLA KM 17.5, #5000  , LOS REYES ACAQUILPAN, CP 56400
+- **telefono:** 5526147284
+- **web:** 
+- **featured:** false
+
+
+## CENTRO OFTALMOLÓGICO SALAUNO (NEZA)
+- **ciudad:** Nezahualcoyotl, MEXICO
+- **slug:** centro-oftalmologico-salauno-neza
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Nezahualcoyotl, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, ADOLFO LÓPEZ MATEOS, #168  , METROPOLITANA PRIMERA SECCIÓN, CP 57730
+- **telefono:** 5526147284
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE OFTALMOLOGÍA SALAUNO (TLALNEPANTLA)
+- **ciudad:** Tlalnepantla De Baz, MEXICO
+- **slug:** centro-de-oftalmologia-salauno-tlalnepantla
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tlalnepantla De Baz, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, HIDALGO, #39  , TLALNEPANTLA CENTRO, CP 54000
+- **telefono:** 5541637477
+- **web:** 
+- **featured:** false
+
+
+## CENTRO OFTALMOLÓGICO SALAUNO (AVENIDA CENTRAL)
+- **ciudad:** Nezahualcoyotl, MEXICO
+- **slug:** centro-oftalmologico-salauno-avenida-central
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Nezahualcoyotl, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, CENTRAL, #339  , BOSQUES DE ARAGÓN, CP 57170
+- **telefono:** 5541637463
+- **web:** 
+- **featured:** false
+
+
+## INSTITUTO DE ENFERMEDADES OCULARES S.C.
+- **ciudad:** Metepec, MEXICO
+- **slug:** instituto-de-enfermedades-oculares-s-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Metepec, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, TECNOLÓGICO, #1020 NORTE  , BELLAVISTA, CP 52172
+- **telefono:** 5545181810
+- **web:** 
+- **featured:** false
+
+
+## CENTRO OFTALMOLÓGICO SALAUNO (CUAUTITLÁN)
+- **ciudad:** Cuautitlan, MEXICO
+- **slug:** centro-oftalmologico-salauno-cuautitlan
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cuautitlan, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, JUAN PABLO II, #SIN NUMERO  , RANCHO SANTA ELENA, CP 54850
+- **telefono:** 5541637463
+- **web:** 
+- **featured:** false
+
+
+## COMUNIDAD MEXICANA DE HEMODIALISIS
+- **ciudad:** Toluca, MEXICO
+- **slug:** comunidad-mexicana-de-hemodialisis
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Toluca, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, SEBASTIÁN LERDO DE TEJADA ORIENTE , #301  , SANTA CLARA, CP 50090
+- **telefono:** 5576789039
+- **web:** 
+- **featured:** false
+
+
+## CENTRO OFTALMOLÓGICO SALAUNO (CHIMALHUACÁN)
+- **ciudad:** Chimalhuacan, MEXICO
+- **slug:** centro-oftalmologico-salauno-chimalhuacan
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Chimalhuacan, MEXICO, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, FRANCISCO MODESTO OLAGUIBEL , #MZ 59 LOTE 26 , TALLADORES, CP 56366
+- **telefono:** 5541637463
+- **web:** 
+- **featured:** false
+
+
+## GS MEDICA S.A. DE C.V 
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** gs-medica-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LIC. JOSE BENITEZ, #2505  , OBISPADO, CP 64060
+- **telefono:** 8183330093
+- **web:** 
+- **featured:** false
+
+
+## CORPORATIVO DE ONCOLOGIA MEDICA Y RADIOTERAPIA DEL NORESTE S.A. DE C.V.
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** corporativo-de-oncologia-medica-y-radioterapia-del-noreste-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LIC. JOSE BENITEZ , #2225  , OBISPADO, CP 64040
+- **telefono:** 8183339582
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA MULTIPLAZA MONTERREY
+- **ciudad:** Guadalupe, NUEVO LEON
+- **slug:** dentalia-multiplaza-monterrey
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Guadalupe, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MIGUEL ALEMAN , #5054  , LIBERTAD, CP 67130
+- **telefono:** 8188504121
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA CUMBRES
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** dentalia-cumbres
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, PASEO DE LOS LEONES , #3399  , RESIDENCIAL CUMBRES LAS PALMAS , CP 64619
+- **telefono:** 8110951309
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA VALLE ORIENTE
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** dentalia-valle-oriente
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, LAZARO CARDENAS, #1000  , VALLE DEL MIRADOR , CP 64750
+- **telefono:** 8184860015
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA ANAHUAC
+- **ciudad:** San Nicolas De Los Garza, NUEVO LEON
+- **slug:** dentalia-anahuac
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Nicolas De Los Garza, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MANUEL L. BARRAGÁN, #325  , RESIDENCIAL ANÁHUAC, CP 66450
+- **telefono:** 5526232323
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA GALERIAS MONTERREY
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** dentalia-galerias-monterrey
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, INSURGENTES , #2500  , VISTA HERMOSA, CP 64620
+- **telefono:** 5526232323
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA CITADEL
+- **ciudad:** San Nicolas De Los Garza, NUEVO LEON
+- **slug:** dentalia-citadel
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Nicolas De Los Garza, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, ROMULO GARZA, #410  , LA FE, CP 66477
+- **telefono:** 8182409650
+- **web:** 
+- **featured:** false
+
+
+## DENTALIA SAN AGUSTIN
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** dentalia-san-agustin
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, BATALLON DE SAN PATRICIO, #1000  , RESIDENCIAL SAN AGUSTIN, CP 66260
+- **telefono:** 8183631481
+- **web:** 
+- **featured:** false
+
+
+## PLASTIK ESPECIALIZADA EN MICROCIRUGIA Y MANO S.C.
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** plastik-especializada-en-microcirugia-y-mano-s-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, VICENTE FERRARA, #114  , OBISPADO, CP 64060
+- **telefono:** 8112312508
+- **web:** 
+- **featured:** false
+
+
+## HUMIND CARE, A.C. 
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** humind-care-a-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALZADA, SAN PEDRO, #603  , DEL VALLE, CP 66220
+- **telefono:** 8119335555
+- **web:** 
+- **featured:** false
+
+
+## UNIVERSIDAD DE MONTERREY
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** universidad-de-monterrey
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, LICENCIADO VERDAD, #1007, ZONA LOS SAUCES, CP 66238
+- **telefono:** 8182151000
+- **web:** 
+- **featured:** false
+
+
+## CLINICA DE ATENCION DENTAL AVANZADA
+- **ciudad:** Santa Catarina, NUEVO LEON
+- **slug:** clinica-de-atencion-dental-avanzada
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Santa Catarina, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, TENOCH, #217, JOSÉ LÓPEZ PORTILLO, CP 66140
+- **telefono:** 8182151000
+- **web:** 
+- **featured:** false
+
+
+## CENTRO MEDICO DEL DOLOR S.A DE C.V.
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** centro-medico-del-dolor-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, PASEO DE LOS LEONES, #572, MITRAS CENTRO, CP 64460
+- **telefono:** 8113567257
+- **web:** 
+- **featured:** false
+
+
+## SERVICIOS DE ONCOLOGIA MEDICA INTEGRAL, S.A. DE C.V. SUCURSAL RENAL
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** servicios-de-oncologia-medica-integral-s-a-de-c-v-sucursal-renal
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, JOSE BENITEZ PONIENTE, #2020, OBISPADO, CP 64060
+- **telefono:** 8182188555
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA ENLACE S. DE R.L DE C.V.
+- **ciudad:** San Nicolas De Los Garza, NUEVO LEON
+- **slug:** clinica-enlace-s-de-r-l-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Nicolas De Los Garza, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, JESÚS SOLÍS, #1626, LA NOGALERA, CP 66417
+- **telefono:** 8183020885
+- **web:** 
+- **featured:** false
+
+
+## PRODUCTOS HOSPITALARIOS S.A. DE C.V. (SANEFRO)
+- **ciudad:** Monterrey, NUEVO LEON
+- **slug:** productos-hospitalarios-s-a-de-c-v-sanefro
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Monterrey, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, GUERRERO, #2001, CENTRIKA 1 SECTOR 1A ETAPA, CP 64520
+- **telefono:** 3336781612
+- **web:** 
+- **featured:** false
+
+
+## LEENDE ADVANCED DENTAL CENTER SUCURSAL VALLE
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** leende-advanced-dental-center-sucursal-valle
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, RIO GUADALQUIVIR, #113, DEL VALLE, CP 66220
+- **telefono:** 8112457529
+- **web:** 
+- **featured:** false
+
+
+## SERVICIOS DE ONCOLOGIA MEDICA INTEGRAL, S.A. DE C.V.
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** servicios-de-oncologia-medica-integral-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, RICARDO MARGAIN ZOZAYA, #315, SANTA ENGRACIA, CP 66267
+- **telefono:** 8182188555
+- **web:** 
+- **featured:** false
+
+
+## COSMETICA DENTAL ANAHUAC
+- **ciudad:** San Nicolas De Los Garza, NUEVO LEON
+- **slug:** cosmetica-dental-anahuac
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Nicolas De Los Garza, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, FRAY BARTOLOME DE LA CASAS, #256, EL ROBLE, CP 66450
+- **telefono:** 8183761444
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE SALUD INTEGRAL
+- **ciudad:** San Pedro Garza Garcia, NUEVO LEON
+- **slug:** centro-de-salud-integral
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Pedro Garza Garcia, NUEVO LEON, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, IGNACIO MORONES PRIETO, #4500, JESUS M GARZA, CP 66238
+- **telefono:** 8182151000
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA SAN JUAN
+- **ciudad:** Atzitzihuacan, PUEBLA
+- **slug:** clinica-san-juan
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Atzitzihuacan, PUEBLA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MORELOS, #14, SAN JUAN AMECAC, CP 74505
+- **telefono:** 2444416354
+- **web:** 
+- **featured:** false
+
+
+## ESTERINOVA PUEBLA, S.A. DE C.V
+- **ciudad:** Puebla, PUEBLA
+- **slug:** esterinova-puebla-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Puebla, PUEBLA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, TEZIUTLÁN SUR, #2, LA PAZ, CP 72160
+- **telefono:** 2222253699
+- **web:** 
+- **featured:** false
+
+
+## OSMED SERVICIOS MÉDICOS
+- **ciudad:** San Luis Rio Colorado, SONORA
+- **slug:** osmed-servicios-medicos
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en San Luis Rio Colorado, SONORA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, BENITO JUÁREZ GARCÍA, #101  , CUAUHTEMOC, CP 83400
+- **telefono:** 6535342310
+- **web:** 
+- **featured:** false
+
+
+## LOS ALTOS CLINICA PARA LA REHABILITACION DE ADICCIONES, A.C.
+- **ciudad:** Hermosillo, SONORA
+- **slug:** los-altos-clinica-para-la-rehabilitacion-de-adicciones-a-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Hermosillo, SONORA, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLEJÓN, PALO ALTO, #SIN NUMERO  , MESA DEL SERI, CP 83303
+- **telefono:** 6621096859
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE ESTUDIOS SUPERIORES DEL GOLFO S.C.
+- **ciudad:** Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** centro-de-estudios-superiores-del-golfo-s-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CIRCUITO, ARCO SUR, #SIN NUMERO, LOMAS VERDES, CP 91098
+- **telefono:** 2288191515
+- **web:** 
+- **featured:** false
+
+
+## CENTRO DE ASISTENCIA MÉDICA DE HUATUSCO
+- **ciudad:** Huatusco, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** centro-de-asistencia-medica-de-huatusco
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Huatusco, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, 5, #227, HUATUSCO DE CHICUELLAR CENTRO , CP 94100
+- **telefono:** 2737348949
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA DE ESPECIALIDADES BRAVO
+- **ciudad:** Tierra Blanca, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** clinica-de-especialidades-bravo
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tierra Blanca, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, ALDAMA, #704, TIERRA BLANCA CENTRO, CP 95100
+- **telefono:** 2747474309
+- **web:** 
+- **featured:** false
+
+
+## CONSULTORIO MÉDICO
+- **ciudad:** Huatusco, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** consultorio-medico
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Huatusco, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, 4, #167, HUATUSCO DE CHICUELLAR CENTRO, CP 94100
+- **telefono:** 2731000875
+- **web:** 
+- **featured:** false
+
+
+## DISPENSARIO SAGRADO CORAZÓN DE JESÚS
+- **ciudad:** Tierra Blanca, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** dispensario-sagrado-corazon-de-jesus
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Tierra Blanca, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, IGNACIO ALLENDE, #602, TIERRA BLANCA CENTRO, CP 95100
+- **telefono:** 2747430502
+- **web:** 
+- **featured:** false
+
+
+## FUNDACIÓN MARIE STOPES MÉXICO, A.C.
+- **ciudad:** Veracruz, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** fundacion-marie-stopes-mexico-a-c
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Veracruz, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, GEORGE WASHINGTON, #146, REFORMA, CP 91919
+- **telefono:** 5555430000
+- **web:** 
+- **featured:** false
+
+
+## LOGÍSTICA MARVIL S.A. DE C.V.
+- **ciudad:** Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** logistica-marvil-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MANUEL C. TELLO, #34, DEL MAESTRO, CP 91030
+- **telefono:** 2286885630
+- **web:** 
+- **featured:** false
+
+
+## LOGÍSTICA MARVIL S.A.DE C.V.
+- **ciudad:** Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** logistica-marvil-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** PRIVADA, DE TAPACHULA, #1, BADILLO, CP 91190
+- **telefono:** 2282188356
+- **web:** 
+- **featured:** false
+
+
+## OPERADORA DE SERVICIOS DE SALUD SANTA LUCIA, S.A. DE C.V.
+- **ciudad:** Poza Rica De Hidalgo, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** operadora-de-servicios-de-salud-santa-lucia-s-a-de-c-v
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Poza Rica De Hidalgo, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, NARANJO, #1001, CHAPULTEPEC, CP 93240
+- **telefono:** 7444863598
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA PADRE JESÚS DE JALACINGO
+- **ciudad:** Jalacingo, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** clinica-padre-jesus-de-jalacingo
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Jalacingo, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, 5 DE MAYO, #39, JALACINGO, CP 93660
+- **telefono:** 2263182958
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA SANTA FE
+- **ciudad:** Coscomatepec, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** clinica-santa-fe
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Coscomatepec, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, MONASTERIO, #SIN NÚMERO, POPULAR UNE, CP 94140
+- **telefono:** 2736880111
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA MÉDICA PELÁEZ
+- **ciudad:** Juan Rodriguez Clara, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** clinica-medica-pelaez
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Juan Rodriguez Clara, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, MELCHOR OCAMPO, #103, BENITO JUÁREZ, CP 95693
+- **telefono:** 2838770329
+- **web:** 
+- **featured:** false
+
+
+## HL CLINIC
+- **ciudad:** Martinez De La Torre, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** hl-clinic
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Martinez De La Torre, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, 5 DE FEBRERO, #399, PATRIA, CP 93607
+- **telefono:** 2326905150
+- **web:** 
+- **featured:** false
+
+
+## MÉDICA 13 ESPECIALIDADES
+- **ciudad:** Cordoba, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** medica-13-especialidades
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Cordoba, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** AVENIDA, 13, #3217, NUEVO CÓRDOBA, CP 94550
+- **telefono:** 2717161635
+- **web:** 
+- **featured:** false
+
+
+## CLÍNICA CONTINENTAL
+- **ciudad:** Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE
+- **slug:** clinica-continental
+- **especialidades:** Clinica
+- **descripcion:** Clinica privada ubicada en Xalapa, VERACRUZ DE IGNACIO DE LA LLAVE, México. Establecimiento de salud registrado en CLUES.
+- **direccion:** CALLE, JUAN DE LA BARRERA, #103, REVOLUCIÓN, CP 91100
+- **telefono:** 2288121250
+- **web:** 
+- **featured:** false

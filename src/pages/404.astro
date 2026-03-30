@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Página no encontrada | MedicinaVip"
+  description="La página que buscas no existe. Encuentra clínicas privadas en Hispanoamérica en MedicinaVip."
+  noindex={true}
+>
+  <div class="max-w-3xl mx-auto px-4 py-24 text-center">
+    <div class="text-8xl font-bold text-[#1A3A4A]/10 mb-4 font-serif">404</div>
+    <h1 class="font-serif text-4xl text-[#1A3A4A] mb-4">Página no encontrada</h1>
+    <p class="text-lg text-gray-500 mb-10 max-w-md mx-auto">
+      Lo sentimos, la página que buscas no existe o fue movida.
+      Prueba buscando por país o especialidad.
+    </p>
+
+    <a
+      href="/"
+      class="inline-block bg-[#C9973A] hover:bg-[#b8862f] text-white font-semibold px-8 py-3 rounded-xl transition-colors mb-10"
+    >
+      ← Volver al inicio
+    </a>
+
+    <!-- Country quick links -->
+    <div class="mt-10">
+      <p class="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-5">Explorar por país</p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/argentina/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🇦🇷 Argentina</a>
+        <a href="/mexico/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🇲🇽 México</a>
+        <a href="/colombia/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🇨🇴 Colombia</a>
+        <a href="/chile/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🇨🇱 Chile</a>
+        <a href="/peru/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🇵🇪 Perú</a>
+        <a href="/espana/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🇪🇸 España</a>
+      </div>
+    </div>
+
+    <!-- Specialty quick links -->
+    <div class="mt-8">
+      <p class="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-5">O por especialidad</p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/especialidades/oncologia/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🎗️ Oncología</a>
+        <a href="/especialidades/cardiologia/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">❤️ Cardiología</a>
+        <a href="/especialidades/neurologia/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🧠 Neurología</a>
+        <a href="/especialidades/fertilidad/" class="px-4 py-2 rounded-xl border border-gray-200 hover:border-[#C9973A] text-sm font-medium text-gray-700 hover:text-[#C9973A] transition-colors">🤱 Fertilidad</a>
+        <a href="/especialidades/" class="px-4 py-2 rounded-xl border border-[#1A3A4A] text-sm font-medium text-[#1A3A4A] hover:bg-[#1A3A4A] hover:text-white transition-colors">Ver todas →</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

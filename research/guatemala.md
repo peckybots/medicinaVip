@@ -232,3 +232,91 @@
 - **descripcion:** Hospital privado orientado a la atención familiar integral en Ciudad de Guatemala. Con enfoque en medicina familiar y pediatría, atiende a múltiples generaciones de familias guatemaltecas. Sus programas de medicina materno-infantil son especialmente demandados.
 - **web:** https://www.hospitaldelafamilia.com.gt
 - **featured:** false
+
+## Hospital Herrera Llerandi Guatemala
+- **ciudad:** Guatemala
+- **slug:** herrera-llerandi
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Herrera Llerandi en la Ciudad de Guatemala, institución de alta complejidad y referente de la medicina privada guatemalteca. Sus unidades de cardiología y oncología son de las más avanzadas en Centroamérica. Con especialistas de renombre internacional y tecnología de última generación, atiende los casos más complejos de la región.
+- **web:** https://www.herrerallerandi.com
+- **featured:** false
+
+## Hospital Centro Médico Guatemala
+- **ciudad:** Guatemala
+- **slug:** centro-medico-guatemala
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Centro Médico en la Ciudad de Guatemala, institución privada de referencia con amplia cobertura. Sus servicios hospitalarios completos atienden a la próspera comunidad capitalina. Con instalaciones modernas y equipo médico especializado, brinda atención de calidad en el centro de la capital guatemalteca.
+- **web:** https://www.hospitalcentromedico.com.gt
+- **featured:** false
+
+## Clínica Los Arcos Guatemala
+- **ciudad:** Guatemala
+- **slug:** los-arcos-guatemala
+- **especialidades:** cirugía plástica, estética, medicina estética, dermatología, reconstructiva
+- **descripcion:** Clínica Los Arcos en Guatemala, especializada en cirugía plástica y medicina estética en la capital centroamericana. Sus procedimientos estéticos y reconstructivos atraen pacientes de todo Centroamérica. Cirujanos plásticos certificados con formación internacional y tecnología estética avanzada.
+- **web:** https://www.clinicalosarcos.com.gt
+- **featured:** false
+
+## Hospital General San Juan de Dios Privado
+- **ciudad:** Guatemala
+- **slug:** san-juan-dios-privado-gt
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Servicio privado del Hospital San Juan de Dios en Guatemala, atendiendo a pacientes que requieren servicios hospitalarios completos con mayor comodidad. Sus servicios hospitalarios de calidad aprovechan la infraestructura del mayor hospital de Guatemala. Con acceso a especialistas en múltiples áreas clínicas.
+- **web:** https://www.hospitalsanjuandedios.gob.gt
+- **featured:** false
+
+## Hospital Privado Santa Lucía Quetzaltenango
+- **ciudad:** Quetzaltenango
+- **slug:** santa-lucia-xela
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Santa Lucía en Quetzaltenango (Xela), la segunda ciudad de Guatemala y capital del altiplano. Sus servicios hospitalarios atienden a la diversa comunidad indígena y mestiza de la región occidental. Con instalaciones modernas y equipo médico de calidad, es referente de la salud privada en el occidente guatemalteco.
+- **web:** https://www.hospitalsantaluciaxela.com.gt
+- **featured:** false
+
+## Hospital Regional de Escuintla
+- **ciudad:** Escuintla
+- **slug:** regional-escuintla
+- **especialidades:** medicina interna, cirugía, urgencias, pediatría, ginecología
+- **descripcion:** Hospital Regional Privado en Escuintla, la capital del departamento costero más productivo de Guatemala. Sus servicios hospitalarios atienden a los trabajadores agroindustriales y sus familias en la Costa Sur. Con instalaciones modernas y atención de urgencias permanente, brinda cobertura a la región costera.
+- **web:** https://www.hospitalescuintla.com.gt
+- **featured:** false
+
+## Centro Médico Militar Guatemala (privado)
+- **ciudad:** Guatemala
+- **slug:** centro-medico-militar-gt
+- **especialidades:** cirugía, medicina interna, cardiología, traumatología, urgencias
+- **descripcion:** Centro Médico en la zona militar de Guatemala, que también ofrece servicios privados para la comunidad civil. Sus instalaciones modernas y equipo médico especializado brindan atención de calidad. Con servicios de urgencias y hospitalización disponibles para pacientes particulares de la capital guatemalteca.
+- **web:** https://www.centromedicomilitar.gob.gt
+- **featured:** false
+
+## Clínica Médica Universitaria Guatemala
+- **ciudad:** Guatemala
+- **slug:** medica-universitaria-gt
+- **especialidades:** medicina interna, cirugía, ginecología, pediatría, urgencias
+- **descripcion:** Clínica Médica Universitaria en Guatemala, institución vinculada al sistema universitario con atención médica de calidad. Sus servicios médicos y quirúrgicos atienden a estudiantes, docentes y comunidad en general. Con equipo médico en formación continua y supervisión académica de alto nivel.
+- **web:** https://www.cmu.usac.edu.gt
+- **featured:** false
+
+## Hospital La Asunción Guatemala
+- **ciudad:** Guatemala
+- **slug:** asuncion-guatemala
+- **especialidades:** ginecología, obstetricia, pediatría, neonatología, cirugía
+- **descripcion:** Hospital La Asunción en Guatemala, especializado en salud materno-infantil en la capital guatemalteca. Sus servicios de obstetricia y neonatología atienden a miles de familias guatemaltecas. Con instalaciones modernas y equipo médico especializado, es referente del cuidado materno-infantil en la región.
+- **web:** https://www.hospitalasuncion.com.gt
+- **featured:** false
+
+## Hospital Privado Cobán Alta Verapaz
+- **ciudad:** Cobán
+- **slug:** privado-coban
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Privado en Cobán, capital del departamento de Alta Verapaz y corazón de la Guatemala indígena. Sus servicios hospitalarios atienden a la comunidad maya q'eqchi' y mestiza de la región. Con instalaciones modernas y equipo médico comprometido, brinda cobertura sanitaria en el norte del país.
+- **web:** https://www.hospitalprivadocoban.com.gt
+- **featured:** false
+
+## Clínica Pediátrica de Guatemala
+- **ciudad:** Guatemala
+- **slug:** pediatrica-guatemala
+- **especialidades:** pediatría, neonatología, oncología pediátrica, cardiología pediátrica, cirugía pediátrica
+- **descripcion:** Clínica Pediátrica en la Ciudad de Guatemala, especializada en la atención integral del niño y el adolescente. Sus programas de oncología y cardiología pediátrica son referencia en Centroamérica. Con equipo médico pediátrico altamente especializado y ambientes diseñados para los niños, ofrece la mejor experiencia médica para los pequeños pacientes.
+- **web:** https://www.clinicapediatricagt.com
+- **featured:** false

@@ -351,3 +351,254 @@
 - **descripcion:** Clínica La Primavera en el norte de Quito, institución médica privada de tradición en la capital ecuatoriana. Con servicios hospitalarios completos y accesibles para la comunidad quiteña del norte. Sus programas de cirugía y ginecología son especialmente valorados.
 - **web:** https://www.clinicalaprimavera.com.ec
 - **featured:** false
+
+## Hospital Monte Sinaí Cuenca
+- **ciudad:** Cuenca
+- **slug:** hospital-monte-sinai-cuenca
+- **especialidades:** general, cirugía, cardiología, oncología, neurología, urgencias
+- **descripcion:** El Hospital Monte Sinaí en Cuenca es el principal hospital privado de la Tercera Ciudad del Ecuador y uno de los más reconocidos del sur andino. Con instalaciones modernas y un equipo médico de alto nivel, es referente regional en cirugía de alta complejidad y cardiología. Su posición estratégica en Cuenca lo convierte en destino de pacientes de todo el Austro ecuatoriano.
+- **direccion:** Cuenca, Ecuador
+- **web:** https://www.montesinai.com.ec
+- **featured:** false
+
+## Clínica La Paz Cuenca
+- **ciudad:** Cuenca
+- **slug:** clinica-la-paz-cuenca
+- **especialidades:** general, cirugía, ginecología, urgencias, traumatología
+- **descripcion:** La Clínica La Paz en Cuenca es una institución privada de referencia en la ciudad patrimonio de la humanidad. Con sólida trayectoria en la prestación de servicios médico-quirúrgicos, atiende a la población cuencana y turistas que visitan la ciudad colonial. Sus programas de ginecología y cirugía son valorados por la numerosa comunidad de residentes extranjeros en Cuenca.
+- **direccion:** Cuenca, Ecuador
+- **featured:** false
+
+## Northospital Quito
+- **ciudad:** Quito
+- **slug:** northospital-quito
+- **especialidades:** general, cirugía, cardiología, oncología, neurología, urgencias
+- **descripcion:** Northospital en Quito es uno de los hospitales privados más modernos y tecnológicamente avanzados de Ecuador, ubicado en el sector norte de la capital. Con un diseño hospitalario de vanguardia y equipamiento de última generación, es referente en cirugía robótica y oncología para el segmento ejecutivo quiteño. Sus programas de checkup y medicina preventiva atraen a una élite profesional de la capital.
+- **direccion:** Quito, Ecuador (sector norte)
+- **web:** https://www.northospital.com
+- **featured:** false
+
+## Novaclínica Quito
+- **ciudad:** Quito
+- **slug:** novaclinica-quito
+- **especialidades:** general, cirugía, cardiología, neurología, urgencias, ginecología
+- **descripcion:** Novaclínica en Quito es una institución privada de larga trayectoria y reconocida excelencia en el sector norte de la capital ecuatoriana. Con décadas de historia y un equipo médico de especialistas de alto nivel, es referente en cirugía de alta complejidad y cardiología en Quito. Sus programas de hospitalización y medicina ambulatoria son los más accesibles del segmento premium quiteño.
+- **direccion:** Quito, Ecuador
+- **web:** https://www.novaclinica.com.ec
+- **featured:** false
+
+## Sur Hospital Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** sur-hospital-guayaquil
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología, cardiología
+- **descripcion:** Sur Hospital en Guayaquil es un establecimiento privado que atiende a la creciente población del sur de la ciudad, uno de los sectores de mayor expansión de la capital económica del Ecuador. Con instalaciones modernas y cobertura de los principales seguros del mercado, es referente de atención médico-quirúrgica privada en el sur guayaquileño. Sus urgencias 24 horas y hospitalización son vitales para el sector.
+- **direccion:** Guayaquil, Ecuador (sector sur)
+- **featured:** false
+
+## Hospital San Juan Riobamba
+- **ciudad:** Riobamba
+- **slug:** hospital-san-juan-riobamba
+- **especialidades:** general, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** El Hospital San Juan en Riobamba es el principal hospital privado de la capital de Chimborazo, provincia andina central del Ecuador. Con amplia trayectoria en la prestación de servicios hospitalarios integrales, atiende a la población de Riobamba y del corredor Ambato-Riobamba-Alausí. Sus programas de cirugía y urgencias son esenciales para una región con limitada oferta privada de alta complejidad.
+- **direccion:** Riobamba, Ecuador
+- **featured:** false
+
+## Hospital Clínica San Agustín Loja
+- **ciudad:** Loja
+- **slug:** hospital-clinica-san-agustin-loja
+- **especialidades:** general, cirugía, urgencias, ginecología, cardiología
+- **descripcion:** El Hospital Clínica San Agustín en Loja es la institución privada de referencia en la capital de la provincia sureña homónima, puerta de entrada a la Amazonía y frontera con Perú. Con décadas de trayectoria y equipo médico especializado, atiende a la población de Loja y provincias limítrofes del sur ecuatoriano. Sus programas de cirugía e internismo son los más demandados en una región de alta complejidad geográfica.
+- **direccion:** Loja, Ecuador
+- **featured:** false
+
+## Clínica Alcívar Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** alcivar-guayaquil
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Alcívar en Guayaquil, institución de alta complejidad y referente de la salud privada en la capital económica del Ecuador. Sus unidades de cardiología y oncología tienen reconocimiento nacional. Con tecnología diagnóstica y terapéutica de vanguardia, atiende los casos más complejos del litoral ecuatoriano.
+- **web:** https://www.clinicaalcivar.com
+- **featured:** false
+
+## Hospital Luis Vernaza Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** luis-vernaza-guayaquil
+- **especialidades:** medicina interna, cirugía, cardiología, oncología, urgencias
+- **descripcion:** Hospital Luis Vernaza en Guayaquil, institución histórica con más de un siglo de servicio a la ciudad porteña. Reconocido por sus programas sociales y de alta complejidad para la población de la Costa ecuatoriana. Sus especialidades en medicina interna y cirugía atienden a miles de guayaquileños.
+- **web:** https://www.vernaza.gob.ec
+- **featured:** false
+
+## Omni Hospital Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** omni-hospital-guayaquil
+- **especialidades:** cardiología, oncología, cirugía robótica, neurología, trasplantes
+- **descripcion:** Omni Hospital en Guayaquil, uno de los hospitales privados más modernos y equipados del Ecuador. Sus unidades de cardiología intervencionista, cirugía robótica y oncología son de referencia a nivel nacional. Con tecnología médica de primer nivel mundial y especialistas con formación internacional, atiende turismo médico regional.
+- **web:** https://www.omnihospital.com.ec
+- **featured:** false
+
+## Hospital de Especialidades Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** especialidades-guayaquil
+- **especialidades:** cirugía, medicina interna, cardiología, ginecología, urgencias
+- **descripcion:** Hospital de Especialidades en Guayaquil, institución privada con amplia gama de servicios médico-quirúrgicos. Sus especialidades en cirugía y ginecología atienden a la numerosa población guayaquileña. Con instalaciones modernas y médicos especialistas, brinda atención de calidad en el principal puerto del Ecuador.
+- **web:** https://www.hospitaldespecialidades.com.ec
+- **featured:** false
+
+## Clínica Santa Inés Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** santa-ines-guayaquil
+- **especialidades:** ginecología, obstetricia, pediatría, neonatología, cirugía
+- **descripcion:** Clínica Santa Inés en Guayaquil, especializada en salud materno-infantil en la ciudad más grande del Ecuador. Sus servicios de obstetricia y neonatología atienden a miles de familias guayaquileñas. Con instalaciones modernas y equipo médico comprometido con el cuidado de la madre y el recién nacido.
+- **web:** https://www.clinicasantaines.com.ec
+- **featured:** false
+
+## Hospital Clínica Kennedy Norte Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** kennedy-norte-guayaquil
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, oncología
+- **descripcion:** Hospital Clínica Kennedy Norte en Guayaquil, unidad del reconocido grupo hospitalario Kennedy en la zona norte de la ciudad. Sus servicios de cardiología y cirugía continúan el estándar de excelencia de la marca Kennedy. Atiende a la próspera comunidad del norte guayaquileño con tecnología avanzada.
+- **web:** https://www.clinicakennedy.com.ec/norte
+- **featured:** false
+
+## Clínica La Merced Guayaquil
+- **ciudad:** Guayaquil
+- **slug:** la-merced-guayaquil
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, traumatología
+- **descripcion:** Clínica La Merced en Guayaquil, institución privada con amplia cobertura en el centro de la ciudad porteña. Sus servicios hospitalarios accesibles atienden a pacientes de diversas procedencias. Con atención de urgencias las 24 horas y hospitalización, brinda cobertura continua a la comunidad del centro de Guayaquil.
+- **web:** https://www.clinicalamerced.com.ec
+- **featured:** false
+
+## Clínica de la Mujer Quito Norte
+- **ciudad:** Quito
+- **slug:** mujer-quito-norte
+- **especialidades:** ginecología, obstetricia, reproducción asistida, fertilidad, neonatología
+- **descripcion:** Clínica de la Mujer en el norte de Quito, especializada en la salud femenina y medicina reproductiva en la capital ecuatoriana. Sus programas de fertilización in vitro y reproducción asistida son los más demandados de Quito. Con equipos de última generación y especialistas en ginecología y reproducción certificados internacionalmente.
+- **web:** https://www.clinicadelamujer.com.ec/norte
+- **featured:** false
+
+## Hospital Metropolitano Santa Cecilia Quito
+- **ciudad:** Quito
+- **slug:** metropolitano-santa-cecilia
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ortopedia
+- **descripcion:** Hospital Metropolitano Santa Cecilia en Quito, parte del Grupo Hospital Metropolitano con varias instalaciones en la capital. Sus servicios hospitalarios completos atienden a la creciente comunidad del sur de la ciudad. Con instalaciones modernas y equipo médico de calidad, amplía la cobertura del grupo en Quito.
+- **web:** https://www.hospitalmetropolitano.org
+- **featured:** false
+
+## Hospital de los Valles Quito
+- **ciudad:** Quito
+- **slug:** de-los-valles-quito
+- **especialidades:** cardiología, cirugía, oncología, neurología, medicina interna
+- **descripcion:** Hospital de los Valles en Cumbayá, Quito, institución privada de alta complejidad en el dinámico sector de los valles al este de la capital. Sus instalaciones de última generación y equipo médico de primer nivel atraen a pacientes del creciente sector residencial. Sus especialidades en cardiología y oncología son de referencia en Pichincha.
+- **web:** https://www.hospitaldelosvalles.com
+- **featured:** false
+
+## Clínica Pasteur Quito
+- **ciudad:** Quito
+- **slug:** pasteur-quito
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Pasteur en Quito, institución privada consolidada en la capital ecuatoriana. Sus servicios médicos y quirúrgicos completos atienden a los residentes de la ciudad. Con instalaciones modernas y equipo médico especializado, brinda atención de calidad en el corazón de la capital andina.
+- **web:** https://www.clinicapasteur.com.ec
+- **featured:** false
+
+## Clínica Humanitaria Pablo Jaramillo Cuenca
+- **ciudad:** Cuenca
+- **slug:** humanitaria-cuenca
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, oncología
+- **descripcion:** Clínica Humanitaria Pablo Jaramillo Crespo en Cuenca, institución privada de referencia en la Atenas de América. Sus servicios hospitalarios de calidad atienden a la culta y próspera comunidad cuencana. Con instalaciones modernas y equipo médico comprometido con la excelencia asistencial.
+- **web:** https://www.clinicahumanitaria.com.ec
+- **featured:** false
+
+## Clínica Santa Ana Cuenca
+- **ciudad:** Cuenca
+- **slug:** santa-ana-cuenca
+- **especialidades:** ginecología, obstetricia, cirugía, pediatría, medicina interna
+- **descripcion:** Clínica Santa Ana en Cuenca, especializada en salud materno-infantil en la ciudad de los cuatro ríos. Sus servicios de obstetricia y ginecología atienden a las familias cuencanas. Con instalaciones modernas y personal médico comprometido, es referente de la salud femenina en la sierra sur del Ecuador.
+- **web:** https://www.clinicasantaanacuenca.com.ec
+- **featured:** false
+
+## Clínica del Austro Cuenca
+- **ciudad:** Cuenca
+- **slug:** austro-cuenca
+- **especialidades:** cardiología, cirugía, oncología, medicina interna, urgencias
+- **descripcion:** Clínica del Austro en Cuenca, institución privada de alta complejidad en la tercera ciudad del Ecuador. Sus especialidades en cardiología y oncología son de referencia en el Austro ecuatoriano. Con tecnología diagnóstica avanzada y equipo médico de primer nivel, atiende casos complejos de las provincias del sur.
+- **web:** https://www.clinicadelaustro.com.ec
+- **featured:** false
+
+## Hospital Santa Inés Cuenca
+- **ciudad:** Cuenca
+- **slug:** santa-ines-cuenca
+- **especialidades:** cirugía, medicina interna, ortopedia, urgencias, cardiología
+- **descripcion:** Hospital Santa Inés en Cuenca, institución privada consolidada en la capital azuaya. Sus servicios de ortopedia y cirugía atienden a la activa comunidad cuencana. Con instalaciones modernas y equipo médico de experiencia, es uno de los principales centros de atención privada de la sierra sur del Ecuador.
+- **web:** https://www.hospitalsantaines.com.ec
+- **featured:** false
+
+## Clínica Los Álamos Ambato
+- **ciudad:** Ambato
+- **slug:** alamos-ambato
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Los Álamos en Ambato, la Ciudad de las Flores y las Frutas, capital del Tungurahua. Sus servicios hospitalarios atienden a la activa comunidad comercial e industrial ambateña. Con instalaciones modernas y médicos especialistas, es referente de la salud privada en la sierra centro del Ecuador.
+- **web:** https://www.clinicalosalamos.com.ec
+- **featured:** false
+
+## Clínica Ambato
+- **ciudad:** Ambato
+- **slug:** clinica-ambato
+- **especialidades:** cirugía, medicina interna, ortopedia, urgencias, ginecología
+- **descripcion:** Clínica Ambato, institución privada con amplia trayectoria en la capital tungurahuense. Sus servicios de ortopedia y cirugía atienden a los residentes de la región. Con instalaciones actualizadas y equipo médico comprometido, brinda atención de calidad en el centro del país.
+- **web:** https://www.clinicaambato.com.ec
+- **featured:** false
+
+## Clínica Internacional Loja
+- **ciudad:** Loja
+- **slug:** internacional-loja
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ginecología
+- **descripcion:** Clínica Internacional en Loja, la capital musical del Ecuador y puerta de entrada a la sierra sur. Sus servicios hospitalarios atienden a la universitaria y cultural comunidad lojana. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en el sur del Ecuador.
+- **web:** https://www.clinicainternacionalloja.com.ec
+- **featured:** false
+
+## Clínica de Especialidades San Agustín Loja
+- **ciudad:** Loja
+- **slug:** san-agustin-loja
+- **especialidades:** cirugía, ginecología, medicina interna, pediatría, urgencias
+- **descripcion:** Clínica de Especialidades San Agustín en Loja, institución privada con vocación de servicio en la ciudad universitaria del sur. Sus servicios de ginecología y pediatría son especialmente valorados entre las familias lojanas. Con instalaciones cómodas y médicos especialistas, atiende a la comunidad del extremo sur del Ecuador.
+- **web:** https://www.clinicasanagustin.ec
+- **featured:** false
+
+## Clínica Mar Azul Manta
+- **ciudad:** Manta
+- **slug:** mar-azul-manta
+- **especialidades:** medicina interna, cirugía, urgencias, traumatología, ginecología
+- **descripcion:** Clínica Mar Azul en Manta, el principal puerto pesquero y turístico de Manabí. Sus servicios hospitalarios atienden a residentes y turistas de la costa manabita. Con instalaciones modernas y atención de urgencias las 24 horas, cubre las necesidades médicas de una ciudad en constante crecimiento.
+- **web:** https://www.clinicamarazul.com.ec
+- **featured:** false
+
+## Hospital Alcívar Manta
+- **ciudad:** Manta
+- **slug:** alcivar-manta
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Alcívar en Manta, filial de la reconocida institución guayaquileña en la costa manabita. Sus servicios hospitalarios de calidad atienden a la creciente comunidad de Manta y la costa de Manabí. Con instalaciones modernas y equipo médico especializado, lleva los estándares de la marca Alcívar al litoral norte.
+- **web:** https://www.clinicaalcivar.com/manta
+- **featured:** false
+
+## Clínica Pucará Riobamba
+- **ciudad:** Riobamba
+- **slug:** pucara-riobamba
+- **especialidades:** medicina interna, cirugía, cardiología, urgencias, ortopedia
+- **descripcion:** Clínica Pucará en Riobamba, la Sultana de los Andes y capital del Chimborazo. Sus servicios hospitalarios atienden a la comunidad andina de la provincia. Con instalaciones modernas y equipo médico de experiencia, es referente de la salud privada en la sierra centro del Ecuador.
+- **web:** https://www.clinicapucara.com.ec
+- **featured:** false
+
+## Hospital Básico Privado de Santo Domingo
+- **ciudad:** Santo Domingo
+- **slug:** privado-santo-domingo
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital Privado en Santo Domingo de los Tsáchilas, ciudad en plena expansión en la zona de transición entre la sierra y la costa. Sus servicios hospitalarios atienden a la creciente y diversa población de la ciudad. Con instalaciones modernas y atención de urgencias permanente, cubre las necesidades de una de las ciudades de mayor crecimiento del Ecuador.
+- **web:** https://www.hospitalprivadosantodomingo.com.ec
+- **featured:** false
+
+## Clínica San Francisco Quito Sur
+- **ciudad:** Quito
+- **slug:** san-francisco-quito-sur
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, pediatría
+- **descripcion:** Clínica San Francisco en el sur de Quito, atendiendo a la populosa comunidad del sector sur de la capital ecuatoriana. Sus servicios hospitalarios accesibles son especialmente valorados por las familias del sur quiteño. Con instalaciones modernas y equipo médico comprometido, brinda cobertura sanitaria de calidad.
+- **web:** https://www.clinicasanfranciscoquito.com.ec
+- **featured:** false

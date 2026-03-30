@@ -7,6 +7,7 @@ import JsonLd from '../../../../components/JsonLd.astro';
 import { getCollection, render } from 'astro:content';
 import { slugify } from '../../../../utils/slugify';
 import { PAIS_INFO } from '../../../../utils/paises';
+import { getEspecialidadLabel, ESPECIALIDAD_LABELS } from '../../../../utils/especialidades';
 
 export async function getStaticPaths() {
   const clinics = await getCollection('clinicas', c => !c.data.draft);
@@ -30,11 +31,7 @@ const related = allClinics
   .filter(c => slugify(c.data.ciudad) === ciudadSlug || c.data.especialidades.some(e => data.especialidades.includes(e)))
   .slice(0, 3);
 
-const especialidadMap: Record<string, string> = {
-  oncologia: 'Oncología', cardiologia: 'Cardiología', neurologia: 'Neurología',
-  cirugia: 'Cirugía', estetica: 'Medicina Estética', checkup: 'Check-up VIP',
-  fertilidad: 'Fertilidad', ortopedia: 'Ortopedia',
-};
+const especialidadMap = ESPECIALIDAD_LABELS;
 
 const jsonLdSchema = {
   "@context": "https://schema.org",
@@ -53,7 +50,7 @@ const jsonLdSchema = {
   ...(data.email && { "email": data.email }),
   ...(data.imagen && { "image": `https://medicinaVip.com${data.imagen}` }),
   ...(data.fundacion && { "foundingDate": String(data.fundacion) }),
-  "medicalSpecialty": data.especialidades.map(e => especialidadMap[e] || e),
+  "medicalSpecialty": data.especialidades.map(e => getEspecialidadLabel(e)),
   ...(data.certificaciones && {
     "accreditedBy": data.certificaciones.map(cert => ({
       "@type": "Organization",

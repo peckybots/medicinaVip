@@ -242,3 +242,91 @@
 - **descripcion:** Hospital privado de referencia en Puerto Limón, capital del Caribe costarricense. Atiende a la comunidad afrocaribeña del litoral Atlántico y a los trabajadores del sector portuario y bananero. Sus servicios de urgencias y ginecología son fundamentales para la comunidad caribeña costarricense.
 - **web:** https://www.hospitaldelcaribe.com.cr
 - **featured:** false
+
+## Clínica Biblica Centro San José
+- **ciudad:** San José
+- **slug:** biblica-centro
+- **especialidades:** cirugía, cardiología, oncología, neurología, medicina interna
+- **descripcion:** Clínica Bíblica sede central en San José, institución privada de alta complejidad y pionera del turismo médico en Costa Rica. Sus programas de cirugía, cardiología y oncología son de referencia centroamericana. Con atención en múltiples idiomas y coordinación internacional de casos, atiende a miles de pacientes extranjeros cada año.
+- **web:** https://www.clinicabiblica.com
+- **featured:** false
+
+## Hospital Metropolitano San José
+- **ciudad:** San José
+- **slug:** metropolitano-san-jose-cr
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Hospital Metropolitano en San José, institución privada de referencia en la capital tica. Sus servicios hospitalarios de alta calidad atienden a residentes y turistas médicos. Con tecnología avanzada y equipo médico de primer nivel, es destino preferido para procedimientos quirúrgicos de calidad en Costa Rica.
+- **web:** https://www.hospitalmetropolitano.com.cr
+- **featured:** false
+
+## Hospital Clínica La Católica San José
+- **ciudad:** San José
+- **slug:** la-catolica-san-jose-cr
+- **especialidades:** cardiología, oncología, cirugía, neurología, trasplantes
+- **descripcion:** Hospital La Católica en San José, parte de la red hospitalaria de la Arquidiócesis de Costa Rica. Con tecnología médica de primer nivel y especialistas de alto calibre, atiende tanto a pacientes nacionales como internacionales. Uno de los hospitales privados más reconocidos de Centroamérica en turismo médico.
+- **web:** https://www.hospitalacatolica.com
+- **featured:** false
+
+## Clínica Pinares Curridabat San José
+- **ciudad:** San José
+- **slug:** pinares-curridabat
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Pinares en Curridabat, San José, institución privada de alta complejidad en el sector este de la capital. Sus unidades de cardiología y oncología son de referencia en la Gran Área Metropolitana. Con tecnología de diagnóstico avanzada y equipo médico de primer nivel.
+- **web:** https://www.clinicapinares.com.cr
+- **featured:** false
+
+## Hospital Alajuela Costa Rica
+- **ciudad:** Alajuela
+- **slug:** hospital-alajuela-cr
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Hospital privado en Alajuela, la ciudad del Juan Santamaría y segunda provincia de Costa Rica. Sus servicios hospitalarios atienden a la creciente comunidad alajuelense y a los viajeros cercanos al Aeropuerto Internacional. Con instalaciones modernas y atención de urgencias disponible.
+- **web:** https://www.hospitalalajuela.com.cr
+- **featured:** false
+
+## Clínica Heredia Costa Rica
+- **ciudad:** Heredia
+- **slug:** clinica-heredia-cr
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica privada en Heredia, la Ciudad de las Flores al norte de San José. Sus servicios hospitalarios atienden a la próspera comunidad herediense. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en la provincia norte del Valle Central costarricense.
+- **web:** https://www.clinicaheredia.com.cr
+- **featured:** false
+
+## Hospital del Valle San Ramón Costa Rica
+- **ciudad:** San Ramón
+- **slug:** del-valle-san-ramon-cr
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Hospital del Valle en San Ramón de Alajuela, institución privada que atiende a las comunidades del occidente costarricense. Sus servicios hospitalarios completos con atención de urgencias son especialmente valorados. Con instalaciones modernas y equipo médico calificado, cubre las necesidades de una región agropecuaria próspera.
+- **web:** https://www.hospitaldelvalle.com.cr
+- **featured:** false
+
+## Clínica Cartago Costa Rica
+- **ciudad:** Cartago
+- **slug:** clinica-cartago-cr
+- **especialidades:** medicina interna, cirugía, urgencias, ginecología, pediatría
+- **descripcion:** Clínica privada en Cartago, la antigua capital de Costa Rica en las faldas del Volcán Irazú. Sus servicios hospitalarios atienden a la comunidad cartaginesa y alrededores. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en la provincia oriental.
+- **web:** https://www.clinicacartago.com.cr
+- **featured:** false
+
+## Clínica Santa Rita San José Costa Rica
+- **ciudad:** San José
+- **slug:** santa-rita-san-jose-cr
+- **especialidades:** medicina interna, cirugía, ginecología, urgencias, ortopedia
+- **descripcion:** Clínica Santa Rita en San José, institución privada con amplia trayectoria en la capital costarricense. Sus servicios médicos y quirúrgicos de calidad atienden a diversas comunidades capitalinas. Con instalaciones modernas y equipo médico comprometido, brinda atención accesible y de calidad.
+- **web:** https://www.clinicasantarita.com.cr
+- **featured:** false
+
+## Clínica CIMA Escazú San José
+- **ciudad:** San José
+- **slug:** cima-escazu
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital CIMA en Escazú, San José, institución de alta complejidad afiliada a Baptist Health International. Sus estándares clínicos internacionales, acreditaciones JCI y coordinación con seguros estadounidenses la convierten en destino premier para turismo médico. Referente centroamericano en cardiología y oncología.
+- **web:** https://www.hospitalcima.com.cr
+- **featured:** false
+
+## Hospital Clinica Coronado San José
+- **ciudad:** San José
+- **slug:** clinica-coronado
+- **especialidades:** medicina interna, cirugía, urgencias, cardiología, ginecología
+- **descripcion:** Clínica Coronado en Vázquez de Coronado, San José, institución privada atendiendo a las comunidades del este de la capital tica. Sus servicios hospitalarios completos incluyen urgencias las 24 horas y hospitalización. Con equipo médico comprometido y modernas instalaciones, cubre las necesidades del sector este metropolitano.
+- **web:** https://www.clinicacoronado.com.cr
+- **featured:** false

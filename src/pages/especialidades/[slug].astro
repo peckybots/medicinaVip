@@ -4,63 +4,155 @@ import ClinicCard from '../../components/ClinicCard.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import { getCollection } from 'astro:content';
+import { getEspecialidadLabel } from '../../utils/especialidades';
 
 export async function getStaticPaths() {
-  const especialidades = [
-    {
-      slug: 'oncologia',
-      label: 'Oncología',
+  const allClinics = await getCollection('clinicas', c => !c.data.draft);
+
+  // Collect all unique specialty slugs from the clinicas collection
+  const allSlugs = new Set<string>();
+  for (const clinic of allClinics) {
+    for (const esp of clinic.data.especialidades) {
+      allSlugs.add(esp);
+    }
+  }
+
+  // Predefined metadata for known specialties
+  const especialidadMeta: Record<string, { icon: string; intro: string }> = {
+    oncologia: {
       icon: '🎗️',
       intro: 'La oncología privada en Hispanoamérica ha alcanzado niveles de excelencia internacional. Los mejores centros oncológicos combinan diagnóstico molecular avanzado, radioterapia de última generación e inmunoterapia con un enfoque multidisciplinario centrado en el paciente. Centros como Médica Sur en México y Clínica Las Condes en Chile ofrecen protocolos de tratamiento equiparables a los mejores hospitales del mundo. La acreditación JCI garantiza los estándares más exigentes de seguridad y calidad asistencial.',
     },
-    {
-      slug: 'cardiologia',
-      label: 'Cardiología',
+    cardiologia: {
       icon: '❤️',
       intro: 'La cardiología privada en Hispanoamérica ofrece diagnóstico completo y tratamiento de alta complejidad para todas las enfermedades cardiovasculares. Desde la cardiología clínica y el diagnóstico no invasivo hasta la hemodinámica, electrofisiología y la cirugía cardiovascular mínimamente invasiva, los mejores centros de la región cuentan con tecnología de vanguardia y equipos médicos de excelencia internacional.',
     },
-    {
-      slug: 'neurologia',
-      label: 'Neurología',
+    neurologia: {
       icon: '🧠',
       intro: 'La neurología y neurocirugía privada en Hispanoamérica atiende las patologías más complejas del sistema nervioso, desde el ictus y la epilepsia hasta los tumores cerebrales y las enfermedades neurodegenerativas. Los mejores centros neurológicos privados de la región cuentan con unidades de neurointensivismo, resonancia magnética funcional y equipos quirúrgicos altamente especializados.',
     },
-    {
-      slug: 'cirugia',
-      label: 'Cirugía',
+    cirugia: {
       icon: '⚕️',
-      intro: 'La cirugía privada de alta complejidad ha evolucionado enormemente en Hispanoamérica. Los mejores centros quirúrgicos privados ofrecen cirugía robótica con sistemas Da Vinci, cirugía laparoscópica avanzada y procedimientos mínimamente invasivos en múltiples especialidades. Clínica Las Condes en Chile y Hospital Austral en Argentina son referentes continentales en este campo.',
+      intro: 'La cirugía privada de alta complejidad ha evolucionado enormemente en Hispanoamérica. Los mejores centros quirúrgicos privados ofrecen cirugía robótica con sistemas Da Vinci, cirugía laparoscópica avanzada y procedimientos mínimamente invasivos en múltiples especialidades.',
     },
-    {
-      slug: 'estetica',
-      label: 'Medicina Estética',
+    'cirugia-robotica': {
+      icon: '🤖',
+      intro: 'La cirugía robótica con sistemas Da Vinci y plataformas de última generación está disponible en los principales centros médicos privados de Hispanoamérica. Esta tecnología permite procedimientos mínimamente invasivos con mayor precisión, menos sangrado y recuperación más rápida para el paciente.',
+    },
+    estetica: {
       icon: '✨',
       intro: 'La medicina estética y la cirugía plástica en clínicas privadas de Hispanoamérica combina resultados naturales con las más altas medidas de seguridad. Desde tratamientos faciales no invasivos hasta cirugías de contorno corporal, los mejores centros estéticos de la región cuentan con médicos certificados y equipos tecnológicos de última generación.',
     },
-    {
-      slug: 'fertilidad',
-      label: 'Fertilidad',
+    fertilidad: {
       icon: '🤱',
       intro: 'La medicina reproductiva privada en Hispanoamérica ofrece soluciones integrales para las parejas que desean ser padres. Desde la fertilización in vitro (FIV) y la microinyección espermática (ICSI) hasta el diagnóstico genético preimplantacional y la preservación de fertilidad, los mejores centros de reproducción asistida de la región trabajan con protocolos internacionales de excelencia.',
     },
-    {
-      slug: 'ortopedia',
-      label: 'Ortopedia',
+    ortopedia: {
       icon: '🦴',
-      intro: 'La ortopedia y traumatología privada en Hispanoamérica abarca desde la cirugía de reemplazo articular y la artroscopia hasta el tratamiento de fracturas complejas y la medicina deportiva de alto rendimiento. Los mejores centros ortopédicos privados de la región cuentan con cirujanos especializados, tecnología de imagen avanzada y programas de rehabilitación completos.',
+      intro: 'La ortopedia y traumatología privada en Hispanoamérica abarca desde la cirugía de reemplazo articular y la artroscopia hasta el tratamiento de fracturas complejas y la medicina deportiva de alto rendimiento.',
     },
-    {
-      slug: 'checkup',
-      label: 'Check-up VIP',
+    checkup: {
       icon: '🩺',
       intro: 'Los programas de revisión médica integral o check-up ejecutivo en clínicas privadas de Hispanoamérica permiten detectar precozmente enfermedades y evaluar el estado de salud general. Estos programas incluyen análisis completos de laboratorio, pruebas de imagen, valoraciones especializadas y un informe médico detallado con recomendaciones personalizadas.',
     },
-  ];
+    trasplantes: {
+      icon: '🏥',
+      intro: 'Los programas de trasplante de órganos en centros privados de Hispanoamérica ofrecen atención integral al paciente trasplantado, incluyendo evaluación pretrasplante, el procedimiento quirúrgico y el seguimiento postrasplante. Varios centros de la región cuentan con equipos multidisciplinarios de trasplante de riñón, hígado, corazón y pulmón con resultados comparables a los mejores del mundo.',
+    },
+    neonatologia: {
+      icon: '👶',
+      intro: 'Las unidades de neonatología en clínicas privadas de Hispanoamérica brindan cuidados intensivos neonatales de alta complejidad para recién nacidos prematuros o con patologías graves. Los mejores centros cuentan con incubadoras de última generación, ventilación de alta frecuencia y equipos de neonatólogos especializados disponibles las 24 horas.',
+    },
+    pediatria: {
+      icon: '🧒',
+      intro: 'La pediatría privada en Hispanoamérica ofrece atención médica integral para niños y adolescentes, desde la consulta pediátrica general hasta subespecialidades como cardiología pediátrica, neurología pediátrica y oncología pediátrica.',
+    },
+    geriatria: {
+      icon: '👴',
+      intro: 'Los servicios de geriatría en clínicas privadas de Hispanoamérica abordan integralmente las necesidades de salud de los adultos mayores, con equipos multidisciplinarios especializados en enfermedades crónicas, deterioro cognitivo, fragilidad y calidad de vida.',
+    },
+    oftalmologia: {
+      icon: '👁️',
+      intro: 'La oftalmología privada en Hispanoamérica ofrece diagnóstico y tratamiento de alta complejidad para enfermedades oculares, desde la cirugía refractiva con láser hasta el tratamiento de glaucoma, cataratas, retina y enfermedades corneales.',
+    },
+    dermatologia: {
+      icon: '🧴',
+      intro: 'Los servicios de dermatología en clínicas privadas de Hispanoamérica abarcan desde la dermatología médica y quirúrgica hasta la dermatología cosmética y el tratamiento especializado de enfermedades cutáneas complejas.',
+    },
+    odontologia: {
+      icon: '🦷',
+      intro: 'La odontología de alta gama en clínicas privadas de Hispanoamérica ofrece desde rehabilitación oral completa e implantología hasta ortodoncia invisible y odontología estética, con tecnología CAD/CAM y materiales de última generación.',
+    },
+    psiquiatria: {
+      icon: '🧘',
+      intro: 'Los servicios de psiquiatría en centros médicos privados de Hispanoamérica ofrecen diagnóstico y tratamiento especializado para trastornos mentales, incluyendo hospitalización en unidades de agudos, programas de hospital de día y tratamientos ambulatorios.',
+    },
+    rehabilitacion: {
+      icon: '💪',
+      intro: 'Los programas de rehabilitación en clínicas privadas de Hispanoamérica abarcan fisioterapia, terapia ocupacional, logopedia y neurorrehabilitación para pacientes con secuelas de ictus, traumatismos o cirugías ortopédicas.',
+    },
+    urgencias: {
+      icon: '🚨',
+      intro: 'Los servicios de urgencias en clínicas y hospitales privados de Hispanoamérica ofrecen atención de emergencias médicas las 24 horas con médicos especialistas, equipamiento de diagnóstico inmediato y capacidad quirúrgica.',
+    },
+    'medicina-interna': {
+      icon: '🩻',
+      intro: 'La medicina interna en clínicas privadas de Hispanoamérica ofrece atención integral al paciente adulto con enfermedades sistémicas complejas, coordinando el diagnóstico y tratamiento con otras especialidades.',
+    },
+    gastroenterologia: {
+      icon: '🫁',
+      intro: 'Los servicios de gastroenterología en clínicas privadas de Hispanoamérica incluyen diagnóstico endoscópico avanzado, tratamiento de enfermedades inflamatorias intestinales, hepatología y manejo de patología digestiva compleja.',
+    },
+    hepatologia: {
+      icon: '🫀',
+      intro: 'La hepatología en centros médicos privados de Hispanoamérica ofrece diagnóstico y tratamiento especializado de enfermedades hepáticas, incluyendo hepatitis crónica, cirrosis, trasplante hepático y carcinoma hepatocelular.',
+    },
+    neumologia: {
+      icon: '🫁',
+      intro: 'Los servicios de neumología en clínicas privadas de Hispanoamérica ofrecen diagnóstico y tratamiento de enfermedades respiratorias crónicas y agudas, incluyendo EPOC, asma, fibrosis pulmonar e hipertensión pulmonar.',
+    },
+    urologia: {
+      icon: '⚕️',
+      intro: 'La urología en clínicas privadas de Hispanoamérica abarca desde el diagnóstico y tratamiento de cáncer urológico hasta la cirugía robótica y laparoscópica para patología prostática, renal y vesical.',
+    },
+    ginecologia: {
+      icon: '🌸',
+      intro: 'Los servicios de ginecología en clínicas privadas de Hispanoamérica ofrecen atención integral a la salud de la mujer, desde ginecología preventiva y oncología ginecológica hasta cirugía mínimamente invasiva y suelo pélvico.',
+    },
+    endocrinologia: {
+      icon: '🔬',
+      intro: 'La endocrinología en centros médicos privados de Hispanoamérica ofrece diagnóstico y tratamiento de trastornos hormonales, diabetes, tiroides, obesidad y enfermedades metabólicas con protocolos internacionales.',
+    },
+    reumatologia: {
+      icon: '🦴',
+      intro: 'Los servicios de reumatología en clínicas privadas de Hispanoamérica ofrecen diagnóstico y tratamiento de enfermedades autoinmunes y musculoesqueléticas, incluyendo artritis reumatoide, lupus, espondilitis y gota.',
+    },
+    hematologia: {
+      icon: '🩸',
+      intro: 'La hematología en centros médicos privados de Hispanoamérica ofrece diagnóstico y tratamiento de enfermedades de la sangre, incluyendo leucemias, linfomas, mieloma múltiple y trastornos de la coagulación.',
+    },
+    infectologia: {
+      icon: '🦠',
+      intro: 'Los servicios de infectología en clínicas privadas de Hispanoamérica ofrecen diagnóstico y tratamiento especializado de enfermedades infecciosas, incluyendo VIH/SIDA, tuberculosis, infecciones tropicales y enfermedades emergentes.',
+    },
+    general: {
+      icon: '🏥',
+      intro: 'La medicina general en clínicas privadas de Hispanoamérica ofrece atención primaria de calidad, control de enfermedades crónicas, medicina preventiva y coordinación con especialidades.',
+    },
+  };
 
-  return especialidades.map(e => ({
-    params: { slug: e.slug },
-    props: e,
-  }));
+  return Array.from(allSlugs).map(slug => {
+    const meta = especialidadMeta[slug];
+    return {
+      params: { slug },
+      props: {
+        slug,
+        label: getEspecialidadLabel(slug),
+        icon: meta?.icon ?? '🏥',
+        intro: meta?.intro ?? `Directorio de clínicas privadas especializadas en ${getEspecialidadLabel(slug)} en Hispanoamérica. Encuentra centros médicos de excelencia con especialistas certificados.`,
+      },
+    };
+  });
 }
 
 interface Props {
@@ -79,7 +171,7 @@ const schema = {
   "@type": "CollectionPage",
   "name": `Clínicas de ${label} en Hispanoamérica`,
   "description": intro.slice(0, 200) + '...',
-  "url": `https://medicinaVip.com/especialidades/${slug}/`,
+  "url": `https://medicinavip.com/especialidades/${slug}/`,
 };
 ---
 
