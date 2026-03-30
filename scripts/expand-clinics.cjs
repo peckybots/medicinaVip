@@ -33,6 +33,7 @@ const TARGETS = {
   'el-salvador': 30,
   'nicaragua': 30,
   'cuba': 25,
+  'estados-unidos': 200,
 };
 
 // Valid specialty enum values from schema

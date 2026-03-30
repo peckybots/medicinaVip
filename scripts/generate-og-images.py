@@ -28,7 +28,7 @@ ALL_COUNTRIES = [
     "argentina", "bolivia", "chile", "colombia", "costa-rica", "cuba",
     "ecuador", "el-salvador", "espana", "guatemala", "honduras", "mexico",
     "nicaragua", "panama", "paraguay", "peru", "puerto-rico",
-    "republica-dominicana", "uruguay", "venezuela"
+    "republica-dominicana", "uruguay", "venezuela", "estados-unidos"
 ]
 
 # Design constants
@@ -62,6 +62,7 @@ COUNTRY_NAMES = {
     "republica-dominicana": "Rep. Dominicana",
     "uruguay": "Uruguay",
     "venezuela": "Venezuela",
+    "estados-unidos": "Estados Unidos",
 }
 
 

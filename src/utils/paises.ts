@@ -105,4 +105,9 @@ export const PAIS_INFO: Record<string, PaisInfo> = {
     flag: '🇨🇺',
     desc: 'Directorio de clínicas y hospitales en Cuba: centros médicos en La Habana, Santiago de Cuba, Varadero y otras ciudades cubanas.',
   },
+  'estados-unidos': {
+    label: 'Estados Unidos',
+    flag: '🇺🇸',
+    desc: 'Los mejores hospitales y clínicas privadas de Estados Unidos: centros médicos de clase mundial en Miami, Nueva York, Houston, Los Ángeles y más ciudades con atención en español.',
+  },
 };

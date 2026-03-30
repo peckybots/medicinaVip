@@ -10,7 +10,7 @@ const clinicas = defineCollection({
       'mexico', 'argentina', 'colombia', 'espana', 'chile', 'peru', 'uruguay',
       'venezuela', 'ecuador', 'bolivia', 'paraguay', 'guatemala', 'panama',
       'costa-rica', 'republica-dominicana', 'puerto-rico', 'honduras',
-      'el-salvador', 'nicaragua', 'cuba'
+      'el-salvador', 'nicaragua', 'cuba', 'estados-unidos'
     ]),
     ciudad: z.string(),
     especialidades: z.array(z.enum([
