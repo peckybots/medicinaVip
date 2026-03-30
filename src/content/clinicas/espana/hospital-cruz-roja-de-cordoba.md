@@ -2,7 +2,7 @@
 name: "Hospital Cruz Roja de Córdoba"
 slug: "hospital-cruz-roja-de-cordoba"
 pais: "espana"
-ciudad: "Córdoba, Córdoba"
+ciudad: "Córdoba"
 especialidades: ["general"]
 descripcion: "Hospitales Generales privado ubicado en Córdoba, Córdoba (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025."
 web: ""

@@ -2,7 +2,7 @@
 name: "PRODUCTOS HOSPITALARIOS S.A. DE C.V. (SANEFRO)"
 slug: "productos-hospitalarios-s-a-de-c-v-sanefro"
 pais: "mexico"
-ciudad: "Irapuato, GUANAJUATO"
+ciudad: "Irapuato"
 especialidades: ["general"]
 descripcion: "Clinica privada ubicada en Irapuato, GUANAJUATO, México. Establecimiento de salud registrado en CLUES."
 web: ""

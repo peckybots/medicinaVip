@@ -2,7 +2,7 @@
 name: "Hospital Christus Muguerza Saltillo"
 slug: "christus-muguerza-saltillo"
 pais: "mexico"
-ciudad: "Saltillo, Coahuila"
+ciudad: "Saltillo"
 especialidades: ["cardiologia", "oncologia", "cirugia", "medicina-interna", "urgencias"]
 descripcion: "Hospital de la red Christus Muguerza en la capital de Coahuila. Sirve a una amplia población del norte de México con servicios de alta especialidad. Sus programas de cardiología y oncología son reconocidos en toda la región noreste."
 web: "https://www.christusmuguerza.com.mx"

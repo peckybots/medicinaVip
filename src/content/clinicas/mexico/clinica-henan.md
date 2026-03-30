@@ -2,7 +2,7 @@
 name: "CLINICA HENAN"
 slug: "clinica-henan"
 pais: "mexico"
-ciudad: "Tijuana, BAJA CALIFORNIA"
+ciudad: "Tijuana"
 especialidades: ["general"]
 descripcion: "Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES."
 web: ""

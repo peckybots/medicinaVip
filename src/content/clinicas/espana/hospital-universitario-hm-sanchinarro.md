@@ -2,7 +2,7 @@
 name: "Hospital Universitario HM Sanchinarro"
 slug: "hospital-universitario-hm-sanchinarro"
 pais: "espana"
-ciudad: "Madrid, Madrid"
+ciudad: "Madrid"
 especialidades: ["general"]
 descripcion: "Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025."
 web: ""

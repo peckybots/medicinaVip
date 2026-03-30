@@ -2,7 +2,7 @@
 name: "BIOADVANCED MEDICAL CENTER"
 slug: "bioadvanced-medical-center"
 pais: "mexico"
-ciudad: "Tijuana, BAJA CALIFORNIA"
+ciudad: "Tijuana"
 especialidades: ["general"]
 descripcion: "Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES."
 web: ""

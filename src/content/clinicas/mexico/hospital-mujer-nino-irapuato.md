@@ -2,7 +2,7 @@
 name: "Hospital de la Mujer y el Niño Irapuato"
 slug: "hospital-mujer-nino-irapuato"
 pais: "mexico"
-ciudad: "Irapuato, Guanajuato"
+ciudad: "Irapuato"
 especialidades: ["ginecologia", "pediatria", "neonatologia", "fertilidad"]
 descripcion: "Hospital especializado en salud materno-infantil en Irapuato, Guanajuato. Sus programas de maternidad y neonatología son reconocidos en el Bajío mexicano. Con tecnología pediátrica actualizada y personal especializado, es referente de atención materno-infantil en la región."
 web: "https://www.hospitalmujerynino.com.mx"

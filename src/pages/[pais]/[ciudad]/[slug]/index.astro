@@ -25,11 +25,25 @@ const paisLabel = PAIS_INFO[data.pais]?.label ?? data.pais;
 const ciudadSlug = slugify(data.ciudad);
 const ciudadLabel = ciudadSlug.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 
-// Related clinics (same city or specialty)
-const allClinics = await getCollection('clinicas', c => !c.data.draft && c.data.slug !== data.slug);
-const related = allClinics
-  .filter(c => slugify(c.data.ciudad) === ciudadSlug || c.data.especialidades.some(e => data.especialidades.includes(e)))
-  .slice(0, 3);
+// Related clinics — prioritize: same city+specialty → same country+specialty → same country only
+// Never show clinics from a different country
+const allClinics = await getCollection('clinicas', c => !c.data.draft && c.data.slug !== data.slug && c.data.pais === data.pais);
+
+const sameCityAndSpecialty = allClinics.filter(
+  c => slugify(c.data.ciudad) === ciudadSlug && c.data.especialidades.some(e => data.especialidades.includes(e))
+);
+const sameCountryAndSpecialty = allClinics.filter(
+  c => slugify(c.data.ciudad) !== ciudadSlug && c.data.especialidades.some(e => data.especialidades.includes(e))
+);
+const sameCountryOnly = allClinics.filter(
+  c => !c.data.especialidades.some(e => data.especialidades.includes(e))
+);
+
+const related = [
+  ...sameCityAndSpecialty,
+  ...sameCountryAndSpecialty,
+  ...sameCountryOnly,
+].slice(0, 3);
 
 const especialidadMap = ESPECIALIDAD_LABELS;
 
@@ -66,7 +80,7 @@ const breadcrumbSchema = {
     { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://medicinavip.com/" },
     { "@type": "ListItem", "position": 2, "name": paisLabel, "item": `https://medicinavip.com/${data.pais}/` },
     { "@type": "ListItem", "position": 3, "name": ciudadLabel, "item": `https://medicinavip.com/${data.pais}/${ciudadSlug}/` },
-    { "@type": "ListItem", "position": 4, "name": data.name },
+    { "@type": "ListItem", "position": 4, "name": data.name, "item": `https://medicinavip.com/${data.pais}/${ciudadSlug}/${data.slug}/` },
   ],
 };
 ---

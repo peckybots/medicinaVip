@@ -2,7 +2,7 @@
 name: "Hospital Quironsalud San José"
 slug: "hospital-quironsalud-san-jose"
 pais: "espana"
-ciudad: "Madrid, Madrid"
+ciudad: "Madrid"
 especialidades: ["general"]
 descripcion: "Hospitales Generales privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025."
 web: ""

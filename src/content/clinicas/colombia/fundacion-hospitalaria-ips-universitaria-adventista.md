@@ -2,7 +2,7 @@
 name: "FUNDACION HOSPITALARIA IPS UNIVERSITARIA ADVENTISTA"
 slug: "fundacion-hospitalaria-ips-universitaria-adventista"
 pais: "colombia"
-ciudad: "Medellín, Antioquia"
+ciudad: "Medellín"
 especialidades: ["general"]
 descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Medellín."
 web: ""

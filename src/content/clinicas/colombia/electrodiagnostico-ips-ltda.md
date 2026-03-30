@@ -2,7 +2,7 @@
 name: "ELECTRODIAGNOSTICO IPS LTDA"
 slug: "electrodiagnostico-ips-ltda"
 pais: "colombia"
-ciudad: "Medellín, Antioquia"
+ciudad: "Medellín"
 especialidades: ["general"]
 descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Medellín."
 web: ""

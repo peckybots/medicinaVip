@@ -2,7 +2,7 @@
 name: "Hospital Vithas Xanit Estepona"
 slug: "hospital-vithas-xanit-estepona"
 pais: "espana"
-ciudad: "Estepona, Malaga"
+ciudad: "Estepona"
 especialidades: ["general"]
 descripcion: "Hospitales Generales privado ubicado en Estepona, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025."
 web: ""

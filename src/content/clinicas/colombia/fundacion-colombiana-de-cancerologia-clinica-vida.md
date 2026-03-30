@@ -2,7 +2,7 @@
 name: "FUNDACION COLOMBIANA DE CANCEROLOGIA CLINICA VIDA"
 slug: "fundacion-colombiana-de-cancerologia-clinica-vida"
 pais: "colombia"
-ciudad: "Medellín, Antioquia"
+ciudad: "Medellín"
 especialidades: ["general"]
 descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Medellín."
 web: ""

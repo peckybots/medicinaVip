@@ -2,7 +2,7 @@
 name: "CENTRO BARIÁTRICO DE LA FRONTERA NORTE"
 slug: "centro-bariatrico-de-la-frontera-norte"
 pais: "mexico"
-ciudad: "Tijuana, BAJA CALIFORNIA"
+ciudad: "Tijuana"
 especialidades: ["general"]
 descripcion: "Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES."
 web: ""

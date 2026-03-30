@@ -2,7 +2,7 @@
 name: "Hospital El Ángel"
 slug: "hospital-el-angel"
 pais: "espana"
-ciudad: "Málaga, Malaga"
+ciudad: "Málaga"
 especialidades: ["general"]
 descripcion: "Hospitales Generales privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025."
 web: ""
