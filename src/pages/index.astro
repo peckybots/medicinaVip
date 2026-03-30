@@ -213,4 +213,21 @@ const websiteSchema = {
       </a>
     </div>
   </section>
+
+  <script>
+    const form = document.getElementById('search-form');
+    if (form) {
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const pais = (form.querySelector('[name="pais"]') as HTMLSelectElement).value;
+        const esp  = (form.querySelector('[name="especialidad"]') as HTMLSelectElement).value;
+        if (pais) {
+          window.location.href = `/${pais}/`;
+        } else if (esp) {
+          window.location.href = `/especialidades/${esp}/`;
+        }
+        // both empty → stay on homepage (no redirect)
+      });
+    }
+  </script>
 </BaseLayout>

@@ -1519,3 +1519,731 @@
 - **descripcion:** Hospital Vithas Santa Catalina en Las Palmas de Gran Canaria, segunda opción del Grupo Vithas en las Islas Canarias. Con programas de cardiología y oncología reconocidos en las islas. Sus instalaciones modernas y equipo de especialistas atienden a los canarios y residentes internacionales.
 - **web:** https://www.vithas.es/santa-catalina-las-palmas
 - **featured:** false
+
+## Quirónsalud Bilbao
+- **ciudad:** Bilbao
+- **slug:** quironsalud-bilbao
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en Bilbao, capital del País Vasco y una de las ciudades más dinámicas del norte de España. Referente de la medicina privada vasca con servicios oncológicos y cardiológicos de alto nivel. Sus instalaciones modernas y equipo de especialistas certificados atienden a residentes de toda Vizcaya.
+- **web:** https://www.quironsalud.es/bilbao
+- **featured:** false
+
+## Quirónsalud San Sebastián
+- **ciudad:** San Sebastián
+- **slug:** quironsalud-san-sebastian
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en San Sebastián (Donostia), la elegante capital guipuzcoana en la costa vasca. Ofrece servicios de alta especialidad en un entorno de alta calidad de vida y excelencia gastronómica. Sus instalaciones de vanguardia atienden a residentes de Guipúzcoa y turistas que visitan uno de los destinos más exclusivos de España.
+- **web:** https://www.quironsalud.es/san-sebastian
+- **featured:** false
+
+## Quirónsalud Vitoria
+- **ciudad:** Vitoria-Gasteiz
+- **slug:** quironsalud-vitoria
+- **especialidades:** cardiología, cirugía, medicina interna, oncología, urgencias
+- **descripcion:** Hospital Quirónsalud en Vitoria-Gasteiz, capital de Álava y sede del Gobierno Vasco. Atiende a la población de la capital alavesa con servicios hospitalarios de alta calidad. Sus servicios de cardiología y cirugía son los más demandados en la región.
+- **web:** https://www.quironsalud.es/vitoria
+- **featured:** false
+
+## Quirónsalud Zaragoza
+- **ciudad:** Zaragoza
+- **slug:** quironsalud-zaragoza
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, medicina interna
+- **descripcion:** Hospital Quirónsalud en Zaragoza, capital de Aragón y quinta ciudad más grande de España. Referente de la medicina privada aragonesa con servicios oncológicos y cirugía robótica de última generación. Sus instalaciones modernas atienden a la población de Zaragoza y toda la comunidad aragonesa.
+- **web:** https://www.quironsalud.es/zaragoza
+- **featured:** false
+
+## Quirónsalud Valencia
+- **ciudad:** Valencia
+- **slug:** quironsalud-valencia
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital Quirónsalud en Valencia, capital de la Comunitat Valenciana y tercera ciudad de España. Con servicios de alta especialidad en oncología y cardiología, atiende a la gran población valenciana y sus comarcas. Sus instalaciones de vanguardia y médicos de reconocido prestigio lo posicionan como referente en la medicina privada levantina.
+- **web:** https://www.quironsalud.es/valencia
+- **featured:** false
+
+## Quirónsalud Alicante
+- **ciudad:** Alicante
+- **slug:** quironsalud-alicante
+- **especialidades:** cardiología, cirugía, medicina interna, oncología, urgencias
+- **descripcion:** Hospital Quirónsalud en Alicante, capital de la Costa Blanca y destino preferido de residentes europeos. Atiende tanto a la población local como a expatriados y turistas con servicios en múltiples idiomas. Sus instalaciones modernas son referente de salud privada en el sur de la Comunitat Valenciana.
+- **web:** https://www.quironsalud.es/alicante
+- **featured:** false
+
+## Quirónsalud Murcia
+- **ciudad:** Murcia
+- **slug:** quironsalud-murcia
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Quirónsalud en Murcia, capital de la Región de Murcia en el sureste español. Sus servicios de alta especialidad atienden a la población murciana y el arco mediterráneo sur. Con tecnología de diagnóstico avanzada y médicos especializados en oncología y cardiología.
+- **web:** https://www.quironsalud.es/murcia
+- **featured:** false
+
+## Quirónsalud Málaga
+- **ciudad:** Málaga
+- **slug:** quironsalud-malaga
+- **especialidades:** oncología, cardiología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital Quirónsalud en Málaga, capital de la Costa del Sol y destino turístico internacional de primera línea. Sus servicios atienden tanto a malagueños como a expatriados del norte de Europa residentes en la zona. Es referente en salud privada del occidente de Andalucía con servicios en inglés, alemán y otros idiomas.
+- **web:** https://www.quironsalud.es/malaga
+- **featured:** false
+
+## Quirónsalud Sevilla
+- **ciudad:** Sevilla
+- **slug:** quironsalud-sevilla
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en Sevilla, capital de Andalucía y cuarta ciudad de España. Sus servicios de alta especialidad atienden a la gran población sevillana y los municipios del Aljarafe y el Aljarafe. Con equipo de oncología y cardiología de alto nivel y tecnología de diagnóstico de última generación.
+- **web:** https://www.quironsalud.es/sevilla
+- **featured:** false
+
+## Quirónsalud Córdoba
+- **ciudad:** Córdoba
+- **slug:** quironsalud-cordoba
+- **especialidades:** cardiología, cirugía, medicina interna, oncología, urgencias
+- **descripcion:** Hospital Quirónsalud en Córdoba, ciudad Patrimonio de la Humanidad y capital provincial de Andalucía. Atiende a la población cordobesa con servicios hospitalarios de alta calidad en un entorno histórico excepcional. Sus especialidades en cardiología y medicina interna son las más reconocidas en la provincia.
+- **web:** https://www.quironsalud.es/cordoba
+- **featured:** false
+
+## Quirónsalud Granada
+- **ciudad:** Granada
+- **slug:** quironsalud-granada
+- **especialidades:** neurología, oncología, cardiología, cirugía, medicina interna
+- **descripcion:** Hospital Quirónsalud en Granada, ciudad universitaria y monumental al pie de la Sierra Nevada. Sus servicios neurológicos y oncológicos son los de mayor referencia en la provincia. La combinación de medicina universitaria y privada eleva el nivel asistencial de la ciudad.
+- **web:** https://www.quironsalud.es/granada
+- **featured:** false
+
+## Quirónsalud Marbella
+- **ciudad:** Marbella
+- **slug:** quironsalud-marbella
+- **especialidades:** medicina estética, cirugía plástica, cardiología, medicina interna, urgencias
+- **descripcion:** Hospital Quirónsalud en Marbella, la capital del lujo mediterráneo y destino de la jet-set internacional. Especializado en atender a residentes y turistas de alto poder adquisitivo de la Milla de Oro marbellí. Sus servicios de medicina estética y cirugía plástica son los más demandados junto a la atención de urgencias para la colonia extranjera.
+- **web:** https://www.quironsalud.es/marbella
+- **featured:** false
+
+## Quirónsalud Torrevieja
+- **ciudad:** Torrevieja
+- **slug:** quironsalud-torrevieja
+- **especialidades:** cardiología, medicina interna, urgencias, cirugía, ginecología
+- **descripcion:** Hospital Quirónsalud en Torrevieja, municipio de la Costa Blanca sur con enorme población de expatriados europeos. Reconocido por su atención multilingüe a residentes británicos, alemanes, rusos y escandinavos de la zona. Sus servicios cardiológicos y de medicina interna son los más demandados por la comunidad extranjera residente.
+- **web:** https://www.quironsalud.es/torrevieja
+- **featured:** false
+
+## Quirónsalud Mijas
+- **ciudad:** Mijas
+- **slug:** quironsalud-mijas
+- **especialidades:** medicina interna, cardiología, urgencias, cirugía, ginecología
+- **descripcion:** Hospital Quirónsalud en Mijas Costa, en el corazón de la Costa del Sol occidental. Atiende a la numerosa comunidad de expatriados y turistas de la zona de Fuengirola, Mijas y Benalmádena. Con personal multilingüe y servicios especializados para la atención internacional en uno de los destinos más cosmopolitas de España.
+- **web:** https://www.quironsalud.es/mijas
+- **featured:** false
+
+## Quirónsalud Palmaplanas Palma
+- **ciudad:** Palma de Mallorca
+- **slug:** quironsalud-palmaplanas
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud Palmaplanas en Palma de Mallorca, la capital balear y destino turístico de primer orden europeo. Sus servicios atienden tanto a residentes mallorquines como a la enorme afluencia de turistas durante la temporada alta. Con personal multilingüe y coordinación con aseguradoras internacionales para turistas y expatriados.
+- **web:** https://www.quironsalud.es/palmaplanas
+- **featured:** false
+
+## Quirónsalud Menorca
+- **ciudad:** Mahón
+- **slug:** quironsalud-menorca
+- **especialidades:** medicina interna, urgencias, cirugía, cardiología, ginecología
+- **descripcion:** Hospital Quirónsalud en Mahón, capital de Menorca, la más tranquila y natural de las Islas Baleares. Atiende a residentes insulares y turistas que visitan esta isla Reserva de la Biosfera. Sus servicios de urgencias y medicina interna son esenciales para la población local e insular.
+- **web:** https://www.quironsalud.es/menorca
+- **featured:** false
+
+## Quirónsalud Tenerife
+- **ciudad:** Santa Cruz de Tenerife
+- **slug:** quironsalud-tenerife
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en Santa Cruz de Tenerife, capital de la mayor isla canaria y referente del turismo de salud en el Atlántico. Atiende a residentes tinerfeños y a los millones de turistas que visitan la isla cada año. Sus servicios oncológicos y cardiológicos son los más reconocidos del archipiélago canario.
+- **web:** https://www.quironsalud.es/tenerife
+- **featured:** false
+
+## Quirónsalud Las Palmas
+- **ciudad:** Las Palmas de Gran Canaria
+- **slug:** quironsalud-las-palmas
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Quirónsalud en Las Palmas de Gran Canaria, la mayor ciudad de las Islas Canarias. Con servicios de alta especialidad en oncología y cardiología, atiende a la gran población de la isla y al turismo internacional. Es referente en salud privada de Gran Canaria con tecnología de diagnóstico avanzada.
+- **web:** https://www.quironsalud.es/las-palmas
+- **featured:** false
+
+## Quirónsalud Pamplona
+- **ciudad:** Pamplona
+- **slug:** quironsalud-pamplona
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Quirónsalud en Pamplona, capital de Navarra, comunidad con uno de los mayores índices de calidad de vida de España. Sus servicios de alta especialidad atienden a la población navarra con estándares de excelencia europeos. La oncología y cardiología son las especialidades de mayor demanda en la ciudad.
+- **web:** https://www.quironsalud.es/pamplona
+- **featured:** false
+
+## Quirónsalud Logroño
+- **ciudad:** Logroño
+- **slug:** quironsalud-logrono
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, oncología
+- **descripcion:** Hospital Quirónsalud en Logroño, capital de La Rioja y corazón de la producción vinícola española. Sus servicios hospitalarios completos atienden a la población riojana con calidad médica de primer nivel. La medicina interna y cardiología son las especialidades más demandadas en esta compacta y próspera capital regional.
+- **web:** https://www.quironsalud.es/logrono
+- **featured:** false
+
+## Quirónsalud Valladolid
+- **ciudad:** Valladolid
+- **slug:** quironsalud-valladolid
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en Valladolid, capital de Castilla y León y ciudad universitaria con importante industria automotriz. Sus servicios oncológicos y cardiológicos atienden a la población vallisoletana y a pacientes de toda la meseta norte. Con instalaciones modernas y equipo médico de alto nivel académico.
+- **web:** https://www.quironsalud.es/valladolid
+- **featured:** false
+
+## Quirónsalud Salamanca
+- **ciudad:** Salamanca
+- **slug:** quironsalud-salamanca
+- **especialidades:** medicina interna, cardiología, cirugía, oncología, neurología
+- **descripcion:** Hospital Quirónsalud en Salamanca, ciudad universitaria Patrimonio de la Humanidad y referente académico de España. Sus servicios hospitalarios de calidad atienden a la comunidad universitaria y población local. La vinculación con la Universidad de Salamanca enriquece la práctica médica con investigación y formación.
+- **web:** https://www.quironsalud.es/salamanca
+- **featured:** false
+
+## Quirónsalud Burgos
+- **ciudad:** Burgos
+- **slug:** quironsalud-burgos
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, oncología
+- **descripcion:** Hospital Quirónsalud en Burgos, ciudad histórica del Camino de Santiago y referente industrial castellano. Sus servicios hospitalarios completos atienden a la población burgalesa con calidad médica de primer nivel. La cardiología y cirugía general son las especialidades más demandadas en la capital burgense.
+- **web:** https://www.quironsalud.es/burgos
+- **featured:** false
+
+## Quirónsalud Oviedo
+- **ciudad:** Oviedo
+- **slug:** quironsalud-oviedo
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en Oviedo, capital del Principado de Asturias en el verde norte peninsular. Con servicios oncológicos y cardiológicos de alta especialidad, atiende a la población asturiana. Sus instalaciones modernas complementan la oferta sanitaria privada de la capital asturiana.
+- **web:** https://www.quironsalud.es/oviedo
+- **featured:** false
+
+## Quirónsalud Santander
+- **ciudad:** Santander
+- **slug:** quironsalud-santander
+- **especialidades:** medicina interna, cardiología, cirugía, oncología, urgencias
+- **descripcion:** Hospital Quirónsalud en Santander, capital de Cantabria y ciudad costera del norte de España. Sus servicios hospitalarios de calidad atienden a residentes cántabros y turistas del litoral cantábrico. La medicina interna y cardiología son las especialidades más reconocidas en la capital cántabra.
+- **web:** https://www.quironsalud.es/santander
+- **featured:** false
+
+## Quirónsalud A Coruña
+- **ciudad:** A Coruña
+- **slug:** quironsalud-a-coruna
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud en A Coruña, ciudad atlántica gallega y uno de los principales puertos de España. Sus servicios oncológicos y cardiológicos atienden a la gran población coruñesa y gallega. Con tecnología de diagnóstico avanzada y médicos de alto nivel, es referente de la medicina privada en Galicia.
+- **web:** https://www.quironsalud.es/a-coruna
+- **featured:** false
+
+## Quirónsalud Vigo
+- **ciudad:** Vigo
+- **slug:** quironsalud-vigo
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Quirónsalud en Vigo, la ciudad más poblada de Galicia y uno de los mayores puertos pesqueros del mundo. Sus servicios de alta especialidad atienden a la gran población vigesa y a las comarcas del sur de Galicia y norte de Portugal. La cardiología y oncología son las especialidades de mayor reconocimiento en la ciudad.
+- **web:** https://www.quironsalud.es/vigo
+- **featured:** false
+
+## Vithas Valencia Consuelo
+- **ciudad:** Valencia
+- **slug:** vithas-valencia-consuelo
+- **especialidades:** cirugía, medicina interna, cardiología, urgencias, ginecología
+- **descripcion:** Hospital Vithas Valencia Consuelo, parte de la red hospitalaria Vithas con presencia en toda España. Sus instalaciones en Valencia ofrecen servicios hospitalarios completos con atención personalizada y calidad médica garantizada. La cirugía y medicina interna son las especialidades más demandadas en este hospital de la capital valenciana.
+- **web:** https://www.vithas.es/hospital-vithas-consuelo
+- **featured:** false
+
+## Vithas Valencia 9 de Octubre
+- **ciudad:** Valencia
+- **slug:** vithas-valencia-9-octubre
+- **especialidades:** materno-infantil, ginecología, pediatría, neonatología, urgencias
+- **descripcion:** Hospital Vithas Valencia 9 de Octubre, especializado en atención materno-infantil y una de las mejores maternidades privadas de la Comunitat Valenciana. Su unidad de neonatología atiende los casos más complejos con tecnología de vanguardia. El programa de partos humanizados y lactancia materna lo hacen referente en obstetricia y pediatría.
+- **web:** https://www.vithas.es/hospital-vithas-9-de-octubre
+- **featured:** false
+
+## Vithas Sevilla
+- **ciudad:** Sevilla
+- **slug:** vithas-sevilla
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Vithas en Sevilla, la capital andaluza, ampliando la oferta de salud privada de alta calidad en la ciudad. Sus servicios cardiológicos y oncológicos atienden a residentes del área metropolitana sevillana. Con instalaciones modernas y médicos especializados, compite con los referentes de la sanidad privada andaluza.
+- **web:** https://www.vithas.es/hospital-vithas-sevilla
+- **featured:** false
+
+## Vithas Málaga
+- **ciudad:** Málaga
+- **slug:** vithas-malaga
+- **especialidades:** oncología, cardiología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital Vithas en Málaga, contribuyendo a la sólida oferta de salud privada de la capital de la Costa del Sol. Sus servicios oncológicos y cardiológicos atraen a pacientes de toda la provincia. Con tecnología de diagnóstico avanzada y equipo médico de alto nivel, es referente en la sanidad privada malagueña.
+- **web:** https://www.vithas.es/hospital-vithas-malaga
+- **featured:** false
+
+## Vithas Alicante
+- **ciudad:** Alicante
+- **slug:** vithas-alicante
+- **especialidades:** cardiología, medicina interna, cirugía, urgencias, oncología
+- **descripcion:** Hospital Vithas en Alicante, reforzando la oferta de salud privada de la capital de la Costa Blanca. Sus servicios atienden tanto a alicantinos como a la enorme población de expatriados europeos de la zona. Con personal multilingüe y coordinación con aseguradoras internacionales para residentes extranjeros.
+- **web:** https://www.vithas.es/hospital-vithas-alicante
+- **featured:** false
+
+## Vithas Madrid Aravaca
+- **ciudad:** Madrid
+- **slug:** vithas-madrid-aravaca
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ginecología
+- **descripcion:** Hospital Vithas en Aravaca, barrio residencial del noroeste de Madrid junto a Pozuelo de Alarcón. Sus instalaciones modernas atienden a las familias de mayor poder adquisitivo del noroeste madrileño. Con médicos de alto prestigio y tecnología de diagnóstico actualizada.
+- **web:** https://www.vithas.es/hospital-vithas-aravaca
+- **featured:** false
+
+## HM Vallés Barcelona
+- **ciudad:** Barcelona
+- **slug:** hm-valles-barcelona
+- **especialidades:** oncología, cardiología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital HM Vallés en el área metropolitana de Barcelona, parte de la red HM Hospitales con presencia en todo el país. Sus servicios oncológicos de alta especialidad atraen a pacientes de las comarcas del Vallès Oriental y Occidental. Con tecnología de diagnóstico avanzada y acceso al sistema oncológico integrado de HM Hospitales.
+- **web:** https://www.hmhospitales.com/hm-valles
+- **featured:** false
+
+## HM Delfos Barcelona
+- **ciudad:** Barcelona
+- **slug:** hm-delfos-barcelona
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital HM Delfos en Barcelona, parte de la red HM Hospitales con uno de los centros oncológicos más avanzados de España. Ubicado en la zona alta de Barcelona, atiende a residentes del área metropolitana con servicios de alta especialidad. Su integración en la red HM OncoSalud garantiza acceso a los tratamientos oncológicos más innovadores.
+- **web:** https://www.hmhospitales.com/hm-delfos
+- **featured:** false
+
+## HM Nou Delfos Barcelona
+- **ciudad:** Barcelona
+- **slug:** hm-nou-delfos-barcelona
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital HM Nou Delfos en Barcelona, el más moderno de la red HM en Cataluña con tecnología de oncología de última generación. Sus tratamientos oncológicos innovadores atraen a pacientes de toda España e internacional. Con acceso a ensayos clínicos y protocolos de última generación en oncología médica y radioterápica.
+- **web:** https://www.hmhospitales.com/hm-nou-delfos
+- **featured:** false
+
+## HM Universitario Sanchinarro Madrid
+- **ciudad:** Madrid
+- **slug:** hm-universitario-sanchinarro
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, trasplantes
+- **descripcion:** HM Universitario Sanchinarro en Madrid, uno de los hospitales oncológicos más avanzados de Europa y referente mundial en innovación oncológica. Con el mayor número de ensayos clínicos oncológicos activos de España, atrae a pacientes de todo el mundo con tumores complejos. Su programa CIOCC (Centro Integral Oncológico Clara Campal) es de referencia internacional.
+- **web:** https://www.hmhospitales.com/hm-universitario-sanchinarro
+- **featured:** false
+
+## HM Puerta del Sur Madrid
+- **ciudad:** Móstoles
+- **slug:** hm-puerta-del-sur
+- **especialidades:** oncología, cardiología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital HM Puerta del Sur en Móstoles, atendiendo al corredor sur del área metropolitana de Madrid con más de 2 millones de habitantes. Sus servicios oncológicos integrados en la red HM dan acceso a los tratamientos más innovadores del país. La cardiología y cirugía son también especialidades de alto nivel en este moderno hospital.
+- **web:** https://www.hmhospitales.com/hm-puerta-del-sur
+- **featured:** false
+
+## HM Montepríncipe Madrid
+- **ciudad:** Boadilla del Monte
+- **slug:** hm-montepríncipe
+- **especialidades:** oncología, cardiología, cirugía robótica, neurología, medicina interna
+- **descripcion:** Hospital HM Montepríncipe en Boadilla del Monte, uno de los hospitales privados más completos y modernos del noroeste de Madrid. Sus instalaciones de última generación y equipo médico de alto nivel atienden a las familias de las exclusivas urbanizaciones del sector noroeste metropolitano. La oncología y la cirugía robótica son sus especialidades estrella.
+- **web:** https://www.hmhospitales.com/hm-montepríncipe
+- **featured:** false
+
+## Clínica Baviera Madrid Velázquez
+- **ciudad:** Madrid
+- **slug:** clinica-baviera-madrid-velazquez
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en el exclusivo barrio de Salamanca de Madrid, referente de la oftalmología privada española. Especializada en cirugía refractiva LASIK, cataratas y patologías de retina, atiende a pacientes de toda la capital y sus alrededores. Con más de 30 años de experiencia y más de 1 millón de ojos operados en toda la red.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Barcelona Diagonal
+- **ciudad:** Barcelona
+- **slug:** clinica-baviera-barcelona-diagonal
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en la Avenida Diagonal de Barcelona, en pleno corazón de la ciudad condal. Sus servicios oftalmológicos de alta especialidad atienden a barceloneses que buscan la mejor cirugía ocular disponible. Con tecnología Excimer de última generación para tratamientos refractivos y microcirugía ocular avanzada.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Valencia
+- **ciudad:** Valencia
+- **slug:** clinica-baviera-valencia
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Valencia, parte de la red de oftalmología más grande de España con más de 90 clínicas. Sus servicios de cirugía refractiva y cataratas son los más demandados en la Comunitat Valenciana. Con tecnología de diagnóstico ocular de vanguardia y cirujanos con amplia experiencia.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Sevilla
+- **ciudad:** Sevilla
+- **slug:** clinica-baviera-sevilla
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Sevilla, referente de la oftalmología privada en Andalucía. Sus cirugías refractivas y de cataratas son las más realizadas en la comunidad con protocolos estandarizados de calidad y seguridad. Atiende a pacientes de toda la provincia sevillana y comarcas vecinas.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Bilbao
+- **ciudad:** Bilbao
+- **slug:** clinica-baviera-bilbao
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Bilbao, la clínica oftalmológica especializada más reconocida del País Vasco. Sus tratamientos refractivos y microcirugía de cataratas atraen a pacientes de toda Vizcaya y provincias vecinas. Con tecnología de diagnóstico ocular de última generación y cirujanos de alto nivel.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Zaragoza
+- **ciudad:** Zaragoza
+- **slug:** clinica-baviera-zaragoza
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Zaragoza, referente de la oftalmología privada aragonesa con cirugías refractivas y de cataratas de alto nivel. Sus instalaciones modernas y cirujanos especializados atienden a pacientes de toda la comunidad aragonesa. Con los últimos avances en diagnóstico y tratamiento ocular.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Málaga
+- **ciudad:** Málaga
+- **slug:** clinica-baviera-malaga
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Málaga, especializada en oftalmología de alta calidad para residentes y turistas de la Costa del Sol. Sus servicios de cirugía refractiva y cataratas son los más demandados de la provincia malagueña. Con personal que atiende en múltiples idiomas para la amplia comunidad extranjera de la zona.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Alicante
+- **ciudad:** Alicante
+- **slug:** clinica-baviera-alicante
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Alicante, atendiendo a una de las mayores concentraciones de expatriados europeos de España. Sus servicios oftalmológicos en múltiples idiomas atienden a la comunidad inglesa, alemana y escandinava de la Costa Blanca. Referente en cirugía refractiva y de cataratas en la provincia alicantina.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Murcia
+- **ciudad:** Murcia
+- **slug:** clinica-baviera-murcia
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Murcia, referente de la oftalmología privada en la Región de Murcia. Sus cirugías refractivas y de cataratas están entre las más realizadas del sureste español. Con protocolos internacionales de seguridad y tecnología de diagnóstico ocular de última generación.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera A Coruña
+- **ciudad:** A Coruña
+- **slug:** clinica-baviera-a-coruna
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en A Coruña, referente oftalmológico del noroeste español. Sus tratamientos refractivos y microcirugía ocular son los más demandados de Galicia. Con cirujanos especializados y tecnología de vanguardia para diagnóstico y tratamiento de patologías oculares complejas.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Clínica Baviera Palma de Mallorca
+- **ciudad:** Palma de Mallorca
+- **slug:** clinica-baviera-palma
+- **especialidades:** oftalmología, cirugía refractiva, cataratas, retina, glaucoma
+- **descripcion:** Clínica Baviera en Palma de Mallorca, especializada en oftalmología para residentes e islateños de las Baleares. Sus servicios multilingües atienden tanto a mallorquines como a la numerosa comunidad extranjera de la isla. Referente en cirugía refractiva LASIK y microcirugía de cataratas en el archipiélago balear.
+- **web:** https://www.clinica-baviera.com
+- **featured:** false
+
+## Institut Marquès Barcelona
+- **ciudad:** Barcelona
+- **slug:** institut-marques-barcelona
+- **especialidades:** reproducción asistida, ginecología, obstetricia, fertilidad, genética reproductiva
+- **descripcion:** Institut Marquès en Barcelona, uno de los centros de reproducción asistida más reconocidos de Europa con más de 30 años de experiencia. Sus tasas de éxito en FIV y sus técnicas pioneras de diagnóstico genético preimplantacional atraen a pacientes de toda Europa y el mundo. Referente internacional en fertilización in vitro y técnicas de reproducción de vanguardia.
+- **web:** https://www.institutmarques.com
+- **featured:** false
+
+## Institut Marquès Madrid
+- **ciudad:** Madrid
+- **slug:** institut-marques-madrid
+- **especialidades:** reproducción asistida, fertilidad, ginecología, genética reproductiva, obstetricia
+- **descripcion:** Institut Marquès en Madrid, extensión de la clínica de fertilidad barcelonesa líder en España. Con los mismos protocolos y tasas de éxito que la sede central, atiende a pacientes madrileños y del centro de España que buscan reproducción asistida de alta complejidad. Sus técnicas de diagnóstico genético preimplantacional son de referencia internacional.
+- **web:** https://www.institutmarques.com/madrid
+- **featured:** false
+
+## Clínica Corachán Barcelona
+- **ciudad:** Barcelona
+- **slug:** clinica-corachan-barcelona
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica Corachán en la zona alta de Barcelona, uno de los hospitales privados con más historia y prestigio de Cataluña. Con más de 100 años de tradición médica y constante renovación tecnológica, atiende a las familias de mayor nivel sociocultural de Barcelona. Sus servicios cardiológicos y oncológicos son los de mayor reconocimiento en la ciudad condal.
+- **web:** https://www.corachan.com
+- **featured:** false
+
+## Clínica Dexeus Barcelona
+- **ciudad:** Barcelona
+- **slug:** clinica-dexeus-barcelona
+- **especialidades:** ginecología, reproducción asistida, obstetricia, oncología ginecológica, pediatría
+- **descripcion:** Clínica Dexeus en Barcelona, referente histórico de la ginecología y obstetricia privada española con más de 90 años de historia. Sus servicios de reproducción asistida son los más reconocidos de España y atrae a pacientes de toda Europa. El Institut Universitari Dexeus combina asistencia de alto nivel con investigación y docencia en ginecología.
+- **web:** https://www.dexeus.com
+- **featured:** false
+
+## Sanitas La Zarzuela Madrid
+- **ciudad:** Madrid
+- **slug:** sanitas-la-zarzuela
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Sanitas La Zarzuela en el noroeste de Madrid, referente de la medicina privada para las familias del corredor Aravaca-Pozuelo-Las Rozas. Con servicios de alta especialidad y la tecnología más avanzada, atiende a ejecutivos y familias de alto nivel de la zona. Sus instalaciones de lujo combinan excelencia médica con una experiencia hospitalaria excepcional.
+- **web:** https://www.sanitas.es/hospital-la-zarzuela
+- **featured:** false
+
+## Sanitas CIMA Barcelona
+- **ciudad:** Barcelona
+- **slug:** sanitas-cima-barcelona
+- **especialidades:** cardiología, oncología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital Sanitas CIMA en la zona alta de Barcelona, referente de la medicina privada en la ciudad condal. Sus servicios de alta especialidad atienden a las familias de mayor nivel socioeconómico de Barcelona con tecnología de última generación. La oncología y cardiología son las especialidades de mayor reconocimiento en este moderno hospital barcelonés.
+- **web:** https://www.sanitas.es/hospital-cima-barcelona
+- **featured:** false
+
+## Sanitas Valdecilla Madrid
+- **ciudad:** Madrid
+- **slug:** sanitas-valdecilla
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, oncología
+- **descripcion:** Hospital Sanitas Valdecilla en Madrid, parte de la red hospitalaria de Sanitas con estándares internacionales de la compañía Bupa. Sus servicios hospitalarios de calidad atienden a los asegurados de Sanitas y pacientes privados de la capital. Con médicos certificados y tecnología de diagnóstico avanzada para todas las especialidades.
+- **web:** https://www.sanitas.es/hospital-valdecilla
+- **featured:** false
+
+## Sanitas Virgen del Mar Madrid
+- **ciudad:** Madrid
+- **slug:** sanitas-virgen-del-mar
+- **especialidades:** cardiología, oncología, cirugía, ginecología, medicina interna
+- **descripcion:** Hospital Sanitas Virgen del Mar en Madrid, uno de los hospitales de la red con mayor vocación de servicio integral. Sus instalaciones modernas y equipo de especialistas certificados atienden a asegurados de Sanitas y pacientes particulares. La cardiología y oncología son las áreas de mayor excelencia en este hospital madrileño.
+- **web:** https://www.sanitas.es/hospital-virgen-del-mar
+- **featured:** false
+
+## Hospital Policlínica Gipuzkoa San Sebastián
+- **ciudad:** San Sebastián
+- **slug:** policlinica-gipuzkoa
+- **especialidades:** cardiología, oncología, neurología, cirugía, reproducción asistida
+- **descripcion:** Policlínica Gipuzkoa en San Sebastián, uno de los hospitales privados más reconocidos del País Vasco con más de 50 años de historia. Sus servicios cardiológicos y oncológicos son referentes en la región vasca. El programa de reproducción asistida es el más demandado en Guipúzcoa con altas tasas de éxito en FIV.
+- **web:** https://www.policlinicagipuzkoa.com
+- **featured:** false
+
+## IMQ Zorrotzaurre Bilbao
+- **ciudad:** Bilbao
+- **slug:** imq-zorrotzaurre
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Clínica IMQ en Zorrotzaurre, Bilbao, parte de la red Instituto Médico Quirúrgico vasco con amplia presencia regional. Sus servicios cardiológicos y oncológicos atienden a la población vizcaína con estándares de excelencia vascos. Con instalaciones modernas y equipo médico de alto nivel académico y clínico.
+- **web:** https://www.imq.es
+- **featured:** false
+
+## IMQ Amara San Sebastián
+- **ciudad:** San Sebastián
+- **slug:** imq-amara
+- **especialidades:** medicina interna, cardiología, cirugía, oncología, neurología
+- **descripcion:** Clínica IMQ en Amara, San Sebastián, atendiendo al barrio más poblado de Donostia con servicios hospitalarios de alta calidad. Sus especialidades en cardiología y medicina interna son las más demandadas en el barrio. Con instalaciones completamente equipadas y médicos de reconocido prestigio en el País Vasco.
+- **web:** https://www.imq.es
+- **featured:** false
+
+## Clínica USP Dexeus Madrid
+- **ciudad:** Madrid
+- **slug:** clinica-usp-dexeus-madrid
+- **especialidades:** reproducción asistida, ginecología, cirugía, cardiología, medicina interna
+- **descripcion:** Clínica en Madrid con amplia experiencia en reproducción asistida y ginecología de alta especialidad. Sus servicios de FIV y diagnóstico genético preimplantacional atraen a pacientes de toda España. Con instalaciones modernas y equipo multidisciplinario de alta formación en reproducción humana.
+- **web:** https://www.clinicausp.com
+- **featured:** false
+
+## Fundación Jiménez Díaz Madrid
+- **ciudad:** Madrid
+- **slug:** fundacion-jimenez-diaz
+- **especialidades:** nefrología, trasplante renal, cardiología, oncología, medicina interna
+- **descripcion:** Fundación Jiménez Díaz en Madrid, institución médico-académica de referencia nacional con más de 80 años de historia. Su programa de trasplante renal y los servicios de nefrología son los más reconocidos de España. Combina asistencia médica de primer nivel con investigación biomédica de vanguardia en sus laboratorios.
+- **web:** https://www.fjd.es
+- **featured:** false
+
+## Hospital Universitario La Paz Madrid (privado)
+- **ciudad:** Madrid
+- **slug:** hospital-la-paz-privado
+- **especialidades:** oncología, cardiología, neurología, cirugía, trasplantes
+- **descripcion:** El área de atención privada del Hospital Universitario La Paz de Madrid, uno de los hospitales más grandes de España. Sus servicios privados permiten acceder a la alta especialidad de un hospital universitario de referencia con la agilidad y comodidad del sector privado. Excelencia médica académica con atención personalizada.
+- **web:** https://www.hulp.es
+- **featured:** false
+
+## Hospital Clínica Rotger Palma
+- **ciudad:** Palma de Mallorca
+- **slug:** clinica-rotger-palma
+- **especialidades:** cirugía, cardiología, oncología, medicina interna, urgencias
+- **descripcion:** Clínica Rotger en Palma de Mallorca, uno de los hospitales privados más tradicionales de las Islas Baleares con más de 70 años de historia. Sus servicios cardiológicos y quirúrgicos son los de mayor referencia en la isla. Atiende tanto a mallorquines como a la enorme afluencia de turistas durante todo el año.
+- **web:** https://www.clinicarotger.es
+- **featured:** false
+
+## Hospital USP San Jaime Torrevieja
+- **ciudad:** Torrevieja
+- **slug:** hospital-usp-san-jaime
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, ortopedia
+- **descripcion:** Hospital USP San Jaime en Torrevieja, atendiendo a una de las mayores colonias de expatriados del sur de Alicante. Sus servicios multilingües y coordinación con aseguradoras internacionales son referentes para los residentes europeos de la Costa Blanca sur. Especializado en atención a residentes jubilados del norte de Europa.
+- **web:** https://www.hospitalesanjaime.com
+- **featured:** false
+
+## Hospital Beata María Ana Madrid
+- **ciudad:** Madrid
+- **slug:** hospital-beata-maria-ana
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Beata María Ana en el barrio de Arganzuela de Madrid, institución hospitalaria privada con larga tradición en la capital. Sus servicios cardiológicos y oncológicos atienden a residentes del sur de Madrid con alta calidad. Con instalaciones modernas y equipo de especialistas certificados y comprometidos con la atención al paciente.
+- **web:** https://www.hbma.es
+- **featured:** false
+
+## Hospital San Juan de Dios Barcelona
+- **ciudad:** Barcelona
+- **slug:** hospital-san-juan-de-dios-barcelona
+- **especialidades:** pediatría, neonatología, cirugía pediátrica, oncología pediátrica, neurología pediátrica
+- **descripcion:** Hospital San Juan de Dios en Esplugues de Llobregat, el principal centro hospitalario pediátrico privado de Cataluña y referente nacional en medicina infantil. Sus servicios de oncología pediátrica y neonatología son los de mayor excelencia en España. Con más de un siglo de historia en la atención a niños y adolescentes.
+- **web:** https://www.sjdhospitalbarcelona.org
+- **featured:** false
+
+## Clínica Teknon Barcelona
+- **ciudad:** Barcelona
+- **slug:** clinica-teknon-barcelona
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, medicina interna
+- **descripcion:** Clínica Teknon en la zona alta de Barcelona, uno de los hospitales privados más exclusivos y mejor equipados de España. Parte del grupo Quirónsalud, combina tecnología de vanguardia con una experiencia hospitalaria de cinco estrellas. Sus servicios oncológicos y de cirugía robótica atraen a pacientes internacionales que buscan lo mejor de la medicina española.
+- **web:** https://www.teknon.es
+- **featured:** false
+
+## Clínica Ruber Internacional Madrid
+- **ciudad:** Madrid
+- **slug:** clinica-ruber-internacional
+- **especialidades:** oncología, neurología, cardiología, cirugía, medicina interna
+- **descripcion:** Clínica Ruber Internacional en la Milla de Oro de Madrid, uno de los hospitales privados más exclusivos y completos de la capital. Sus servicios neurológicos y oncológicos atraen a pacientes del todo el mundo que buscan diagnósticos y tratamientos de segunda opinión. Con más de 50 especialidades y tecnología de diagnóstico de última generación.
+- **web:** https://www.ruberinternacional.es
+- **featured:** false
+
+## Hospital Sanitas Málaga
+- **ciudad:** Málaga
+- **slug:** sanitas-malaga
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, urgencias
+- **descripcion:** Hospital Sanitas en Málaga, parte de la red hospitalaria del grupo Bupa/Sanitas. Sus servicios de alta especialidad atienden a asegurados y pacientes privados de la capital malagueña. Con tecnología de diagnóstico avanzada y equipo médico de alto nivel en todas sus especialidades.
+- **web:** https://www.sanitas.es/malaga
+- **featured:** false
+
+## Clínica Santa Elena Madrid
+- **ciudad:** Madrid
+- **slug:** clinica-santa-elena-madrid
+- **especialidades:** reproducción asistida, ginecología, cirugía, oncología, cardiología
+- **descripcion:** Clínica Santa Elena en el barrio de Chamberí de Madrid, reconocida especialmente por sus servicios de reproducción asistida y ginecología de alta especialidad. Con más de 30 años de experiencia en FIV, sus tasas de éxito están entre las más altas de España. Sus instalaciones modernas y equipo de especialistas ofrecen atención integral a parejas con problemas de fertilidad.
+- **web:** https://www.clinicasantaelena.com
+- **featured:** false
+
+## Hospital Nisa Pardo de Aravaca Madrid
+- **ciudad:** Madrid
+- **slug:** nisa-pardo-de-aravaca
+- **especialidades:** cardiología, neurología, oncología, cirugía, medicina interna
+- **descripcion:** Hospital Nisa Pardo de Aravaca en el noroeste de Madrid, parte de la red hospitalaria Nisa con presencia en Valencia, Alicante y Madrid. Sus instalaciones modernas y equipo médico de alto nivel atienden a las familias del corredor Aravaca-Pozuelo. Con servicios cardiológicos y neurológicos de referencia en la zona.
+- **web:** https://www.hospitales-nisa.es
+- **featured:** false
+
+## Hospital Nisa Valencia al Mar
+- **ciudad:** Valencia
+- **slug:** nisa-valencia-al-mar
+- **especialidades:** cardiología, oncología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Nisa Valencia al Mar en el litoral valenciano, parte de la red hospitalaria privada con gran presencia en el Levante español. Sus servicios de alta especialidad atienden a residentes del norte de Valencia y la comarca de la Horta Nord. Con tecnología de diagnóstico avanzada y médicos de reconocida trayectoria.
+- **web:** https://www.hospitales-nisa.es
+- **featured:** false
+
+## Hospital Quirónsalud Málaga
+- **ciudad:** Málaga
+- **slug:** quironsalud-malaga-hospital
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, medicina interna
+- **descripcion:** Hospital Quirónsalud Málaga, el mayor y más moderno hospital privado de la Costa del Sol. Con más de 300 camas y más de 50 especialidades médicas, es referente de la sanidad privada andaluza. Sus servicios oncológicos integrados y la unidad de cirugía robótica son las especialidades de mayor demanda.
+- **web:** https://www.quironsalud.es/hospital-malaga
+- **featured:** false
+
+## Hospital Quirónsalud Sagrado Corazón Sevilla
+- **ciudad:** Sevilla
+- **slug:** quironsalud-sagrado-corazon
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud Sagrado Corazón en Sevilla, la joya de la red Quirónsalud en Andalucía con más de 100 años de historia. Sus instalaciones históricamente reconvertidas en moderno hospital combinan la tradición con la innovación médica más avanzada. Referente en cardiología y oncología en la capital andaluza y todo el sur de España.
+- **web:** https://www.quironsalud.es/sagrado-corazon
+- **featured:** false
+
+## Clínica Cemtro Madrid
+- **ciudad:** Madrid
+- **slug:** clinica-cemtro-madrid
+- **especialidades:** ortopedia, traumatología, cirugía articular, medicina deportiva, rehabilitación
+- **descripcion:** Clínica Cemtro en Vallecas, Madrid, especializada en ortopedia, traumatología y medicina deportiva. Sus cirugías articulares de rodilla, cadera y hombro son las más reconocidas de la capital y atienden a deportistas profesionales y aficionados. Con un equipo de traumatólogos de referencia nacional y tecnología de imagen y cirugía artroscópica avanzada.
+- **web:** https://www.cemtro.com
+- **featured:** false
+
+## Hospital Quirónsalud Campo de Gibraltar
+- **ciudad:** Algeciras
+- **slug:** quironsalud-algeciras
+- **especialidades:** medicina interna, cardiología, cirugía, urgencias, ginecología
+- **descripcion:** Hospital Quirónsalud en Algeciras, en la puerta de Europa donde se unen el Atlántico y el Mediterráneo. Sus servicios atienden a la gran población del Campo de Gibraltar y al importante flujo de trabajadores del Puerto de Algeciras. Con una posición estratégica clave, también atiende pacientes procedentes del norte de África.
+- **web:** https://www.quironsalud.es/algeciras
+- **featured:** false
+
+## Hospital Quirónsalud Cádiz
+- **ciudad:** Cádiz
+- **slug:** quironsalud-cadiz
+- **especialidades:** cardiología, oncología, medicina interna, cirugía, urgencias
+- **descripcion:** Hospital Quirónsalud en Cádiz, la ciudad más antigua de Occidente en la bahía atlántica andaluza. Sus servicios cardiológicos y oncológicos atienden a la población gaditana con los estándares de calidad de la red Quirónsalud. Con instalaciones modernas en una ciudad de enorme valor histórico y cultural.
+- **web:** https://www.quironsalud.es/cadiz
+- **featured:** false
+
+## Clínica Juaneda Palma
+- **ciudad:** Palma de Mallorca
+- **slug:** clinica-juaneda-palma
+- **especialidades:** cirugía, cardiología, oncología, ginecología, medicina interna
+- **descripcion:** Clínica Juaneda en Palma de Mallorca, hospital privado con larga historia en las Islas Baleares. Sus servicios cardiológicos y de cirugía son los más demandados por residentes mallorquines y turistas. Con instalaciones modernas y equipo médico con amplia experiencia en la atención a pacientes internacionales.
+- **web:** https://www.juaneda.com
+- **featured:** false
+
+## Hospital Perpetuo Socorro Las Palmas
+- **ciudad:** Las Palmas de Gran Canaria
+- **slug:** hospital-perpetuo-socorro-las-palmas
+- **especialidades:** oncología, cardiología, cirugía, medicina interna, neurología
+- **descripcion:** Hospital Perpetuo Socorro en Las Palmas de Gran Canaria, uno de los hospitales privados más tradicionales y reconocidos de las Islas Canarias. Con más de 100 años de historia en la atención médica canaria, sus servicios oncológicos y cardiológicos son los de mayor referencia en la isla. Combina tradición médica con renovación tecnológica permanente.
+- **web:** https://www.hps.es
+- **featured:** false
+
+## Hospital San Roque Las Palmas
+- **ciudad:** Las Palmas de Gran Canaria
+- **slug:** hospital-san-roque-las-palmas
+- **especialidades:** cardiología, oncología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital San Roque en Las Palmas de Gran Canaria, parte del Grupo San Roque con dos hospitales en la isla. Referente de la medicina privada canaria con servicios de alta especialidad en cardiología y oncología. Sus instalaciones modernas atienden a residentes de Gran Canaria y turistas del archipiélago más visitado de España.
+- **web:** https://www.hospitalsanroque.es
+- **featured:** false
+
+## Hospital Quirónsalud Torrevieja
+- **ciudad:** Torrevieja
+- **slug:** quironsalud-torrevieja
+- **especialidades:** cardiología, cirugía, medicina interna, urgencias, oncología
+- **descripcion:** Hospital Quirónsalud en Torrevieja, uno de los hospitales con mayor concentración de pacientes internacionales de toda España. Sus servicios multilingües y personal especializado en atención a expatriados son únicos en el país. La cardiología y medicina interna son las especialidades más demandadas por la comunidad europea residente en el sur de Alicante.
+- **web:** https://www.quironsalud.es/torrevieja
+- **featured:** false
+
+## Hospital Quirónsalud Murcia
+- **ciudad:** Murcia
+- **slug:** quironsalud-murcia-hospital
+- **especialidades:** oncología, cardiología, neurología, cirugía, medicina interna
+- **descripcion:** Hospital Quirónsalud Murcia, el centro hospitalario privado más moderno y completo de la Región de Murcia. Con más de 250 camas y 45 especialidades médicas, es referente de la sanidad privada murciana. Sus servicios oncológicos integrados en la red Quirónsalud y la unidad cardiológica son las especialidades más demandadas.
+- **web:** https://www.quironsalud.es/hospital-murcia
+- **featured:** false
+
+## Clínica López Ibor Madrid
+- **ciudad:** Madrid
+- **slug:** clinica-lopez-ibor
+- **especialidades:** psiquiatría, psicología, neurología, trastornos de conducta, adicciones
+- **descripcion:** Clínica López Ibor en Madrid, la clínica psiquiátrica privada más reconocida y de mayor prestigio de España con más de 60 años de historia. Sus servicios de psiquiatría, psicología y neurología son referentes nacionales e internacionales. Con unidades especializadas en depresión, ansiedad, esquizofrenia, trastornos alimentarios y adicciones.
+- **web:** https://www.lopezibor.es
+- **featured:** false
+
+## Hospital Quirónsalud Palmaplanas Palma
+- **ciudad:** Palma de Mallorca
+- **slug:** quironsalud-palmaplanas-palma
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Hospital Quirónsalud Palmaplanas en Palma de Mallorca, el mayor hospital privado de las Islas Baleares. Con más de 300 camas y servicios de alta especialidad en oncología y cardiología, es referente de la sanidad privada balear. Sus instalaciones ultramodernas y atención multilingüe atraen a pacientes de todas las islas y turistas europeos.
+- **web:** https://www.quironsalud.es/palmaplanas
+- **featured:** false
+
+## Clínica Creu Blanca Barcelona
+- **ciudad:** Barcelona
+- **slug:** clinica-creu-blanca-barcelona
+- **especialidades:** cirugía, medicina interna, cardiología, ginecología, urgencias
+- **descripcion:** Clínica Creu Blanca en Barcelona, parte de la red de hospitales privados con larga tradición en Cataluña. Sus servicios hospitalarios completos atienden a barceloneses y residentes del área metropolitana con calidad médica garantizada. Con instalaciones modernas y médicos de alta trayectoria en sus especialidades.
+- **web:** https://www.creublanca.es
+- **featured:** false
+
+## Hospital USP Institut Universitari Dexeus
+- **ciudad:** Barcelona
+- **slug:** hospital-dexeus-universitari
+- **especialidades:** ginecología, reproducción asistida, oncología ginecológica, obstetricia, genética
+- **descripcion:** Institut Universitari Dexeus en Barcelona, el centro de ginecología y reproducción asistida más reconocido de España con más de 90 años de historia. Su tradición en obstetricia y ginecología de alta especialidad lo convierte en referente europeo. Sus servicios de FIV y diagnóstico genético atraen a pacientes de todo el mundo.
+- **web:** https://www.dexeus.com
+- **featured:** false
+
+## Hospital QuirónSalud Infanta Luisa Sevilla
+- **ciudad:** Sevilla
+- **slug:** quironsalud-infanta-luisa
+- **especialidades:** cardiología, medicina interna, cirugía, urgencias, ginecología
+- **descripcion:** Hospital Quirónsalud Infanta Luisa en Sevilla, con amplia trayectoria en la atención médica privada de la capital andaluza. Sus servicios cardiológicos y de medicina interna son los de mayor demanda en la ciudad. Con instalaciones renovadas y equipo médico de alto nivel académico y clínico.
+- **web:** https://www.quironsalud.es/infanta-luisa
+- **featured:** false
+
+## Policlínica Miramar Palma
+- **ciudad:** Palma de Mallorca
+- **slug:** policlinica-miramar-palma
+- **especialidades:** oncología, cardiología, cirugía, neurología, medicina interna
+- **descripcion:** Policlínica Miramar en Palma de Mallorca, uno de los hospitales privados de mayor tradición en las Islas Baleares. Sus servicios oncológicos y cardiológicos son los de mayor referencia en la isla. Con instalaciones renovadas y tecnología de diagnóstico avanzada, atiende tanto a mallorquines como a la numerosa comunidad turística internacional.
+- **web:** https://www.policlinicamiramar.com
+- **featured:** false
+
+## Hospital Universitario Quirónsalud Pozuelo
+- **ciudad:** Pozuelo de Alarcón
+- **slug:** quironsalud-pozuelo
+- **especialidades:** oncología, cardiología, neurología, cirugía robótica, trasplantes
+- **descripcion:** Hospital Universitario Quirónsalud Pozuelo, el buque insignia de la red Quirónsalud en Madrid y uno de los hospitales privados más reconocidos de España. Con programa de trasplantes, cirugía robótica y el centro oncológico más avanzado de la red, atrae a pacientes de toda España e internacional. Sus instalaciones de lujo y atención personalizada de cinco estrellas lo hacen destino preferido de ejecutivos, deportistas de élite y figuras públicas.
+- **web:** https://www.quironsalud.es/pozuelo
+- **featured:** false
