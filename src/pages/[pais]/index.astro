@@ -162,13 +162,12 @@ const collectionSchema = {
     const params = new URLSearchParams(window.location.search);
     const esp = params.get('especialidad');
     if (esp) {
-      // Show banner
+      // Show banner — use inline style to guarantee visibility regardless of CSS specificity
       const banner = document.getElementById('especialidad-banner');
       const label = document.getElementById('especialidad-label');
       if (banner && label) {
-        // Pretty-print: replace hyphens with spaces, capitalize
         label.textContent = esp.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-        banner.classList.remove('hidden');
+        banner.style.display = 'flex';
       }
       // Filter cards
       const wrappers = document.querySelectorAll<HTMLElement>('.clinic-card-wrapper');
@@ -186,7 +185,7 @@ const collectionSchema = {
         const grid = document.getElementById('clinics-grid');
         const noResults = document.getElementById('no-results');
         if (grid) grid.style.display = 'none';
-        if (noResults) noResults.classList.remove('hidden');
+        if (noResults) noResults.style.display = 'block';
       }
     }
   </script>
