@@ -1,0 +1,13 @@
+---
+name: "HOSPITAL PRIVADO DE ROSARIO"
+slug: "hospital-privado-de-rosario"
+pais: "argentina"
+ciudad: "Rosario, Santa Fe"
+especialidades: ["general"]
+descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Rosario, Santa Fe."
+web: "http://www.grupogamma.com"
+featured: false
+draft: false
+---
+
+Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Rosario, Santa Fe.
