@@ -225,7 +225,9 @@ const orgSchema = {
         e.preventDefault();
         const pais = (form.querySelector('[name="pais"]') as HTMLSelectElement).value;
         const esp  = (form.querySelector('[name="especialidad"]') as HTMLSelectElement).value;
-        if (pais) {
+        if (pais && esp) {
+          window.location.href = `/${pais}/?especialidad=${esp}`;
+        } else if (pais) {
           window.location.href = `/${pais}/`;
         } else if (esp) {
           window.location.href = `/especialidades/${esp}/`;

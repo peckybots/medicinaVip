@@ -98,21 +98,35 @@ const collectionSchema = {
       </div>
     )}
 
+    <!-- Specialty filter banner (shown when ?especialidad= is set) -->
+    <div id="especialidad-banner" class="hidden mb-6 flex items-center gap-3 bg-[#f0f7fa] border border-[#1A3A4A]/20 rounded-xl px-5 py-3">
+      <span class="text-[#1A3A4A] font-medium text-sm">Filtrando por especialidad: <strong id="especialidad-label" class="text-[#C9973A]"></strong></span>
+      <a href={`/${pais}/`} class="ml-auto text-xs text-gray-500 hover:text-[#1A3A4A] underline">Ver todas</a>
+    </div>
+
+    <!-- No results message -->
+    <div id="no-results" class="hidden text-center py-16 text-gray-400">
+      <p class="text-lg">No encontramos clínicas con esa especialidad en {label}.</p>
+      <a href={`/${pais}/`} class="mt-4 inline-block text-[#C9973A] hover:underline">Ver todas las clínicas</a>
+    </div>
+
     <!-- Clinics grid -->
     {allClinics.length > 0 ? (
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+      <div id="clinics-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
         {allClinics.map(clinica => (
-          <ClinicCard
-            name={clinica.data.name}
-            slug={clinica.data.slug}
-            pais={clinica.data.pais}
-            ciudad={clinica.data.ciudad}
-            especialidades={clinica.data.especialidades}
-            certificaciones={clinica.data.certificaciones}
-            imagen={clinica.data.imagen}
-            descripcion={clinica.data.descripcion}
-            featured={clinica.data.featured}
-          />
+          <div class="clinic-card-wrapper" data-especialidades={clinica.data.especialidades.join(',')}>
+            <ClinicCard
+              name={clinica.data.name}
+              slug={clinica.data.slug}
+              pais={clinica.data.pais}
+              ciudad={clinica.data.ciudad}
+              especialidades={clinica.data.especialidades}
+              certificaciones={clinica.data.certificaciones}
+              imagen={clinica.data.imagen}
+              descripcion={clinica.data.descripcion}
+              featured={clinica.data.featured}
+            />
+          </div>
         ))}
       </div>
     ) : (
@@ -143,4 +157,37 @@ const collectionSchema = {
       </div>
     )}
   </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const esp = params.get('especialidad');
+    if (esp) {
+      // Show banner
+      const banner = document.getElementById('especialidad-banner');
+      const label = document.getElementById('especialidad-label');
+      if (banner && label) {
+        // Pretty-print: replace hyphens with spaces, capitalize
+        label.textContent = esp.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        banner.classList.remove('hidden');
+      }
+      // Filter cards
+      const wrappers = document.querySelectorAll<HTMLElement>('.clinic-card-wrapper');
+      let visibleCount = 0;
+      wrappers.forEach(wrapper => {
+        const especialidades = (wrapper.dataset.especialidades || '').split(',');
+        if (especialidades.includes(esp)) {
+          visibleCount++;
+        } else {
+          wrapper.style.display = 'none';
+        }
+      });
+      // Show no-results if nothing matches
+      if (visibleCount === 0) {
+        const grid = document.getElementById('clinics-grid');
+        const noResults = document.getElementById('no-results');
+        if (grid) grid.style.display = 'none';
+        if (noResults) noResults.classList.remove('hidden');
+      }
+    }
+  </script>
 </BaseLayout>
