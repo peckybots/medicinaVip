@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Mendoza, capital de la región c
 web: "https://www.hospitalsantamaria.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-santa-maria-mendoza.png"
 ---
 
 Hospital privado de referencia en Mendoza, capital de la región cuyana. Sus programas de cardiología y oncología son los más reconocidos de la provincia de Mendoza. Con décadas de historia, atiende a la población cuyano-andina con servicios de alta especialidad.

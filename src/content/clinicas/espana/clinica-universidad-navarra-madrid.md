@@ -14,6 +14,7 @@ fundacion: 1962
 camas: 285
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/clinica-universidad-navarra-madrid.png"
 ---
 
 La Clínica Universidad de Navarra (CUN) lidera el ranking MRS de hospitales privados de España. Con sedes en Madrid y Pamplona, es referencia en oncología molecular (el Centro de Investigación Médica Aplicada, CIMA, es uno de los mejores centros de investigación oncológica de Europa) y en diagnóstico complejo de alta especialidad.

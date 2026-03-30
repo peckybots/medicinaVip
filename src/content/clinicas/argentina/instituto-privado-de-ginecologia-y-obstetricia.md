@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.institutoprivadodeginecologiayobstetriciasrl.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-privado-de-ginecologia-y-obstetricia.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en 1A. Seccion, Mendoza.

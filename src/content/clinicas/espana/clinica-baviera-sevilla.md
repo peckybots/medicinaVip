@@ -8,6 +8,7 @@ descripcion: "Clínica Baviera en Sevilla, referente de la oftalmología privada
 web: "https://www.clinica-baviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-baviera-sevilla.png"
 ---
 
 Clínica Baviera en Sevilla, referente de la oftalmología privada en Andalucía. Sus cirugías refractivas y de cataratas son las más realizadas en la comunidad con protocolos estandarizados de calidad y seguridad. Atiende a pacientes de toda la provincia sevillana y comarcas vecinas.

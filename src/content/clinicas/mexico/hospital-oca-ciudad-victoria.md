@@ -8,6 +8,7 @@ descripcion: "Hospital OCA en Ciudad Victoria, capital del estado de Tamaulipas.
 web: "https://www.oca.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-oca-ciudad-victoria.png"
 ---
 
 Hospital OCA en Ciudad Victoria, capital del estado de Tamaulipas. Cubre la demanda de servicios médicos privados de calidad en la capital estatal y municipios aledaños. Sus instalaciones modernas y personal especializado hacen de este hospital la primera opción privada en la región.

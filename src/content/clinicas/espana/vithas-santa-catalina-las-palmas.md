@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en Las Palmas de Gran Canaria, referente de la med
 web: "https://www.vithas.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-santa-catalina-las-palmas.png"
 ---
 
 Hospital Vithas en Las Palmas de Gran Canaria, referente de la medicina privada en las Islas Canarias. Sus programas de cardiología y oncología son reconocidos en el archipiélago canario. Atiende a residentes locales y turistas con servicios hospitalarios de alta calidad.

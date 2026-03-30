@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.sexualidadypareja.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/c-p-a-instituto-de-sexualidad-y-pareja-miguel-palmieri.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Godoy Cruz, Mendoza.

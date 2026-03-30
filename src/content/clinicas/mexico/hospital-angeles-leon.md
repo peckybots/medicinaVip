@@ -13,6 +13,7 @@ fundacion: 2008
 camas: 140
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-angeles-leon.png"
 ---
 
 Hospital privado del grupo Ángeles en la capital industrial de Guanajuato. Atiende a la creciente población del Bajío con servicios de alta especialidad y tecnología moderna.

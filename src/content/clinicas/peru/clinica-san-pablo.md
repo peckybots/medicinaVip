@@ -13,6 +13,7 @@ fundacion: 1990
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-pablo.png"
 ---
 
 La Clínica San Pablo es una de las redes de clínicas privadas de mayor crecimiento en Lima, con varias sedes. Es reconocida por su tecnología de diagnóstico por imagen y sus programas de oncología y cardiología preventiva. Parte del grupo EsSalud-vinculado pero con operación privada independiente.

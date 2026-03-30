@@ -8,6 +8,7 @@ descripcion: "Clínica El Nazareno en Lima, institución hospitalaria privada co
 web: "https://www.clinicaelnazareno.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-el-nazareno-lima.png"
 ---
 
 Clínica El Nazareno en Lima, institución hospitalaria privada con presencia en distintos distritos de la capital peruana. Sus servicios de medicina interna y urgencias atienden a una amplia base de pacientes con precios accesibles. Con médicos especializados y atención personalizada para las familias limeñas.

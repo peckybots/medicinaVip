@@ -8,6 +8,7 @@ descripcion: "Hospital San Roque en Asunción, institución médica privada con 
 web: "https://www.hospitalsanroque.com.py"
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/hospital-san-roque-asuncion.png"
 ---
 
 Hospital San Roque en Asunción, institución médica privada con tradición en la capital paraguaya. Sus programas de cardiología y oncología son reconocidos en el sistema privado de salud paraguayo. Atiende a asegurados de las principales mutuales y compañías de seguros del país.

@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en el área oeste de Sevilla. Atiende a la e
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-infanta-luisa-sevilla.png"
 ---
 
 Hospital Quirónsalud en el área oeste de Sevilla. Atiende a la extensa población del Aljarafe sevillano con servicios hospitalarios de alta calidad. Sus instalaciones modernas y tecnología actualizada lo posicionan como referente de la salud privada en la zona.

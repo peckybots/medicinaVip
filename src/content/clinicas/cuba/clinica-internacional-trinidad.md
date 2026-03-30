@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 15
 featured: false
 draft: false
+imagen: "/images/clinicas/cuba/clinica-internacional-trinidad.png"
 ---
 
 Clínica internacional para extranjeros en La Habana, parte de la red de clínicas Servimed de Cuba. Ofrece atención médica básica y urgencias a visitantes internacionales con capacidad de derivación a los centros de alta especialidad.

@@ -13,6 +13,7 @@ fundacion: 1985
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-del-sol.png"
 ---
 
 Clínica del Sol es una institución privada consolidada en Buenos Aires que combina alta especialidad médica con servicios de bienestar y medicina preventiva. Reconocida por su atención personalizada y entorno confortable de nivel VIP.

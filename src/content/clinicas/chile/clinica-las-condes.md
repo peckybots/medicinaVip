@@ -13,6 +13,7 @@ fundacion: 1972
 camas: 560
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/clinica-las-condes.png"
 ---
 
 Clínica Las Condes es la mayor clínica privada de Chile en términos de especialidades y volumen de atención. Referente en oncología, cardiología y programa de fertilidad, con tecnología de diagnóstico de vanguardia. Figura consistentemente entre las tres mejores del país.

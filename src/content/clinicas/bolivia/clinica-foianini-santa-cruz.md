@@ -12,6 +12,7 @@ fundacion: 1955
 camas: 180
 featured: true
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-foianini-santa-cruz.png"
 ---
 
 Una de las clínicas privadas más completas de Bolivia, con el mayor número de especialidades médicas en el servicio de internación según la AEMP. Referente en cirugía de alta complejidad y atención especializada en el oriente boliviano.

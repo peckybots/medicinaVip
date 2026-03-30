@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Santa Bárbara, capital del depa
 web: "https://www.clinicasantabarbara.hn"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/clinica-santa-barbara-hn.png"
 ---
 
 Clínica privada de referencia en Santa Bárbara, capital del departamento homónimo en el occidente de Honduras. Atiende a la comunidad cafetalera y agrícola del occidente hondureño con servicios médicos accesibles. Sus servicios de urgencias y ginecología son fundamentales para la región.

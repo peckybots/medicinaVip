@@ -8,6 +8,7 @@ descripcion: "Centro Médico San Felipe en Tegucigalpa, institución médica pri
 web: "https://www.centromedicosanfelipe.hn"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/centro-medico-san-felipe-tegucigalpa.png"
 ---
 
 Centro Médico San Felipe en Tegucigalpa, institución médica privada especializada en cardiología y neurología. Con un equipo de subespecialistas de alto nivel, ofrece diagnóstico y tratamiento de enfermedades complejas. Sus programas de check-up ejecutivo son los más demandados de la capital hondureña.

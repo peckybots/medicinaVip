@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Bajo riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-altos-del-parana.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Bajo riesgo con internación simple en San Vicente, Misiones.

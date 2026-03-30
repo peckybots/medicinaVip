@@ -13,6 +13,7 @@ fundacion: 2002
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-universidad-andes.png"
 ---
 
 La Clínica Universidad de los Andes es el hospital académico privado de la Universidad de los Andes en Santiago. Referente en oncología integrada y fertilidad, con un modelo de atención que combina investigación clínica y tecnología de diagnóstico avanzada.

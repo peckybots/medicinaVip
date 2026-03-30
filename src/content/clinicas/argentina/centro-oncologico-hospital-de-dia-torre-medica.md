@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Centro trat
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-oncologico-hospital-de-dia-torre-medica.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Centro tratamientos oncológicos en Santa Rosa, La Pampa.

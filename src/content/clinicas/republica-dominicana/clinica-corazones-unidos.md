@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/clinica-corazones-unidos.png"
 ---
 
 Reconocida clínica privada en Santo Domingo especializada en cardiología y cirugía cardiovascular. Centro de referencia en enfermedades del corazón en la República Dominicana con equipamiento de diagnóstico moderno.

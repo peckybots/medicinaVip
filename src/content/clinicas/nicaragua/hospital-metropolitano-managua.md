@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/nicaragua/hospital-metropolitano-managua.png"
 ---
 
 Centro hospitalario privado en Managua que ofrece atención médico-quirúrgica de calidad a la población nicaragüense. Cuenta con instalaciones modernas y un equipo de especialistas con amplia experiencia clínica.

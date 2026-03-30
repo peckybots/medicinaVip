@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: "http://www.sandona.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-san-dona.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Godoy Cruz, Mendoza.

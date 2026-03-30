@@ -11,6 +11,7 @@ fundacion: 2003
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-parque.png"
 ---
 
 Otro centro del sistema Christus Muguerza en Monterrey que amplía la cobertura privada en el área metropolitana. Ofrece servicios completos con enfoque materno-infantil y urgencias 24 horas.

@@ -8,6 +8,7 @@ descripcion: "Uno de los hospitales privados más reconocidos de Venezuela, con 
 web: "https://www.clinicascaracas.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinicas-caracas.png"
 ---
 
 Uno de los hospitales privados más reconocidos de Venezuela, con décadas de trayectoria en Caracas. A pesar del contexto económico del país, mantiene sus estándares de atención médica especializada. Referente histórico de la medicina privada venezolana y destino de pacientes nacionales e internacionales.

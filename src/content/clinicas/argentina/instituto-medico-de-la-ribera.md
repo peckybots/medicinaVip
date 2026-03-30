@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-medico-de-la-ribera.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Ensenada, Buenos Aires.

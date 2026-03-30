@@ -13,6 +13,7 @@ fundacion: 1965
 camas: 185
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/clinica-el-rosario-medellin.png"
 ---
 
 Reconocida clínica privada de Medellín con más de 50 años de historia. Destaca por su servicio en cardiología intervencionista y cirugía cardiovascular, siendo una de las instituciones privadas más reconocidas del Valle de Aburrá.

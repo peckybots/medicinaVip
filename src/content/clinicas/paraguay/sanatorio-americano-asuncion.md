@@ -8,6 +8,7 @@ descripcion: "Sanatorio privado con enfoque americano en Asunción, capital de P
 web: "https://www.sanatorioamericano.com.py"
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/sanatorio-americano-asuncion.png"
 ---
 
 Sanatorio privado con enfoque americano en Asunción, capital de Paraguay. Ofrece servicios hospitalarios de calidad con personal bilingüe y cobertura de seguros internacionales. Es referente para la comunidad empresarial y expatriados en Paraguay.

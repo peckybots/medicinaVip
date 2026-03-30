@@ -8,6 +8,7 @@ descripcion: "Clínica Privada Vélez Sarsfield en Córdoba, institución hospit
 web: "https://www.clinicavsfeld.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-velez-sarsfield-cordoba.png"
 ---
 
 Clínica Privada Vélez Sarsfield en Córdoba, institución hospitalaria privada con larga trayectoria en la capital de la docta. Sus servicios de medicina interna y urgencias atienden a una amplia base de pacientes del sur de la ciudad. Con médicos especializados y atención de calidad para pacientes de distintas obras sociales y prepagas.

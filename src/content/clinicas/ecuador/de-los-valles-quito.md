@@ -8,6 +8,7 @@ descripcion: "Hospital de los Valles en Cumbayá, Quito, institución privada de
 web: "https://www.hospitaldelosvalles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/de-los-valles-quito.png"
 ---
 
 Hospital de los Valles en Cumbayá, Quito, institución privada de alta complejidad en el dinámico sector de los valles al este de la capital. Sus instalaciones de última generación y equipo médico de primer nivel atraen a pacientes del creciente sector residencial. Sus especialidades en cardiología y oncología son de referencia en Pichincha.

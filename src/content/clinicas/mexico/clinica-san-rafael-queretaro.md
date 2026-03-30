@@ -8,6 +8,7 @@ descripcion: "Clínica privada con especialización en salud femenina y maternid
 web: "https://www.clinicasanrafaelqro.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-san-rafael-queretaro.png"
 ---
 
 Clínica privada con especialización en salud femenina y maternidad en Querétaro. Sus programas de maternidad y ginecología son especialmente reconocidos en la dinámica ciudad del Bajío. El entorno acogedor y atención personalizada la hacen preferida para el cuidado de madres y recién nacidos.

@@ -12,6 +12,7 @@ fundacion: 2003
 camas: 160
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/clinica-bicentenario-concepcion.png"
 ---
 
 Principal clínica privada de la Región del Biobío, con amplia capacidad de resolución en múltiples especialidades médico-quirúrgicas. Referente de la salud privada en el sur de Chile.

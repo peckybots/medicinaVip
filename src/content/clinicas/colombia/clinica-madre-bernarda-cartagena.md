@@ -13,6 +13,7 @@ fundacion: 1970
 camas: 180
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/clinica-madre-bernarda-cartagena.png"
 ---
 
 Principal clínica privada de alta complejidad en Cartagena de Indias, acreditada por la ACHC. Atiende a pacientes locales, turistas e internacionales, siendo referente en la Costa Caribe colombiana.

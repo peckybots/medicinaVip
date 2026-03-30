@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Cehegín, 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-asilo-de-la-real-piedad-de-cehegin.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Cehegín, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

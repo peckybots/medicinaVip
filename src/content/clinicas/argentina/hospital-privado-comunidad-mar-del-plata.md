@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Mar del Plata, la ciudad balnear
 web: "https://www.hpc.org.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-comunidad-mar-del-plata.png"
 ---
 
 Hospital privado de referencia en Mar del Plata, la ciudad balnearia más importante de Argentina. Sus programas de cardiología y oncología son los más reconocidos de la ciudad. Atiende a residentes permanentes y turistas durante la temporada estival con servicios de alta calidad.

@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/panama/centro-medico-paitilla.png"
 ---
 
 Uno de los hospitales privados más reconocidos y consolidados de Panamá, ubicado en el exclusivo sector de Paitilla. Referente de la medicina privada panameña con amplia cobertura de especialidades y acceso a seguros nacionales e internacionales.

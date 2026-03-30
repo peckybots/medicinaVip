@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/centro-medico-san-judas-tadeo.png"
 ---
 
 Centro médico privado en Ciudad de Panamá reconocido por su atención integral y accesible. Parte del sistema de salud privado con amplia cobertura de especialidades y servicios de urgencias 24 horas.

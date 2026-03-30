@@ -8,6 +8,7 @@ descripcion: "Hospitales de salud mental y tratamiento de toxicomanías privado 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-san-rafael.png"
 ---
 
 Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

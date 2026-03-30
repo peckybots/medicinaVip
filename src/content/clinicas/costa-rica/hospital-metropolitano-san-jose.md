@@ -13,6 +13,7 @@ fundacion: 2005
 camas: 100
 featured: true
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-metropolitano-san-jose.png"
 ---
 
 Hospital privado moderno con un destacado Centro de Cáncer y Hematología que brinda atención integral al paciente oncológico. Reconocido por su enfoque de alta especialidad y tecnología de vanguardia en San José.

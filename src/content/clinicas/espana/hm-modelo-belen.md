@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Coruña, A, A Coruña (Gal
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hm-modelo-belen.png"
 ---
 
 Hospitales Generales privado ubicado en Coruña, A, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

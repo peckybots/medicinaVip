@@ -8,6 +8,7 @@ descripcion: "Parte de la cadena Médica Americana de Calidad (MAC) en San Luis 
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mac-san-luis-potosi.png"
 ---
 
 Parte de la cadena Médica Americana de Calidad (MAC) en San Luis Potosí. Ofrece servicios hospitalarios con estándares de calidad certificados a precios competitivos. Es referente de la red MAC en la región del altiplano central mexicano.

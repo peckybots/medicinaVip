@@ -8,6 +8,7 @@ descripcion: "Clínica de alta especialidad en Medellín con fuerte enfoque en t
 web: "https://www.clinicalasvegasmed.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-las-vegas-medellin.png"
 ---
 
 Clínica de alta especialidad en Medellín con fuerte enfoque en turismo médico. Sus programas de cirugía bariátrica y oncología atraen a pacientes internacionales. Con personal bilingüe y precios competitivos, es referente del turismo médico en Medellín.

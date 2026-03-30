@@ -13,6 +13,7 @@ fundacion: 1917
 camas: 600
 featured: true
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-luis-vernaza.png"
 ---
 
 Hospital histórico de Guayaquil administrado por la Junta de Beneficencia, que combina el carácter privado con el social. Reconocido entre los mejores hospitales de Ecuador por la ACHPE, con alta capacidad resolutiva y tradición.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.asistir.net"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/s-a-n-a-centro-medico.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en 3A. Seccion, Mendoza.

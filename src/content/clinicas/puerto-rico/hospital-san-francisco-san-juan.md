@@ -12,6 +12,7 @@ fundacion: 1972
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/puerto-rico/hospital-san-francisco-san-juan.png"
 ---
 
 Hospital privado consolidado en San Juan con amplia cobertura de especialidades médico-quirúrgicas. Parte del sistema de salud privado de Puerto Rico con cobertura de los principales planes médicos.

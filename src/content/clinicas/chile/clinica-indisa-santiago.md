@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 220
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-indisa-santiago.png"
 ---
 
 Clínica privada de referencia en el sector norponiente de Santiago con servicios completos de hospitalización y urgencias. Parte de la oferta privada de calidad para la comunidad metropolitana con acceso a múltiples especialistas.

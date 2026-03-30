@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en la capital del estado de Durango
 web: "https://www.hospitaljuica.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-juica-durango.png"
 ---
 
 Hospital privado de referencia en la capital del estado de Durango. Atiende a la población del noroeste mexicano con servicios hospitalarios de calidad. Sus especialidades de cardiología y medicina interna son reconocidas en la región serrana.

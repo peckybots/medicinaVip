@@ -11,6 +11,7 @@ fundacion: 1990
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-asepeyo-madrid.png"
 ---
 
 Hospital privado especializado en traumatología, ortopedia y rehabilitación en Madrid. Referente en accidentes de trabajo y patología del aparato locomotor en España, con modernas instalaciones quirúrgicas.

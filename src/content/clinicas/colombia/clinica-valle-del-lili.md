@@ -13,6 +13,7 @@ fundacion: 1982
 camas: 490
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/clinica-valle-del-lili.png"
 ---
 
 Centro de referencia nacional e internacional para trasplantes y oncología en Colombia. Fue la primera institución latinoamericana en recibir la certificación de la JCI, y es reconocida consistentemente como uno de los mejores hospitales de América Latina.

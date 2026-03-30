@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Madrid, Madrid 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-de-la-v-o-t-de-san-francisco-de-asis.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

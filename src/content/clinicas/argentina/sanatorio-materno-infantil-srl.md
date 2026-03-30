@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://guemesace.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-materno-infantil-srl.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Resistencia, Chaco.

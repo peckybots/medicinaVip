@@ -8,6 +8,7 @@ descripcion: "Clínica Baviera en Alicante, atendiendo a una de las mayores conc
 web: "https://www.clinica-baviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-baviera-alicante.png"
 ---
 
 Clínica Baviera en Alicante, atendiendo a una de las mayores concentraciones de expatriados europeos de España. Sus servicios oftalmológicos en múltiples idiomas atienden a la comunidad inglesa, alemana y escandinava de la Costa Blanca. Referente en cirugía refractiva y de cataratas en la provincia alicantina.

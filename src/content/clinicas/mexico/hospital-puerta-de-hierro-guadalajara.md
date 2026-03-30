@@ -13,6 +13,7 @@ fundacion: 2005
 camas: 130
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-puerta-de-hierro-guadalajara.png"
 ---
 
 Principal hospital del Grupo Puerta de Hierro en Guadalajara, reconocido entre los mejores del occidente de México. Con tecnología de punta y especialistas de alta formación, es referente en cirugía cardiovascular y oncología en Jalisco.

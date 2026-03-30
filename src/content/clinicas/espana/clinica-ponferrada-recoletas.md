@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Ponferrada, León (Castill
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-ponferrada-recoletas.png"
 ---
 
 Hospitales Generales privado ubicado en Ponferrada, León (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.

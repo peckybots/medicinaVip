@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Guadalajara con décadas de pres
 web: "https://www.hospitalterranova.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-terranova-guadalajara.png"
 ---
 
 Hospital privado de referencia en Guadalajara con décadas de presencia en la capital jalisciense. Ofrece servicios hospitalarios integrales con personal médico certificado. Sus especialidades de cirugía y ortopedia son reconocidas en el occidente de México.

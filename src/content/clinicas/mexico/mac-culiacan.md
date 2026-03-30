@@ -8,6 +8,7 @@ descripcion: "Hospital MAC en Culiacán, parte de la red de hospitales de Alta C
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/mac-culiacan.png"
 ---
 
 Hospital MAC en Culiacán, parte de la red de hospitales de Alta Complejidad en el noroeste de México. Sus servicios quirúrgicos y de ginecología tienen alta demanda entre la población sinaloense. Con tecnología diagnóstica avanzada y habitaciones hospitalarias de confort.

@@ -13,6 +13,7 @@ fundacion: 1948
 camas: 300
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-guemes.png"
 ---
 
 El Sanatorio Güemes es uno de los sanatorios privados de mayor renombre de Buenos Aires. Con historia ligada al Dr. René Favaloro, es reconocido por su cirugía cardiovascular y oncología. Atiende pacientes de alta complejidad en el corazón de la ciudad.

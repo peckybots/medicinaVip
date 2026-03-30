@@ -8,6 +8,7 @@ descripcion: "Hospital Star Médica en la Ciudad de México, sede central de est
 web: "https://www.starmedica.com/cdmx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/star-medica-cdmx.png"
 ---
 
 Hospital Star Médica en la Ciudad de México, sede central de esta cadena hospitalaria nacional. Sus instalaciones modernas en el Pedregal ofrecen servicios de alta especialidad con tecnología de punta. El programa de oncología integral y la unidad de cuidados intensivos son especialmente reconocidos.

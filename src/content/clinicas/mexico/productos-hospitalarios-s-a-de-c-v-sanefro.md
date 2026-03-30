@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Irapuato, GUANAJUATO, México. Establec
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/productos-hospitalarios-s-a-de-c-v-sanefro.png"
 ---
 
 Clinica privada ubicada en Irapuato, GUANAJUATO, México. Establecimiento de salud registrado en CLUES.

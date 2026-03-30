@@ -12,6 +12,7 @@ fundacion: 1954
 camas: 125
 featured: true
 draft: false
+imagen: "/images/clinicas/puerto-rico/hospital-san-jorge-children.png"
 ---
 
 El principal hospital privado pediátrico de Puerto Rico, reconocido por sus servicios especializados en salud infantil. Ofrece atención integral para niños desde recién nacidos hasta adolescentes con tecnología pediátrica de última generación.

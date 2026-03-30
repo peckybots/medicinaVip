@@ -8,6 +8,7 @@ descripcion: "Clínica San Pedro Claver en Bogotá, institución hospitalaria pr
 web: "https://www.cajacopiasanpedro.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-san-pedro-claver.png"
 ---
 
 Clínica San Pedro Claver en Bogotá, institución hospitalaria privada con sólida trayectoria en el sistema de salud colombiano. Sus servicios de medicina interna y urgencias atienden a una amplia población de la capital. Con equipo médico certificado y atención de calidad para pacientes de distintos planes de salud.

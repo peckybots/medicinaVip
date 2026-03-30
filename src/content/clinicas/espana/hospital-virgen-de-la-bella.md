@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Lepe, Huelva (Andalucía),
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-virgen-de-la-bella.png"
 ---
 
 Hospitales Generales privado ubicado en Lepe, Huelva (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

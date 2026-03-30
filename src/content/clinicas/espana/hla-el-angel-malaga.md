@@ -8,6 +8,7 @@ descripcion: "Hospital HLA El Ángel en Málaga, con larga tradición en la aten
 web: "https://www.grupohla.com/el-angel-malaga"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hla-el-angel-malaga.png"
 ---
 
 Hospital HLA El Ángel en Málaga, con larga tradición en la atención sanitaria de la capital de la Costa del Sol. Sus servicios hospitalarios atienden a una ciudad en plena expansión demográfica y económica. Instalaciones renovadas y equipo médico especializado en las principales áreas clínicas.

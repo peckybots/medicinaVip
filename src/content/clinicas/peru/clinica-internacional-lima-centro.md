@@ -8,6 +8,7 @@ descripcion: "Sede central de la Clínica Internacional en el corazón de Lima. 
 web: "https://www.clinicainternacional.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-internacional-lima-centro.png"
 ---
 
 Sede central de la Clínica Internacional en el corazón de Lima. Con más de 100 años de historia, es una de las instituciones privadas de salud más tradicionales del Perú. Sus servicios integrales y personal especializado la mantienen como referente de la medicina privada en Lima.

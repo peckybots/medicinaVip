@@ -8,6 +8,7 @@ descripcion: "Clínica especializada en medicina interna y check-up ejecutivo en
 web: "https://www.clinicamora.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/clinica-mora-guatemala.png"
 ---
 
 Clínica especializada en medicina interna y check-up ejecutivo en Ciudad de Guatemala. Con un equipo de internistas y cardiólogos de alto nivel, ofrece programas personalizados de medicina preventiva. Sus check-ups ejecutivos son demandados por la comunidad empresarial guatemalteca.

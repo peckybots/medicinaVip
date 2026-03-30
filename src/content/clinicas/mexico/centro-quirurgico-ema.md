@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimi
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-quirurgico-ema.png"
 ---
 
 Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.

@@ -8,6 +8,7 @@ descripcion: "Clínica San José en la zona sur de Santiago, brindando servicios
 web: "https://www.clinicasanjosesantiago.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/san-jose-santiago.png"
 ---
 
 Clínica San José en la zona sur de Santiago, brindando servicios de salud privada accesibles a las familias del sector. Sus instalaciones cómodas y equipo médico comprometido garantizan una atención de calidad. Con urgencias las 24 horas y hospitalización, atiende a la comunidad del sur capitalino.

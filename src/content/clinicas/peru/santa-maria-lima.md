@@ -8,6 +8,7 @@ descripcion: "Clínica Santa María en Lima, institución privada con amplia cob
 web: "https://www.clinicasantamaria.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/santa-maria-lima.png"
 ---
 
 Clínica Santa María en Lima, institución privada con amplia cobertura en la capital peruana. Sus servicios de ginecología y medicina interna son especialmente valorados. Con instalaciones cómodas y equipo médico comprometido, brinda atención de calidad a las familias limeñas.

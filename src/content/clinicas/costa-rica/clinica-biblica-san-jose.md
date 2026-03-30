@@ -8,6 +8,7 @@ descripcion: "Una de las instituciones médicas privadas más antiguas y reconoc
 web: "https://www.clinicabiblica.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/clinica-biblica-san-jose.png"
 ---
 
 Una de las instituciones médicas privadas más antiguas y reconocidas de Costa Rica. Fundada en 1929, combina una larga tradición de excelencia médica con tecnología actualizada. Sus programas de oncología y cardiología son referentes en el sistema de salud privado costarricense.

@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles México en la Colonia Doctores, uno de los hospi
 web: "https://www.hospitalesangeles.com/mexico"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-mexico.png"
 ---
 
 Hospital Ángeles México en la Colonia Doctores, uno de los hospitales de alta especialidad del Grupo Ángeles. Sus programas de cirugía cardiovascular y neurología son de los más reconocidos en la Ciudad de México. Complementa la red hospitalaria del grupo con servicios de segunda opinión y alta complejidad.

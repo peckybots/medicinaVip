@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/fundacion-centro-90-dias-pm-2486-hospital-de-dia.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Moreno, Buenos Aires.

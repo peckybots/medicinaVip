@@ -13,6 +13,7 @@ fundacion: 1999
 camas: 195
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-valencia.png"
 ---
 
 Uno de los hospitales privados más reconocidos de la Comunitat Valenciana, parte del grupo Quirónsalud. Figura en el top 20 de hospitales privados de España y es referente de atención privada de alta calidad en Valencia.

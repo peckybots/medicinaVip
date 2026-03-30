@@ -12,6 +12,7 @@ fundacion: 2010
 camas: 60
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-star-medica-cancun.png"
 ---
 
 Hospital privado de la red Star Médica en Cancún, diseñado para atender tanto a residentes locales como a turistas nacionales e internacionales. Cuenta con personal bilingüe y tecnología de diagnóstico avanzada.

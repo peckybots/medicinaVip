@@ -8,6 +8,7 @@ descripcion: "Institut Universitari Dexeus en Barcelona, el centro de ginecolog�
 web: "https://www.dexeus.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-dexeus-universitari.png"
 ---
 
 Institut Universitari Dexeus en Barcelona, el centro de ginecología y reproducción asistida más reconocido de España con más de 90 años de historia. Su tradición en obstetricia y ginecología de alta especialidad lo convierte en referente europeo. Sus servicios de FIV y diagnóstico genético atraen a pacientes de todo el mundo.

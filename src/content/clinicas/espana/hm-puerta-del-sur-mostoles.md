@@ -8,6 +8,7 @@ descripcion: "Hospital de la red HM Hospitales en Móstoles, atendiendo a la gra
 web: "https://www.hmhospitales.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hm-puerta-del-sur-mostoles.png"
 ---
 
 Hospital de la red HM Hospitales en Móstoles, atendiendo a la gran población del sur de Madrid. Ofrece servicios hospitalarios integrales con tecnología de última generación. Su unidad de cardiología es especialmente reconocida en la comunidad madrileña.

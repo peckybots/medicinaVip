@@ -13,6 +13,7 @@ fundacion: 1978
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-general-del-norte-barranquilla.png"
 ---
 
 Importante institución privada en el norte de Barranquilla con amplia cobertura de especialidades médico-quirúrgicas. Referente en la atención de urgencias y hospitalización en el Atlántico.

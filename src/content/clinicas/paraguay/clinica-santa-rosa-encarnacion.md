@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Encarnación, capital del depart
 web: "https://www.clinicasantarosa.com.py"
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/clinica-santa-rosa-encarnacion.png"
 ---
 
 Clínica privada de referencia en Encarnación, capital del departamento de Itapúa y principal ciudad del sur paraguayo. Atiende a la comunidad del sur del país con servicios hospitalarios de calidad. Sus servicios de urgencias y cirugía son fundamentales para la activa comunidad encarnacena.

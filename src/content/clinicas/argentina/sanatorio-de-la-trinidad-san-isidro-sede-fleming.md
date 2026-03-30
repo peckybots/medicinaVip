@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-de-la-trinidad-san-isidro-sede-fleming.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en San Isidro, Buenos Aires.

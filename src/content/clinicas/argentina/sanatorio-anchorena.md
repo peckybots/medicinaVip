@@ -8,6 +8,7 @@ descripcion: "El Sanatorio Anchorena en el barrio de San Telmo es una instituci�
 web: "https://www.anchorena.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-anchorena.png"
 ---
 
 El Sanatorio Anchorena en el barrio de San Telmo es una institución médica histórica de Buenos Aires. Con más de 100 años atendiendo a los porteños, es referente en cirugía cardiovascular y trasplante de órganos. Sus programas de cardiología intervencionista son de los más reconocidos de Argentina.

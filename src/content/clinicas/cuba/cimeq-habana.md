@@ -8,6 +8,7 @@ descripcion: "Centro de alta tecnología médica dedicado a la investigación y 
 web: "https://www.cimeq.sld.cu"
 featured: false
 draft: false
+imagen: "/images/clinicas/cuba/cimeq-habana.png"
 ---
 
 Centro de alta tecnología médica dedicado a la investigación y el tratamiento de enfermedades complejas en Cuba. Reconocido por sus programas de cardiología y trasplante de órganos de clase mundial. Referente de la medicina cubana de vanguardia para pacientes nacionales e internacionales.

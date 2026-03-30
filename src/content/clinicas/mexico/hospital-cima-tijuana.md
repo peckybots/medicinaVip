@@ -11,6 +11,7 @@ fundacion: 2006
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-cima-tijuana.png"
 ---
 
 Hospital privado en Tijuana orientado al turismo médico fronterizo. Atiende pacientes mexicoamericanos y estadounidenses que buscan procedimientos quirúrgicos de calidad a precios accesibles en la frontera norte.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://www.clinicabanfield.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-privada-neuropsiquiatrica-banfield.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Banfield, Buenos Aires.

@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/servicio-medico-de-corta-estancia-sc.png"
 ---
 
 Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

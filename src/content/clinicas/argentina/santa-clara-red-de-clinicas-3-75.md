@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://redsantaclara.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/santa-clara-red-de-clinicas-3-75.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Godoy Cruz, Mendoza.

@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Rionegro, municipio del oriente 
 web: "https://www.clinicarionegro.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-rionegro.png"
 ---
 
 Clínica privada de referencia en Rionegro, municipio del oriente antioqueño próximo al Aeropuerto Internacional José María Córdova. Atiende a la comunidad del oriente antioqueño y a la gran actividad logística y empresarial de la zona. Sus servicios de urgencias y cirugía son especialmente valorados.

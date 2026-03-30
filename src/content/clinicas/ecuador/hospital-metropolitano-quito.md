@@ -8,6 +8,7 @@ descripcion: "Uno de los hospitales privados más completos y reconocidos de Ecu
 web: "https://www.hmetro.med.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-metropolitano-quito.png"
 ---
 
 Uno de los hospitales privados más completos y reconocidos de Ecuador. Con tecnología de última generación, es referente en oncología y cirugía robótica en el país. Sus certificaciones internacionales y equipo médico de excelencia lo posicionan como el mejor hospital privado ecuatoriano.

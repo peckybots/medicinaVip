@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Oviedo, Asturias (Ppdo. de
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centro-medico-de-asturias.png"
 ---
 
 Hospitales Generales privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

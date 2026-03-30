@@ -13,6 +13,7 @@ fundacion: 1972
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hla-vistahermosa-alicante.png"
 ---
 
 El HLA Vistahermosa es el hospital privado de referencia en Alicante y uno de los mejores del Levante español según rankings nacionales. Con instalaciones modernas, figura entre los 15 mejores hospitales privados de España en el ranking MRS de reputación médica.

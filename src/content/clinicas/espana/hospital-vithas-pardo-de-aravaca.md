@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-vithas-pardo-de-aravaca.png"
 ---
 
 Hospital privado Vithas en Madrid especializado en neurología y rehabilitación. Referente en la atención de patologías neurológicas complejas y rehabilitación post-ictus en el área metropolitana de Madrid.

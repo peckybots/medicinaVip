@@ -12,6 +12,7 @@ fundacion: 1935
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-oca-monterrey.png"
 ---
 
 Hospital privado reconocido en Monterrey, perteneciente a la Congregación de Religiosas de la Purísima Concepción. Con décadas de servicio en el área metropolitana de Monterrey ofreciendo atención de calidad.

@@ -12,6 +12,7 @@ fundacion: 1950
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-pichincha-quito.png"
 ---
 
 Una de las clínicas privadas más emblemáticas de Quito con más de 70 años de historia. Centro de referencia nacional en múltiples especialidades médico-quirúrgicas, reconocida por su excelencia y tradición en la atención de salud privada ecuatoriana.

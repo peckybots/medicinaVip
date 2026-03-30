@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Lugo, Lugo (Galicia), Espa
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-ribera-polusa.png"
 ---
 
 Hospitales Generales privado ubicado en Lugo, Lugo (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

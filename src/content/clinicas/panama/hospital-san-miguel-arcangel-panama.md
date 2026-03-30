@@ -12,6 +12,7 @@ fundacion: 2000
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/hospital-san-miguel-arcangel-panama.png"
 ---
 
 Hospital con perfil social y privado en Ciudad de Panamá que brinda atención médica de calidad accesible. Reconocido por su trabajo comunitario y la calidad de sus servicios hospitalarios en la capital panameña.

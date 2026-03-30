@@ -13,6 +13,7 @@ fundacion: 1929
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-clinica-biblica.png"
 ---
 
 Con más de 90 años de historia, es uno de los hospitales privados más reconocidos y respetados de Costa Rica. Referente histórico de la medicina privada costarricense, con altos estándares de calidad y amplio equipo de especialistas internacionales.

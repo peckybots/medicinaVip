@@ -8,6 +8,7 @@ descripcion: "Hospital privado de alta especialidad en el norte de Rosario, la t
 web: "https://www.hospitalprivadorosarionorte.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-rosario-norte.png"
 ---
 
 Hospital privado de alta especialidad en el norte de Rosario, la tercera ciudad argentina. Sus programas de cardiología y oncología atienden a los residentes del norte rosarino y el Gran Rosario. Con instalaciones modernas y convenios con las principales prepagas del mercado rosarino.

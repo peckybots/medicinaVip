@@ -8,6 +8,7 @@ descripcion: "La Clínica San Gabriel en San Miguel, Lima, es una institución m
 web: "https://www.clinicasangabriel.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-gabriel-lima.png"
 ---
 
 La Clínica San Gabriel en San Miguel, Lima, es una institución médica privada de referencia para Lima Oeste. Con instalaciones modernas y equipo de especialistas certificados. Sus programas de cardiología y urgencias son especialmente valorados por los asegurados de la zona oeste de Lima.

@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en San Pedro 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-de-cuidados-medios-villademar.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en San Pedro del Pinatar, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

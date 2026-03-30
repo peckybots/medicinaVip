@@ -8,6 +8,7 @@ descripcion: "Centro Médico Imbanaco en Cali, uno de los hospitales privados m�
 web: "https://www.imbanaco.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/centro-medico-imbanaco-cali.png"
 ---
 
 Centro Médico Imbanaco en Cali, uno de los hospitales privados más reconocidos de Colombia y América Latina. Su programa de trasplantes y sus servicios oncológicos y cardiológicos son referentes nacionales e internacionales. Con acreditación Joint Commission Internacional, es destino de turismo médico del Pacífico colombiano y países vecinos.

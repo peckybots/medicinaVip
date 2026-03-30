@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Christus Muguerza ubicado en la zona sur metrop
 web: "https://www.christusmuguerza.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-sur-monterrey.png"
 ---
 
 Hospital de la red Christus Muguerza ubicado en la zona sur metropolitana de Monterrey. Brinda atención de urgencias 24 horas y servicios hospitalarios completos. Ideal para residentes de la zona sur del área metropolitana.

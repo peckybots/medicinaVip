@@ -11,6 +11,7 @@ fundacion: 1956
 camas: 300
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/hospital-universitario-del-valle.png"
 ---
 
 Importante institución de salud en Cali con atención de alta complejidad. Referente docente-asistencial del suroccidente de Colombia con amplia cobertura de especialidades y una larga trayectoria en la formación médica universitaria.

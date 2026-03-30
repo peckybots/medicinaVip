@@ -8,6 +8,7 @@ descripcion: "Vidaintegra es la red de centros médicos ambulatorios privados m�
 web: "https://www.vidaintegra.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/vidaintegra-santiago.png"
 ---
 
 Vidaintegra es la red de centros médicos ambulatorios privados más extensa del Gran Santiago, con múltiples sedes en la zona centro. Especializada en medicina preventiva y atención ambulatoria de alta calidad, es referente en consultas externas y diagnóstico temprano para asegurados de Isapres. Sus programas de checkup ejecutivo y medicina preventiva son los más accesibles del mercado privado capitalino.

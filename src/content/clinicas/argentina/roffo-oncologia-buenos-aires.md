@@ -8,6 +8,7 @@ descripcion: "Instituto público-privado especializado en oncología en Buenos A
 web: "https://www.roffo.uba.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/roffo-oncologia-buenos-aires.png"
 ---
 
 Instituto público-privado especializado en oncología en Buenos Aires, referente histórico del tratamiento del cáncer en Argentina. Con más de 90 años de historia, combina investigación científica con atención oncológica especializada. Sus programas de radioterapia y quimioterapia son los más reconocidos del país.

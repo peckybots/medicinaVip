@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-santa-clara-quilmes.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Don Bosco, Buenos Aires.

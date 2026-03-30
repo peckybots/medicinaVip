@@ -8,6 +8,7 @@ descripcion: "Hospital privado de alta especialidad en Tegucigalpa, capital de H
 web: "https://www.hospitalviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/clinica-viera-tegucigalpa.png"
 ---
 
 Hospital privado de alta especialidad en Tegucigalpa, capital de Honduras. Sus programas de oncología y cardiología son reconocidos como referentes en el sistema de salud privado hondureño. Con décadas de trayectoria, es una institución consolidada en la medicina privada capitalina.

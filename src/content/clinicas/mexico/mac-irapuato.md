@@ -8,6 +8,7 @@ descripcion: "Hospital MAC en Irapuato, municipio agroindustrial de Guanajuato. 
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/mac-irapuato.png"
 ---
 
 Hospital MAC en Irapuato, municipio agroindustrial de Guanajuato. Con instalaciones modernas y personal especializado, atiende las necesidades de salud privada de los trabajadores del corredor industrial de la región. Sus servicios de urgencias 24 horas son valorados en la comunidad.

@@ -8,6 +8,7 @@ descripcion: "Unidad hospitalaria de la marca Médica Sur en Xochimilco, al sur 
 web: "https://www.medicasur.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/medica-sur-xochimilco.png"
 ---
 
 Unidad hospitalaria de la marca Médica Sur en Xochimilco, al sur de Ciudad de México. Extiende los servicios del grupo al sector sur de la capital con atención especializada accesible. Sus instalaciones modernas atienden a la creciente población de las delegaciones sureñas.

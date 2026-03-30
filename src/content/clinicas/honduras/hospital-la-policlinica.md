@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/hospital-la-policlinica.png"
 ---
 
 Hospital privado bien establecido en Tegucigalpa con servicios completos de hospitalización y urgencias. Ofrece atención médico-quirúrgica de calidad con amplia cobertura de especialidades para la población capitalina.

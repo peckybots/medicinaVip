@@ -8,6 +8,7 @@ descripcion: "Clínica Cruz Azul en León, la ciudad universitaria y cultural de
 web: "https://www.clinicacruzazul.com.ni"
 featured: false
 draft: false
+imagen: "/images/clinicas/nicaragua/clinica-cruz-azul-leon.png"
 ---
 
 Clínica Cruz Azul en León, la ciudad universitaria y cultural de Nicaragua. Atiende a la numerosa comunidad estudiantil y a los residentes de la región del Pacífico Norte nicaragüense. Sus servicios de urgencias y medicina general son esenciales para la activa comunidad leonesa.

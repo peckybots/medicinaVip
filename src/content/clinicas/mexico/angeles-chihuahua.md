@@ -13,6 +13,7 @@ fundacion: 2000
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-chihuahua.png"
 ---
 
 Parte de la red Hospitales Ángeles, líder regional en el noreste de México según ranking FUNSALUD 2024. Referencia en cardiología intervencionista y oncología para la región norte del país.

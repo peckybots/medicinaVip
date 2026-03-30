@@ -8,6 +8,7 @@ descripcion: "El Hospital Arturo Grullón en Santiago es el principal centro onc
 web: "https://www.grullon.org.do"
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/hospital-arturo-grullon.png"
 ---
 
 El Hospital Arturo Grullón en Santiago es el principal centro oncológico pediátrico de República Dominicana. Con programas de leucemia y tumores sólidos infantiles reconocidos internacionalmente. Es referente de la oncología pediátrica para todo el Caribe hispanohablante.

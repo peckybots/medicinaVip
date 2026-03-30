@@ -8,6 +8,7 @@ descripcion: "La Clínica San Luis es la institución médica privada de mayor r
 web: "https://www.clinicasanluis.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-san-luis-bucaramanga.png"
 ---
 
 La Clínica San Luis es la institución médica privada de mayor referencia en Bucaramanga y el nororiente colombiano. Sus programas de cardiología y oncología atienden a pacientes de Santander, Norte de Santander y los Llanos Orientales. Referente de alta complejidad para toda la región del nororiente colombiano.

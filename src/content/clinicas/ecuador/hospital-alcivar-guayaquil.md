@@ -12,6 +12,7 @@ fundacion: 1937
 camas: 180
 featured: true
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-alcivar-guayaquil.png"
 ---
 
 Con más de 85 años de historia, Hospital Alcívar es un referente de la medicina moderna en Guayaquil. Ofrece atención de alta complejidad en múltiples especialidades y es uno de los hospitales privados más tradicionales del Ecuador.

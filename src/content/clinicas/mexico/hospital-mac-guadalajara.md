@@ -8,6 +8,7 @@ descripcion: "Hospital MAC en Guadalajara, parte de la cadena de hospitales de m
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mac-guadalajara.png"
 ---
 
 Hospital MAC en Guadalajara, parte de la cadena de hospitales de mediana complejidad con presencia en múltiples ciudades de México. Ofrece servicios hospitalarios de calidad a precios más accesibles que los grandes hospitales privados. Sus quirófanos y área de hospitalización atienden a pacientes del área metropolitana tapatía.

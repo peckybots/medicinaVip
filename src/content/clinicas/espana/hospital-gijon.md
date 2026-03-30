@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Gijón, As
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-gijon.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Gijón, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

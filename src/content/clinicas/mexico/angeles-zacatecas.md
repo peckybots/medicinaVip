@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en Zacatecas, capital del estado minero más imp
 web: "https://www.hospitalesangeles.com/zacatecas"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-zacatecas.png"
 ---
 
 Hospital Ángeles en Zacatecas, capital del estado minero más importante de México con ciudad histórica Patrimonio de la Humanidad. Primera opción de salud privada de calidad internacional en la capital zacatecana. Atiende a residentes y turistas que visitan este bello destino colonial del altiplano mexicano.

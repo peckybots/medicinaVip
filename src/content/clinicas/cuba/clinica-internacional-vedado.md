@@ -12,6 +12,7 @@ fundacion: 1990
 camas: 20
 featured: false
 draft: false
+imagen: "/images/clinicas/cuba/clinica-internacional-vedado.png"
 ---
 
 Clínica internacional del sistema Servimed en el exclusivo barrio de El Vedado en La Habana. Atiende turistas extranjeros y diplomáticos con servicios de urgencias 24 horas, consultas especializadas y diagnóstico de imagen.

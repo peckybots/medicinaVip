@@ -13,6 +13,7 @@ fundacion: 2010
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-barcelona.png"
 ---
 
 Hospital universitario privado de Quirónsalud en Barcelona, uno de los mejores del país. Integra asistencia, docencia e investigación en un modelo universitario de excelencia con más de 50 especialidades disponibles.

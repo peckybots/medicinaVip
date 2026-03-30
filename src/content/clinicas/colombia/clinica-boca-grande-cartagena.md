@@ -13,6 +13,7 @@ fundacion: 1970
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-boca-grande-cartagena.png"
 ---
 
 La Clínica Bocagrande es la principal institución privada de Cartagena, ciudad de alto turismo médico. Brinda atención de alta especialidad con servicios premium orientados también al turismo médico internacional, incluyendo cirugía plástica y medicina estética de alto nivel.

@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en el norte de Madrid, especializado en traumatolo
 web: "https://www.vithas.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-arturo-soria-madrid.png"
 ---
 
 Hospital Vithas en el norte de Madrid, especializado en traumatología y ortopedia. Referente en la red Vithas para procedimientos de rodilla, cadera y columna vertebral. Su equipo de cirujanos ortopédicos es reconocido a nivel nacional e internacional.

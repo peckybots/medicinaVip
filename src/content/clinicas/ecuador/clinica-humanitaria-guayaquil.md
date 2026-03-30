@@ -8,6 +8,7 @@ descripcion: "Clínica privada con valores humanísticos en Guayaquil con amplia
 web: "https://www.clinicahumanitaria.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-humanitaria-guayaquil.png"
 ---
 
 Clínica privada con valores humanísticos en Guayaquil con amplia tradición de servicio comunitario. Con programas sociales de salud accesible, atiende a sectores de la población guayaquileña de diversos niveles. Sus servicios de urgencias y medicina interna son muy demandados.

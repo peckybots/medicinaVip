@@ -8,6 +8,7 @@ descripcion: "Hospital Clínica San Francisco en Guayaquil, referente de la medi
 web: "https://www.hcsf.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-san-francisco-guayaquil.png"
 ---
 
 Hospital Clínica San Francisco en Guayaquil, referente de la medicina privada en la capital económica de Ecuador. Sus programas de cardiología intervencionista y oncología son reconocidos en toda la región costera. Atiende a asegurados de las principales compañías de seguros del mercado ecuatoriano.

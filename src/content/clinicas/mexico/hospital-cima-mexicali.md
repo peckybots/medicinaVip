@@ -8,6 +8,7 @@ descripcion: "Hospital CIMA en Mexicali, capital de Baja California y ciudad fro
 web: "https://www.cimahospitales.com/mexicali"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-cima-mexicali.png"
 ---
 
 Hospital CIMA en Mexicali, capital de Baja California y ciudad fronteriza con Calexico, California. Sus servicios atraen a pacientes de ambos lados de la frontera que buscan atención médica de calidad a precios competitivos. El turismo médico fronterizo es una de las principales fuentes de pacientes de este hospital.

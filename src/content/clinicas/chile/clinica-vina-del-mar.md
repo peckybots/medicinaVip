@@ -8,6 +8,7 @@ descripcion: "Clínica Viña del Mar, institución privada consolidada en la Ciu
 web: "https://www.clinicaviñadelmar.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-vina-del-mar.png"
 ---
 
 Clínica Viña del Mar, institución privada consolidada en la Ciudad Jardín con décadas de servicio. Sus servicios hospitalarios completos atienden a los residentes de Viña y turistas de la región. Con atención de urgencias las 24 horas y especialistas en múltiples áreas, es referente de la salud privada local.

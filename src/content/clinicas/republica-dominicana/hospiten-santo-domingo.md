@@ -13,6 +13,7 @@ fundacion: 2005
 camas: 120
 featured: true
 draft: false
+imagen: "/images/clinicas/republica-dominicana/hospiten-santo-domingo.png"
 ---
 
 Parte de la cadena internacional Hospiten, líder en hospitales privados del Mediterráneo y el Caribe. Ubicado en la capital dominicana, ofrece atención médica de primer nivel con personal bilingüe y acceso a seguros internacionales.

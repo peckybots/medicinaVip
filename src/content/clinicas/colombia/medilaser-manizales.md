@@ -8,6 +8,7 @@ descripcion: "Clínica Medilaser en Manizales, capital de Caldas y ciudad univer
 web: "https://www.medilaser.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/medilaser-manizales.png"
 ---
 
 Clínica Medilaser en Manizales, capital de Caldas y ciudad universitaria del Eje Cafetero. Atiende a la población caldense con servicios hospitalarios modernos. Referente de la salud privada en Manizales para pacientes con planes de salud privados.

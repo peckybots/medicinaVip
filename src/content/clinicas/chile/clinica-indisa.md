@@ -13,6 +13,7 @@ fundacion: 1979
 camas: 230
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-indisa.png"
 ---
 
 La Clínica INDISA es una de las clínicas privadas consolidadas de Santiago, reconocida por su servicio de maternidad y neonatología de alta complejidad. Con presencia en Providencia, ofrece atención de especialidad con buen nivel de acceso para la clase media-alta chilena.

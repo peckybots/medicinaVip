@@ -8,6 +8,7 @@ descripcion: "Megasalud en Maipú, la segunda comuna más poblada de Chile, aten
 web: "https://www.megasalud.cl/maipu"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/megasalud-maipu.png"
 ---
 
 Megasalud en Maipú, la segunda comuna más poblada de Chile, atendiendo a la densa comunidad del sector sur-poniente de Santiago. Sus servicios ambulatorios accesibles incluyen consultas con especialistas y diagnóstico por imagen. Con amplia capacidad instalada y horarios extendidos para las familias trabajadoras de Maipú.

@@ -8,6 +8,7 @@ descripcion: "Clínica Megasalud en Santiago, parte de la red con mayor número 
 web: "https://www.megasalud.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-megasalud-santiago.png"
 ---
 
 Clínica Megasalud en Santiago, parte de la red con mayor número de establecimientos de salud privada en Chile. Con múltiples sedes en la Región Metropolitana, ofrece servicios hospitalarios de calidad a precios más accesibles. Sus urgencias y medicina interna son los servicios más demandados por la amplia base de clientes de la red.

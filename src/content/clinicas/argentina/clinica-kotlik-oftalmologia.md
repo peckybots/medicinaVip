@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://www.clinicakotlik.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-kotlik-oftalmologia.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en 3A. Seccion, Mendoza.

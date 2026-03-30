@@ -8,6 +8,7 @@ descripcion: "Hospital H+ ubicado en Pedregal, una de las zonas residenciales m�
 web: "https://www.hmas.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-h-plus-pedregal.png"
 ---
 
 Hospital H+ ubicado en Pedregal, una de las zonas residenciales más exclusivas del sur de Ciudad de México. Ofrece atención de alta especialidad con tecnología de punta en diagnóstico y tratamiento. Su modelo de atención personalizada lo posiciona como una de las mejores opciones de salud privada en la capital.

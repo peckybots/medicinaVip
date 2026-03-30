@@ -13,6 +13,7 @@ fundacion: 1975
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/almater-mexicali.png"
 ---
 
 Hospital Almater es el principal referente de atención privada en Mexicali y la frontera noroeste. Cuarto en el ranking regional noreste FUNSALUD 2024, atiende tanto pacientes locales como pacientes de turismo médico provenientes de California, EE.UU.

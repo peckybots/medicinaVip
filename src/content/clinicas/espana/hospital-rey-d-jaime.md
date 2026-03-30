@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Castelló de la Plana, Cas
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-rey-d-jaime.png"
 ---
 
 Hospitales Generales privado ubicado en Castelló de la Plana, Castellón (Comunidad Valenciana), España. Registrado en el Catálogo Nacional de Hospitales 2025.

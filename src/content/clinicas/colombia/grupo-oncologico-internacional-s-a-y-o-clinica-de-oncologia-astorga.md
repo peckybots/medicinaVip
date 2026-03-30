@@ -8,6 +8,7 @@ descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Niv
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/grupo-oncologico-internacional-s-a-y-o-clinica-de-oncologia-astorga.png"
 ---
 
 IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Medellín.

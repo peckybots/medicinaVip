@@ -8,6 +8,7 @@ descripcion: "Hospital Privado Nuestra Señora de la Merced en San Salvador de J
 web: "https://www.hospitalmerced.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-nuestra-senora-merced-jujuy.png"
 ---
 
 Hospital Privado Nuestra Señora de la Merced en San Salvador de Jujuy, la principal institución hospitalaria privada de la provincia más austral de los Andes. Sus servicios de medicina interna y urgencias atienden a la población jujeña y turistas que visitan la Quebrada de Humahuaca Patrimonio de la Humanidad. Con médicos especializados y atención las 24 horas.

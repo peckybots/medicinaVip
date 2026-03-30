@@ -13,6 +13,7 @@ fundacion: 1960
 camas: 300
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-internacional-lima.png"
 ---
 
 Clínica Internacional es una de las clínicas privadas más grandes de Lima, con sedes en el centro y en San Borja. Destaca por su amplia cartera de especialidades, tecnología diagnóstica moderna y su modelo de atención accesible para el segmento privado de clase media-alta.

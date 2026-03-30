@@ -8,6 +8,7 @@ descripcion: "Clínica Peruano Americana en Trujillo, referente de la salud priv
 web: "https://www.clinicaperuanoamericana.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/peruano-americana-trujillo.png"
 ---
 
 Clínica Peruano Americana en Trujillo, referente de la salud privada en la capital de La Libertad y tercera ciudad del Perú. Sus especialidades en cardiología y oncología atienden a la importante población del norte peruano. Instalaciones modernas y equipo médico especializado.

@@ -13,6 +13,7 @@ fundacion: 1962
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-del-country.png"
 ---
 
 La Clínica del Country es una de las clínicas privadas más exclusivas y reconocidas de Bogotá, atendiendo a un perfil de paciente de alto poder adquisitivo desde hace más de 60 años. Es referente en ortopedia deportiva, oncología y medicina preventiva premium.

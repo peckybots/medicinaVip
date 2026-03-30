@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Bajo riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/asociacion-civil-tomar-conciencia-hospital-de-dia-en-adicciones.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Bajo riesgo con internación simple en Berisso, Buenos Aires.

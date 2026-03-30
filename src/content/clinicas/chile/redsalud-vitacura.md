@@ -8,6 +8,7 @@ descripcion: "Clínica premium de la red RedSalud en Vitacura, uno de los barrio
 web: "https://www.redsalud.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/redsalud-vitacura.png"
 ---
 
 Clínica premium de la red RedSalud en Vitacura, uno de los barrios más exclusivos de Santiago. Con instalaciones de lujo y atención personalizada, atiende a pacientes del sector oriente de la capital. Sus programas de medicina preventiva y cirugía plástica son altamente valorados.

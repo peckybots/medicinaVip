@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-el-avila-caracas.png"
 ---
 
 Reconocida clínica privada en el este de Caracas con servicios especializados y modernos. Ofrece atención integral con un equipo médico de alto nivel en uno de los sectores más exclusivos de la capital venezolana.

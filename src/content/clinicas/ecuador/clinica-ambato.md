@@ -8,6 +8,7 @@ descripcion: "Clínica Ambato, institución privada con amplia trayectoria en la
 web: "https://www.clinicaambato.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-ambato.png"
 ---
 
 Clínica Ambato, institución privada con amplia trayectoria en la capital tungurahuense. Sus servicios de ortopedia y cirugía atienden a los residentes de la región. Con instalaciones actualizadas y equipo médico comprometido, brinda atención de calidad en el centro del país.

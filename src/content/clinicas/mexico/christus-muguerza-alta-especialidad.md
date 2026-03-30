@@ -13,6 +13,7 @@ fundacion: 1934
 camas: 258
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-alta-especialidad.png"
 ---
 
 Líder en el norte de México y tercer lugar nacional en ranking FUNSALUD 2024. Parte de la red CHRISTUS Health, es hospital de referencia en trasplantes renales y cirugía cardiovascular para toda la región noreste.

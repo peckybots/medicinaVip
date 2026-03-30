@@ -12,6 +12,7 @@ fundacion: 1963
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mexico-americano.png"
 ---
 
 Hospital privado de larga trayectoria en Guadalajara, con amplia experiencia en atención a pacientes nacionales e internacionales. Cuenta con servicios completos de hospitalización, urgencias y diagnóstico.

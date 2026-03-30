@@ -14,6 +14,7 @@ fundacion: 1973
 camas: 350
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/cardioinfantil-bogota.png"
 ---
 
 La Fundación Cardioinfantil es el hospital privado líder en cardiología pediátrica e intervencional en Colombia y uno de los cinco con acreditación JCI. Referencia latinoamericana en cardiopatías congénitas y cirugía cardiovascular de alta complejidad.

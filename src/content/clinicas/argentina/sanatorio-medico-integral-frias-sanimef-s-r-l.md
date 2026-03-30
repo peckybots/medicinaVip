@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Bajo riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-medico-integral-frias-sanimef-s-r-l.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Bajo riesgo con internación simple en Frias, Santiago Del Estero.

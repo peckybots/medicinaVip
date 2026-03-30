@@ -8,6 +8,7 @@ descripcion: "Clínica Arequipa en la Ciudad Blanca, la principal institución h
 web: "https://www.clinicaarequipa.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-arequipa-sa.png"
 ---
 
 Clínica Arequipa en la Ciudad Blanca, la principal institución hospitalaria privada del sur andino del Perú. Con más de 60 años de historia y constante renovación tecnológica, sus servicios cardiológicos y oncológicos son referentes en toda la macro-región sur. Atrae a pacientes de Arequipa, Puno, Moquegua y Tacna por su excelencia médica.

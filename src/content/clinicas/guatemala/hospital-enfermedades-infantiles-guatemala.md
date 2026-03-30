@@ -8,6 +8,7 @@ descripcion: "Centro especializado en atención pediátrica en Ciudad de Guatema
 web: "https://www.hei.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-enfermedades-infantiles-guatemala.png"
 ---
 
 Centro especializado en atención pediátrica en Ciudad de Guatemala. Sus programas de oncología pediátrica y neonatología son referentes para el país centroamericano. Ofrece atención especializada para niños con patologías complejas con un equipo de pediatras subespecialistas.

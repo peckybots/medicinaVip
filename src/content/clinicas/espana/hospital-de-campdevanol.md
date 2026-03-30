@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Campdevànol, Girona (Cata
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-de-campdevanol.png"
 ---
 
 Hospitales Generales privado ubicado en Campdevànol, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

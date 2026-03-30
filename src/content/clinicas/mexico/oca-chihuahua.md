@@ -8,6 +8,7 @@ descripcion: "Hospital OCA en Chihuahua con especialización en oncología y neu
 web: "https://www.hospitaloca.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/oca-chihuahua.png"
 ---
 
 Hospital OCA en Chihuahua con especialización en oncología y neurología, áreas de alta demanda en la región norte de México. Sus modernas instalaciones hospitalarias y equipos de diagnóstico avanzado lo posicionan como referente para el tratamiento del cáncer en el estado. Médicos especialistas certificados y protocolos internacionales.

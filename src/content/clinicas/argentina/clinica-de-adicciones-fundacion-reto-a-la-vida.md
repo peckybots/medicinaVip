@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Bajo riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-de-adicciones-fundacion-reto-a-la-vida.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Bajo riesgo con internación simple en El Cevilar, Tucumán.

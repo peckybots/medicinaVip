@@ -8,6 +8,7 @@ descripcion: "Clínica Pediátrica en la Ciudad de Guatemala, especializada en l
 web: "https://www.clinicapediatricagt.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/pediatrica-guatemala.png"
 ---
 
 Clínica Pediátrica en la Ciudad de Guatemala, especializada en la atención integral del niño y el adolescente. Sus programas de oncología y cardiología pediátrica son referencia en Centroamérica. Con equipo médico pediátrico altamente especializado y ambientes diseñados para los niños, ofrece la mejor experiencia médica para los pequeños pacientes.

@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Puerto del Rosa
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-parque-fuerteventura.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Puerto del Rosario, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

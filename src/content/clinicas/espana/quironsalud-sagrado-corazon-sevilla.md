@@ -13,6 +13,7 @@ fundacion: 1920
 camas: 300
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-sagrado-corazon-sevilla.png"
 ---
 
 El Hospital Quirónsalud Sagrado Corazón es el principal hospital privado de Sevilla y referente de Andalucía occidental. Con amplia trayectoria histórica, ha sido modernizado por Grupo Quirónsalud incorporando tecnología de cirugía robótica y oncología avanzada.

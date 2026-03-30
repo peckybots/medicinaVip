@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 125
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-angeles-del-pedregal.png"
 ---
 
 Hospital privado del grupo Ángeles en la zona sur de la Ciudad de México. Reconocido por su infraestructura moderna y su equipo de especialistas en oncología y cirugía cardiovascular.

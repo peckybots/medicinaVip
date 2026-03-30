@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.clinicafrancesa.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-francesa-capital-2-3574.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en 4A. Seccion, Mendoza.

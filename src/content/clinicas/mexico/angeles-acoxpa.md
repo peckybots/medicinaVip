@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles Acoxpa en el sur de la Ciudad de México, accesi
 web: "https://www.hospitalesangeles.com/acoxpa"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-acoxpa.png"
 ---
 
 Hospital Ángeles Acoxpa en el sur de la Ciudad de México, accesible desde Tlalpan, Xochimilco y Coyoacán. Ofrece atención de urgencias y hospitalaria de calidad para los residentes del sur de la capital. Sus instalaciones completas y equipo de especialistas garantizan atención oportuna y eficaz.

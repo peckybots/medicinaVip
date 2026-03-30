@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Palamós, 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centre-palamos-gent-gran.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Palamós, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

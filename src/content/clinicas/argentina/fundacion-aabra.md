@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.fundacionabra.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/fundacion-aabra.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en 2A. Seccion, Mendoza.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con guardia
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-de-ojos.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con guardia permanente en 1A. Seccion, Mendoza.

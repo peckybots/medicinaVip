@@ -13,6 +13,7 @@ fundacion: 1952
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-herrera-llerandi.png"
 ---
 
 Reconocido como uno de los hospitales privados más prestigiosos de Guatemala y Centroamérica, con experiencia de más de 70 años. Cuenta con certificaciones internacionales y ofrece atención de alta especialidad con tecnología de vanguardia.

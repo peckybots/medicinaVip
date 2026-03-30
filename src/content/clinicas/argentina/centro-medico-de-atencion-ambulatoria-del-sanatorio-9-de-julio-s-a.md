@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-medico-de-atencion-ambulatoria-del-sanatorio-9-de-julio-s-a.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en San Miguel De Tucuman, Tucumán.

@@ -13,6 +13,7 @@ fundacion: 1956
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-san-rafael-bogota.png"
 ---
 
 Centro hospitalario de referencia en Bogotá reconocido por la calidad de su atención médica y ética en la prestación de servicios. Con modernas instalaciones y equipo de alta formación, es referente en cirugía cardiovascular y oncología.

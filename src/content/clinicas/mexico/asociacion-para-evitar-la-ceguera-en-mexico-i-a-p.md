@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Gustavo A. Madero, CIUDAD DE MEXICO, MÃ
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/asociacion-para-evitar-la-ceguera-en-mexico-i-a-p.png"
 ---
 
 Clinica privada ubicada en Gustavo A. Madero, CIUDAD DE MEXICO, MÃ©xico. Establecimiento de salud registrado en CLUES.

@@ -8,6 +8,7 @@ descripcion: "La Clínica Tabancura en Vitacura es una institución médica de r
 web: "https://www.tabancura.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-tabancura.png"
 ---
 
 La Clínica Tabancura en Vitacura es una institución médica de referencia para el sector oriente de Santiago. Con décadas de historia, atiende a los residentes de los barrios más exclusivos de la capital chilena. Sus programas de cardiología y oncología son ampliamente reconocidos.

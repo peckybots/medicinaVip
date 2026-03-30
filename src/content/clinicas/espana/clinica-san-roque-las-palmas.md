@@ -8,6 +8,7 @@ descripcion: "La Clínica San Roque en Las Palmas de Gran Canaria es el principa
 web: "https://www.clinicasanroque.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-san-roque-las-palmas.png"
 ---
 
 La Clínica San Roque en Las Palmas de Gran Canaria es el principal hospital privado de las Islas Canarias. Con certificación JCI y programas oncológicos de vanguardia, es destino del turismo médico europeo que visita Canarias. Sus instalaciones de lujo combinan medicina de excelencia con el entorno paradisíaco canario.

@@ -11,6 +11,7 @@ fundacion: 1985
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-sanitas-virgen-del-mar.png"
 ---
 
 Hospital privado de Sanitas en el norte de Madrid, orientado a la atención integral de los asegurados de la compañía. Parte de la red hospitalaria de Sanitas con amplia cobertura en la Comunidad de Madrid.

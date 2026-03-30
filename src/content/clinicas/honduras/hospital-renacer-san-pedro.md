@@ -8,6 +8,7 @@ descripcion: "Hospital Renacer en San Pedro Sula, institución médica privada d
 web: "https://www.hospitalrenacer.hn"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/hospital-renacer-san-pedro.png"
 ---
 
 Hospital Renacer en San Pedro Sula, institución médica privada de referencia en la ciudad más industrial de Honduras. Sus programas de cardiología e internismo son especialmente valorados por la comunidad empresarial sampedrana. Con tecnología diagnóstica moderna y equipo de especialistas certificados.

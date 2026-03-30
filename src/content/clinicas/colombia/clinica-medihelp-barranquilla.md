@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-medihelp-barranquilla.png"
 ---
 
 Clínica privada de referencia en Barranquilla con atención integral en diversas especialidades. Ofrece tecnología diagnóstica moderna y un staff médico de alta formación para atender a la población del Caribe colombiano.

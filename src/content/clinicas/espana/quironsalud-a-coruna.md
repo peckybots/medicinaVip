@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en La Coruña, referente de la medicina priv
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-a-coruna.png"
 ---
 
 Hospital Quirónsalud en La Coruña, referente de la medicina privada en Galicia. Con tecnología de última generación y equipo médico especializado, atiende a la población gallega. Sus programas de oncología y cardiología son los más reconocidos del noroeste peninsular.

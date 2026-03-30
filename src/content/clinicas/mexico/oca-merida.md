@@ -8,6 +8,7 @@ descripcion: "Hospital OCA con presencia en Mérida, brindando atención médica
 web: "https://www.hospitaloca.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/oca-merida.png"
 ---
 
 Hospital OCA con presencia en Mérida, brindando atención médica de alto nivel a la población yucateca. Destaca por sus servicios de oncología y neurología, con especialistas altamente capacitados. Instalaciones modernas y equipos diagnósticos de última generación.

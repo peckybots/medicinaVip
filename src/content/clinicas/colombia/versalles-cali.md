@@ -8,6 +8,7 @@ descripcion: "Clínica Versalles en Cali, uno de los hospitales privados más re
 web: "https://www.clinicaversalles.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/versalles-cali.png"
 ---
 
 Clínica Versalles en Cali, uno de los hospitales privados más reconocidos del Valle del Cauca. Sus unidades de oncología y cardiología atraen pacientes de toda la región del suroccidente colombiano. Tecnología diagnóstica avanzada y especialistas de referencia nacional para el tratamiento de enfermedades complejas.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado de la red Pavía en el área financiera de Hato R
 web: "https://www.paviahealth.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/puerto-rico/pavia-hato-rey-san-juan.png"
 ---
 
 Hospital privado de la red Pavía en el área financiera de Hato Rey, San Juan. Reconocido por su atención eficiente y equipo médico especializado. Es referente para la comunidad empresarial y financiera de la capital puertorriqueña.

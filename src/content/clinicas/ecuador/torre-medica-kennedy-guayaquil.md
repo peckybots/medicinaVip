@@ -12,6 +12,7 @@ fundacion: 2010
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/torre-medica-kennedy-guayaquil.png"
 ---
 
 Torre Médica de última generación del Grupo Kennedy en Guayaquil, con consultorios de especialistas y tecnología de diagnóstico avanzada. Atención ambulatoria de alta calidad en el norte de la ciudad.

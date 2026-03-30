@@ -12,6 +12,7 @@ fundacion: 1988
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/nicaragua/hospital-monte-espana.png"
 ---
 
 Hospital privado reconocido en Managua con décadas de servicio a la comunidad nicaragüense. Ofrece atención médico-quirúrgica con cobertura de los principales seguros médicos privados y colectivos del país.

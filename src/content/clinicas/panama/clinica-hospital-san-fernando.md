@@ -12,6 +12,7 @@ fundacion: 1965
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/clinica-hospital-san-fernando.png"
 ---
 
 Hospital privado con más de 60 años de historia en Ciudad de Panamá. Reconocido como uno de los principales centros de atención privada en el país, con cobertura de las principales aseguradoras internacionales.

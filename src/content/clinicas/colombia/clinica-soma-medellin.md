@@ -12,6 +12,7 @@ fundacion: 1990
 camas: 50
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-soma-medellin.png"
 ---
 
 Clínica privada reconocida en Medellín por su especialización en cirugía estética y medicina estética. Forma parte de la oferta de turismo médico en Antioquia, atendiendo a pacientes nacionales e internacionales.

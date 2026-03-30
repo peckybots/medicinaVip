@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Querétaro con amplia trayectori
 web: "https://www.hospitalsanjosequeretaro.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/san-jose-queretaro.png"
 ---
 
 Hospital privado de referencia en Querétaro con amplia trayectoria atendiendo a familias queretanas. Sus servicios de ginecología y pediatría son especialmente reconocidos en la región. Modernas instalaciones y personal médico especializado comprometido con la atención personalizada.

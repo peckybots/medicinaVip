@@ -12,6 +12,7 @@ fundacion: 2006
 camas: 250
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-torrevieja.png"
 ---
 
 Hospital privado Quirónsalud en la Costa Blanca, especializado en atender a residentes extranjeros y turistas de toda Europa. Con personal multilingüe y cobertura de seguros internacionales, es referente en turismo médico en la Comunitat Valenciana.

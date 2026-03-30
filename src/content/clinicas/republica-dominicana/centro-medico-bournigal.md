@@ -8,6 +8,7 @@ descripcion: "El Centro Médico Bournigal en Puerto Plata es el principal hospit
 web: "https://www.bournigal.com.do"
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/centro-medico-bournigal.png"
 ---
 
 El Centro Médico Bournigal en Puerto Plata es el principal hospital privado del norte dominicano y referente del turismo médico en la costa norte. Especializado en atención a turistas internacionales y residentes extranjeros. Personal bilingüe y convenios con aseguradoras internacionales del mercado turístico norteño.

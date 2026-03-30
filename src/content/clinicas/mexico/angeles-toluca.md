@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en Toluca, capital del Estado de México y cuart
 web: "https://www.hospitalesangeles.com/toluca"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-toluca.png"
 ---
 
 Hospital Ángeles en Toluca, capital del Estado de México y cuarta área metropolitana del país. Sus servicios oncológicos y cardiológicos atienden a una región con más de 2 millones de habitantes. Con instalaciones modernas y médicos de alto nivel, es la opción privada preferida de los tolucenses.

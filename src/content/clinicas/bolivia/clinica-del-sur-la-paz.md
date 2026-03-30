@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-del-sur-la-paz.png"
 ---
 
 Clínica privada de referencia en La Paz con amplia cobertura de especialidades médico-quirúrgicas. Reconocida por la calidad de su atención y tecnología moderna en la sede de gobierno boliviana.

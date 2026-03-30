@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Piura, importante ciudad del nor
 web: "https://www.clinicasantarosa.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-santa-rosa-piura.png"
 ---
 
 Clínica privada de referencia en Piura, importante ciudad del norte del Perú. Atiende a la población del departamento de Piura con servicios hospitalarios de calidad. Es el principal prestador privado de salud en la región norte costera del país.

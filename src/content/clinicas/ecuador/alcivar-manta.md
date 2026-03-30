@@ -8,6 +8,7 @@ descripcion: "Hospital Alcívar en Manta, filial de la reconocida institución g
 web: "https://www.clinicaalcivar.com/manta"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/alcivar-manta.png"
 ---
 
 Hospital Alcívar en Manta, filial de la reconocida institución guayaquileña en la costa manabita. Sus servicios hospitalarios de calidad atienden a la creciente comunidad de Manta y la costa de Manabí. Con instalaciones modernas y equipo médico especializado, lleva los estándares de la marca Alcívar al litoral norte.

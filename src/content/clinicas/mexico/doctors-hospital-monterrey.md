@@ -13,6 +13,7 @@ fundacion: 1990
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/doctors-hospital-monterrey.png"
 ---
 
 Doctors Hospital es uno de los hospitales privados consolidados de Monterrey, quinto en el ranking norte FUNSALUD 2024. Conocido por su atención personalizada, amenidades premium y un cuerpo médico de subespecialistas reconocidos en la región.

@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Pamplona/Iruña, Navarra (
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-universidad-de-navarra.png"
 ---
 
 Hospitales Generales privado ubicado en Pamplona/Iruña, Navarra (C. Foral de Navarra), España. Registrado en el Catálogo Nacional de Hospitales 2025.

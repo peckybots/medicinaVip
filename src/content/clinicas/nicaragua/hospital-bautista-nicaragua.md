@@ -12,6 +12,7 @@ fundacion: 1930
 camas: 150
 featured: true
 draft: false
+imagen: "/images/clinicas/nicaragua/hospital-bautista-nicaragua.png"
 ---
 
 Hospital privado de inspiración bautista con amplia trayectoria en la atención médica nicaragüense. Ofrece servicios de hospitalización, sala de operaciones, UCI y emergencias con moderno equipamiento diagnóstico.

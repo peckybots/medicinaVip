@@ -8,6 +8,7 @@ descripcion: "Hospital privado en la colonia Santa Elena de San Salvador, zona r
 web: "https://www.hese.com.sv"
 featured: false
 draft: false
+imagen: "/images/clinicas/el-salvador/hospital-especialidades-santa-elena.png"
 ---
 
 Hospital privado en la colonia Santa Elena de San Salvador, zona residencial de alto nivel. Atiende a la clase alta y ejecutivos salvadoreños con servicios hospitalarios de calidad premium. Sus programas de cardiología y ortopedia son especialmente reconocidos.

@@ -8,6 +8,7 @@ descripcion: "Red de centros médicos ambulatorios con presencia en todo Chile. 
 web: "https://www.integramedica.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/integramedica-santiago.png"
 ---
 
 Red de centros médicos ambulatorios con presencia en todo Chile. Ofrece atención de especialidades médicas, diagnóstico y procedimientos ambulatorios a precios accesibles. Es una de las redes de atención médica privada más extendidas del país.

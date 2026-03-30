@@ -12,6 +12,7 @@ fundacion: 1955
 camas: 350
 featured: true
 draft: false
+imagen: "/images/clinicas/venezuela/centro-medico-caracas.png"
 ---
 
 Importante institución privada de salud en Caracas con décadas de trayectoria. Centro de referencia para múltiples especialidades médico-quirúrgicas, reconocido por su servicio de calidad a la comunidad caraqueña.

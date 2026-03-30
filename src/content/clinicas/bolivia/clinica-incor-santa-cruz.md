@@ -13,6 +13,7 @@ fundacion: 1990
 camas: 100
 featured: true
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-incor-santa-cruz.png"
 ---
 
 Centro especializado en procedimientos complejos en Bolivia, referente en trasplantes y cirugía cardiovascular. Realiza trasplantes de riñón e hígado, neurocirugía cerebral y espinal, y procedimientos cardíacos avanzados.

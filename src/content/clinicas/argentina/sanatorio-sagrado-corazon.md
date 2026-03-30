@@ -8,6 +8,7 @@ descripcion: "Sanatorio Sagrado Corazón en el barrio de Almagro, Buenos Aires, 
 web: "https://www.sanasc.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-sagrado-corazon.png"
 ---
 
 Sanatorio Sagrado Corazón en el barrio de Almagro, Buenos Aires, institución hospitalaria privada con larga trayectoria en la medicina porteña. Sus servicios oncológicos y cardiológicos son los más demandados entre los pacientes del centro de la capital. Con instalaciones renovadas y equipo médico de alto nivel.

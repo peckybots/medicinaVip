@@ -13,6 +13,7 @@ fundacion: 1966
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-puebla.png"
 ---
 
 El Hospital Puebla es el principal hospital privado de la ciudad y séptimo a nivel nacional en ranking FUNSALUD 2024. Es referencia en oncología y cardiología para el corredor Puebla-Tlaxcala, con instalaciones de alta tecnología.

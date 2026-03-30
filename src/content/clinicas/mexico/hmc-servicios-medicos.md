@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Tlalpan, CIUDAD DE MEXICO, México. Est
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hmc-servicios-medicos.png"
 ---
 
 Clinica privada ubicada en Tlalpan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

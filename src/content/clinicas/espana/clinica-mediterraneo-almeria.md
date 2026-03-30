@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Almería capital. Sus servicios 
 web: "https://www.clinicamediterraneo.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-mediterraneo-almeria.png"
 ---
 
 Clínica privada de referencia en Almería capital. Sus servicios de traumatología y cirugía son reconocidos en la capital almeriense. Atiende a residentes locales y turistas de la Costa de Almería con servicios hospitalarios modernos.

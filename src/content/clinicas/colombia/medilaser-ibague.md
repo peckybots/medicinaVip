@@ -8,6 +8,7 @@ descripcion: "Clínica de la red Medilaser en Ibagué, capital musical de Colomb
 web: "https://www.medilaser.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/medilaser-ibague.png"
 ---
 
 Clínica de la red Medilaser en Ibagué, capital musical de Colombia. Atiende a la población del departamento del Tolima con servicios hospitalarios de calidad. Es el principal prestador privado de salud en la región del Tolima.

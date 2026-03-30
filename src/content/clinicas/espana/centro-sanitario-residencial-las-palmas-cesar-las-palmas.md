@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Palmas de 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centro-sanitario-residencial-las-palmas-cesar-las-palmas.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

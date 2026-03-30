@@ -8,6 +8,7 @@ descripcion: "La Clínica Americana en Asunción es la institución médica priv
 web: "https://www.clinicaamericana.com.py"
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/clinica-americana-asuncion.png"
 ---
 
 La Clínica Americana en Asunción es la institución médica privada de mayor referencia en Paraguay. Con más de 30 años de excelencia, es referente de la medicina de alta especialidad para todo el país. Sus programas de cardiología y trasplante renal son los más avanzados del sistema privado paraguayo.

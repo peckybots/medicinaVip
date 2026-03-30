@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Miguel Hidalgo, CIUDAD DE MEXICO, Méxi
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-de-rehabilitacion-thiers.png"
 ---
 
 Clinica privada ubicada en Miguel Hidalgo, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

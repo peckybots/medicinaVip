@@ -8,6 +8,7 @@ descripcion: "Hospital IDC Salud Pardo de Aravaca en el noroeste de Madrid, aten
 web: "https://www.idcsalud.es/pardo-de-aravaca"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/idc-pardo-aravaca.png"
 ---
 
 Hospital IDC Salud Pardo de Aravaca en el noroeste de Madrid, atendiendo a la próspera zona residencial de La Aravaca y la sierra madrileña. Sus servicios hospitalarios completos incluyen especialidades punteras en cardiología y oncología. Instalaciones modernas y acceso fácil desde las principales vías del noroeste capitalino.

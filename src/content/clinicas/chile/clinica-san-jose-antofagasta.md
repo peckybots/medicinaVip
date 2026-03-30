@@ -12,6 +12,7 @@ fundacion: 1992
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-san-jose-antofagasta.png"
 ---
 
 Clínica privada que atiende a la creciente población de Antofagasta, ciudad impulsada por la industria minera del norte de Chile. Ofrece servicios médico-quirúrgicos integrales con cobertura de isapres.

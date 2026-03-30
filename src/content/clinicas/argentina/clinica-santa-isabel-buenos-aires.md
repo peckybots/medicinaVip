@@ -11,6 +11,7 @@ fundacion: 1960
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-santa-isabel-buenos-aires.png"
 ---
 
 Clínica privada de reconocida trayectoria en Buenos Aires con amplia cobertura de especialidades. Referente en la Ciudad Autónoma con instalaciones modernas y cobertura de los principales planes de salud privada argentinos.

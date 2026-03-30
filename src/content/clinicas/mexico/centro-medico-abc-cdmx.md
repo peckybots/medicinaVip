@@ -8,6 +8,7 @@ descripcion: "Hospital fundado en 1886, uno de los más prestigiosos de México 
 web: "https://www.abchospital.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-medico-abc-cdmx.png"
 ---
 
 Hospital fundado en 1886, uno de los más prestigiosos de México y América Latina. Asociado con instituciones médicas líderes de Estados Unidos y Europa. Reconocido por sus programas de oncología, cardiología y trasplante, con certificaciones internacionales.

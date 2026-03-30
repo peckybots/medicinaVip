@@ -8,6 +8,7 @@ descripcion: "El Hospital Zambrano Hellion, afiliado al TecSalud del ITESM, es e
 web: "https://www.zambranohellion.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/zambrano-hellion-monterrey.png"
 ---
 
 El Hospital Zambrano Hellion, afiliado al TecSalud del ITESM, es el hospital privado más moderno del noreste de México. Integrado con la Escuela de Medicina del Tecnológico de Monterrey, es un modelo de hospital universitario privado de vanguardia. Sus programas oncológicos y el centro de cirugía robótica son referentes nacionales.

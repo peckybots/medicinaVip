@@ -13,6 +13,7 @@ fundacion: 1936
 camas: 400
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/centro-medico-abc.png"
 ---
 
 El Centro Médico ABC (American British Cowdray) opera dos campus en CDMX (Observatorio y Santa Fe) y es pionero en cirugía robótica en México con más de 500 procedimientos. Cuenta con doble acreditación JCI y CSG, y es referencia en atención a pacientes internacionales.

@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Vielha e Mijaran, Lleida (
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/espitau-val-d-aran.png"
 ---
 
 Hospitales Generales privado ubicado en Vielha e Mijaran, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

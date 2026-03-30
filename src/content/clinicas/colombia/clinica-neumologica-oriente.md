@@ -8,6 +8,7 @@ descripcion: "Clínica Neumológica del Oriente en Bucaramanga, referente especi
 web: "https://www.clinicaneum.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-neumologica-oriente.png"
 ---
 
 Clínica Neumológica del Oriente en Bucaramanga, referente especializado en enfermedades respiratorias del oriente colombiano. Sus servicios neumológicos atienden a pacientes de Santander, Norte de Santander y Los Llanos con equipamiento de diagnóstico respiratorio avanzado. Con un equipo de neumólogos de alto nivel y unidad de cuidados intensivos respiratorios.

@@ -14,6 +14,7 @@ fundacion: 1975
 camas: 170
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/fundacion-favaloro.png"
 ---
 
 La Fundación Favaloro es el hospital privado de mayor prestigio internacional de Argentina, fundada en 1975 por el Dr. René Favaloro, inventor del bypass coronario. Es referencia latinoamericana en cirugía cardiovascular, trasplantes cardíacos y pulmonares, y figura consistentemente entre los 10 mejores hospitales de América Latina.

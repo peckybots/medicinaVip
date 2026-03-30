@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: "http://www.sregional.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-regional.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Lujan De Cuyo, Mendoza.

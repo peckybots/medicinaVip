@@ -8,6 +8,7 @@ descripcion: "Parte de la cadena Médica Americana de Calidad (MAC), presente en
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mac-aguascalientes.png"
 ---
 
 Parte de la cadena Médica Americana de Calidad (MAC), presente en múltiples ciudades de México. Ofrece servicios hospitalarios de alta calidad a precios accesibles. Es referente de la medicina privada en Aguascalientes.

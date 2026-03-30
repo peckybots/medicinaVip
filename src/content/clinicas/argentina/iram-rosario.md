@@ -8,6 +8,7 @@ descripcion: "El Instituto Regional de Atención Médica en Rosario es referente
 web: "https://www.iram.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/iram-rosario.png"
 ---
 
 El Instituto Regional de Atención Médica en Rosario es referente de la medicina privada del litoral argentino. Con programas de oncología y cardiología de alta especialidad. Sus instalaciones modernas y equipo de subespecialistas de renombre atienden a toda la región del litoral rioplatense.

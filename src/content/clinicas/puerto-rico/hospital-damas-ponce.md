@@ -8,6 +8,7 @@ descripcion: "El Hospital Damas en Ponce es el principal hospital privado del su
 web: "https://www.hospitaldamas.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/puerto-rico/hospital-damas-ponce.png"
 ---
 
 El Hospital Damas en Ponce es el principal hospital privado del sur de Puerto Rico. Con programas de cardiología y oncología reconocidos en la Isla del León. Sus especialistas y tecnología avanzada atienden a toda la comunidad del sur y el suroeste de la isla.

@@ -8,6 +8,7 @@ descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Niv
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/instituto-para-la-prevencion-el-tratamiento-y-rehabilitacion-de-las-enfermedades-inmunosupresoras-sas-renacera.png"
 ---
 
 IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Leticia.

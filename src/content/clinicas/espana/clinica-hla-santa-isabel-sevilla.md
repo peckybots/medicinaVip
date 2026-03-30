@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 77
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-hla-santa-isabel-sevilla.png"
 ---
 
 Clínica privada HLA en Sevilla con 77 habitaciones y 5 quirófanos modernos. Reconocida por su trato personalizado y la calidad de su atención, cubre un amplio abanico de especialidades médicas y quirúrgicas.

@@ -8,6 +8,7 @@ descripcion: "Clínica Manizales en la capital caldense, parte del Eje Cafetero 
 web: "https://www.clinicamanizales.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-manizales.png"
 ---
 
 Clínica Manizales en la capital caldense, parte del Eje Cafetero colombiano y ciudad universitaria. Sus servicios hospitalarios de calidad atienden a la población manizaleña y a visitantes del departamento de Caldas. Tecnología médica moderna y especialistas certificados para las principales patologías.

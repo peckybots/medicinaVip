@@ -12,6 +12,7 @@ fundacion: 1955
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-sanchez-ferrer-trujillo.png"
 ---
 
 Clínica privada de referencia en Trujillo con décadas de trayectoria en la atención médica del norte peruano. Cubre amplias especialidades y cuenta con una planta física moderna y equipamiento diagnóstico actualizado.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://www.clinicasam.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-sam-medicina-privada.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Puerto Iguazu, Misiones.

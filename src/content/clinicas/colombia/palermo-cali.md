@@ -8,6 +8,7 @@ descripcion: "Clínica Palermo en Cali, institución médica privada de amplia t
 web: "https://www.clinicapalermo.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/palermo-cali.png"
 ---
 
 Clínica Palermo en Cali, institución médica privada de amplia trayectoria en el suroccidente colombiano. Sus servicios de cirugía y traumatología atienden a la activa población caleña. Instalaciones modernas en un barrio accesible de la ciudad y equipo médico comprometido con la calidad asistencial.

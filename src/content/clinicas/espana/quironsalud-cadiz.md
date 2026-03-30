@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Cádiz, la ciudad más antigua de Occiden
 web: "https://www.quironsalud.es/cadiz"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-cadiz.png"
 ---
 
 Hospital Quirónsalud en Cádiz, la ciudad más antigua de Occidente en la bahía atlántica andaluza. Sus servicios cardiológicos y oncológicos atienden a la población gaditana con los estándares de calidad de la red Quirónsalud. Con instalaciones modernas en una ciudad de enorme valor histórico y cultural.

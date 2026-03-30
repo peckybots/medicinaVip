@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-hla-el-angel-malaga.png"
 ---
 
 Hospital privado del grupo HLA en Málaga, situado entre los 30 mejores hospitales privados de España. Ofrece atención integral con tecnología de diagnóstico avanzada y un equipo de especialistas de alto nivel.

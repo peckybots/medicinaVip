@@ -8,6 +8,7 @@ descripcion: "La Clínica Monte Sinaí en Lima es un centro médico especializad
 web: "https://www.montesinai.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-monte-sinai-lima.png"
 ---
 
 La Clínica Monte Sinaí en Lima es un centro médico especializado en oncología y hematología. Sus programas de trasplante de médula ósea y leucemia son referentes en Perú. Con tecnología de radioterapia de última generación y un equipo multidisciplinar reconocido.

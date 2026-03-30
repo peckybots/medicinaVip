@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-dame-guayaquil.png"
 ---
 
 Hospital privado de especialidades médicas en Guayaquil comprometido con la salud de Ecuador. Pionero en avances tecnológicos médicos, ofrece servicios como litotripsia, cistoscopía, endoscopía, colonoscopía, broncoscopía y UCI.

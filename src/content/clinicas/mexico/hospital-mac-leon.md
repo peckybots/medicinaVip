@@ -11,6 +11,7 @@ fundacion: 2012
 camas: 60
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mac-leon.png"
 ---
 
 Hospital MAC (Médica Advance Center) en León, Guanajuato, que ofrece atención médico-quirúrgica privada de alta calidad. Parte de la red de hospitales MAC, presente en varias ciudades del Bajío y centro de México.

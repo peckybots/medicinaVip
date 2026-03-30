@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Christus Muguerza en Reynosa, importante ciudad
 web: "https://www.christusmuguerza.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-reynosa.png"
 ---
 
 Hospital de la red Christus Muguerza en Reynosa, importante ciudad fronteriza de Tamaulipas. Atiende a la población local y a trabajadores de la industria maquiladora transfronteriza. Sus servicios de urgencias y cardiología son referentes en la frontera noreste de México.

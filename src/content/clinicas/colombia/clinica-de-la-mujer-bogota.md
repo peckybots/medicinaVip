@@ -8,6 +8,7 @@ descripcion: "La Clínica de la Mujer en Bogotá es el principal centro privado 
 web: "https://www.clinicadelamujer.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-de-la-mujer-bogota.png"
 ---
 
 La Clínica de la Mujer en Bogotá es el principal centro privado de salud femenina en Colombia. Con más de 40 años de trayectoria, es referente en obstetricia de alto riesgo y reproducción asistida. Sus programas de oncología ginecológica y medicina fetal son reconocidos internacionalmente.

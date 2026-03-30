@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-privada-instituto-medico-quirurgico-bragado.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Bragado, Buenos Aires.

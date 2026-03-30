@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Ángeles en la zona norte de Ciudad de México.
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-lindavista-cdmx.png"
 ---
 
 Hospital de la red Ángeles en la zona norte de Ciudad de México. Atiende a la extensa población del corredor norte capitalino con servicios de alta especialidad. Sus programas de cardiología y oncología son los más completos de la red en el norte de la capital.

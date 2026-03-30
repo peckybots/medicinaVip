@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-san-roque-s-a.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Curuzu Cuatia, Corrientes.

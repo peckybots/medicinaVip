@@ -8,6 +8,7 @@ descripcion: "Hospital Privado en Santo Domingo de los Tsáchilas, ciudad en ple
 web: "https://www.hospitalprivadosantodomingo.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/privado-santo-domingo.png"
 ---
 
 Hospital Privado en Santo Domingo de los Tsáchilas, ciudad en plena expansión en la zona de transición entre la sierra y la costa. Sus servicios hospitalarios atienden a la creciente y diversa población de la ciudad. Con instalaciones modernas y atención de urgencias permanente, cubre las necesidades de una de las ciudades de mayor crecimiento del Ecuador.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado especializado en neurología y psiquiatría en la
 web: "https://www.hospitalmocel.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mocel-cdmx.png"
 ---
 
 Hospital privado especializado en neurología y psiquiatría en la Ciudad de México. Referente nacional en el tratamiento de enfermedades neurológicas complejas. Combina investigación clínica con atención personalizada de alta calidad.

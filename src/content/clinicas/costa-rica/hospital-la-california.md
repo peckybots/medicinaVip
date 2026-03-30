@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 75
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-la-california.png"
 ---
 
 Hospital privado en San José con amplia trayectoria en la atención médica costarricense. Miembro de la Asociación Costarricense de Hospitales, ofrece servicios completos con cobertura de seguros nacionales e internacionales.

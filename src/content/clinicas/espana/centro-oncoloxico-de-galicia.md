@@ -8,6 +8,7 @@ descripcion: "Hospitales especializados privado ubicado en Coruña, A, A Coruña
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centro-oncoloxico-de-galicia.png"
 ---
 
 Hospitales especializados privado ubicado en Coruña, A, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

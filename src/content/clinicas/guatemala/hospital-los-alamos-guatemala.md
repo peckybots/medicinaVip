@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-los-alamos-guatemala.png"
 ---
 
 Hospital privado con más de 39 años de trayectoria en Guatemala. Reconocido por sus servicios de emergencias 24/7, laboratorio clínico y especialidades quirúrgicas. Institución de confianza para la comunidad guatemalteca con instalaciones modernas.

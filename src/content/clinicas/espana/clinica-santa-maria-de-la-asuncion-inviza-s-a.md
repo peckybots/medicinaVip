@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Tolosa, Guipúzcoa (País 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-santa-maria-de-la-asuncion-inviza-s-a.png"
 ---
 
 Hospitales Generales privado ubicado en Tolosa, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.

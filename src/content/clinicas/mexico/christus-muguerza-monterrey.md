@@ -8,6 +8,7 @@ descripcion: "Hospital Christus Muguerza Alta Especialidad en Monterrey, uno de 
 web: "https://www.christus.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-monterrey.png"
 ---
 
 Hospital Christus Muguerza Alta Especialidad en Monterrey, uno de los hospitales privados más importantes y reconocidos del norte de México. Con programa de trasplantes de órganos, centro oncológico y cirugía robótica, es referente nacional en medicina de alta complejidad. Afiliado a la red internacional Christus Health con sede en Texas.

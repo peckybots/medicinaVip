@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Madrid, Ma
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/fundacion-instituto-san-jose.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -8,6 +8,7 @@ descripcion: "La Clínica La Paz en Cuenca es una institución privada de refere
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-la-paz-cuenca.png"
 ---
 
 La Clínica La Paz en Cuenca es una institución privada de referencia en la ciudad patrimonio de la humanidad. Con sólida trayectoria en la prestación de servicios médico-quirúrgicos, atiende a la población cuencana y turistas que visitan la ciudad colonial. Sus programas de ginecología y cirugía son valorados por la numerosa comunidad de residentes extranjeros en Cuenca.

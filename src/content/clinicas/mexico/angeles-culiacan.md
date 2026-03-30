@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Ángeles en Culiacán, capital del estado de Si
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-culiacan.png"
 ---
 
 Hospital de la red Ángeles en Culiacán, capital del estado de Sinaloa. Atiende a la población sinaloense con los estándares de excelencia de la red Ángeles. Sus programas de cardiología y oncología son referentes en el noroeste mexicano.

@@ -8,6 +8,7 @@ descripcion: "El Hospital Clínica San Agustín en Loja es la institución priva
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-clinica-san-agustin-loja.png"
 ---
 
 El Hospital Clínica San Agustín en Loja es la institución privada de referencia en la capital de la provincia sureña homónima, puerta de entrada a la Amazonía y frontera con Perú. Con décadas de trayectoria y equipo médico especializado, atiende a la población de Loja y provincias limítrofes del sur ecuatoriano. Sus programas de cirugía e internismo son los más demandados en una región de alta complejidad geográfica.

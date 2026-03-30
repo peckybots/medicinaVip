@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en Jerez de la Frontera, Cádiz, cubriendo las nec
 web: "https://vithas.es/jerez"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-jerez.png"
 ---
 
 Hospital Vithas en Jerez de la Frontera, Cádiz, cubriendo las necesidades sanitarias de una de las ciudades más grandes de Andalucía occidental. Servicios médicos y quirúrgicos completos para residentes y visitantes. Sus especialidades traumatológicas atienden a una activa comunidad deportiva y ecuestre.

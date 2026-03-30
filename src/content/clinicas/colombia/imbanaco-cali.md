@@ -13,6 +13,7 @@ fundacion: 1956
 camas: 300
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/imbanaco-cali.png"
 ---
 
 Imbanaco es uno de los cinco hospitales colombianos con acreditación JCI y referente en medicina preventiva y checkup ejecutivo en Cali. Combina atención médica de alta especialidad con tecnología diagnóstica de punta y un modelo de atención al paciente altamente personalizado.

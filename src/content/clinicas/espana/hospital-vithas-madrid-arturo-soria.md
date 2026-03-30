@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-vithas-madrid-arturo-soria.png"
 ---
 
 Hospital privado Vithas en el norte de Madrid que ofrece atención médica integral con amplia cobertura de especialidades. Parte del grupo Vithas, uno de los principales operadores hospitalarios privados de España.

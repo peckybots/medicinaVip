@@ -12,6 +12,7 @@ fundacion: 2010
 camas: 20
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/medico-express-santo-domingo.png"
 ---
 
 Centro de salud ambulatorio innovador diseñado bajo estándares internacionales, ofreciendo servicios de alta calidad tanto a la población local como a turistas. Pionero en telemedicina y atención ambulatoria de excelencia en la capital dominicana.

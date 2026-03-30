@@ -13,6 +13,7 @@ fundacion: 1951
 camas: 350
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-cordoba.png"
 ---
 
 El Hospital Privado es el centro médico privado más complejo y reconocido de Córdoba y el interior de Argentina. Pionero en trasplantes y cirugía de alta complejidad, con certificación internacional y referencia nacional en investigación médica.

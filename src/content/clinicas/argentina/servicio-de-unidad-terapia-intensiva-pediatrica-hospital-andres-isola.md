@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/servicio-de-unidad-terapia-intensiva-pediatrica-hospital-andres-isola.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Puerto Madryn, Chubut.

@@ -8,6 +8,7 @@ descripcion: "Sanatorio Monte Verde en Ciudad de Guatemala, institución médica
 web: "https://www.sanatoriomontverde.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/sanatorio-monte-verde-guatemala.png"
 ---
 
 Sanatorio Monte Verde en Ciudad de Guatemala, institución médica privada con tradición y confianza en la comunidad capitalina. Con décadas de historia atendiendo a guatemaltecos de todas las edades. Sus programas de cardiología y oncología son especialmente valorados.

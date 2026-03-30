@@ -8,6 +8,7 @@ descripcion: "Clínica Integral San Joaquín en la zona sur de Santiago, atendie
 web: "https://www.clinicasanjoaquin.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/san-joaquin-santiago.png"
 ---
 
 Clínica Integral San Joaquín en la zona sur de Santiago, atendiendo a la populosa comunidad del municipio homónimo. Sus servicios hospitalarios accesibles y la atención de urgencias las 24 horas son especialmente valorados. Con equipo médico comprometido y modernas instalaciones, brinda cobertura a las familias del sur capitalino.

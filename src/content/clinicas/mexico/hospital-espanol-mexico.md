@@ -13,6 +13,7 @@ fundacion: 1886
 camas: 320
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-espanol-mexico.png"
 ---
 
 El Hospital Español es uno de los hospitales privados más antiguos y reconocidos de México, fundado en 1886. Ocupa consistentemente el segundo lugar nacional en rankings de calidad. Es referencia histórica en cirugía cardiovascular y oncología.

@@ -8,6 +8,7 @@ descripcion: "Clínica Modelo de Tucumán en San Miguel de Tucumán, la instituc
 web: "https://www.clinicamodelo.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-modelo-tucuman.png"
 ---
 
 Clínica Modelo de Tucumán en San Miguel de Tucumán, la institución hospitalaria privada más reconocida del norte argentino. Sus servicios cardiológicos y oncológicos atraen a pacientes de Tucumán, Jujuy, Salta y Catamarca. Con tecnología de diagnóstico avanzada y médicos de alto nivel, es referente de la medicina privada del NOA.

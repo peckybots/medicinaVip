@@ -12,6 +12,7 @@ fundacion: 1952
 camas: 80
 featured: true
 draft: false
+imagen: "/images/clinicas/cuba/clinica-cira-garcia.png"
 ---
 
 La principal y más reconocida clínica de turismo médico de Cuba, con 70 años de historia atendiendo pacientes de más de 85 países. Única institución de salud en Cuba exclusivamente dedicada a la atención de extranjeros, con cirugías a precios muy competitivos a nivel internacional.

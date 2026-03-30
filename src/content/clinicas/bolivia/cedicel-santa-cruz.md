@@ -8,6 +8,7 @@ descripcion: "CEDICEL en Santa Cruz de la Sierra es el principal centro privado 
 web: "https://www.cedicel.com.bo"
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/cedicel-santa-cruz.png"
 ---
 
 CEDICEL en Santa Cruz de la Sierra es el principal centro privado de diagnóstico avanzado en Bolivia. Con la más moderna tecnología de resonancia magnética, PET-CT y medicina nuclear. Sus programas de diagnóstico oncológico y cardiológico son referentes del sistema privado boliviano.

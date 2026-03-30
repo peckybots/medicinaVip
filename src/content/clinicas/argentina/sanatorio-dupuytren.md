@@ -8,6 +8,7 @@ descripcion: "Sanatorio Dupuytren en Buenos Aires, el centro de referencia en or
 web: "https://www.dupuytren.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-dupuytren.png"
 ---
 
 Sanatorio Dupuytren en Buenos Aires, el centro de referencia en ortopedia y traumatología de Argentina. Con los traumatólogos más reconocidos del país y tecnología de cirugía articular de última generación, atiende a deportistas profesionales, figuras públicas y pacientes con patologías complejas. Sus cirugías de prótesis de cadera y rodilla son las más demandadas en el sector privado argentino.

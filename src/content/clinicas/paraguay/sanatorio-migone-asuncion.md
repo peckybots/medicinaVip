@@ -8,6 +8,7 @@ descripcion: "El Sanatorio Migone en Asunción es una institución médica de re
 web: "https://www.migone.com.py"
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/sanatorio-migone-asuncion.png"
 ---
 
 El Sanatorio Migone en Asunción es una institución médica de referencia en la capital paraguaya. Con décadas de trayectoria, es uno de los sanatorios privados más reconocidos del país. Sus programas de oncología y cardiología son ampliamente demandados por los asegurados privados paraguayos.

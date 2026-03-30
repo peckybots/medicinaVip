@@ -8,6 +8,7 @@ descripcion: "Clínica Comfamiliar Risaralda en Pereira, institución de la caja
 web: "https://www.comfamiliar.com/salud"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/comfamiliar-pereira.png"
 ---
 
 Clínica Comfamiliar Risaralda en Pereira, institución de la caja de compensación familiar con alta cobertura en el Eje Cafetero. Sus servicios de ginecología y pediatría son especialmente demandados en la región. Combina accesibilidad económica con calidad médica para las familias risaraldenses.

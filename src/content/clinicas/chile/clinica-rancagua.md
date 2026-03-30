@@ -8,6 +8,7 @@ descripcion: "Clínica Rancagua en la capital de O'Higgins, en el corazón del v
 web: "https://www.clinicarancagua.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-rancagua.png"
 ---
 
 Clínica Rancagua en la capital de O'Higgins, en el corazón del valle central chileno. Sus servicios hospitalarios atienden a la población vitivinícola y agroindustrial de la región. Con instalaciones modernas y especialistas en múltiples áreas, es el principal centro de salud privada de O'Higgins.

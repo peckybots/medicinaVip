@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/reina-madre-juarez.png"
 ---
 
 Clinica privada ubicada en Cuauhtemoc, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

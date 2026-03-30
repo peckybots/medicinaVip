@@ -8,6 +8,7 @@ descripcion: "Clínica privada de tradición en Monterrey, históricamente asoci
 web: "https://www.clinicacuauhtemoc.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-cuauhtemoc-monterrey.png"
 ---
 
 Clínica privada de tradición en Monterrey, históricamente asociada a la industria regiomontana. Con décadas de trayectoria, es referente de atención médica para trabajadores industriales y sus familias. Sus programas de maternidad y medicina general son ampliamente reconocidos.

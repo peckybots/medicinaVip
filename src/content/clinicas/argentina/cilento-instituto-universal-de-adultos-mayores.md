@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/cilento-instituto-universal-de-adultos-mayores.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en San Pedro, Buenos Aires.

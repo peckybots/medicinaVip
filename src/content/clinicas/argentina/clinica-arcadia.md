@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Bajo riesgo
 web: "http://www.clinicaarcadiaarg.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-arcadia.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Bajo riesgo con internación simple en Santiago Del Estero, Santiago Del Estero.

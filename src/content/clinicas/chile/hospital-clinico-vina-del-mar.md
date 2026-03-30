@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 150
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/hospital-clinico-vina-del-mar.png"
 ---
 
 Institución de salud privada de alta complejidad resolutiva con actividad docente asistencial en la región de Valparaíso. Referente en la atención especializada del Gran Valparaíso y la Quinta Región.

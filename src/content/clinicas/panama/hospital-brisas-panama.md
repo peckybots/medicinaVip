@@ -12,6 +12,7 @@ fundacion: 1990
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/hospital-brisas-panama.png"
 ---
 
 Hospital privado en Ciudad de Panamá que ofrece atención médica integral de calidad. Parte de la lista de los principales hospitales privados del país, con servicios de urgencias 24 horas y amplia cobertura de seguros.

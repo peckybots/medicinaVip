@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Bucaramanga, capital del departa
 web: "https://www.clinicaboniacia.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-bonifacia-bucaramanga.png"
 ---
 
 Clínica privada de referencia en Bucaramanga, capital del departamento de Santander. Con amplia trayectoria, atiende a la población del nororiente colombiano. Es reconocida por la calidad de sus servicios de medicina interna y cirugía general.

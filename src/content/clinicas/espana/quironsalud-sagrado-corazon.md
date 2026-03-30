@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud Sagrado Corazón en Sevilla, la joya de la r
 web: "https://www.quironsalud.es/sagrado-corazon"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-sagrado-corazon.png"
 ---
 
 Hospital Quirónsalud Sagrado Corazón en Sevilla, la joya de la red Quirónsalud en Andalucía con más de 100 años de historia. Sus instalaciones históricamente reconvertidas en moderno hospital combinan la tradición con la innovación médica más avanzada. Referente en cardiología y oncología en la capital andaluza y todo el sur de España.

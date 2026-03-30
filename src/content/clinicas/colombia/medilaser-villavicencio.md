@@ -8,6 +8,7 @@ descripcion: "Clínica Medilaser en Villavicencio, capital del Meta y puerta de 
 web: "https://www.medilaser.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/medilaser-villavicencio.png"
 ---
 
 Clínica Medilaser en Villavicencio, capital del Meta y puerta de entrada a los Llanos Orientales colombianos. Atiende a la población llanera con servicios hospitalarios de calidad. Referente de salud privada para los habitantes de la región orinoquense.

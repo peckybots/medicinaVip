@@ -13,6 +13,7 @@ fundacion: 1960
 camas: 350
 featured: true
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-kennedy-guayaquil.png"
 ---
 
 Parte del grupo de clínicas Kennedy, la más grande red hospitalaria privada de Ecuador. Con múltiples sedes en Guayaquil, es referente nacional en cirugía de alta complejidad, oncología y atención especializada de alta calidad.

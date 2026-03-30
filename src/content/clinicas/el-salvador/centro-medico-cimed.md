@@ -12,6 +12,7 @@ fundacion: 1990
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/el-salvador/centro-medico-cimed.png"
 ---
 
 Centro médico privado de alta especialidad en San Salvador que combina atención hospitalaria con servicios diagnósticos avanzados. Referente de la medicina privada salvadoreña con tecnología actualizada y especialistas de alto nivel.

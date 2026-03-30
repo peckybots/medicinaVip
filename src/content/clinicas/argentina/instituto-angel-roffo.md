@@ -8,6 +8,7 @@ descripcion: "Instituto de Oncología Ángel H. Roffo en Buenos Aires, centro on
 web: "https://www.institutoroffo.uba.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-angel-roffo.png"
 ---
 
 Instituto de Oncología Ángel H. Roffo en Buenos Aires, centro oncológico de referencia con asistencia pública y privada. Sus servicios oncológicos integrales atienden a pacientes de toda Argentina con tratamientos de alta complejidad. Con investigación clínica activa y formación de oncólogos para el sistema de salud argentino.

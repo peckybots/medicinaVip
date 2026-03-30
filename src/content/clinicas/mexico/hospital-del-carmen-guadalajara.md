@@ -12,6 +12,7 @@ fundacion: 1992
 camas: 140
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-del-carmen-guadalajara.png"
 ---
 
 Hospital privado de alta complejidad ubicado en el corazón de Guadalajara. Reconocido por su servicio personalizado y equipamiento médico moderno. Forma parte de la red de hospitales de referencia en el estado de Jalisco.

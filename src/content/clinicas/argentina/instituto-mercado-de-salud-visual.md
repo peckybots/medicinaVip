@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://www.institutodrmercado.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-mercado-de-salud-visual.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en San Rafael  (Ciudad De San Rafael), Mendoza.

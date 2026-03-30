@@ -8,6 +8,7 @@ descripcion: "Clínica San Borja en el exclusivo distrito homónimo de Lima, ref
 web: "https://www.clinicasanborja.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/san-borja-lima.png"
 ---
 
 Clínica San Borja en el exclusivo distrito homónimo de Lima, referente de la medicina privada de alto nivel en la capital peruana. Sus especialidades en cardiología y oncología atraen a pacientes de todo el Perú y turismo médico de la región. Instalaciones de última generación y equipo médico con formación internacional.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en San Juan con más de 100 años d
 web: "https://www.auxiliomutuo.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/puerto-rico/auxilio-mutuo-san-juan.png"
 ---
 
 Hospital privado de referencia en San Juan con más de 100 años de historia. Reconocido por sus programas de oncología y cardiología de alta complejidad en Puerto Rico. Sus instalaciones modernas y certificaciones internacionales lo posicionan como líder de la medicina privada en la isla.

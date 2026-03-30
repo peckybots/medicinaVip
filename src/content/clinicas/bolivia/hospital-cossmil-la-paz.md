@@ -8,6 +8,7 @@ descripcion: "Hospital del Seguro Social Militar, referente en la atención a mi
 web: "https://www.cossmil.com.bo"
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/hospital-cossmil-la-paz.png"
 ---
 
 Hospital del Seguro Social Militar, referente en la atención a militares y sus familias en Bolivia. Progresivamente abierto a la población general, ofrece servicios hospitalarios de calidad a precios competitivos. Sus especialidades de traumatología y cirugía son especialmente reconocidas.

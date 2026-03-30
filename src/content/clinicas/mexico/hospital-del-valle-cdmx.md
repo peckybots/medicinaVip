@@ -8,6 +8,7 @@ descripcion: "Hospital privado con amplia trayectoria en Ciudad de México. Sus 
 web: "https://www.hospitaldelvalle.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-del-valle-cdmx.png"
 ---
 
 Hospital privado con amplia trayectoria en Ciudad de México. Sus servicios hospitalarios integrales y personal certificado lo mantienen como referente en el mercado capitalino. Trabaja con las principales aseguradoras del país.

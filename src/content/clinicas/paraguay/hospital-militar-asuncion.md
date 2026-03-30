@@ -8,6 +8,7 @@ descripcion: "Hospital del Ejército Paraguayo con apertura progresiva a la aten
 web: "https://www.hospitalmilitar.mil.py"
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/hospital-militar-asuncion.png"
 ---
 
 Hospital del Ejército Paraguayo con apertura progresiva a la atención de civiles en Asunción. Sus servicios de traumatología y cirugía son reconocidos por su calidad. Ofrece tarifas competitivas para la comunidad civil que accede a sus servicios especializados.

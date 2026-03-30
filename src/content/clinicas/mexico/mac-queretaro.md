@@ -8,6 +8,7 @@ descripcion: "Hospital MAC en Querétaro, una de las ciudades de mayor crecimien
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/mac-queretaro.png"
 ---
 
 Hospital MAC en Querétaro, una de las ciudades de mayor crecimiento económico de México. Atiende a la creciente comunidad industrial y ejecutiva del estado más dinámico del Bajío. Sus instalaciones modernas ofrecen atención médica de calidad a precios competitivos.

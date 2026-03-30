@@ -8,6 +8,7 @@ descripcion: "Clínica Médica Universitaria en Guatemala, institución vinculad
 web: "https://www.cmu.usac.edu.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/medica-universitaria-gt.png"
 ---
 
 Clínica Médica Universitaria en Guatemala, institución vinculada al sistema universitario con atención médica de calidad. Sus servicios médicos y quirúrgicos atienden a estudiantes, docentes y comunidad en general. Con equipo médico en formación continua y supervisión académica de alto nivel.

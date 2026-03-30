@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Ángeles en León, la ciudad más grande de Gua
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-leon.png"
 ---
 
 Hospital de la red Ángeles en León, la ciudad más grande de Guanajuato. Atiende a la población industrial y comercial del Bajío con servicios de alta especialidad. Sus programas de oncología y cardiología son los más completos de la red en la región.

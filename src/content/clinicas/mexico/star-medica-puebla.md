@@ -8,6 +8,7 @@ descripcion: "Star Médica en Puebla, cuarta ciudad más grande de México y cen
 web: "https://www.starmedica.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/star-medica-puebla.png"
 ---
 
 Star Médica en Puebla, cuarta ciudad más grande de México y centro industrial del sureste. Referente de salud privada en la Angelópolis con especializaciones oncológicas y cardiovasculares de alto nivel. Sus instalaciones de vanguardia atienden a pacientes de toda la región Centro-Sur del país.

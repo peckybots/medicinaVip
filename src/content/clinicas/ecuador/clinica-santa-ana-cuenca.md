@@ -12,6 +12,7 @@ fundacion: 1988
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-santa-ana-cuenca.png"
 ---
 
 Clínica privada especializada en Cuenca que atiende a la población del Azuay y Cañar. Reconocida por su calidez humana y la calidad de sus servicios médico-quirúrgicos en la tercera ciudad más importante de Ecuador.

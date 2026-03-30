@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.osecac.org.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/o-s-e-c-a-c-centro-medico-capital.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en 3A. Seccion, Mendoza.

@@ -13,6 +13,7 @@ fundacion: 1964
 camas: 220
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-reina-sofia-bogota.png"
 ---
 
 La Clínica Reina Sofía es parte del grupo Keralty y una de las clínicas privadas de mayor reputación en Bogotá. Mencionada en el ranking Newsweek entre los mejores hospitales de Colombia, destaca por su atención integral y programas de medicina preventiva.

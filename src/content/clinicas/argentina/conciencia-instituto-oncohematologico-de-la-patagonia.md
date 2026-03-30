@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/conciencia-instituto-oncohematologico-de-la-patagonia.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Neuquen, Neuquén.

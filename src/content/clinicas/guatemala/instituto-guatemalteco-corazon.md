@@ -8,6 +8,7 @@ descripcion: "Centro especializado en cardiología y cirugía cardiovascular en 
 web: "https://www.igc.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/instituto-guatemalteco-corazon.png"
 ---
 
 Centro especializado en cardiología y cirugía cardiovascular en Ciudad de Guatemala. Referente nacional para procedimientos cardíacos complejos, incluyendo bypass coronario y reemplazo valvular. Sus cardiólogos intervencionistas y cirujanos cardiovasculares son reconocidos en Centroamérica.

@@ -13,6 +13,7 @@ fundacion: 1916
 camas: 220
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-otamendi.png"
 ---
 
 El Sanatorio Otamendi es uno de los sanatorios privados más tradicionales de Buenos Aires, con más de 100 años de historia. Es reconocido por su servicio de maternidad premium, oncología y atención de alta complejidad en pleno centro de la ciudad.

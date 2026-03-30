@@ -11,6 +11,7 @@ fundacion: 1965
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-cayetano-heredia-lima.png"
 ---
 
 Clínica universitaria de la Universidad Peruana Cayetano Heredia, que integra docencia y atención clínica de alta calidad. Con un equipo médico de reconocida trayectoria académica y clínica en Lima.

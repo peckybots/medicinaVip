@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 140
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hla-montpellier-zaragoza.png"
 ---
 
 Principal hospital privado de Zaragoza del grupo HLA, situado entre los mejores hospitales privados de España. Ofrece un completo catálogo de especialidades médico-quirúrgicas con tecnología de diagnóstico avanzada.

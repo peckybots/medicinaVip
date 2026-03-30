@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.clinicamulet.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-privada-de-ojos-mulet-capital-2-2141.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en 1A. Seccion, Mendoza.

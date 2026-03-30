@@ -12,6 +12,7 @@ fundacion: 1948
 camas: 150
 featured: true
 draft: false
+imagen: "/images/clinicas/paraguay/sanatorio-migone-battilana.png"
 ---
 
 Uno de los sanatorios privados más reconocidos de Paraguay en cardiología y cirugía cardiovascular. Cuenta con una destacada unidad cardiovascular que ofrece desde diagnósticos hasta cirugías complejas.

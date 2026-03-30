@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-davila-santiago.png"
 ---
 
 Clínica privada con amplia trayectoria en Santiago reconocida por su atención a la comunidad metropolitana. Ofrece servicios médico-quirúrgicos completos con amplia cobertura de isapres y seguros complementarios.

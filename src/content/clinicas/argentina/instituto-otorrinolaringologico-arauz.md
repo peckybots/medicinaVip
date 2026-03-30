@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: "http://www.iorlarauz.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-otorrinolaringologico-arauz.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Balvanera, Caba.

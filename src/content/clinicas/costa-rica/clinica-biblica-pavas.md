@@ -12,6 +12,7 @@ fundacion: 2010
 camas: 50
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/clinica-biblica-pavas.png"
 ---
 
 Sede adicional del reconocido Hospital Clínica Bíblica en el sector de Pavas, ampliando el acceso a la atención de calidad en el oeste de San José. Ofrece servicios ambulatorios y de hospitalización con los mismos estándares del centro principal.

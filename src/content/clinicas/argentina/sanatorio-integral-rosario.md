@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 110
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-integral-rosario.png"
 ---
 
 Sanatorio privado con un perfil integral de atención en Rosario, Santa Fe. Brinda servicios médico-quirúrgicos de calidad y cuenta con los principales planes de medicina prepaga del país.

@@ -8,6 +8,7 @@ descripcion: "Clínica Universitaria San Juan de Dios en Cartagena, institución
 web: "https://www.sjdcartagena.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/san-juan-dios-cartagena.png"
 ---
 
 Clínica Universitaria San Juan de Dios en Cartagena, institución con vocación docente y asistencial en la Heroica. Sus programas de formación médica y especialización clínica contribuyen al desarrollo de la salud en la región. Servicios hospitalarios completos con equipo de especialistas certificados.

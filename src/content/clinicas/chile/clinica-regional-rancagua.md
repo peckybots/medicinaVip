@@ -8,6 +8,7 @@ descripcion: "Clínica privada en Rancagua, capital de la región de O'Higgins. 
 web: "https://www.clinicarancagua.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-regional-rancagua.png"
 ---
 
 Clínica privada en Rancagua, capital de la región de O'Higgins. Atiende a la población vinícola y minera de la región con servicios hospitalarios de alta calidad. Sus programas de cardiología son reconocidos en el corredor entre Santiago y el sur de Chile.

@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Madrid, Madrid 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-viamed-santa-elena-s-l.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

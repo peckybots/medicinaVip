@@ -12,6 +12,7 @@ fundacion: 1960
 camas: 220
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/clinica-9-de-julio-tucuman.png"
 ---
 
 Principal referente de la salud privada en Tucumán y el noroeste argentino. Con más de 60 años de historia, es el centro de salud privado más completo y reconocido de la región, con tecnología de alta complejidad.

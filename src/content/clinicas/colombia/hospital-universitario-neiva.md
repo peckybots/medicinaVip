@@ -8,6 +8,7 @@ descripcion: "Hospital universitario de referencia en Neiva con programas acadé
 web: "https://www.hospitalneiva.gov.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/hospital-universitario-neiva.png"
 ---
 
 Hospital universitario de referencia en Neiva con programas académicos y asistenciales de alta calidad. Atiende a la población del sur colombiano con servicios especializados. Sus programas de medicina interna y cirugía son reconocidos en el departamento del Huila.

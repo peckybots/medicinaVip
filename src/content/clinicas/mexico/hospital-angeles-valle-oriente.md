@@ -13,6 +13,7 @@ fundacion: 2005
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-angeles-valle-oriente.png"
 ---
 
 Parte del grupo Ángeles Hospitales, uno de los grupos hospitalarios privados más grandes de México. Ofrece atención médica integral con tecnología de punta en el área metropolitana de Monterrey.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado en Mazatlán, importante destino turístico del P
 web: "https://www.hospitalsharp.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-sharp-mazatlan.png"
 ---
 
 Hospital privado en Mazatlán, importante destino turístico del Pacífico mexicano. Atiende a turistas internacionales y residentes del Puerto con servicios hospitalarios de calidad. Sus servicios de urgencias y medicina turística son esenciales para el sector vacacional de la ciudad.

@@ -13,6 +13,7 @@ fundacion: 1982
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-medico-dalinde.png"
 ---
 
 El Centro Médico Dalinde es el quinto hospital privado mejor rankeado de México en FUNSALUD 2024. Ofrece atención de alta especialidad en el corazón de la CDMX, con un equipo médico reconocido y tecnología de vanguardia.

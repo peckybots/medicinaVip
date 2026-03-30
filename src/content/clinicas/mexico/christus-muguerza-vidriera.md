@@ -13,6 +13,7 @@ fundacion: 1950
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-vidriera.png"
 ---
 
 Parte de la red CHRISTUS Muguerza en Monterrey, el Hospital Vidriera se destaca entre los mejores de la región norte en el ranking FUNSALUD. Combina excelencia médica con instalaciones modernas para atención general y de alta especialidad.

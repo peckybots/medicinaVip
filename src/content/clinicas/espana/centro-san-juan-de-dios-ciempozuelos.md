@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Ciempozuelos, M
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centro-san-juan-de-dios-ciempozuelos.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Ciempozuelos, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

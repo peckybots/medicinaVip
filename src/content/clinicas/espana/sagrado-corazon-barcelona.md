@@ -8,6 +8,7 @@ descripcion: "Hospital privado de tradición religiosa en Barcelona con especial
 web: "https://www.irsscb.cat"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/sagrado-corazon-barcelona.png"
 ---
 
 Hospital privado de tradición religiosa en Barcelona con especialización en neurología y psiquiatría. Con más de 100 años de historia, es referente en neurociencias y atención de salud mental. Sus programas de neurología y neurocirugía son reconocidos internacionalmente.

@@ -8,6 +8,7 @@ descripcion: "Hospitales de salud mental y tratamiento de toxicomanías privado 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/casta-guadarrama.png"
 ---
 
 Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Guadarrama, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

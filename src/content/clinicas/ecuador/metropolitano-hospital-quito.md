@@ -13,6 +13,7 @@ fundacion: 1986
 camas: 218
 featured: true
 draft: false
+imagen: "/images/clinicas/ecuador/metropolitano-hospital-quito.png"
 ---
 
 Uno de los hospitales privados más reconocidos y tecnológicamente avanzados de Ecuador. Referente en turismo médico y atención de alta complejidad, con acreditación internacional y más de 60 especialidades disponibles.

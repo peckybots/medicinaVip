@@ -8,6 +8,7 @@ descripcion: "Médica Campestre en León es el hospital privado de referencia de
 web: "https://www.medicacampestre.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/medica-campestre-leon.png"
 ---
 
 Médica Campestre en León es el hospital privado de referencia del estado de Guanajuato. Con más de 40 años de tradición, es pionero en cardiología y trasplante renal en la región del Bajío. Sus programas de alta especialidad atienden a pacientes de Guanajuato, Jalisco, Michoacán y San Luis Potosí.

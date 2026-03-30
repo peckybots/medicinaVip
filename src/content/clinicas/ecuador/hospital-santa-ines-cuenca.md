@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 100
 featured: true
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-santa-ines-cuenca.png"
 ---
 
 Principal hospital privado de Cuenca y el Austro ecuatoriano. Con décadas de trayectoria, es el centro de salud privado de mayor reconocimiento en la Región 6 de Ecuador, ofreciendo servicios de alta complejidad.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/breast-clinica-de-la-mama-nuevo-hospital-de-dia.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en La Plata, Buenos Aires.

@@ -8,6 +8,7 @@ descripcion: "Clínica Adventista Ana Stahl en Iquitos, la principal institució
 web: "https://www.anastahl.org.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-ana-stahl-iquitos.png"
 ---
 
 Clínica Adventista Ana Stahl en Iquitos, la principal institución hospitalaria privada de la mayor ciudad amazónica del mundo. Sus servicios de medicina tropical y urgencias son esenciales para la población amazónica y turistas que visitan la selva peruana. Con experiencia única en enfermedades tropicales y atención a comunidades indígenas de la Amazonía.

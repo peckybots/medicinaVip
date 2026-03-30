@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Guadalajara, JALISCO, México. Establec
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/ion-onco-biotecnologias-de-mexico-s-a-de-c-v.png"
 ---
 
 Clinica privada ubicada en Guadalajara, JALISCO, México. Establecimiento de salud registrado en CLUES.

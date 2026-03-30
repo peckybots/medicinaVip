@@ -13,6 +13,7 @@ fundacion: 2004
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-hm-sanchinarro.png"
 ---
 
 Centro oncológico de referencia en España del grupo HM Hospitales. Reconocido entre los cinco mejores hospitales privados del país, destaca por la integración de investigación oncológica y asistencia clínica de excelencia.

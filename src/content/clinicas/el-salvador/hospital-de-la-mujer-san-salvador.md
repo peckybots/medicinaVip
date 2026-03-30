@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/el-salvador/hospital-de-la-mujer-san-salvador.png"
 ---
 
 Hospital privado especializado en la salud de la mujer en San Salvador. Referente en ginecología y obstetricia en El Salvador, con servicios especializados en salud reproductiva, maternidad de alto riesgo y neonatología de alta complejidad.

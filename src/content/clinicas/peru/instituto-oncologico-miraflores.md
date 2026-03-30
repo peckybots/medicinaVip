@@ -8,6 +8,7 @@ descripcion: "El Instituto Oncológico Miraflores es un centro privado especiali
 web: "http://www.clinicaoncologica.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/instituto-oncologico-miraflores.png"
 ---
 
 El Instituto Oncológico Miraflores es un centro privado especializado exclusivamente en el diagnóstico y tratamiento del cáncer, ubicado en el exclusivo distrito de Miraflores. Con 26 especialidades oncológicas y equipos de última generación, atiende a pacientes oncológicos de Lima y del interior del Perú. Sus programas de radioterapia e inmunoterapia son de los más avanzados del sistema privado peruano.

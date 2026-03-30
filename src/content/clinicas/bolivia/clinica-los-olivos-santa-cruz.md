@@ -8,6 +8,7 @@ descripcion: "Clínica Los Olivos en Santa Cruz de la Sierra, institución médi
 web: "https://www.clinicalosolivos.com.bo"
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-los-olivos-santa-cruz.png"
 ---
 
 Clínica Los Olivos en Santa Cruz de la Sierra, institución médica privada de referencia en el oriente boliviano. Con instalaciones modernas y equipo de especialistas de alto nivel. Sus programas de cardiología y oncología son demandados por la creciente clase media y empresarial cruceña.

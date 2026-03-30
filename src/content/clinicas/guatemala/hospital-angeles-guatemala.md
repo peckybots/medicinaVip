@@ -12,6 +12,7 @@ fundacion: 2010
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-angeles-guatemala.png"
 ---
 
 Hospital privado con más de 10 años de trayectoria en Guatemala, con todos sus servicios de salud integral certificados bajo estándares internacionales. Destaca por combinar tecnología avanzada con la experiencia de sus profesionales.

@@ -8,6 +8,7 @@ descripcion: "Hospital Internacional en Tegucigalpa, institución médica privad
 web: "https://www.hospitalinternacional.hn"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/hospital-internacional-tegucigalpa.png"
 ---
 
 Hospital Internacional en Tegucigalpa, institución médica privada de alta especialidad en la capital de Honduras. Sus programas de cardiología y oncología son de los más avanzados del sistema privado hondureño. Atiende a pacientes con seguros privados y corporativos con estándares internacionales.

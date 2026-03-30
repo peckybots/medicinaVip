@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en Granada, referente de la medicina privada en An
 web: "https://www.vithas.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-granada.png"
 ---
 
 Hospital Vithas en Granada, referente de la medicina privada en Andalucía oriental. Con décadas de trayectoria en la atención médica granadina, ofrece servicios de alta especialidad. Sus programas de traumatología y oncología son especialmente reconocidos en la región.

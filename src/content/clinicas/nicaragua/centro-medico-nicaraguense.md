@@ -12,6 +12,7 @@ fundacion: 1982
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/nicaragua/centro-medico-nicaraguense.png"
 ---
 
 Centro médico privado de referencia en Managua con amplia cobertura de especialidades. Ofrece atención médica ambulatoria y hospitalaria de calidad con tecnología actualizada y especialistas de alta formación.

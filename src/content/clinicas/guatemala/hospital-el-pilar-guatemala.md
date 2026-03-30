@@ -12,6 +12,7 @@ fundacion: 1962
 camas: 170
 featured: true
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-el-pilar-guatemala.png"
 ---
 
 Fundado en 1962 por un grupo de médicos visionarios, es uno de los hospitales privados de referencia en Guatemala. Destaca por su atención médica de alta calidad y sus modernas instalaciones en la zona más exclusiva de la capital guatemalteca.

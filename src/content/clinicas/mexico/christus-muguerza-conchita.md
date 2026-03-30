@@ -8,6 +8,7 @@ descripcion: "Hospital Christus Muguerza Conchita en Monterrey, especializado en
 web: "https://www.christus.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-conchita.png"
 ---
 
 Hospital Christus Muguerza Conchita en Monterrey, especializado en atención materno-infantil y una de las maternidades privadas más reconocidas del noreste. Su unidad de neonatología atiende los casos más críticos de la región con tecnología de vanguardia. El programa de partos humanizados y lactancia materna lo hacen referente en obstetricia.

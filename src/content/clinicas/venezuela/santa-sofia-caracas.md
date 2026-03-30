@@ -8,6 +8,7 @@ descripcion: "Clínica Santa Sofía en Caracas, institución privada de alta com
 web: "https://www.clinicasantasofia.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/santa-sofia-caracas.png"
 ---
 
 Clínica Santa Sofía en Caracas, institución privada de alta complejidad en la capital venezolana. Sus unidades de cardiología y oncología han mantenido estándares de excelencia. Con médicos especialistas de reconocida trayectoria y equipos diagnósticos, atiende a los pacientes más exigentes del país.

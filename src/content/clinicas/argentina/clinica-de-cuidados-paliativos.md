@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://ccpbaires.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-de-cuidados-paliativos.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Constitucion, Caba.

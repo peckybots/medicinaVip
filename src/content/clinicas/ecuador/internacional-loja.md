@@ -8,6 +8,7 @@ descripcion: "Clínica Internacional en Loja, la capital musical del Ecuador y p
 web: "https://www.clinicainternacionalloja.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/internacional-loja.png"
 ---
 
 Clínica Internacional en Loja, la capital musical del Ecuador y puerta de entrada a la sierra sur. Sus servicios hospitalarios atienden a la universitaria y cultural comunidad lojana. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en el sur del Ecuador.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Bajo riesgo
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-un-lugar-hogar.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Bajo riesgo con internación simple en Don Torcuato, Buenos Aires.

@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Ángeles en la zona del Pedregal, una de las á
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-pedregal-cdmx.png"
 ---
 
 Hospital de la red Ángeles en la zona del Pedregal, una de las áreas residenciales más exclusivas de Ciudad de México. Ofrece servicios médicos integrales con un enfoque en atención personalizada. Referente de la medicina privada en el sur capitalino.

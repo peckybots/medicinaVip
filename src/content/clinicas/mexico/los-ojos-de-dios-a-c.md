@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimi
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/los-ojos-de-dios-a-c.png"
 ---
 
 Clinica privada ubicada en Juarez, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.

@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Torrejón de Ardoz, municipio con gran ba
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-torrejon-madrid.png"
 ---
 
 Hospital Quirónsalud en Torrejón de Ardoz, municipio con gran base militar y población diversa al este de Madrid. Atiende a la numerosa población del corredor del Henares con servicios hospitalarios modernos. Sus instalaciones actualizadas y equipo médico especializado cubren las necesidades de la zona.

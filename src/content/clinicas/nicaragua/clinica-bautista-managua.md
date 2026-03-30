@@ -8,6 +8,7 @@ descripcion: "La Clínica Bautista en Managua es la institución médica privada
 web: "https://www.clinicabautista.com.ni"
 featured: false
 draft: false
+imagen: "/images/clinicas/nicaragua/clinica-bautista-managua.png"
 ---
 
 La Clínica Bautista en Managua es la institución médica privada de mayor referencia en Nicaragua. Con más de 60 años atendiendo a los nicaragüenses, es líder del sistema privado de salud nacional. Sus programas de cardiología y oncología son reconocidos en toda Centroamérica.

@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Bilbao, referente de la medicina privada 
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-bilbao.png"
 ---
 
 Hospital Quirónsalud en Bilbao, referente de la medicina privada en el País Vasco. Trabaja con los principales seguros médicos y ofrece atención personalizada de alta calidad. Sus programas de oncología y cardiología son de los más avanzados del norte de España.

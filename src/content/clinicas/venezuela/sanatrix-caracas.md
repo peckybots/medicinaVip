@@ -8,6 +8,7 @@ descripcion: "Clínica Sanatrix en Caracas, institución privada con enfoque en 
 web: "https://www.sanatrix.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/sanatrix-caracas.png"
 ---
 
 Clínica Sanatrix en Caracas, institución privada con enfoque en oncología y medicina interna. Sus programas de tratamiento del cáncer son reconocidos en la comunidad médica venezolana. Con tecnología diagnóstica disponible y equipo médico especializado para el manejo integral del paciente oncológico.

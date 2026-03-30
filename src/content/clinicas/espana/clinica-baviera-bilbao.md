@@ -8,6 +8,7 @@ descripcion: "Clínica Baviera en Bilbao, la clínica oftalmológica especializa
 web: "https://www.clinica-baviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-baviera-bilbao.png"
 ---
 
 Clínica Baviera en Bilbao, la clínica oftalmológica especializada más reconocida del País Vasco. Sus tratamientos refractivos y microcirugía de cataratas atraen a pacientes de toda Vizcaya y provincias vecinas. Con tecnología de diagnóstico ocular de última generación y cirujanos de alto nivel.

@@ -8,6 +8,7 @@ descripcion: "Hospital Bella Vista en Ciudad de Panamá, institución médica pr
 web: "https://www.hospitalbellavista.com.pa"
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/hospital-bella-vista-panama.png"
 ---
 
 Hospital Bella Vista en Ciudad de Panamá, institución médica privada de tradición en el corazón de la capital. Con décadas de historia atendiendo a los panameños con servicios médicos accesibles y de calidad. Sus programas de ginecología y urgencias son ampliamente valorados.

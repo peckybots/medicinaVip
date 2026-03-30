@@ -11,6 +11,7 @@ fundacion: 2001
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-guadalupe.png"
 ---
 
 Parte del sistema Christus Muguerza, ofrece atención integral privada en Guadalupe, municipio conurbado de Monterrey. Con tecnología actualizada y cobertura de principales seguros médicos del norte de México.

@@ -8,6 +8,7 @@ descripcion: "La Clínica Santa María en La Paz es una institución médica pri
 web: "https://www.clinicasantamaria.com.bo"
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-santa-maria-la-paz.png"
 ---
 
 La Clínica Santa María en La Paz es una institución médica privada de tradición en la ciudad más alta del mundo. Sus programas de cirugía de altitud y medicina interna son especializados para las condiciones del altiplano. Atiende a pacientes paceños con servicios de calidad en un entorno geográficamente único.

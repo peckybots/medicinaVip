@@ -8,6 +8,7 @@ descripcion: "Clínica especializada en la atención a turistas y diplomáticos 
 web: "https://www.ciragarcía.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/cuba/cira-garcia-habana.png"
 ---
 
 Clínica especializada en la atención a turistas y diplomáticos en La Habana. Con décadas de experiencia en medicina internacional, ofrece servicios de alta calidad en un entorno acogedor. Personal multilingüe y convenios con seguros médicos internacionales.

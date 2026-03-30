@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-monte-sinai-guayaquil.png"
 ---
 
 Hospital privado moderno en el norte de Guayaquil, referente en atención de urgencias y hospitalización en la ciudad. Ofrece servicios médico-quirúrgicos con tecnología actualizada y acceso a los principales seguros privados ecuatorianos.

@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Córdoba, Córdoba (Andalu
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-san-juan-de-dios-de-cordoba.png"
 ---
 
 Hospitales Generales privado ubicado en Córdoba, Córdoba (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

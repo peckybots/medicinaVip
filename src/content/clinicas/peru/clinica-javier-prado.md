@@ -13,6 +13,7 @@ fundacion: 1965
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-javier-prado.png"
 ---
 
 Con 60 años de historia, la Clínica Javier Prado es una institución consolidada en el este de Lima. Es referente en cardiología intervencionista y cirugía de alta complejidad para la zona de San Borja y alrededores. Brinda atención personalizada en un entorno de calidad privada.

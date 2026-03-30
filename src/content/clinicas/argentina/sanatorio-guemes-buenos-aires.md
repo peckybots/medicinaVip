@@ -8,6 +8,7 @@ descripcion: "Sanatorio privado de referencia en Buenos Aires con más de 50 añ
 web: "https://www.sanatorioguemes.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-guemes-buenos-aires.png"
 ---
 
 Sanatorio privado de referencia en Buenos Aires con más de 50 años de historia. Reconocido por sus programas de cardiología intervencionista y cirugía vascular de alta complejidad. Trabaja con las principales prepagas y seguros médicos del mercado argentino.

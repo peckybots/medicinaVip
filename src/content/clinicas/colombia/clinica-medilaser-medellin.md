@@ -11,6 +11,7 @@ fundacion: 1997
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-medilaser-medellin.png"
 ---
 
 Clínica privada Medilaser en Medellín con cobertura integral de especialidades médico-quirúrgicas. Parte de la red Medilaser que opera en varias ciudades colombianas, reconocida por su calidad y accesibilidad en el servicio privado.

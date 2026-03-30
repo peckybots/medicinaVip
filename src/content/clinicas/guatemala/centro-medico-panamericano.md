@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/centro-medico-panamericano.png"
 ---
 
 Centro médico privado con amplia cobertura de especialidades en Ciudad de Guatemala. Ofrece atención médico-quirúrgica de calidad con equipamiento moderno y acceso a los principales seguros médicos de Guatemala.

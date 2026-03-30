@@ -8,6 +8,7 @@ descripcion: "Clínica Jesús del Norte en Lima, institución hospitalaria priva
 web: "https://www.clinicajesusdelnorte.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-jesus-del-norte.png"
 ---
 
 Clínica Jesús del Norte en Lima, institución hospitalaria privada atendiendo al corredor norte de la capital peruana. Sus servicios de cardiología y urgencias son los más demandados en los distritos del cono norte de Lima. Con médicos especializados y atención personalizada para las familias del norte limeño.

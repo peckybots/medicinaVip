@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-antofagasta.png"
 ---
 
 Principal clínica privada de Antofagasta y la Región de Antofagasta, que atiende a la población minera y residente de la zona norte de Chile. Cuenta con servicios de urgencias y hospitalización de alta complejidad.

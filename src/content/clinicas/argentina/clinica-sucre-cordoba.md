@@ -12,6 +12,7 @@ fundacion: 1965
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-sucre-cordoba.png"
 ---
 
 Reconocida clínica privada de Córdoba con amplia trayectoria en la atención médica de la región. Cuenta con equipamiento moderno y un staff de especialistas de alta formación para resolver patologías de mediana y alta complejidad.

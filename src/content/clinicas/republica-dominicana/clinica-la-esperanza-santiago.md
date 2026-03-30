@@ -12,6 +12,7 @@ fundacion: 1973
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/clinica-la-esperanza-santiago.png"
 ---
 
 Clínica privada consolidada en Santiago de los Caballeros con amplia trayectoria en la región norte de República Dominicana. Ofrece servicios médico-quirúrgicos con equipamiento actualizado y un equipo médico de alta formación.

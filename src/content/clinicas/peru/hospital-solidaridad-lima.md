@@ -8,6 +8,7 @@ descripcion: "Red de clínicas de la Solidaridad en Lima, parte del sistema de s
 web: "https://www.sisol.gob.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/hospital-solidaridad-lima.png"
 ---
 
 Red de clínicas de la Solidaridad en Lima, parte del sistema de salud semi-público municipal que ofrece servicios a precios subsidiados para la población de menores recursos. Con múltiples sedes en toda Lima Metropolitana, complementa la oferta de salud accesible. Sus servicios de medicina preventiva y diagnóstico básico son los más demandados.

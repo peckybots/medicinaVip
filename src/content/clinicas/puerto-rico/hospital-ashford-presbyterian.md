@@ -12,6 +12,7 @@ fundacion: 1953
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/puerto-rico/hospital-ashford-presbyterian.png"
 ---
 
 Uno de los hospitales privados mejor valorados de San Juan según Yelp y US News. Reconocido por su excelencia médica y servicios integrales de hospitalización y urgencias en el sector de Condado, una de las zonas más exclusivas de San Juan.

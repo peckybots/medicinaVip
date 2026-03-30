@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/grupo-medico-santa-paula.png"
 ---
 
 Centro médico privado en el exclusivo sector de Santa Paula en Caracas. Reconocido por su servicio personalizado y la calidad de sus especialistas médicos en una de las zonas residenciales más prestigiosas de la capital venezolana.

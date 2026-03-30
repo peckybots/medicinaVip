@@ -13,6 +13,7 @@ fundacion: 1998
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-pedregal.png"
 ---
 
 Uno de los hospitales más exclusivos de la red Ángeles en CDMX, ubicado en Pedregal. Atiende un perfil VIP con suites hospitalarias premium, tecnología de diagnóstico avanzado y equipo médico de alto renombre en la ciudad.

@@ -8,6 +8,7 @@ descripcion: "Clínica Centenario Peruano Japonesa en Lima, institución hospita
 web: "https://www.ccpj.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-centenario-peruano-japonesa.png"
 ---
 
 Clínica Centenario Peruano Japonesa en Lima, institución hospitalaria fundada por la comunidad nikkei con más de 100 años de historia. Sus servicios de medicina interna y cardiología son reconocidos por la comunidad japonesa y limeña en general. Con instalaciones modernas y valores de excelencia y servicio propios de la cultura japonesa.

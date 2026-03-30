@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Christus Muguerza en la capital del estado más
 web: "https://www.christusmuguerza.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-chihuahua.png"
 ---
 
 Hospital de la red Christus Muguerza en la capital del estado más grande de México. Atiende a la población del norte del país con los estándares de excelencia del grupo. Sus especialidades de cardiología y medicina interna son referentes en la región.

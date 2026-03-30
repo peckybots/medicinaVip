@@ -8,6 +8,7 @@ descripcion: "Hospital Santa Teresa en Santa Ana, la segunda ciudad de El Salvad
 web: "https://www.hospitalsantateresa.com.sv"
 featured: false
 draft: false
+imagen: "/images/clinicas/el-salvador/hospital-santa-teresa-santa-ana.png"
 ---
 
 Hospital Santa Teresa en Santa Ana, la segunda ciudad de El Salvador y capital cafetalera de occidente. Sus instalaciones modernas y equipo de especialistas atienden a la comunidad del occidente salvadoreño. Sus servicios de cardiología y cirugía general son especialmente reconocidos en la región.

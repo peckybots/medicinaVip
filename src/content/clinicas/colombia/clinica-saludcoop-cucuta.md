@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Cúcuta, ciudad fronteriza con V
 web: "https://www.saludcoop.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-saludcoop-cucuta.png"
 ---
 
 Clínica privada de referencia en Cúcuta, ciudad fronteriza con Venezuela. Atiende a población local y venezolana que busca atención de calidad en Colombia. Sus servicios de urgencias y medicina interna son especialmente demandados en la región.

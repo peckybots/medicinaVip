@@ -12,6 +12,7 @@ fundacion: 1992
 camas: 150
 featured: true
 draft: false
+imagen: "/images/clinicas/honduras/hospital-cemesa-san-pedro-sula.png"
 ---
 
 Principal hospital privado de San Pedro Sula, la ciudad industrial y comercial más importante de Honduras. Centro de referencia para la salud privada en el norte del país con amplia cobertura de especialidades médico-quirúrgicas.

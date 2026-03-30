@@ -8,6 +8,7 @@ descripcion: "Hospitales de salud mental y tratamiento de toxicomanías privado 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/area-psiquiatrica-san-juan-de-dios.png"
 ---
 
 Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Palencia, Palencia (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.

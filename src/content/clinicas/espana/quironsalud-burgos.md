@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Burgos, ciudad histórica del Camino de S
 web: "https://www.quironsalud.es/burgos"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-burgos.png"
 ---
 
 Hospital Quirónsalud en Burgos, ciudad histórica del Camino de Santiago y referente industrial castellano. Sus servicios hospitalarios completos atienden a la población burgalesa con calidad médica de primer nivel. La cardiología y cirugía general son las especialidades más demandadas en la capital burgense.

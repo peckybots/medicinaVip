@@ -13,6 +13,7 @@ fundacion: 2003
 camas: 160
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-angeles-puebla.png"
 ---
 
 Hospital privado de alta especialidad del grupo Ángeles Hospitales en la ciudad de Puebla. Referente regional para el estado de Puebla y Tlaxcala, con servicios de urgencias 24 horas y quirófanos de alta tecnología.

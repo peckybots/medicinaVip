@@ -13,6 +13,7 @@ fundacion: 1956
 camas: 350
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/clinica-imbanaco-cali.png"
 ---
 
 La Clínica Imbanaco es el principal centro médico privado de Cali y uno de los más reconocidos de Colombia. Acreditada internacionalmente por la JCI, lidera la atención de alta complejidad en el suroccidente colombiano desde hace más de 70 años.

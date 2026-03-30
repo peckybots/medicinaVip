@@ -8,6 +8,7 @@ descripcion: "Hospital Beata María Ana en el barrio de Arganzuela de Madrid, in
 web: "https://www.hbma.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-beata-maria-ana.png"
 ---
 
 Hospital Beata María Ana en el barrio de Arganzuela de Madrid, institución hospitalaria privada con larga tradición en la capital. Sus servicios cardiológicos y oncológicos atienden a residentes del sur de Madrid con alta calidad. Con instalaciones modernas y equipo de especialistas certificados y comprometidos con la atención al paciente.

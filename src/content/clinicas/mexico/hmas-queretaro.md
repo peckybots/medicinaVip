@@ -8,6 +8,7 @@ descripcion: "Hospital H+ en Querétaro, uno de los estados de mayor crecimiento
 web: "https://www.hmas.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hmas-queretaro.png"
 ---
 
 Hospital H+ en Querétaro, uno de los estados de mayor crecimiento económico e industrial de México. Brinda atención médica integral a la creciente población del Bajío, con servicios especializados en cirugía y cardiología. Ubicado estratégicamente para atender a empresarios y familias del corredor industrial Querétaro-San Juan del Río.

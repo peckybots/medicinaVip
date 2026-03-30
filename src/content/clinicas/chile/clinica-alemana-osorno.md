@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Osorno, capital de la provincia 
 web: "https://www.alemana.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-alemana-osorno.png"
 ---
 
 Clínica privada de referencia en Osorno, capital de la provincia de igual nombre en el sur de Chile. Atiende a la población del sur de Chile con servicios hospitalarios de calidad. Sus instalaciones modernas y equipo médico especializado la posicionan como líder de la salud privada en la región.

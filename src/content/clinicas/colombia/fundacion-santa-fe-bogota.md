@@ -13,6 +13,7 @@ fundacion: 1972
 camas: 450
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/fundacion-santa-fe-bogota.png"
 ---
 
 La Fundación Santa Fe de Bogotá es el segundo hospital de Colombia en el ranking Newsweek (92.85%) y puesto 244 a nivel mundial. Hospital académico de referencia nacional con programas de investigación clínica, trasplantes y oncología de alta complejidad.

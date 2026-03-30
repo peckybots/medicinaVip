@@ -12,6 +12,7 @@ fundacion: 1983
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-borja-lima.png"
 ---
 
 Clínica privada en el exclusivo distrito de San Borja en Lima. Ofrece atención médico-quirúrgica de calidad con tecnología diagnóstica moderna y acceso a la mayoría de seguros privados peruanos.

@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 30
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/clinica-privada-central-san-jose.png"
 ---
 
 Clínica privada en San José especializada en cirugía estética y procedimientos de medicina estética. Destino de turismo médico de belleza y bienestar para pacientes nacionales e internacionales que visitan Costa Rica.

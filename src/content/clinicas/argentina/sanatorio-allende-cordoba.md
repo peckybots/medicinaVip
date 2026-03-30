@@ -13,6 +13,7 @@ fundacion: 1939
 camas: 500
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-allende-cordoba.png"
 ---
 
 El Sanatorio Allende es el principal sanatorio privado de Córdoba con dos sedes (Centro y Cerro). Es referente en cardiología, ortopedia y trasplantes para la región central del país. Con formación académica vinculada a las universidades nacionales y varias carreras de especialización médica.

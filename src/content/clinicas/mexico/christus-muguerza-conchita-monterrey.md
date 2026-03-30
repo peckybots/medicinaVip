@@ -8,6 +8,7 @@ descripcion: "Hospital histórico de la red Christus Muguerza en el corazón de 
 web: "https://www.christusmuguerza.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-conchita-monterrey.png"
 ---
 
 Hospital histórico de la red Christus Muguerza en el corazón de Monterrey. Ofrece atención de alta calidad con infraestructura moderna y personal altamente capacitado. Forma parte de una de las redes hospitalarias más grandes del noreste de México.

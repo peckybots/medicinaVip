@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Alicante, referente de la medicina privad
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-alicante.png"
 ---
 
 Hospital Quirónsalud en Alicante, referente de la medicina privada en la Comunidad Valenciana. Atiende a una amplia comunidad de residentes extranjeros y turistas en la Costa Blanca. Sus especialidades de traumatología y cardiología son ampliamente reconocidas en la región.

@@ -12,6 +12,7 @@ fundacion: 1982
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/hospital-san-jorge-tegucigalpa.png"
 ---
 
 Hospital privado con presencia en varios sectores de Tegucigalpa, ofreciendo atención médica accesible de calidad. Forma parte de la red de hospitales privados hondureños con cobertura de aseguradoras nacionales.

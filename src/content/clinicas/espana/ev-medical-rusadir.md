@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Melilla, Melill
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/ev-medical-rusadir.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Melilla, Melilla (Melilla), España. Registrado en el Catálogo Nacional de Hospitales 2025.

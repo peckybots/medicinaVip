@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Ángeles en Xalapa, capital del estado de Verac
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-xalapa.png"
 ---
 
 Hospital de la red Ángeles en Xalapa, capital del estado de Veracruz. Atiende a la población del centro de Veracruz con servicios hospitalarios de alta calidad. Sus instalaciones modernas y equipo médico especializado lo posicionan como referente de la salud privada en la región.

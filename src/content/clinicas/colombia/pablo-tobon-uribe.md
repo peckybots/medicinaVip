@@ -13,6 +13,7 @@ fundacion: 1972
 camas: 500
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/pablo-tobon-uribe.png"
 ---
 
 El Hospital Pablo Tobón Uribe es el mejor hospital de Medellín según Newsweek (92.35%) y uno de los cinco con acreditación JCI en Colombia. Referencia en trasplante hepático y renal, con el programa de trasplante de hígado más activo del país.

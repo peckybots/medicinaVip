@@ -8,6 +8,7 @@ descripcion: "Clínica Bucaramanga en la Ciudad Bonita, referente de la salud pr
 web: "https://www.clinicabucaramanga.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-bucaramanga.png"
 ---
 
 Clínica Bucaramanga en la Ciudad Bonita, referente de la salud privada en Santander. Sus servicios hospitalarios integrales atienden a la creciente población de la Área Metropolitana de Bucaramanga. Con especialidades en cardiología y ortopedia, atiende casos complejos del nororiente colombiano.

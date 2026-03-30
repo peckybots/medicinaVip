@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Torremolinos, Malaga (Anda
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-internacional-hm-santa-elena.png"
 ---
 
 Hospitales Generales privado ubicado en Torremolinos, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

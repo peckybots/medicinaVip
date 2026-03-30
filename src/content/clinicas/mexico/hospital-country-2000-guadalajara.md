@@ -12,6 +12,7 @@ fundacion: 1997
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-country-2000-guadalajara.png"
 ---
 
 Hospital Country 2000 es un centro médico privado de referencia en Guadalajara con servicios de cirugía de alta especialidad. Reconocido por su equipamiento moderno y la trayectoria de su equipo médico en múltiples especialidades.

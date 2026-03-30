@@ -13,6 +13,7 @@ fundacion: 1943
 camas: 380
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/clinica-uc-christus.png"
 ---
 
 La clínica universitaria de la Pontificia Universidad Católica de Chile, reconocida entre las mejores de Latinoamérica. Integra investigación, docencia y asistencia de alta complejidad. Acreditada internacionalmente con más de 50 especialidades.

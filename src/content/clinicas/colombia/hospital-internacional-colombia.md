@@ -8,6 +8,7 @@ descripcion: "El Hospital Internacional de Colombia en Bucaramanga es el hospita
 web: "https://www.hicol.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/hospital-internacional-colombia.png"
 ---
 
 El Hospital Internacional de Colombia en Bucaramanga es el hospital privado más moderno del nororiente colombiano. Con tecnología de cirugía robótica y certificación JCI, es referente del turismo médico en la región. Sus programas de cardiología y oncología son los más avanzados del sistema privado santandereano.

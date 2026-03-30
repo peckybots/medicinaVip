@@ -8,6 +8,7 @@ descripcion: "Hospital privado de tradición española en Guadalajara con décad
 web: "https://www.hospitalespanolguadalajara.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-espanol-guadalajara.png"
 ---
 
 Hospital privado de tradición española en Guadalajara con décadas de historia en la medicina tapatiíta. Ofrece servicios hospitalarios de alta calidad con un equipo médico de gran especialización. Sus programas de oncología y cardiología son reconocidos en el occidente mexicano.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado con valores humanistas y décadas de presencia en
 web: "https://www.hospitalbiblicocr.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-biblico-san-jose.png"
 ---
 
 Hospital privado con valores humanistas y décadas de presencia en San José. Reconocido por su atención personalizada y equipo médico de alta calidad. Es una opción de confianza para la clase media y ejecutivos costarricenses.

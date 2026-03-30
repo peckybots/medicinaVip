@@ -8,6 +8,7 @@ descripcion: "Institución hospitalaria fundada en 1867 por la comunidad alemana
 web: "https://www.hospitalaleman.org.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-aleman-buenos-aires.png"
 ---
 
 Institución hospitalaria fundada en 1867 por la comunidad alemana en Argentina. Con más de 150 años de historia, mantiene los más altos estándares de calidad médica y tecnológica. Sus certificaciones internacionales y programas de investigación lo posicionan entre los mejores hospitales de América Latina.

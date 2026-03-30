@@ -12,6 +12,7 @@ fundacion: 2002
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-medico-puerta-de-hierro.png"
 ---
 
 Complejo hospitalario privado moderno en Guadalajara que ofrece atención de alta especialidad. Cuenta con tecnología de diagnóstico avanzada y un equipo médico multidisciplinario de amplia experiencia regional.

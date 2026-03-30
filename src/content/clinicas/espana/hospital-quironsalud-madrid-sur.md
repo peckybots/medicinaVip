@@ -12,6 +12,7 @@ fundacion: 2009
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-madrid-sur.png"
 ---
 
 Hospital privado Quirónsalud en el sur de Madrid, orientado a cubrir la demanda sanitaria privada de los municipios del área sur metropolitana. Ofrece tecnología moderna con acceso directo a especialistas y cobertura de los principales seguros.

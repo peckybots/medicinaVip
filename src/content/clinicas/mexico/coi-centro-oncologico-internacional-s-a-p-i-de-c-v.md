@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Esta
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/coi-centro-oncologico-internacional-s-a-p-i-de-c-v.png"
 ---
 
 Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.

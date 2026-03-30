@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en el puerto de Veracruz, la ciudad portuaria m�
 web: "https://www.hospitalesangeles.com/veracruz"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-veracruz.png"
 ---
 
 Hospital Ángeles en el puerto de Veracruz, la ciudad portuaria más importante de México. Atiende a residentes, turistas y la comunidad portuaria e industrial de Veracruz. Sus servicios de urgencias y cardiología son fundamentales para la gran ciudad costera del Golfo de México.

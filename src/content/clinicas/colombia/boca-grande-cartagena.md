@@ -8,6 +8,7 @@ descripcion: "Clínica Boca Grande en Cartagena de Indias, referente sanitario e
 web: "https://www.clinicabocagrande.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/boca-grande-cartagena.png"
 ---
 
 Clínica Boca Grande en Cartagena de Indias, referente sanitario en la ciudad amurallada y Patrimonio de la Humanidad. Atiende a residentes y turistas en el principal destino de turismo de salud del Caribe colombiano. Sus instalaciones modernas y personal bilingüe garantizan atención de calidad para visitantes nacionales e internacionales.

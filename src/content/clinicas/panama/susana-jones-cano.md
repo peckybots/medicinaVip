@@ -8,6 +8,7 @@ descripcion: "Hospital Susana Jones Cano en la Ciudad de Panamá, institución p
 web: "https://www.hospitalsujanajones.com.pa"
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/susana-jones-cano.png"
 ---
 
 Hospital Susana Jones Cano en la Ciudad de Panamá, institución privada reconocida en la capital. Sus especialidades en cardiología y cirugía cardiovascular son de referencia en Panamá. Con equipo médico especializado e instalaciones modernas, atiende a pacientes de todo el país.

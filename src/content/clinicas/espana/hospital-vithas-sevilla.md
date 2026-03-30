@@ -11,6 +11,7 @@ fundacion: 1972
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-vithas-sevilla.png"
 ---
 
 Hospital privado Vithas en Sevilla con amplia cobertura de especialidades médico-quirúrgicas. Parte del grupo Vithas presente en toda España, ofrece atención integral con cobertura de los principales seguros médicos del país.

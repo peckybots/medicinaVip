@@ -11,6 +11,7 @@ fundacion: 1970
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-olivos.png"
 ---
 
 Clínica privada en la zona norte del Gran Buenos Aires (Olivos). Reconocida por su servicio personalizado y la calidad de sus especialistas, atiende a la población del corredor norte del GBA.

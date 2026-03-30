@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Salamanca, ciudad universitaria Patrimoni
 web: "https://www.quironsalud.es/salamanca"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-salamanca.png"
 ---
 
 Hospital Quirónsalud en Salamanca, ciudad universitaria Patrimonio de la Humanidad y referente académico de España. Sus servicios hospitalarios de calidad atienden a la comunidad universitaria y población local. La vinculación con la Universidad de Salamanca enriquece la práctica médica con investigación y formación.

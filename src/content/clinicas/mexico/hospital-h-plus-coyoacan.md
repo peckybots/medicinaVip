@@ -8,6 +8,7 @@ descripcion: "Hospital H+ en la delegación Coyoacán, zona sur de la Ciudad de 
 web: "https://www.hmas.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-h-plus-coyoacan.png"
 ---
 
 Hospital H+ en la delegación Coyoacán, zona sur de la Ciudad de México. Especializado en atención familiar con servicios pediátricos y obstétricos de excelencia. Sus instalaciones modernas y equipo multidisciplinario garantizan atención de calidad.

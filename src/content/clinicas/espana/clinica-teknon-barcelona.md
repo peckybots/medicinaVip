@@ -13,6 +13,7 @@ fundacion: 1989
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/clinica-teknon-barcelona.png"
 ---
 
 Una de las clínicas privadas más reconocidas de Barcelona y España. Parte del grupo Quirónsalud, destaca por su tecnología de punta, modelo de hospitalización de lujo y un equipo médico de primer nivel reconocido internacionalmente.

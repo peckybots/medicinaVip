@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-santa-catalina-san-jose.png"
 ---
 
 Clínica-hospital privada en San José con amplia cobertura de especialidades médico-quirúrgicas. Reconocida por ofrecer servicios de calidad accesibles con cobertura de las principales aseguradoras y planes de salud.

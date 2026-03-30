@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Xochimilco, CIUDAD DE MEXICO, México. 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/medalfa-s-a-de-c-v.png"
 ---
 
 Clinica privada ubicada en Xochimilco, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

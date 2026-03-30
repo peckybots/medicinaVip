@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en San Miguel De Allende, GUANAJUATO, Méx
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/fundacion-vamos-mexico-a-c-centro-de-rehabilitacion-integral-san-miguel-de-allende.png"
 ---
 
 Clinica privada ubicada en San Miguel De Allende, GUANAJUATO, México. Establecimiento de salud registrado en CLUES.

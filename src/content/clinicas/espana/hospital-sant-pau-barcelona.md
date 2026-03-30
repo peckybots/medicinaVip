@@ -8,6 +8,7 @@ descripcion: "Hospital histórico de Barcelona, Patrimonio de la Humanidad de la
 web: "https://www.santpau.cat"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-sant-pau-barcelona.png"
 ---
 
 Hospital histórico de Barcelona, Patrimonio de la Humanidad de la UNESCO por su arquitectura modernista. Con más de 100 años de historia, es referente de la medicina hospitalaria catalana. Sus programas de oncología, hematología y neurología son reconocidos internacionalmente.

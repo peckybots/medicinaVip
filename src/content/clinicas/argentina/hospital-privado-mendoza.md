@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-mendoza.png"
 ---
 
 Principal hospital privado especializado en adultos mayores en Mendoza. Centro de referencia para el cuidado integral del paciente adulto mayor en la provincia, con servicios de internación, rehabilitación y cuidados paliativos.

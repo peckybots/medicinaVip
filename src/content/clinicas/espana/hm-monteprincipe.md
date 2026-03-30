@@ -13,6 +13,7 @@ fundacion: 1975
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hm-monteprincipe.png"
 ---
 
 HM Montepríncipe es el hospital de referencia del sur de Madrid dentro de la red HM Hospitales. Con amplia trayectoria en cardiología y maternidad, figura en el top 10 de hospitales privados de España en los rankings de reputación más relevantes.

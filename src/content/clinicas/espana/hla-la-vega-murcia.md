@@ -8,6 +8,7 @@ descripcion: "Hospital universitario del Grupo HLA en Murcia con programa docent
 web: "https://www.hlalavega.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hla-la-vega-murcia.png"
 ---
 
 Hospital universitario del Grupo HLA en Murcia con programa docente reconocido. Sus unidades de cardiología y oncología disponen de la más avanzada tecnología. Referente de la sanidad privada murciana con amplios convenios con aseguradoras nacionales e internacionales.

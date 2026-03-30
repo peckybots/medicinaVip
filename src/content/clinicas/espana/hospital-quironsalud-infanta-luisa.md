@@ -12,6 +12,7 @@ fundacion: 1960
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-infanta-luisa.png"
 ---
 
 Hospital privado Quirónsalud en Sevilla, reconocido entre los 25 mejores hospitales privados de España. Ofrece un servicio completo de especialidades médico-quirúrgicas con tecnología diagnóstica de última generación.

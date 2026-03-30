@@ -11,6 +11,7 @@ fundacion: 1975
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-comfenalco-barranquilla.png"
 ---
 
 Clínica privada de Comfenalco en Barranquilla que ofrece atención médica integral a trabajadores y sus familias. Reconocida por su servicio accesible y de calidad en el Caribe colombiano con amplia cobertura especialidades.

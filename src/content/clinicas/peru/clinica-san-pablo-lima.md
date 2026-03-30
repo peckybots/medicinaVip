@@ -8,6 +8,7 @@ descripcion: "Clínica privada de alta complejidad en Lima con presencia en múl
 web: "https://www.clinicasanpablo.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-pablo-lima.png"
 ---
 
 Clínica privada de alta complejidad en Lima con presencia en múltiples distritos de la capital. Reconocida por sus programas de oncología y cardiología intervencionista de alto nivel. Combina tecnología de diagnóstico avanzado con atención personalizada y humanizada.

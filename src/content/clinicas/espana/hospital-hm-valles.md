@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Alcalá de Hena
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-hm-valles.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Alcalá de Henares, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

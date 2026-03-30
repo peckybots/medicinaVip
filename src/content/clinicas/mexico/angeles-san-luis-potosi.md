@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en San Luis Potosí, capital del estado homónim
 web: "https://www.hospitalesangeles.com/sanluispotosi"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-san-luis-potosi.png"
 ---
 
 Hospital Ángeles en San Luis Potosí, capital del estado homónimo en el centro-norte de México con importante industria automotriz. Sus servicios oncológicos y cardiológicos atienden a una región con más de un millón de habitantes. La cercanía con la industria automotriz genera demanda de servicios de salud privada de alta calidad.

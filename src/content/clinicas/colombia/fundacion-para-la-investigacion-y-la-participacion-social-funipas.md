@@ -8,6 +8,7 @@ descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Niv
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/fundacion-para-la-investigacion-y-la-participacion-social-funipas.png"
 ---
 
 IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Apartadó.

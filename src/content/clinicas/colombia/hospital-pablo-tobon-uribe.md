@@ -13,6 +13,7 @@ fundacion: 1956
 camas: 300
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/hospital-pablo-tobon-uribe.png"
 ---
 
 Hospital privado sin ánimo de lucro y universidad en Medellín, reconocido entre los mejores de Colombia y Latinoamérica. Acreditado por la ACHC con el mayor nivel de certificación, es referente en trasplantes y cirugía de alta complejidad.

@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Rivas-Vaciamadrid, Madrid 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hm-hospitales-1-989-s-a.png"
 ---
 
 Hospitales Generales privado ubicado en Rivas-Vaciamadrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

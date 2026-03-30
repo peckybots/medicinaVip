@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-hla-moncloa.png"
 ---
 
 Hospital universitario privado del grupo HLA en Madrid, situado entre los 12 mejores hospitales privados de España. Con modelo universitario que integra docencia e investigación con asistencia clínica de alta calidad.

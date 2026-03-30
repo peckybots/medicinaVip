@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Lleida, Lleida (Cataluña)
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-mi-nova-alian-a.png"
 ---
 
 Hospitales Generales privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

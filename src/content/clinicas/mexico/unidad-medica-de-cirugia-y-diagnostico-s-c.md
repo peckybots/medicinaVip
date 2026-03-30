@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establec
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/unidad-medica-de-cirugia-y-diagnostico-s-c.png"
 ---
 
 Clinica privada ubicada en Chihuahua, CHIHUAHUA, México. Establecimiento de salud registrado en CLUES.

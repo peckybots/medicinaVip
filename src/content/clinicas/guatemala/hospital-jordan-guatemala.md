@@ -12,6 +12,7 @@ fundacion: 1990
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-jordan-guatemala.png"
 ---
 
 Hospital privado en Ciudad de Guatemala que prioriza a sus pacientes con todos los servicios médicos hospitalarios. Reconocido por su atención integral y equipamiento moderno para resolver patologías de diversa complejidad.

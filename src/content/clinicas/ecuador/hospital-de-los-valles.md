@@ -12,6 +12,7 @@ fundacion: 2000
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-de-los-valles.png"
 ---
 
 Hospital privado ubicado en el sector de Los Valles en Quito, una zona residencial en crecimiento. Ofrece atención médico-quirúrgica integral con tecnología de diagnóstico moderno para la población del valle de Tumbaco y Cumbayá.

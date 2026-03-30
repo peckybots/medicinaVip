@@ -8,6 +8,7 @@ descripcion: "Clínica León XIII en Medellín, institución hospitalaria privad
 web: "https://www.clinicaleonxiii.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-leon-xiii-medellin.png"
 ---
 
 Clínica León XIII en Medellín, institución hospitalaria privada con amplia presencia en el sistema de salud antioqueño. Sus servicios quirúrgicos y de medicina interna atienden a una amplia población de la ciudad y el departamento. Con instalaciones modernas y equipo de especialistas certificados por las principales juntas médicas colombianas.

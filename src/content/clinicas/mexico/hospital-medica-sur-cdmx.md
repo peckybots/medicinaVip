@@ -8,6 +8,7 @@ descripcion: "Uno de los hospitales privados de mayor renombre en México, recon
 web: "https://www.medicasur.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-medica-sur-cdmx.png"
 ---
 
 Uno de los hospitales privados de mayor renombre en México, reconocido por su programa de trasplante hepático. Cuenta con el único centro de trasplante de hígado vivo relacionado del país. Sus especialidades de gastroenterología y hepatología son referentes a nivel latinoamericano.

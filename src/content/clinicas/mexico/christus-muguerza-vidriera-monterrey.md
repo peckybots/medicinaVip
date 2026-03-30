@@ -8,6 +8,7 @@ descripcion: "Hospital de alta especialidad dentro de la red Christus Muguerza, 
 web: "https://www.christusmuguerza.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-vidriera-monterrey.png"
 ---
 
 Hospital de alta especialidad dentro de la red Christus Muguerza, ubicado en Monterrey. Cuenta con unidades especializadas en oncología y cardiología intervencionista. Reconocido por sus estándares internacionales de calidad.

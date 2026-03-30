@@ -8,6 +8,7 @@ descripcion: "Clínica Andes Salud El Loa es la clínica privada de referencia e
 web: "https://www.andessaludelloa.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-andes-salud-el-loa.png"
 ---
 
 Clínica Andes Salud El Loa es la clínica privada de referencia en Calama, corazón minero del norte grande. Atiende a los trabajadores de la minería del cobre y sus familias con tecnología y especialistas de primer nivel. Con programas de medicina ocupacional y urgencias las 24 horas adaptados a la exigente actividad industrial de la región.

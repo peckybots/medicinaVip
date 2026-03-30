@@ -8,6 +8,7 @@ descripcion: "Hospital de la red Ángeles en la colonia Doctores de Ciudad de M�
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-clinica-londres-cdmx.png"
 ---
 
 Hospital de la red Ángeles en la colonia Doctores de Ciudad de México. Con una larga historia como Clínica Londres, ofrece servicios hospitalarios completos en el corazón de la capital. Su ubicación céntrica y atención especializada la mantienen como opción relevante en el mercado privado capitalino.

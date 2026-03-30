@@ -8,6 +8,7 @@ descripcion: "Policlínica Gipuzkoa en San Sebastián, uno de los hospitales pri
 web: "https://www.policlinicagipuzkoa.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/policlinica-gipuzkoa.png"
 ---
 
 Policlínica Gipuzkoa en San Sebastián, uno de los hospitales privados más reconocidos del País Vasco con más de 50 años de historia. Sus servicios cardiológicos y oncológicos son referentes en la región vasca. El programa de reproducción asistida es el más demandado en Guipúzcoa con altas tasas de éxito en FIV.

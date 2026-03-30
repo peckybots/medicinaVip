@@ -8,6 +8,7 @@ descripcion: "Clínica especializada en oftalmología y cirugía ocular, parte d
 web: "https://www.clinicabaviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-baviera-madrid.png"
 ---
 
 Clínica especializada en oftalmología y cirugía ocular, parte de la mayor cadena de clínicas oftalmológicas de España. Con presencia en múltiples ciudades españolas, es referente nacional en cirugía de cataratas y corrección visual. Sus resultados y tecnología láser de última generación la posicionan como líder del sector.

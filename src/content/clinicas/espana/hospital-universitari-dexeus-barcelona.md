@@ -8,6 +8,7 @@ descripcion: "Centro universitario y asistencial en Barcelona especializado en s
 web: "https://www.dexeus.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-universitari-dexeus-barcelona.png"
 ---
 
 Centro universitario y asistencial en Barcelona especializado en salud de la mujer, parte del grupo Quirónsalud. Pionero en reproducción asistida en Europa, con el primer bebé nacido por FIV en España. Sus programas de fertilidad y oncología ginecológica son referentes internacionales.

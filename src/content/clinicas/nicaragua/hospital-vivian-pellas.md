@@ -13,6 +13,7 @@ fundacion: 2004
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/nicaragua/hospital-vivian-pellas.png"
 ---
 
 El hospital privado más moderno y reconocido de Nicaragua, considerado el mejor de Centroamérica en varios rankings. Brinda atención médica integral con tecnología de última generación, servicios hospitalarios de calidad y más de 60 especialidades disponibles.

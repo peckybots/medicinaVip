@@ -8,6 +8,7 @@ descripcion: "Hospital moderno de la red Galenia en Guadalajara, con fuerte enfo
 web: "https://www.hospitalgalenia.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/galenia-guadalajara.png"
 ---
 
 Hospital moderno de la red Galenia en Guadalajara, con fuerte enfoque en turismo médico. Sus programas de cirugía robótica y oncología son referentes en el occidente de México. Atrae a pacientes de California y el suroeste de Estados Unidos por sus precios competitivos.

@@ -8,6 +8,7 @@ descripcion: "Clínica San Martín en Mendoza, institución hospitalaria privada
 web: "https://www.clinicasanmartin.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-san-martin-mendoza.png"
 ---
 
 Clínica San Martín en Mendoza, institución hospitalaria privada con trayectoria en la capital cuyana. Sus servicios de cirugía y medicina interna atienden a una amplia población mendocina con calidad y profesionalismo. Con instalaciones modernas y equipo médico comprometido con la salud de la comunidad.

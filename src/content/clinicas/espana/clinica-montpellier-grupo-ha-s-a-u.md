@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Zaragoza, Zaragoza (Aragó
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-montpellier-grupo-ha-s-a-u.png"
 ---
 
 Hospitales Generales privado ubicado en Zaragoza, Zaragoza (Aragón), España. Registrado en el Catálogo Nacional de Hospitales 2025.

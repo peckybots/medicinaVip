@@ -11,6 +11,7 @@ fundacion: 2000
 camas: 15
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-repromedic-lima.png"
 ---
 
 Centro médico privado especializado en reproducción asistida y fertilidad en Lima. Referente en técnicas de fertilización in vitro y otros tratamientos de reproducción asistida de alta complejidad para parejas con dificultades reproductivas.

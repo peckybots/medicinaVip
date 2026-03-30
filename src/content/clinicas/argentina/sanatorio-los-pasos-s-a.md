@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-los-pasos-s-a.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en Tilisarao, San Luis.

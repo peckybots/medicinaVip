@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Huelva, Huelva (Andalucía
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-huelva.png"
 ---
 
 Hospitales Generales privado ubicado en Huelva, Huelva (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

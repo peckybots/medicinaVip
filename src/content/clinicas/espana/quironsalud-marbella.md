@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en la exclusiva Marbella, destino internacio
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-marbella.png"
 ---
 
 Hospital Quirónsalud en la exclusiva Marbella, destino internacional de la Costa del Sol. Personal multilingüe y especializado en atención a residentes extranjeros de alta renta. Sus programas de cirugía plástica y traumatología atienden a una clientela internacional exigente.

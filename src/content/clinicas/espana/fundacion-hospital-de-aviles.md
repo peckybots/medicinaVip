@@ -8,6 +8,7 @@ descripcion: "Hospitales especializados privado ubicado en Avilés, Asturias (Pp
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/fundacion-hospital-de-aviles.png"
 ---
 
 Hospitales especializados privado ubicado en Avilés, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

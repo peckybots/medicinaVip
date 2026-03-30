@@ -12,6 +12,7 @@ fundacion: 1963
 camas: 75
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-roca-mendoza.png"
 ---
 
 Clínica privada cuyos servicios cubren diversas especialidades quirúrgicas y médicas en Mendoza. Cuenta con quirófanos de alta tecnología y unidad de cuidados intensivos.

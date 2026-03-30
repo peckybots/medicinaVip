@@ -12,6 +12,7 @@ fundacion: 2012
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-rey-juan-carlos-mostoles.png"
 ---
 
 Hospital de referencia del grupo Quirónsalud al sur de Madrid, con tecnología de punta. Reconocido por la integración de tecnología robótica en cirugía y un modelo hospitalario universitario de alta calidad.

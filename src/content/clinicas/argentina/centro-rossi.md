@@ -13,6 +13,7 @@ fundacion: 1970
 camas: 50
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-rossi.png"
 ---
 
 El Centro Rossi es la institución privada líder en Argentina en oncología radioterápica, con tecnología de radioterapia de intensidad modulada (IMRT) y radiocirugía CyberKnife. Referencia nacional para tratamiento de tumores complejos con mínima invasión.

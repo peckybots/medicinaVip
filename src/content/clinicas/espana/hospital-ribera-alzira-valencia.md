@@ -8,6 +8,7 @@ descripcion: "Hospital modelo de gestión privada de la sanidad pública españo
 web: "https://www.hospital-ribera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-ribera-alzira-valencia.png"
 ---
 
 Hospital modelo de gestión privada de la sanidad pública española en Alzira, Valencia. Pionero del modelo de concesión sanitaria que fue referencia internacional. Atiende a la comarca de La Ribera con servicios hospitalarios integrales y eficientes.

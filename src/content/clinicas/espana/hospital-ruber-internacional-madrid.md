@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en el barrio de Mirasierra en Madri
 web: "https://www.ruberinternacional.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-ruber-internacional-madrid.png"
 ---
 
 Hospital privado de referencia en el barrio de Mirasierra en Madrid, parte del grupo Quirónsalud. Con décadas de historia, es uno de los hospitales de mayor tradición en la capital española. Sus equipos de oncología y cardiología tienen amplia experiencia y reconocimiento nacional.

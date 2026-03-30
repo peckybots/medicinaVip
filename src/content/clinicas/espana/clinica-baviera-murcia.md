@@ -8,6 +8,7 @@ descripcion: "Clínica Baviera en Murcia, referente de la oftalmología privada 
 web: "https://www.clinica-baviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-baviera-murcia.png"
 ---
 
 Clínica Baviera en Murcia, referente de la oftalmología privada en la Región de Murcia. Sus cirugías refractivas y de cataratas están entre las más realizadas del sureste español. Con protocolos internacionales de seguridad y tecnología de diagnóstico ocular de última generación.

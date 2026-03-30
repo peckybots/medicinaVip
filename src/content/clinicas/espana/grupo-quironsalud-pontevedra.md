@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Pontevedra, Pontevedra (Ga
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/grupo-quironsalud-pontevedra.png"
 ---
 
 Hospitales Generales privado ubicado en Pontevedra, Pontevedra (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

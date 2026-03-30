@@ -13,6 +13,7 @@ fundacion: 1920
 camas: 400
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/clinica-santa-maria.png"
 ---
 
 La Clínica Santa María es una de las tres principales clínicas privadas de Chile, con amplia trayectoria desde 1920. Es referente en cardiología y maternidad de alto riesgo, y tiene presencia en múltiples comunas de Santiago. Parte del grupo Clínica Santa María.

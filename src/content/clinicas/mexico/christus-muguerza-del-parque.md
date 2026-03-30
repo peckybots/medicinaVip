@@ -8,6 +8,7 @@ descripcion: "Hospital Christus Muguerza del Parque en Monterrey, una de las sed
 web: "https://www.christusmuguerza.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-del-parque.png"
 ---
 
 Hospital Christus Muguerza del Parque en Monterrey, una de las sedes del grupo en la ciudad. Con décadas de trayectoria en la medicina privada regiomontana. Sus servicios de urgencias 24 horas y cardiología intervencionista son ampliamente valorados.

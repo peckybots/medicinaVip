@@ -8,6 +8,7 @@ descripcion: "La Clínica Las Mercedes en el exclusivo barrio homónimo de Carac
 web: "https://www.clinicalasmercedesven.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-las-mercedes-caracas.png"
 ---
 
 La Clínica Las Mercedes en el exclusivo barrio homónimo de Caracas atiende a la comunidad ejecutiva y diplomática de la capital venezolana. Con instalaciones modernas y un equipo de subespecialistas de alto nivel. Sus servicios personalizados son especialmente valorados por la clientela de alto nivel.

@@ -13,6 +13,7 @@ fundacion: 1888
 camas: 350
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/san-jose-bogota.png"
 ---
 
 El Hospital de San José es uno de los hospitales privados más antiguos de Bogotá, con más de 130 años de trayectoria. Vinculado a la Fundación Universitaria de Ciencias de la Salud, es referente en hematología y oncología hematológica.

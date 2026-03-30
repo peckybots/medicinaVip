@@ -12,6 +12,7 @@ fundacion: 1982
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-el-golf-lima.png"
 ---
 
 Clínica privada ubicada en San Isidro con más de 40 años de historia. Reconocida por su alto nivel técnico-especializado y la calidad de su infraestructura. Centro de referencia para la comunidad empresarial del distrito financiero de Lima.

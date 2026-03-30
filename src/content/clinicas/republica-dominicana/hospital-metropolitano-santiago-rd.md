@@ -8,6 +8,7 @@ descripcion: "El Hospital Metropolitano de Santiago es el principal hospital pri
 web: "https://www.hmsr.com.do"
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/hospital-metropolitano-santiago-rd.png"
 ---
 
 El Hospital Metropolitano de Santiago es el principal hospital privado del Cibao y la segunda ciudad dominicana. Sus programas de cardiología y oncología son referentes del norte del país. Con tecnología moderna y equipo de especialistas de alto nivel, atiende a toda la región del Cibao.

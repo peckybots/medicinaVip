@@ -8,6 +8,7 @@ descripcion: "Clínica Ciudad de Arequipa, institución hospitalaria privada con
 web: "https://www.clinicaciudadarequipa.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-ciudad-arequipa.png"
 ---
 
 Clínica Ciudad de Arequipa, institución hospitalaria privada con servicios hospitalarios completos en la Ciudad Blanca. Sus servicios de urgencias y medicina interna atienden a la gran población arequipeña con calidad y accesibilidad. Con médicos especializados y atención las 24 horas del año.

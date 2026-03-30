@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Palmas de Gran Canaria, La
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-la-paloma.png"
 ---
 
 Hospitales Generales privado ubicado en Palmas de Gran Canaria, Las, Las Palmas (Canarias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

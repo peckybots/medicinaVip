@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-sanatrix-caracas.png"
 ---
 
 Clínica privada bien establecida en Caracas, conocida por su atención médica integral y equipamiento moderno. Centro de referencia en el este caraqueño con un equipo médico de amplia experiencia.

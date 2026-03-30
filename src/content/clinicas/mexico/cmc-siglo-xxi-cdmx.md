@@ -8,6 +8,7 @@ descripcion: "Centro de referencia del IMSS y uno de los hospitales más complet
 web: "https://www.imss.gob.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/cmc-siglo-xxi-cdmx.png"
 ---
 
 Centro de referencia del IMSS y uno de los hospitales más completos de México. Sus programas de oncología, cardiología y trasplante de órganos son de referencia nacional e internacional. Pionero en múltiples especialidades médicas con investigación de vanguardia integrada a la práctica clínica.

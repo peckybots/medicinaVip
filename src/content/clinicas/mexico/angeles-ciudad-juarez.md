@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en Ciudad Juárez, la ciudad fronteriza más gra
 web: "https://www.hospitalesangeles.com/ciudadjuarez"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-ciudad-juarez.png"
 ---
 
 Hospital Ángeles en Ciudad Juárez, la ciudad fronteriza más grande de México frente a El Paso, Texas. Con importante flujo de turismo médico del sur de Texas, ofrece servicios de calidad en cirugía, cardiología y ortopedia a precios muy competitivos. Personal bilingüe y coordinación con aseguradoras estadounidenses.

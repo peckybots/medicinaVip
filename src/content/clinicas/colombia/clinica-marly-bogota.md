@@ -8,6 +8,7 @@ descripcion: "Clínica Marly en Bogotá, institución hospitalaria privada con m
 web: "https://www.marly.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-marly-bogota.png"
 ---
 
 Clínica Marly en Bogotá, institución hospitalaria privada con más de 100 años de historia en la capital colombiana. Sus servicios oncológicos y cardiológicos son los de mayor tradición en la ciudad. Con instalaciones renovadas y tecnología de diagnóstico avanzada que complementa su larga trayectoria médica.

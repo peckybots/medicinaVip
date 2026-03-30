@@ -13,6 +13,7 @@ fundacion: 1935
 camas: 300
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-barcelona.png"
 ---
 
 El Hospital Quirónsalud Barcelona es el mayor hospital privado del grupo Quirónsalud en Cataluña y uno de los de mayor tecnología en el sur de Europa. Referencia en oncología radioterápica con acelerador lineal de última generación y cirugía robótica de alta complejidad.

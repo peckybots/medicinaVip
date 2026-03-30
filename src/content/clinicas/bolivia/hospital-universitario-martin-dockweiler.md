@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 450
 featured: true
 draft: false
+imagen: "/images/clinicas/bolivia/hospital-universitario-martin-dockweiler.png"
 ---
 
 El hospital privado más grande y avanzado de Bolivia, con 450 camas y una flota de 30 vehículos incluidas ambulancias. Ofrece atención de alta complejidad con laboratorio clínico, centro de imagen, quirófanos y la más avanzada tecnología médica del país.

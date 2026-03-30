@@ -8,6 +8,7 @@ descripcion: "Clínica privada especializada en traumatología y medicina deport
 web: "https://www.cemtro.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-cemtro-madrid.png"
 ---
 
 Clínica privada especializada en traumatología y medicina deportiva en Madrid. Referente nacional para procedimientos ortopédicos de rodilla, hombro y columna. Médico oficial de varios equipos deportivos de élite españoles y muy reconocida entre deportistas profesionales.

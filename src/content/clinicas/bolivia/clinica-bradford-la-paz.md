@@ -12,6 +12,7 @@ fundacion: 1967
 camas: 70
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-bradford-la-paz.png"
 ---
 
 Clínica privada de renombre en La Paz que ofrece atención médica integral a la población paceña. Con décadas de servicio, cuenta con equipos especializados en múltiples áreas de la medicina privada boliviana.

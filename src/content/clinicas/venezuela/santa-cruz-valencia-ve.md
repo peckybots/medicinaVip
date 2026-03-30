@@ -8,6 +8,7 @@ descripcion: "Clínica Santa Cruz en Valencia, la principal ciudad industrial de
 web: "https://www.clinicasantacruzvalencia.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/santa-cruz-valencia-ve.png"
 ---
 
 Clínica Santa Cruz en Valencia, la principal ciudad industrial de Venezuela y capital de Carabobo. Sus servicios hospitalarios atienden a la importante comunidad empresarial e industrial valenciana. Con instalaciones modernas y equipo médico comprometido, brinda atención de calidad en el motor industrial venezolano.

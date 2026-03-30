@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.centromedicochacras.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-medico-chacras.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Chacras De Coria, Mendoza.

@@ -8,6 +8,7 @@ descripcion: "Hospitales especializados privado ubicado en Donostia/San Sebasti�
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/fundacion-onkologikoa-fundazioa.png"
 ---
 
 Hospitales especializados privado ubicado en Donostia/San Sebastián, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.

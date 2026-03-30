@@ -12,6 +12,7 @@ fundacion: 1988
 camas: 65
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/clinica-jerusalen.png"
 ---
 
 Hospital privado en San José con servicios médico-quirúrgicos integrales para la población del Valle Central. Ofrece atención personalizada con cobertura de seguros privados y acceso directo a especialistas.

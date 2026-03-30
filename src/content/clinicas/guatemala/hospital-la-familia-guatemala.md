@@ -8,6 +8,7 @@ descripcion: "Hospital privado especializado en salud familiar y materno-infanti
 web: "https://www.hospitalfamilia.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-la-familia-guatemala.png"
 ---
 
 Hospital privado especializado en salud familiar y materno-infantil en Ciudad de Guatemala. Sus programas de maternidad y neonatología son reconocidos por su calidad y tecnología. Brinda un ambiente cálido y familiar para la atención integral de mujeres embarazadas y recién nacidos.

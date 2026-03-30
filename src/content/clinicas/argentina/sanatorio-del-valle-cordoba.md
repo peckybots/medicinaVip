@@ -8,6 +8,7 @@ descripcion: "Sanatorio privado de referencia en la ciudad de Córdoba, segunda 
 web: "https://www.sanatoriovalle.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-del-valle-cordoba.png"
 ---
 
 Sanatorio privado de referencia en la ciudad de Córdoba, segunda ciudad de Argentina. Sus programas de cardiología y oncología son reconocidos en toda la región cuyana. Con instalaciones modernas y equipo médico especializado, atiende a la población cordobesa con estándares premium.

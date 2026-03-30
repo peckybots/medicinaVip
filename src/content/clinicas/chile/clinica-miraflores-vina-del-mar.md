@@ -12,6 +12,7 @@ fundacion: 1978
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-miraflores-vina-del-mar.png"
 ---
 
 Clínica privada de referencia en Viña del Mar con más de 40 años de trayectoria. Ofrece atención médico-quirúrgica integral con cobertura de las principales isapres y seguros de salud.

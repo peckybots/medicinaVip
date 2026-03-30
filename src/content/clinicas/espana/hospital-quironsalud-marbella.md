@@ -12,6 +12,7 @@ fundacion: 2002
 camas: 90
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-marbella.png"
 ---
 
 Hospital privado Quirónsalud en Marbella, destino de turismo de lujo y salud en la Costa del Sol. Especializado en cirugía estética y procedimientos VIP, atiende a una clientela internacional exigente con altos estándares de privacidad.

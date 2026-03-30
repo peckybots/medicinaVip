@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 60
 featured: true
 draft: false
+imagen: "/images/clinicas/cuba/centro-internacional-la-pradera.png"
 ---
 
 Centro de salud internacional famoso por sus tratamientos de rehabilitación neurológica y medicina natural. Atendió a celebridades y líderes latinoamericanos incluyendo Hugo Chávez y Diego Maradona. Especializado en terapias únicas de la medicina cubana para pacientes internacionales.

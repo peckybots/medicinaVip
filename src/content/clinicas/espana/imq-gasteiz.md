@@ -8,6 +8,7 @@ descripcion: "Hospital del grupo IMQ en Vitoria-Gasteiz, capital del País Vasco
 web: "https://www.imq.es/gasteiz"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/imq-gasteiz.png"
 ---
 
 Hospital del grupo IMQ en Vitoria-Gasteiz, capital del País Vasco y Euskadi. Con décadas de historia atendiendo a la comunidad vitoriana con servicios de alta especialidad. Sus programas de cardiología y medicina preventiva son referentes del sistema de salud privado alavés.

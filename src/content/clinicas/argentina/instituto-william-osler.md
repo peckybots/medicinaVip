@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.williamosler.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-william-osler.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Recoleta, Caba.

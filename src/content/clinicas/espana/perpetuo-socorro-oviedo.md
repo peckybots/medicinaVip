@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Oviedo, capital del Principado d
 web: "https://www.hospitalperpetuo.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/perpetuo-socorro-oviedo.png"
 ---
 
 Hospital privado de referencia en Oviedo, capital del Principado de Asturias. Con décadas de trayectoria en la medicina asturiana, ofrece servicios de alta especialidad. Sus programas de oncología y cardiología son los más valorados del sistema privado asturiano.

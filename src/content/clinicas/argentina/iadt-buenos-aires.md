@@ -8,6 +8,7 @@ descripcion: "El IADT es el principal centro privado de diagnóstico por imágen
 web: "https://www.iadt.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/iadt-buenos-aires.png"
 ---
 
 El IADT es el principal centro privado de diagnóstico por imágenes de Argentina. Con la más avanzada tecnología PET-CT y resonancia magnética de 3 Tesla, es referente de diagnóstico oncológico y neurológico. Su programa de check-up ejecutivo integral con imágenes avanzadas es único en el mercado argentino.

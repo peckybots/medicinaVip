@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, Méxic
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-de-diagnostico-aspobu-s-de-r-l-de-c-v.png"
 ---
 
 Clinica privada ubicada en Benito Juarez, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

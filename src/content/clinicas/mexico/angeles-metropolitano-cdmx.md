@@ -8,6 +8,7 @@ descripcion: "Parte de la red Ángeles Hospitales, uno de los complejos hospital
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-metropolitano-cdmx.png"
 ---
 
 Parte de la red Ángeles Hospitales, uno de los complejos hospitalarios más completos de la Ciudad de México. Cuenta con más de 200 especialistas médicos y tecnología de diagnóstico de última generación. Referente de la medicina privada en el centro del país.

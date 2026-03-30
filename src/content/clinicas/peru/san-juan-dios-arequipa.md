@@ -8,6 +8,7 @@ descripcion: "Clínica San Juan de Dios en Arequipa, institución de la congrega
 web: "https://www.cliniicasanjuandediosarequipa.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/san-juan-dios-arequipa.png"
 ---
 
 Clínica San Juan de Dios en Arequipa, institución de la congregación religiosa con vocación de servicio. Sus servicios médicos y quirúrgicos atienden a residentes y visitantes de la Ciudad Blanca. Equipo médico comprometido con la excelencia asistencial y la atención humanizada.

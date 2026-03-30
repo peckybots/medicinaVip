@@ -12,6 +12,7 @@ fundacion: 1978
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-privado-la-asuncion.png"
 ---
 
 Hospital privado con equipo de médicos especializados que presta servicios a costo razonable y con calidad en Guatemala. Cubre amplio espectro de especialidades médico-quirúrgicas para la población de la capital.

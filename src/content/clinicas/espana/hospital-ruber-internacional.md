@@ -12,6 +12,7 @@ fundacion: 1972
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-ruber-internacional.png"
 ---
 
 Hospital privado de referencia en Madrid con décadas de trayectoria. Parte del grupo Quirónsalud, ofrece atención de alta especialidad en Madrid capital con equipo médico de amplia experiencia.

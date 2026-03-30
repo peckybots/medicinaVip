@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 60
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/instituto-diagnostico-caracas.png"
 ---
 
 Centro privado de diagnóstico y atención médica especializada en Caracas. Líder en imagen médica y procedimientos diagnósticos de alta complejidad en Venezuela, con tecnología de primer nivel.

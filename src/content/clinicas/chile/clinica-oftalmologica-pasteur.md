@@ -8,6 +8,7 @@ descripcion: "La Clínica Oftalmológica Pasteur en Vitacura es el centro privad
 web: "https://www.pasteur.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-oftalmologica-pasteur.png"
 ---
 
 La Clínica Oftalmológica Pasteur en Vitacura es el centro privado especializado en salud visual de mayor prestigio en Chile. Con décadas de experiencia en cirugía refractiva, trasplante de córnea y tratamiento de retina, es referente nacional en oftalmología avanzada. Su equipo de especialistas y tecnología de diagnóstico ocular son reconocidos por pacientes de toda Latinoamérica.

@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 40
 featured: false
 draft: false
+imagen: "/images/clinicas/el-salvador/hospital-centro-quirurgico.png"
 ---
 
 Centro quirúrgico privado especializado en procedimientos ambulatorios y cirugía de corta estancia en San Salvador. Reconocido por su eficiencia y calidad en procedimientos quirúrgicos de diversa complejidad con tecnología actualizada.

@@ -8,6 +8,7 @@ descripcion: "Clínica privada en Bucaramanga especializada en cirugía plástic
 web: "https://www.clinicapitar.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-pitar-bucaramanga.png"
 ---
 
 Clínica privada en Bucaramanga especializada en cirugía plástica y estética. Atrae a pacientes de turismo médico interesados en procedimientos estéticos de alta calidad a precios competitivos. Personal certificado y tecnología especializada en cirugía estética y reconstructiva.

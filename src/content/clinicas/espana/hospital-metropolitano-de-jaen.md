@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Jaén, Jaén (Andalucía),
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-metropolitano-de-jaen.png"
 ---
 
 Hospitales Generales privado ubicado en Jaén, Jaén (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

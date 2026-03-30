@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Santiago de Compostela, A 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-hm-rosaleda-hm-la-esperanza.png"
 ---
 
 Hospitales Generales privado ubicado en Santiago de Compostela, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

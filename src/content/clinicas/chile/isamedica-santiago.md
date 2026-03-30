@@ -8,6 +8,7 @@ descripcion: "Clínica Isamédica en Santiago, centro de salud ambulatorio con c
 web: "https://www.isamedica.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/isamedica-santiago.png"
 ---
 
 Clínica Isamédica en Santiago, centro de salud ambulatorio con convenios con las principales isapres del país. Sus servicios de especialidades médicas y diagnóstico por imagen son accesibles para una amplia gama de asegurados. Con horarios convenientes y atención de calidad para los trabajadores de la capital.

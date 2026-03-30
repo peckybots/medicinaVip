@@ -8,6 +8,7 @@ descripcion: "Clínica de Occidente en Cali, institución hospitalaria privada c
 web: "https://www.clinicadeoccidente.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-de-occidente-cali.png"
 ---
 
 Clínica de Occidente en Cali, institución hospitalaria privada con sólida trayectoria en el Valle del Cauca. Sus servicios de cirugía y medicina interna atienden a la población caleña del norte de la ciudad. Con médicos especialistas certificados y atención personalizada de alta calidad.

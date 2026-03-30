@@ -13,6 +13,7 @@ fundacion: 1919
 camas: 500
 featured: true
 draft: false
+imagen: "/images/clinicas/puerto-rico/hospital-auxilio-mutuo.png"
 ---
 
 Conocido como "el gran hospital de Puerto Rico", el Auxilio Mutuo es el centro médico privado más reconocido y completo de la isla. Destaca en trasplantes, oncología y cardiología con tecnología de punta y un equipo médico de clase mundial.

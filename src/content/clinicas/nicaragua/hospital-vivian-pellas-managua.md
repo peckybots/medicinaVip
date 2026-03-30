@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Nicaragua, reconocido como el m�
 web: "https://www.hospitalvivianpellas.com.ni"
 featured: false
 draft: false
+imagen: "/images/clinicas/nicaragua/hospital-vivian-pellas-managua.png"
 ---
 
 Hospital privado de referencia en Nicaragua, reconocido como el más moderno y completo del país. Sus instalaciones de primer nivel y equipo médico especializado atraen a pacientes de toda Centroamérica. Es referente de la medicina privada de lujo en Nicaragua con programas de alta especialidad.

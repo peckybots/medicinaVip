@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas Nisa Valencia al Mar, especializado en neurología
 web: "https://vithas.es/nisa-valencia-al-mar"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-nisa-valencia-al-mar.png"
 ---
 
 Hospital Vithas Nisa Valencia al Mar, especializado en neurología y neurocirugía en la capital valenciana. Su Unidad de Neurociencias es de referencia en la Comunidad Valenciana para el tratamiento de enfermedades neurológicas complejas. Tecnología diagnóstica avanzada con RM de alto campo y neurofisiología.

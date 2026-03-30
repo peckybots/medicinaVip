@@ -13,6 +13,7 @@ fundacion: 2002
 camas: 80
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospiten-cancun.png"
 ---
 
 Hospital privado internacional de la cadena Hospiten, especializado en la atención a turistas y residentes extranjeros en la Riviera Maya. Cuenta con personal bilingüe y cobertura con los principales seguros internacionales.

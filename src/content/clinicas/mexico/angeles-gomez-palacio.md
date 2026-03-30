@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en Gómez Palacio, parte de la Comarca Lagunera 
 web: "https://www.hospitalesangeles.com/gomez-palacio"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-gomez-palacio.png"
 ---
 
 Hospital Ángeles en Gómez Palacio, parte de la Comarca Lagunera que comparte con Torreón el área metropolitana binacional más importante del norte central de México. Sus servicios de cardiología y urgencias son complementarios al sistema de salud privado de la Laguna. Con instalaciones modernas y equipo de especialistas certificados.

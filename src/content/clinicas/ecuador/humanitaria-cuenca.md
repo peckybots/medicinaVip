@@ -8,6 +8,7 @@ descripcion: "Clínica Humanitaria Pablo Jaramillo Crespo en Cuenca, institució
 web: "https://www.clinicahumanitaria.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/humanitaria-cuenca.png"
 ---
 
 Clínica Humanitaria Pablo Jaramillo Crespo en Cuenca, institución privada de referencia en la Atenas de América. Sus servicios hospitalarios de calidad atienden a la culta y próspera comunidad cuencana. Con instalaciones modernas y equipo médico comprometido con la excelencia asistencial.

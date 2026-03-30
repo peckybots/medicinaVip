@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en León, León (Castilla y L
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-hm-san-francisco.png"
 ---
 
 Hospitales Generales privado ubicado en León, León (Castilla y León), España. Registrado en el Catálogo Nacional de Hospitales 2025.

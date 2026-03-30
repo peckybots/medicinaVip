@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Pereira, la ciudad más importan
 web: "https://www.clinicacountry.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-country-pereira.png"
 ---
 
 Clínica privada de referencia en Pereira, la ciudad más importante del Eje Cafetero. Sus programas de oncología y cardiología son reconocidos en la región central de Colombia. Con décadas de trayectoria, atiende a la dinámica población empresarial y ejecutiva de Pereira.

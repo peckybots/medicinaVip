@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Valencia con amplia trayectoria 
 web: "https://www.hospitalasalud.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-la-salud-valencia.png"
 ---
 
 Hospital privado de referencia en Valencia con amplia trayectoria en la medicina valenciana. Sus programas de cardiología y traumatología son reconocidos en la Comunidad Valenciana. Trabaja con las principales mutuas y aseguradoras médicas del mercado español.

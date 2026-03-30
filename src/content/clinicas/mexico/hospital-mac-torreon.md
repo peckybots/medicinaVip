@@ -8,6 +8,7 @@ descripcion: "Unidad de la cadena MAC en Torreón, ciudad industrial de Coahuila
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mac-torreon.png"
 ---
 
 Unidad de la cadena MAC en Torreón, ciudad industrial de Coahuila. Ofrece servicios hospitalarios modernos a precios competitivos en la Comarca Lagunera. Su tecnología actualizada y personal certificado la posicionan como alternativa de calidad en la región.

@@ -8,6 +8,7 @@ descripcion: "Hospitales de salud mental y tratamiento de toxicomanías privado 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/sanatorio-usurbil-s-l.png"
 ---
 
 Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Usurbil, Guipúzcoa (País Vasco), España. Registrado en el Catálogo Nacional de Hospitales 2025.

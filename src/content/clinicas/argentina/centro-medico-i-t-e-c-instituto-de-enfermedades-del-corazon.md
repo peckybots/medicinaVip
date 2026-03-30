@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.itectucuman.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-medico-i-t-e-c-instituto-de-enfermedades-del-corazon.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en San Miguel De Tucuman, Tucumán.

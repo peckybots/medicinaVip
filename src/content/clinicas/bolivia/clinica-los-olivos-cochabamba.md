@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 130
 featured: true
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-los-olivos-cochabamba.png"
 ---
 
 Clínica privada líder en Cochabamba, única acreditada como establecimiento de salud de 3er nivel en la región según sus propias certificaciones. Referente de la salud privada en el centro de Bolivia.

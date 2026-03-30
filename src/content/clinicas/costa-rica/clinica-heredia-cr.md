@@ -8,6 +8,7 @@ descripcion: "Clínica privada en Heredia, la Ciudad de las Flores al norte de S
 web: "https://www.clinicaheredia.com.cr"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/clinica-heredia-cr.png"
 ---
 
 Clínica privada en Heredia, la Ciudad de las Flores al norte de San José. Sus servicios hospitalarios atienden a la próspera comunidad herediense. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en la provincia norte del Valle Central costarricense.

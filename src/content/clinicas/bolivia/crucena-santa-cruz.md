@@ -8,6 +8,7 @@ descripcion: "Clínica Cruceña en Santa Cruz de la Sierra, institución privada
 web: "https://www.clinicacrucena.com.bo"
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/crucena-santa-cruz.png"
 ---
 
 Clínica Cruceña en Santa Cruz de la Sierra, institución privada que refleja el dinamismo y crecimiento de la capital boliviana. Sus servicios hospitalarios atienden a una ciudad en constante expansión. Con instalaciones modernas y médicos especialistas, brinda atención de calidad a las familias cruceñas.

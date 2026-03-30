@@ -8,6 +8,7 @@ descripcion: "Clínica San Luis en Bucaramanga, parte de la oferta privada de sa
 web: "https://www.clinicasanluisbga.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/san-luis-bucaramanga.png"
 ---
 
 Clínica San Luis en Bucaramanga, parte de la oferta privada de salud en la Ciudad Bonita. Sus servicios de ortopedia y cirugía son especialmente reconocidos entre los pacientes bumangueses. Instalaciones actualizadas y equipo médico especializado para la atención integral de la comunidad santandereana.

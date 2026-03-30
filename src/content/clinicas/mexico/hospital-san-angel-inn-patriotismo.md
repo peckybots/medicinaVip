@@ -8,6 +8,7 @@ descripcion: "Hospital San Ángel Inn Patriotismo en la Colonia Insurgentes Mixc
 web: "https://www.hospitalsanangelinn.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-san-angel-inn-patriotismo.png"
 ---
 
 Hospital San Ángel Inn Patriotismo en la Colonia Insurgentes Mixcoac, Ciudad de México. Reconocido por su atención de urgencias y hospitalización con alto nivel de calidez y profesionalismo. Sus instalaciones bien mantenidas y personal capacitado hacen de este hospital una opción confiable en la zona centro-sur de la capital.

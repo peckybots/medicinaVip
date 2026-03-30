@@ -12,6 +12,7 @@ fundacion: 2012
 camas: 150
 featured: true
 draft: false
+imagen: "/images/clinicas/peru/sanna-clinica-san-borja.png"
 ---
 
 Parte de la red SANNA, clínicas privadas de alta especialidad en Lima. La sede de San Borja es referente en trasplantes y oncología, con tecnología de vanguardia y los mejores especialistas de Perú.

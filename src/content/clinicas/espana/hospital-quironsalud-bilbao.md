@@ -13,6 +13,7 @@ fundacion: 1998
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-bilbao.png"
 ---
 
 Principal hospital privado del País Vasco, perteneciente al grupo Quirónsalud. Referente en la atención privada de alta calidad en Bilbao y el norte de España, con modernas instalaciones y equipo médico especializado.

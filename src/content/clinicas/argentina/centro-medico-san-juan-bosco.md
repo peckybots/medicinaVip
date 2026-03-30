@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://medisur-rgl.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-medico-san-juan-bosco.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Rio Gallegos, Santa Cruz.

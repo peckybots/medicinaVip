@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 60
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/clinica-hospital-mar-del-sur.png"
 ---
 
 Clínica-hospital privada en Ciudad de Panamá con servicios completos de atención médico-quirúrgica. Atiende a pacientes locales con cobertura de múltiples aseguradoras y seguros médicos privados panameños.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado de lujo en San José, afiliado a la red Baylor Sc
 web: "https://www.hospitalcima.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/cima-san-jose.png"
 ---
 
 Hospital privado de lujo en San José, afiliado a la red Baylor Scott & White de Estados Unidos. Referente de la medicina de alta especialidad y turismo médico en Centroamérica. Sus instalaciones de clase mundial y personal multilingüe atraen a pacientes de toda la región y Estados Unidos.

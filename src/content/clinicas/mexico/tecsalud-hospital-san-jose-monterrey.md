@@ -8,6 +8,7 @@ descripcion: "Hospital emblemático del sistema TecSalud del Tecnológico de Mon
 web: "https://www.tecsalud.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/tecsalud-hospital-san-jose-monterrey.png"
 ---
 
 Hospital emblemático del sistema TecSalud del Tecnológico de Monterrey, reconocido como uno de los mejores de México. Cuenta con centros de excelencia en cardiología, oncología y neurología. Integra investigación clínica de vanguardia con atención médica de primer nivel.

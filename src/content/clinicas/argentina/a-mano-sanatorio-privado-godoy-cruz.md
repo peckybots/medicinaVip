@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: "http://www.grupoamano.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/a-mano-sanatorio-privado-godoy-cruz.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Godoy Cruz, Mendoza.

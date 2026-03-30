@@ -8,6 +8,7 @@ descripcion: "Clínica San Javier en el centro histórico de Guadalajara, comple
 web: "https://www.hospitalsanjavier.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/san-javier-guadalajara-centro.png"
 ---
 
 Clínica San Javier en el centro histórico de Guadalajara, complementando la red de este hospital en la zona metropolitana. Sus servicios de cirugía y cardiología atienden a la amplia población del municipio de Guadalajara. Accesibilidad y tradición médica tapatía en una de las zonas más densamente pobladas de la ciudad.

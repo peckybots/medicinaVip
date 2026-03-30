@@ -8,6 +8,7 @@ descripcion: "Clínica Quilpué en la Ciudad del Sol de la Quinta Región, atend
 web: "https://www.clinicaquilpue.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-quilpue.png"
 ---
 
 Clínica Quilpué en la Ciudad del Sol de la Quinta Región, atendiendo a la población del gran Valparaíso interior. Sus servicios hospitalarios completos con urgencias las 24 horas son especialmente valorados. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en Quilpué y Villa Alemana.

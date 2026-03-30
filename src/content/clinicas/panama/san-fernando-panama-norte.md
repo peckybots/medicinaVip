@@ -8,6 +8,7 @@ descripcion: "Clínica Hospital San Fernando unidad norte en Panamá, complement
 web: "https://www.hospitalsanfernando.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/san-fernando-panama-norte.png"
 ---
 
 Clínica Hospital San Fernando unidad norte en Panamá, complementando la red del renombrado grupo en la zona norte de la capital. Sus instalaciones modernas atienden a las comunidades residenciales del norte de la ciudad. Con los altos estándares de la marca San Fernando, ofrece servicios hospitalarios de primer nivel.

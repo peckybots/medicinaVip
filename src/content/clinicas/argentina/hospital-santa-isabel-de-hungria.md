@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: "http://www.hospitalsantaisabel.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-santa-isabel-de-hungria.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva en Villa Nueva, Mendoza.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Celaya, uno de los municipios m�
 web: "https://www.hsancelaya.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-san-jose-celaya.png"
 ---
 
 Hospital privado de referencia en Celaya, uno de los municipios más industrializados del Bajío mexicano. Atiende a la creciente población industrial y ejecutiva de la región. Sus servicios de cardiología y cirugía son reconocidos en el estado de Guanajuato.

@@ -12,6 +12,7 @@ fundacion: 1994
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/cedimat-santo-domingo.png"
 ---
 
 Centro de Diagnóstico, Medicina Avanzada y Telemedicina, referente en tecnología médica en la República Dominicana. Reconocido por incorporar innovación y telemedicina en la atención de sus pacientes, con alta tecnología diagnóstica.

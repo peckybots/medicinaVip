@@ -8,6 +8,7 @@ descripcion: "Unidad de la cadena MAC en Irapuato, ciudad agroindustrial del Baj
 web: "https://www.hospitalmac.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-mac-irapuato.png"
 ---
 
 Unidad de la cadena MAC en Irapuato, ciudad agroindustrial del Bajío guanajuatense. Atiende a la población local con servicios hospitalarios modernos y accesibles. Sus instalaciones equipadas con tecnología actualizada garantizan una atención de calidad.

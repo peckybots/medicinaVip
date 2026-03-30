@@ -12,6 +12,7 @@ fundacion: 1990
 camas: 55
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/centro-medico-integral-cartago.png"
 ---
 
 Centro médico privado en la Gran Área Metropolitana de San José (Cartago) que ofrece atención especializada a la población del Valle Central oriental. Servicios médico-quirúrgicos con tecnología moderna y amplia red de especialistas.

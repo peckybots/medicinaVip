@@ -8,6 +8,7 @@ descripcion: "Unidad del Grupo Trinidad en el barrio Palermo de Buenos Aires. Co
 web: "https://www.hospitalesmontecaseros.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/trinidad-palermo-buenos-aires.png"
 ---
 
 Unidad del Grupo Trinidad en el barrio Palermo de Buenos Aires. Con excelentes instalaciones y equipamiento de alta tecnología, es referente de la medicina privada porteña. Sus programas de oncología y cardiología son reconocidos entre los mejores del país.

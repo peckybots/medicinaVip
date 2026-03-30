@@ -8,6 +8,7 @@ descripcion: "Hospital privado de la red HM Hospitales en el norte de Madrid. Es
 web: "https://www.hmhospitales.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hm-nuevo-belen-madrid.png"
 ---
 
 Hospital privado de la red HM Hospitales en el norte de Madrid. Especializado en oncología integral y programas de diagnóstico precoz. Sus instalaciones modernas y equipo especializado lo hacen referente del grupo en Madrid.

@@ -13,6 +13,7 @@ fundacion: 1997
 camas: 250
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/hospital-austral.png"
 ---
 
 El Hospital Universitario Austral es el hospital académico privado más moderno del Gran Buenos Aires, vinculado a la Universidad Austral. Es referencia en oncología y trasplante hepático, y fue uno de los primeros en Argentina en implementar cirugía robótica Da Vinci.

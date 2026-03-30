@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 60
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/hospital-bocagrande-cartagena.png"
 ---
 
 Hospital privado ubicado en el exclusivo sector de Bocagrande en Cartagena, especializado en atención a turistas nacionales e internacionales. Ofrece servicios completos de urgencias, hospitalización y diagnóstico con personal bilingüe.

@@ -8,6 +8,7 @@ descripcion: "Clínica Quilín en el sector sur-oriente de Santiago, cubriendo l
 web: "https://www.clinicaquilin.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/quilin-santiago.png"
 ---
 
 Clínica Quilín en el sector sur-oriente de Santiago, cubriendo las necesidades de salud de una zona de alta densidad poblacional. Sus servicios hospitalarios completos atienden a las familias del cono sur de la capital. Instalaciones accesibles y equipo médico calificado para la atención de calidad.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Puerto Limón, capital del Carib
 web: "https://www.hospitaldelcaribe.com.cr"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-del-caribe-limon.png"
 ---
 
 Hospital privado de referencia en Puerto Limón, capital del Caribe costarricense. Atiende a la comunidad afrocaribeña del litoral Atlántico y a los trabajadores del sector portuario y bananero. Sus servicios de urgencias y ginecología son fundamentales para la comunidad caribeña costarricense.

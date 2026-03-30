@@ -8,6 +8,7 @@ descripcion: "Hospitales especializados privado ubicado en Oviedo, Asturias (Ppd
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/instituto-oftalmologico-fernandez-vega.png"
 ---
 
 Hospitales especializados privado ubicado en Oviedo, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

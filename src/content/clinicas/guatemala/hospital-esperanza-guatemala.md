@@ -8,6 +8,7 @@ descripcion: "Hospital privado con enfoque en pediatría y medicina materno-feta
 web: "https://www.hospitalesperanza.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-esperanza-guatemala.png"
 ---
 
 Hospital privado con enfoque en pediatría y medicina materno-fetal en Ciudad de Guatemala. Sus programas de neonatología y oncología pediátrica son los más avanzados de Guatemala. Complementa la oferta de salud infantil privada en la capital guatemalteca.

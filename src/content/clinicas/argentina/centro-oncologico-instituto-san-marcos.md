@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Centro trat
 web: "http://www.institutosanmarcos.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-oncologico-instituto-san-marcos.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Centro tratamientos oncológicos en San Juan, San Juan.

@@ -8,6 +8,7 @@ descripcion: "Hospital de referencia para el norte peruano con programas de alta
 web: "https://www.hvp.gob.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/hospital-virgen-puerta-trujillo.png"
 ---
 
 Hospital de referencia para el norte peruano con programas de alta complejidad. Sus programas de cardiología y trasplante son únicos en la región norte del Perú. Atiende a pacientes de La Libertad, Lambayeque y Cajamarca con tecnología de vanguardia.

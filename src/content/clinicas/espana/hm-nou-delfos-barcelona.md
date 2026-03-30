@@ -8,6 +8,7 @@ descripcion: "Hospital del Grupo HM Hospitales en Barcelona, segunda sede del gr
 web: "https://www.hmhospitales.com/hospital/hm-nou-delfos"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hm-nou-delfos-barcelona.png"
 ---
 
 Hospital del Grupo HM Hospitales en Barcelona, segunda sede del grupo en la ciudad condal. Con especialidades de oncología y cirugía de vanguardia, complementa la oferta del grupo en Cataluña. Sus programas oncológicos integrados con el HM CIOCC son de los más avanzados del sector privado español.

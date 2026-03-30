@@ -8,6 +8,7 @@ descripcion: "Hospital del grupo HMG en el histórico barrio de Coyoacán, Ciuda
 web: "https://www.hmg.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hmg-coyoacan-cdmx.png"
 ---
 
 Hospital del grupo HMG en el histórico barrio de Coyoacán, Ciudad de México. Ofrece servicios hospitalarios integrales para los residentes del sur capitalino. Sus programas de cardiología y medicina interna son reconocidos en la zona sur de la capital.

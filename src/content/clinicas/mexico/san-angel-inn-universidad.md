@@ -13,6 +13,7 @@ fundacion: 1990
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/san-angel-inn-universidad.png"
 ---
 
 Hospital privado de alta especialidad en CDMX, noveno en el ranking nacional FUNSALUD 2024. Reconocido por su equipo médico especializado y ambiente de atención personalizada en una de las zonas más exclusivas de la ciudad.

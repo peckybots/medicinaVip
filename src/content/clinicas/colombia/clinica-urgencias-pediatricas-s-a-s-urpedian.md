@@ -8,6 +8,7 @@ descripcion: "IPS privada registrada en REPS - Ministerio de Salud Colombia. Niv
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-urgencias-pediatricas-s-a-s-urpedian.png"
 ---
 
 IPS privada registrada en REPS - Ministerio de Salud Colombia. Nivel N/A de atención en Medellín.

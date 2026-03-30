@@ -8,6 +8,7 @@ descripcion: "El área de atención privada del Hospital Universitario La Paz de
 web: "https://www.hulp.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-la-paz-privado.png"
 ---
 
 El área de atención privada del Hospital Universitario La Paz de Madrid, uno de los hospitales más grandes de España. Sus servicios privados permiten acceder a la alta especialidad de un hospital universitario de referencia con la agilidad y comodidad del sector privado. Excelencia médica académica con atención personalizada.

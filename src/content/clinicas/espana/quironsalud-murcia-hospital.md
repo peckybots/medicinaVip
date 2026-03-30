@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud Murcia, el centro hospitalario privado más 
 web: "https://www.quironsalud.es/hospital-murcia"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-murcia-hospital.png"
 ---
 
 Hospital Quirónsalud Murcia, el centro hospitalario privado más moderno y completo de la Región de Murcia. Con más de 250 camas y 45 especialidades médicas, es referente de la sanidad privada murciana. Sus servicios oncológicos integrados en la red Quirónsalud y la unidad cardiológica son las especialidades más demandadas.

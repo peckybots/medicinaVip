@@ -8,6 +8,7 @@ descripcion: "Clínica privada histórica de Palma de Mallorca fundada por el Dr
 web: "https://www.juaneda.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-juaneda-palma.png"
 ---
 
 Clínica privada histórica de Palma de Mallorca fundada por el Dr. Juaneda. Con décadas de trayectoria, es referente de la medicina privada balear. Sus programas de cardiología y oncología son reconocidos en toda la comunidad balear.

@@ -8,6 +8,7 @@ descripcion: "Hospitales especializados privado ubicado en Madrid, Madrid (Madri
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-md-anderson-cancer-center-madrid.png"
 ---
 
 Hospitales especializados privado ubicado en Madrid, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

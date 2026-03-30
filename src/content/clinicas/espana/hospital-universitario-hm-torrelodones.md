@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Torrelodones, Madrid (Madr
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-universitario-hm-torrelodones.png"
 ---
 
 Hospitales Generales privado ubicado en Torrelodones, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

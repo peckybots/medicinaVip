@@ -13,6 +13,7 @@ fundacion: 1960
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-felipe.png"
 ---
 
 Clínica San Felipe es una de las instituciones privadas de mayor prestigio en Lima, ubicada en La Molina. Es reconocida por su servicio de maternidad de alto riesgo, cardiología y oncología integral, con un equipo médico reconocido a nivel nacional.

@@ -8,6 +8,7 @@ descripcion: "Hospital de referencia en Santo Domingo con enfoque en atención i
 web: "https://www.hgps.org.do"
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/hospital-plaza-de-la-salud-santo-domingo.png"
 ---
 
 Hospital de referencia en Santo Domingo con enfoque en atención integral de alta complejidad. Sus programas de oncología y trasplante son reconocidos como los más avanzados de la República Dominicana. Atiende a pacientes nacionales e internacionales con estándares de primer nivel.

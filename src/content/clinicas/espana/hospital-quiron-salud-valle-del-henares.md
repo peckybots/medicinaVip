@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Torrejón de Ardoz, Madrid
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quiron-salud-valle-del-henares.png"
 ---
 
 Hospitales Generales privado ubicado en Torrejón de Ardoz, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

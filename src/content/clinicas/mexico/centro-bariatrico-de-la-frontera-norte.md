@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Esta
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-bariatrico-de-la-frontera-norte.png"
 ---
 
 Clinica privada ubicada en Tijuana, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.

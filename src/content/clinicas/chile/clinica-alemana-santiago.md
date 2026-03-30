@@ -13,6 +13,7 @@ fundacion: 1916
 camas: 450
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/clinica-alemana-santiago.png"
 ---
 
 La Clínica Alemana es considerada la mejor clínica privada de Chile según múltiples rankings (Newsweek, Merco). Fundada por la comunidad alemana, es referencia en oncología, trasplante hepático y renal, y fue pionera en cirugía robótica en Chile. Figura entre los 250 mejores hospitales del mundo.

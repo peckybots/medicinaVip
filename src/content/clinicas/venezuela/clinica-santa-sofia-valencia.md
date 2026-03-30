@@ -12,6 +12,7 @@ fundacion: 1978
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-santa-sofia-valencia.png"
 ---
 
 Clínica privada especializada en salud de la mujer y materno-infantil en Valencia. Reconocida como referente en ginecología y obstetricia en el estado Carabobo y la región central de Venezuela.

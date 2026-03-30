@@ -11,6 +11,7 @@ fundacion: 1995
 camas: 60
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-stella-maris.png"
 ---
 
 Clínica privada especializada en salud de la mujer y atención materno-infantil en Surco, Lima. Reconocida por la calidad de su atención en fertilidad y obstetricia de alto riesgo, con modernas instalaciones y neonatología de alta complejidad.

@@ -8,6 +8,7 @@ descripcion: "Centro especializado en medicina reproductiva y fertilidad en Lima
 web: "https://www.procrear.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/procrear-lima.png"
 ---
 
 Centro especializado en medicina reproductiva y fertilidad en Lima, con las mayores tasas de éxito en FIV del Perú. Sus programas de reproducción asistida utilizan tecnología de última generación. Referente latinoamericano en tratamientos de fertilidad y diagnóstico genético preimplantacional.

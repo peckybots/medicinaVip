@@ -8,6 +8,7 @@ descripcion: "Clínica El Rosario en Cali, hospital privado consolidado en el su
 web: "https://www.clinicarosario.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/el-rosario-cali.png"
 ---
 
 Clínica El Rosario en Cali, hospital privado consolidado en el sur de la ciudad. Sus servicios médicos y quirúrgicos de calidad atienden a las comunidades de los barrios más prósperos de Cali. Equipo médico especializado y modernas instalaciones para la atención integral del paciente.

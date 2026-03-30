@@ -8,6 +8,7 @@ descripcion: "Hospital Metropolitano Santa Cecilia en Quito, parte del Grupo Hos
 web: "https://www.hospitalmetropolitano.org"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/metropolitano-santa-cecilia.png"
 ---
 
 Hospital Metropolitano Santa Cecilia en Quito, parte del Grupo Hospital Metropolitano con varias instalaciones en la capital. Sus servicios hospitalarios completos atienden a la creciente comunidad del sur de la ciudad. Con instalaciones modernas y equipo médico de calidad, amplía la cobertura del grupo en Quito.

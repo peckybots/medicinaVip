@@ -8,6 +8,7 @@ descripcion: "Clínica privada de la Comarca Lagunera con décadas de trayectori
 web: "https://www.clinicasanjose.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-san-jose-torreon.png"
 ---
 
 Clínica privada de la Comarca Lagunera con décadas de trayectoria en Torreón. Ofrece servicios hospitalarios de calidad para familias e individuos de la región lagunera. Su atención humanizada y personal certificado la mantienen como opción de confianza.

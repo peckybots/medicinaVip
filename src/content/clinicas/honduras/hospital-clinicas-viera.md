@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/hospital-clinicas-viera.png"
 ---
 
 Reconocida institución médica privada en Tegucigalpa con amplia trayectoria en la atención de la salud hondureña. Ofrece servicios médico-quirúrgicos integrales con cobertura de los principales seguros médicos del país.

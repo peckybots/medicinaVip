@@ -13,6 +13,7 @@ fundacion: 1957
 camas: 170
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/clinica-shaio-bogota.png"
 ---
 
 La Clínica Shaio es el centro privado de referencia nacional en cardiología y cirugía cardiovascular en Colombia. Acreditada internacionalmente, es pionera en técnicas mínimamente invasivas y procedimientos de alta complejidad cardiológica.

@@ -12,6 +12,7 @@ fundacion: 2003
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-zaragoza.png"
 ---
 
 Principal centro del grupo Quirónsalud en Zaragoza, referente en la atención privada de Aragón. Ofrece servicios completos de hospitalización y urgencias con tecnología de diagnóstico moderno y especialistas de alta formación.

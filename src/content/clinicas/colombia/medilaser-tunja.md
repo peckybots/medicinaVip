@@ -8,6 +8,7 @@ descripcion: "Clínica Medilaser en Tunja, capital del departamento de Boyacá. 
 web: "https://www.medilaser.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/medilaser-tunja.png"
 ---
 
 Clínica Medilaser en Tunja, capital del departamento de Boyacá. Atiende a la población boyacense con servicios hospitalarios modernos y accesibles. Referente de salud privada para los habitantes del altiplano boyacense.

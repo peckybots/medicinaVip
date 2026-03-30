@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en Quetzaltenango, segunda ciudad m
 web: "https://www.hospitalsanrafael.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-san-rafael-quetzaltenango.png"
 ---
 
 Hospital privado de referencia en Quetzaltenango, segunda ciudad más importante de Guatemala. Atiende a la población del occidente del país con servicios hospitalarios de calidad. Es el principal hospital privado de la región de los Altos guatemaltecos.

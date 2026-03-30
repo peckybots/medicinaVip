@@ -8,6 +8,7 @@ descripcion: "Hospital privado en Mérida especializado en turismo médico y cir
 web: "https://www.hospitalcetus.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-cetus-merida.png"
 ---
 
 Hospital privado en Mérida especializado en turismo médico y cirugía plástica. Atrae a pacientes del sur de Estados Unidos y Europa por su excelente relación calidad-precio. Sus cirujanos plásticos certificados y el entorno cultural de Mérida hacen de esta opción un destino de turismo médico preferido.

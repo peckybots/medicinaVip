@@ -8,6 +8,7 @@ descripcion: "Instituto de oncología de referencia en Argentina, pionero en el 
 web: "https://www.roffo.anm.edu.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-roffo-buenos-aires.png"
 ---
 
 Instituto de oncología de referencia en Argentina, pionero en el diagnóstico y tratamiento del cáncer. Sus programas de radioterapia y cirugía oncológica son reconocidos a nivel latinoamericano. Integra investigación científica de vanguardia con atención oncológica especializada.

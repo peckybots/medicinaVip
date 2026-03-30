@@ -8,6 +8,7 @@ descripcion: "Sanatorio Los Arcos en San Miguel de Tucumán, capital del Jardín
 web: "https://www.sanatoriolosarcos.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-los-arcos-tucuman.png"
 ---
 
 Sanatorio Los Arcos en San Miguel de Tucumán, capital del Jardín de la República y del noroeste argentino. Sus programas de cardiología y oncología son referentes del sistema privado del NOA. Atiende a pacientes de Tucumán, Salta, Jujuy y Catamarca con servicios de alta especialidad.

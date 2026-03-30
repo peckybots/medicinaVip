@@ -14,6 +14,7 @@ fundacion: 1981
 camas: 270
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/medica-sur.png"
 ---
 
 Médica Sur es el hospital privado mejor rankeado de México según el ranking FUNSALUD/Expansión 2024 y 2025, con puntaje perfecto (100). Fundado en 1981, es referencia nacional en hepatología, trasplantes de hígado y oncología con tecnología de vanguardia y certificación JCI.

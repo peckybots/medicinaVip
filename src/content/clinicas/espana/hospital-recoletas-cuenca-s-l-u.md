@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Cuenca, Cuenca (Castilla-L
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-recoletas-cuenca-s-l-u.png"
 ---
 
 Hospitales Generales privado ubicado en Cuenca, Cuenca (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.

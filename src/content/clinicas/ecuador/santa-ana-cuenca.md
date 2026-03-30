@@ -8,6 +8,7 @@ descripcion: "Clínica Santa Ana en Cuenca, especializada en salud materno-infan
 web: "https://www.clinicasantaanacuenca.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/santa-ana-cuenca.png"
 ---
 
 Clínica Santa Ana en Cuenca, especializada en salud materno-infantil en la ciudad de los cuatro ríos. Sus servicios de obstetricia y ginecología atienden a las familias cuencanas. Con instalaciones modernas y personal médico comprometido, es referente de la salud femenina en la sierra sur del Ecuador.

@@ -11,6 +11,7 @@ fundacion: 2008
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-star-medica-puebla.png"
 ---
 
 Hospital privado de la red Star Médica en Puebla, con tecnología de diagnóstico moderno y especialistas de alta formación. Cubre la demanda de atención privada de la ciudad de Puebla y área metropolitana.

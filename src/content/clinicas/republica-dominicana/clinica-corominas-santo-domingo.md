@@ -8,6 +8,7 @@ descripcion: "La Clínica Corominas en Santo Domingo es una institución médica
 web: "https://www.clinicacorominas.com.do"
 featured: false
 draft: false
+imagen: "/images/clinicas/republica-dominicana/clinica-corominas-santo-domingo.png"
 ---
 
 La Clínica Corominas en Santo Domingo es una institución médica privada de larga trayectoria capitalina. Con décadas de servicio a la comunidad dominicana. Sus programas de medicina interna y cardiología son especialmente valorados. Trabaja con las principales aseguradoras del mercado dominicano.

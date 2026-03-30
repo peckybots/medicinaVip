@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-santa-ana-guayaquil.png"
 ---
 
 Clínica privada especializada en salud femenina y materno-infantil en Guayaquil. Reconocida por sus servicios de obstetricia y neonatología de alta complejidad en el suroccidente ecuatoriano.

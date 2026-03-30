@@ -13,6 +13,7 @@ fundacion: 1999
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/sanitas-la-moraleja.png"
 ---
 
 Sanitas La Moraleja es el hospital privado premium de referencia en el norte de Madrid, en la exclusiva urbanización La Moraleja. Destaca por su servicio de oncología, fertilidad y su unidad de checkup ejecutivo de alta gama, con un ambiente hospitalario de nivel resort.

@@ -13,6 +13,7 @@ fundacion: 1965
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-parque-rosario.png"
 ---
 
 Sanatorio Parque es uno de los sanatorios privados más importantes de Rosario, con reconocimiento por su atención cardiológica y obstétrica de alta calidad. Figura entre los mejores del interior del país en rankings regionales.

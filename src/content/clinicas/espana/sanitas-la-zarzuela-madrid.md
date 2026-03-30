@@ -8,6 +8,7 @@ descripcion: "Hospital universitario de la red Sanitas en Madrid, que combina do
 web: "https://www.sanitas.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/sanitas-la-zarzuela-madrid.png"
 ---
 
 Hospital universitario de la red Sanitas en Madrid, que combina docencia e investigación con atención médica de excelencia. Reconocido por sus programas de cardiología y trasplante de órganos. Uno de los hospitales privados con mayor prestigio académico de España.

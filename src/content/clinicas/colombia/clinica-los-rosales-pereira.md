@@ -8,6 +8,7 @@ descripcion: "Clínica Los Rosales en Pereira, referente de la salud privada del
 web: "https://www.clinicalosrosales.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-los-rosales-pereira.png"
 ---
 
 Clínica Los Rosales en Pereira, referente de la salud privada del eje cafetero con décadas de servicio a la comunidad. Sus servicios cardiológicos y de cirugía son los de mayor tradición entre los pacientes privados de la región. Con instalaciones modernas y médicos de alto nivel en la capital de Risaralda.

@@ -8,6 +8,7 @@ descripcion: "Clínica Avansalud en Viña del Mar, parte de la red de centros m�
 web: "https://www.avansalud.cl/vina-del-mar"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/avansalud-vina.png"
 ---
 
 Clínica Avansalud en Viña del Mar, parte de la red de centros médicos especializados Avansalud en Chile. Sus servicios ambulatorios y de diagnóstico atienden a la población de la Quinta Región. Con atención de especialidades y procedimientos ambulatorios de alta calidad.

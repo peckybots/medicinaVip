@@ -13,6 +13,7 @@ fundacion: 2007
 camas: 300
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-madrid.png"
 ---
 
 El Hospital Quirónsalud Madrid es el hospital privado de Madrid mejor rankeado por la mayoría de estudios de reputación. Parte del Grupo Quirónsalud (líder en sanidad privada española), es referente en oncología con tecnología de radioterapia de última generación y cirugía robótica Da Vinci.

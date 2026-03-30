@@ -13,6 +13,7 @@ fundacion: 1973
 camas: 220
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-sanitas-la-zarzuela.png"
 ---
 
 Uno de los hospitales universitarios privados más reconocidos de Madrid, perteneciente a Sanitas. Destaca por su modelo universitario que integra asistencia, docencia e investigación, y figura consistentemente entre los mejores privados de España.

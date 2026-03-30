@@ -8,6 +8,7 @@ descripcion: "Clínica Santa Cecilia en Quito, institución médica privada de t
 web: "https://www.clinicasantacecilia.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-santa-cecilia-quito.png"
 ---
 
 Clínica Santa Cecilia en Quito, institución médica privada de tradición con décadas de servicio a los quiteños. Con amplia cobertura de especialidades y servicios de urgencias 24 horas. Sus programas de medicina interna y ginecología son los más demandados.

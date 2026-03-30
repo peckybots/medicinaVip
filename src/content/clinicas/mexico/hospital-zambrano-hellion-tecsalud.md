@@ -13,6 +13,7 @@ fundacion: 2007
 camas: 182
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-zambrano-hellion-tecsalud.png"
 ---
 
 Hospital de alta especialidad perteneciente al sistema TecSalud del Tecnológico de Monterrey. Reconocido como el hospital privado número 1 del norte de México. Cuenta con tecnología de vanguardia y es referente en investigación médica aplicada.

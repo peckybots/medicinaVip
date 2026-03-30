@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Ciudad Real, Ciudad Real (
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-ciudad-real.png"
 ---
 
 Hospitales Generales privado ubicado en Ciudad Real, Ciudad Real (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.

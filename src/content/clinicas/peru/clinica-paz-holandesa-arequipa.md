@@ -8,6 +8,7 @@ descripcion: "Clínica Paz Holandesa en Arequipa, institución hospitalaria priv
 web: "https://www.clinicapazholandesa.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-paz-holandesa-arequipa.png"
 ---
 
 Clínica Paz Holandesa en Arequipa, institución hospitalaria privada con décadas de servicio a la capital del sur peruano. Sus servicios de medicina interna y urgencias atienden a la clase media y alta arequipeña con calidad y profesionalismo. Con instalaciones modernas y equipo médico comprometido con la salud de la comunidad sureña.

@@ -8,6 +8,7 @@ descripcion: "Clínica Bío Bío en Concepción, institución privada de alta co
 web: "https://www.clinicabiobio.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/bio-bio-concepcion.png"
 ---
 
 Clínica Bío Bío en Concepción, institución privada de alta complejidad en la capital de la región homónima. Sus especialidades en cardiología y oncología atienden a pacientes de la Macrorregión Sur de Chile. Con tecnología diagnóstica avanzada y equipo médico altamente calificado, es referente del sur del país.

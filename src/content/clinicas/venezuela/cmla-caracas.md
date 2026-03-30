@@ -8,6 +8,7 @@ descripcion: "El Centro Médico Leopoldo Aguerrevere es el principal centro priv
 web: "https://www.cmla.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/cmla-caracas.png"
 ---
 
 El Centro Médico Leopoldo Aguerrevere es el principal centro privado de ortopedia y medicina deportiva en Venezuela. Con décadas de especialización, atiende a deportistas profesionales y amateur venezolanos. Sus programas de cirugía artroscópica y rehabilitación deportiva son referentes nacionales.

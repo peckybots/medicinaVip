@@ -8,6 +8,7 @@ descripcion: "Centro oftalmológico especializado en Cartagena de Indias, refere
 web: "https://www.oftalmologicacartagena.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-oftalmologica-cartagena.png"
 ---
 
 Centro oftalmológico especializado en Cartagena de Indias, referente de la oftalmología privada en el Caribe colombiano. Sus programas de cirugía refractiva y retina atraen a pacientes del litoral atlántico y las islas del Caribe. Personal bilingüe para atención a turistas internacionales de habla inglesa.

@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Benalmádena, Malaga (Anda
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-vithas-xanit-internacional.png"
 ---
 
 Hospitales Generales privado ubicado en Benalmádena, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

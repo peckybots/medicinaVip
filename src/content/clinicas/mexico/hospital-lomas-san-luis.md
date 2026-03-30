@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en la capital potosina. Con tecnolo
 web: "https://www.hospitallomassl.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-lomas-san-luis.png"
 ---
 
 Hospital privado de referencia en la capital potosina. Con tecnología actualizada y equipo médico certificado, atiende a la población del altiplano central mexicano. Sus programas de cardiología son los más completos de la región potosina.

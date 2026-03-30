@@ -8,6 +8,7 @@ descripcion: "Hospitales de salud mental y tratamiento de toxicomanías privado 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-sant-joan-de-deu-lleida.png"
 ---
 
 Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Lleida, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

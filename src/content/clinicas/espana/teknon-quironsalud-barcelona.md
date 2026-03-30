@@ -13,6 +13,7 @@ fundacion: 1990
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/teknon-quironsalud-barcelona.png"
 ---
 
 El Centro Médico Teknon es el hospital privado de mayor prestigio en Barcelona y uno de los más exclusivos de España. Atrae a pacientes nacionales e internacionales de alto nivel, con tecnología punta en oncología, cirugía robótica Da Vinci y diagnóstico por imagen.

@@ -8,6 +8,7 @@ descripcion: "Clínica privada de tradición en Tegucigalpa con amplia experienc
 web: "https://www.clinicabendana.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/clinica-bendana-tegucigalpa.png"
 ---
 
 Clínica privada de tradición en Tegucigalpa con amplia experiencia en atención ambulatoria y hospitalaria. Reconocida por su atención personalizada y equipo médico certificado. Ofrece servicios médicos integrales para la comunidad capitalina hondureña.

@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Iquitos, la ciudad más grande d
 web: "https://www.clinicasanmarcos.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-marcos-iquitos.png"
 ---
 
 Clínica privada de referencia en Iquitos, la ciudad más grande del mundo sin acceso por carretera. Especializada en medicina tropical e infectología de la Amazonía peruana. Atiende a residentes, investigadores y ecoturistas que visitan la región amazónica con enfermedades tropicales.

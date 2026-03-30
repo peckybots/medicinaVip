@@ -12,6 +12,7 @@ fundacion: 1968
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-del-nino-mar-del-plata.png"
 ---
 
 Clínica privada especializada en la atención materno-infantil en Mar del Plata. Centro de referencia para la salud de la mujer y el recién nacido en la costa atlántica argentina, con UCIN de alta complejidad.

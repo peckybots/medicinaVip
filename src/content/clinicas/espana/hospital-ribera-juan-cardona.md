@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Ferrol, A Coruña (Galicia
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-ribera-juan-cardona.png"
 ---
 
 Hospitales Generales privado ubicado en Ferrol, A Coruña (Galicia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

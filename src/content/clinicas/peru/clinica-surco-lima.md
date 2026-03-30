@@ -8,6 +8,7 @@ descripcion: "Clínica privada en el distrito de Santiago de Surco, Lima. Atiend
 web: "https://www.clinicasurco.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-surco-lima.png"
 ---
 
 Clínica privada en el distrito de Santiago de Surco, Lima. Atiende a la creciente población del corredor sur de Lima con servicios hospitalarios modernos. Sus instalaciones cómodas y personal especializado la posicionan como una opción conveniente para los residentes surcos.

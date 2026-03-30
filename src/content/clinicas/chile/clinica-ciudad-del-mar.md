@@ -13,6 +13,7 @@ fundacion: 1990
 camas: 170
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-ciudad-del-mar.png"
 ---
 
 La Clínica Ciudad del Mar es la principal institución médica privada de Viña del Mar y la región de Valparaíso. Referente en cardiología y oncología para la zona costera central de Chile, con instalaciones modernas y equipo médico de subespecialidad.

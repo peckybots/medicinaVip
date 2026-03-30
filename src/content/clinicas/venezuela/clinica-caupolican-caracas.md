@@ -8,6 +8,7 @@ descripcion: "La Clínica Caupolican en Caracas es una institución médica priv
 web: "https://www.clinicacaupolican.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-caupolican-caracas.png"
 ---
 
 La Clínica Caupolican en Caracas es una institución médica privada de tradición en la capital venezolana. Con servicios hospitalarios completos y equipo de especialistas de alto nivel. Sus programas de oncología y cirugía son especialmente valorados en el sistema privado caraqueño.

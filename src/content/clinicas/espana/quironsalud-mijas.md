@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Mijas Costa, enclave de la Costa del Sol 
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-mijas.png"
 ---
 
 Hospital Quirónsalud en Mijas Costa, enclave de la Costa del Sol con gran concentración de residentes europeos. Personal multilingüe especializado en la atención a ciudadanos del norte de Europa. Convenios con aseguradoras de toda Europa y sistema de facturación directa.

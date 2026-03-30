@@ -8,6 +8,7 @@ descripcion: "Centro oncológico de referencia en Montería, capital del departa
 web: "https://www.imat.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-imat-oncomedical-monteria.png"
 ---
 
 Centro oncológico de referencia en Montería, capital del departamento de Córdoba. Sus programas de radioterapia y quimioterapia son los más avanzados del Caribe colombiano. Atiende a pacientes oncológicos de toda la región costera con tecnología especializada.

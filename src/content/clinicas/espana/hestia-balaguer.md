@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Balaguer, 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hestia-balaguer.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Balaguer, Lleida (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -8,6 +8,7 @@ descripcion: "Hospital privado moderno en Ciudad de Guatemala con servicios de a
 web: "https://www.hospitalsjd.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-san-juan-de-dios-guatemala.png"
 ---
 
 Hospital privado moderno en Ciudad de Guatemala con servicios de alta especialidad para la clase media guatemalteca. Sus programas de cardiología y medicina interna son referentes del sistema privado capitalino. Con instalaciones renovadas y equipo de especialistas certificados.

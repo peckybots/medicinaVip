@@ -8,6 +8,7 @@ descripcion: "Clínica Javier Prado en San Isidro, Lima, estratégicamente ubica
 web: "https://www.clinicajavierprado.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/javier-prado-lima.png"
 ---
 
 Clínica Javier Prado en San Isidro, Lima, estratégicamente ubicada en uno de los centros financieros más importantes de la capital. Sus servicios de traumatología y cirugía son especialmente valorados por la activa comunidad empresarial del distrito. Atención personalizada y equipos médicos certificados.

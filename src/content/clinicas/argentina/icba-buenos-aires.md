@@ -14,6 +14,7 @@ fundacion: 1987
 camas: 130
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/icba-buenos-aires.png"
 ---
 
 El ICBA es el instituto de cardiología privado más especializado de Argentina, con reconocimiento internacional por sus resultados en cirugía cardíaca y electrofisiología. Referencia en cateterismo, ablaciones complejas y cirugía cardiovascular mínimamente invasiva.

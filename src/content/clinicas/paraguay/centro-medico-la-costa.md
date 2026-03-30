@@ -13,6 +13,7 @@ fundacion: 1980
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/paraguay/centro-medico-la-costa.png"
 ---
 
 El primero y único sanatorio privado de Paraguay en ser incluido en el ranking de Mejores Hospitales y Clínicas de América Latina. Parte del Grupo San Roque, es el centro médico privado de más alto nivel en el país.

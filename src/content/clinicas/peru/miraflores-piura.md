@@ -8,6 +8,7 @@ descripcion: "Clínica Miraflores en Piura, referente de la salud privada en la 
 web: "https://www.clinicamiraflorespiura.com.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/miraflores-piura.png"
 ---
 
 Clínica Miraflores en Piura, referente de la salud privada en la capital del departamento más septentrional del Perú. Sus servicios hospitalarios atienden a la creciente población piurana y a residentes de Tumbes y Sullana. Con instalaciones modernas y equipo médico especializado, ofrece atención de calidad en el extremo norte del país.

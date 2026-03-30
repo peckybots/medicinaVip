@@ -12,6 +12,7 @@ fundacion: 1960
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/sanatorio-san-martin-asuncion.png"
 ---
 
 Reconocido sanatorio privado de Asunción con décadas de trayectoria en la atención médico-quirúrgica en Paraguay. Referente de la salud privada en la capital paraguaya con cobertura de las principales aseguradoras.

@@ -12,6 +12,7 @@ fundacion: 2003
 camas: 100
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-galenia-cancun.png"
 ---
 
 Hospital privado de alta especialidad en Cancún con amplia cobertura de seguros internacionales. Atiende a turistas y residentes de la Riviera Maya con especialistas en más de 30 áreas médicas y equipamiento moderno.

@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en Mexicali, capital de Baja California y ciudad
 web: "https://www.hospitalesangeles.com/mexicali"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-mexicali.png"
 ---
 
 Hospital Ángeles en Mexicali, capital de Baja California y ciudad fronteriza estratégica del noroeste mexicano. Importante destino del turismo médico para residentes de California y Arizona. Sus servicios de cirugía bariátrica, dental y ortopedia son muy demandados por pacientes estadounidenses.

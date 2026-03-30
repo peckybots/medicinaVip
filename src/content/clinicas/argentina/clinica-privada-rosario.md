@@ -8,6 +8,7 @@ descripcion: "Clínica privada de alta complejidad en Rosario, la tercera ciudad
 web: "https://www.clinicaprivada.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-privada-rosario.png"
 ---
 
 Clínica privada de alta complejidad en Rosario, la tercera ciudad más importante de Argentina. Sus programas de cardiología y oncología son referentes del litoral argentino. Atiende a pacientes de Santa Fe, Entre Ríos y Corrientes con servicios de alta especialidad.

@@ -8,6 +8,7 @@ descripcion: "Clínica privada en Ciudad de Panamá especializada en cirugía pl
 web: "https://www.clinicabrisasgolf.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/clinica-brisas-del-golf-panama.png"
 ---
 
 Clínica privada en Ciudad de Panamá especializada en cirugía plástica y estética. Atrae a pacientes de turismo médico internacional interesados en procedimientos estéticos a precios competitivos. Sus cirujanos plásticos certificados y tecnología avanzada garantizan resultados de excelencia.

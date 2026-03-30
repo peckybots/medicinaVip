@@ -13,6 +13,7 @@ fundacion: 1982
 camas: 450
 featured: true
 draft: false
+imagen: "/images/clinicas/colombia/fundacion-valle-del-lili.png"
 ---
 
 La Fundación Valle del Lili encabeza el ranking Newsweek de los mejores hospitales de Colombia (94.10%) y figura en el top 200 mundial (puesto 162 en 2024). Es referencia latinoamericana en trasplante hepático, oncología y cardiología intervencionista.

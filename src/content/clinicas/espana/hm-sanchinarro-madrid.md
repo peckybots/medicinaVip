@@ -14,6 +14,7 @@ fundacion: 2002
 camas: 220
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hm-sanchinarro-madrid.png"
 ---
 
 El HM Sanchinarro es el buque insignia de HM Hospitales y el hospital privado con mayor producción científica en oncología de España. Cuenta con el Centro Integral Oncológico HM Clara Campal, de referencia europea para ensayos clínicos en oncología.

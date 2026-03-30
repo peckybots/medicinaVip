@@ -13,6 +13,7 @@ fundacion: 1961
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/cemic-buenos-aires.png"
 ---
 
 El CEMIC es una institución académica-asistencial privada de Buenos Aires con fuerte perfil de investigación clínica. Referencia en hepatología, endocrinología y oncología con residencias médicas propias y vinculación universitaria de primer nivel.

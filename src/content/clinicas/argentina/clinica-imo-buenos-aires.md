@@ -8,6 +8,7 @@ descripcion: "Instituto de Microcirugía Ocular (IMO) en Buenos Aires, el centro
 web: "https://www.clinicaimo.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-imo-buenos-aires.png"
 ---
 
 Instituto de Microcirugía Ocular (IMO) en Buenos Aires, el centro de oftalmología de mayor reconocimiento y especialización de Argentina. Sus servicios de microcirugía ocular, cirugía refractiva y tratamiento de retina son los de mayor excelencia en el país. Con tecnología de imagen y cirugía ocular de última generación y cirujanos de renombre internacional.

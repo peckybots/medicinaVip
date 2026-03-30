@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en Alicante, una de las ciudades más atractivas p
 web: "https://www.vithas.es/alicante"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-alicante.png"
 ---
 
 Hospital Vithas en Alicante, una de las ciudades más atractivas para el turismo médico en España. Excelencia médica con personal multilingüe especializado en atención a residentes extranjeros europeos. Amplia oferta de check-ups ejecutivos y programas de medicina preventiva.

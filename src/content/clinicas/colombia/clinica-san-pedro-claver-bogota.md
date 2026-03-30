@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Bogotá con décadas de historia
 web: "https://www.clinicasanpedroclaver.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-san-pedro-claver-bogota.png"
 ---
 
 Clínica privada de referencia en Bogotá con décadas de historia en la medicina capitalina. Sus servicios hospitalarios integrales y personal certificado la mantienen como opción de confianza en el mercado bogotano. Trabaja con los principales seguros y planes de salud privados del país.

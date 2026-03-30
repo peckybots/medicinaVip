@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Banyoles, Girona (Cataluñ
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-salus-infirmorum.png"
 ---
 
 Hospitales Generales privado ubicado en Banyoles, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

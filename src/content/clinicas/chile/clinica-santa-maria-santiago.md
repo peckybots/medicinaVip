@@ -13,6 +13,7 @@ fundacion: 1938
 camas: 280
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/clinica-santa-maria-santiago.png"
 ---
 
 Reconocida clínica privada de referencia en Santiago con más de 70 años de historia. Miembro del grupo de los mejores hospitales privados de Chile según el ranking Merco. Con amplia cobertura de especialidades y tecnología de diagnóstico moderno.

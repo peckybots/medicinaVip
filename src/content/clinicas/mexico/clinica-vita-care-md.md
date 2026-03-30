@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Coyoacan, CIUDAD DE MEXICO, México. Es
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-vita-care-md.png"
 ---
 
 Clinica privada ubicada en Coyoacan, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Lucena, Córdoba (Andaluc�
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-centro-de-andalucia.png"
 ---
 
 Hospitales Generales privado ubicado en Lucena, Córdoba (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -8,6 +8,7 @@ descripcion: "Hospital Muguerza en Saltillo, capital de Coahuila y ciudad con fu
 web: "https://www.christus.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-muguerza-saltillo.png"
 ---
 
 Hospital Muguerza en Saltillo, capital de Coahuila y ciudad con fuerte actividad industrial automotriz. Parte de la red Muguerza con presencia en el noreste de México, ofrece servicios especializados de alta calidad. Sus instalaciones modernas y equipo certificado atienden a toda la región lagunera y fronteriza.

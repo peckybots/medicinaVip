@@ -8,6 +8,7 @@ descripcion: "Hospital del Valle en San Ramón de Alajuela, institución privada
 web: "https://www.hospitaldelvalle.com.cr"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/del-valle-san-ramon-cr.png"
 ---
 
 Hospital del Valle en San Ramón de Alajuela, institución privada que atiende a las comunidades del occidente costarricense. Sus servicios hospitalarios completos con atención de urgencias son especialmente valorados. Con instalaciones modernas y equipo médico calificado, cubre las necesidades de una región agropecuaria próspera.

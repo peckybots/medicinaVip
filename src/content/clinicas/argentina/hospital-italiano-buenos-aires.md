@@ -13,6 +13,7 @@ fundacion: 1853
 camas: 700
 featured: true
 draft: false
+imagen: "/images/clinicas/argentina/hospital-italiano-buenos-aires.png"
 ---
 
 El Hospital Italiano es una de las instituciones médicas privadas más grandes y reconocidas de Argentina, con más de 165 años de trayectoria. Es líder en investigación clínica, trasplante hepático y renal, y cuenta con un programa de cirugía robótica de vanguardia.

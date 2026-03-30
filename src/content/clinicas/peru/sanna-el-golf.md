@@ -8,6 +8,7 @@ descripcion: "Clínica Sanna en el distrito de San Isidro, zona financiera y eje
 web: "https://www.sanna.pe/clinica-el-golf"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/sanna-el-golf.png"
 ---
 
 Clínica Sanna en el distrito de San Isidro, zona financiera y ejecutiva de Lima. Especializada en atención corporativa y ejecutiva con programas de check-up y medicina preventiva. Sus instalaciones de primer nivel y personal bilingüe atraen a la comunidad empresarial limeña.

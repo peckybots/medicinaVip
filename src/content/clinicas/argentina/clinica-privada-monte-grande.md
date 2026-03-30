@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Monte Grande, municipio del sur 
 web: "https://www.clinicamontegrande.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-privada-monte-grande.png"
 ---
 
 Clínica privada de referencia en Monte Grande, municipio del sur del Gran Buenos Aires. Con décadas de historia atendiendo a la comunidad del sur bonaerense con servicios de calidad. Sus programas de cardiología y cirugía son los más demandados del sector privado del GBA sur.

@@ -12,6 +12,7 @@ fundacion: 1995
 camas: 110
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-redsalud-valparaiso.png"
 ---
 
 Uno de los principales centros de salud privados de alta complejidad en la Quinta Región de Chile. Pertenece a la red RedSalud y ofrece atención médico-quirúrgica integral a la población del Gran Valparaíso.

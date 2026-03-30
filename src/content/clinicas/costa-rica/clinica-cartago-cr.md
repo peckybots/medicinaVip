@@ -8,6 +8,7 @@ descripcion: "Clínica privada en Cartago, la antigua capital de Costa Rica en l
 web: "https://www.clinicacartago.com.cr"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/clinica-cartago-cr.png"
 ---
 
 Clínica privada en Cartago, la antigua capital de Costa Rica en las faldas del Volcán Irazú. Sus servicios hospitalarios atienden a la comunidad cartaginesa y alrededores. Con instalaciones modernas y equipo médico calificado, es referente de la salud privada en la provincia oriental.

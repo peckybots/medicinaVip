@@ -13,6 +13,7 @@ fundacion: 1985
 camas: 170
 featured: true
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-malaga.png"
 ---
 
 Hospital privado de referencia en la capital malagueña, parte del grupo Quirónsalud. Figura en el top 15 de hospitales privados de España y es uno de los principales centros privados de Andalucía.

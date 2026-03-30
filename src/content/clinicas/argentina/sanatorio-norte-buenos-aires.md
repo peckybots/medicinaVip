@@ -8,6 +8,7 @@ descripcion: "Sanatorio Norte en el barrio de Saavedra, Buenos Aires, instituci�
 web: "https://www.sanatorionorte.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-norte-buenos-aires.png"
 ---
 
 Sanatorio Norte en el barrio de Saavedra, Buenos Aires, institución hospitalaria privada con décadas de servicio a los residentes del norte porteño. Sus servicios de cirugía y urgencias atienden a la densamente poblada zona norte de la capital. Con médicos especializados y atención personalizada en un sanatorio de mediana complejidad.

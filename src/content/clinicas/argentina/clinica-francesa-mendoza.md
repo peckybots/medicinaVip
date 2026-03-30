@@ -13,6 +13,7 @@ fundacion: 1956
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-francesa-mendoza.png"
 ---
 
 La Clínica Francesa es el principal establecimiento privado de alta complejidad de Mendoza y referente para la región de Cuyo. Brinda atención de especialidad en cardiología, oncología y cirugía de alta complejidad con un cuerpo médico de excelencia.

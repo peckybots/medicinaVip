@@ -13,6 +13,7 @@ fundacion: 1936
 camas: 250
 featured: true
 draft: false
+imagen: "/images/clinicas/panama/hospital-nacional-panama.png"
 ---
 
 Centro médico integral privado con larga trayectoria y vasta experiencia en la atención de la salud en Panamá. Reconocido por la Asociación de Hospitales Privados de Centroamérica y el Caribe como hospital líder de la región.

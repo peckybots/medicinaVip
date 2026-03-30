@@ -13,6 +13,7 @@ fundacion: 1937
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-medellin.png"
 ---
 
 Clínica Medellín es una de las más antiguas e importantes clínicas privadas de Medellín. Con varias sedes en la ciudad, es reconocida por su servicio cardiológico y de ortopedia, y figura entre las instituciones más mencionadas del ranking colombiano de excelencia en salud.

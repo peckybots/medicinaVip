@@ -12,6 +12,7 @@ fundacion: 1956
 camas: 160
 featured: false
 draft: false
+imagen: "/images/clinicas/puerto-rico/hospital-pavia-san-juan.png"
 ---
 
 Hospital privado reconocido en San Juan que forma parte de la red de hospitales Pavía en Puerto Rico. Ofrece atención médica integral con médicos especializados y modernas instalaciones en el corazón de la capital.

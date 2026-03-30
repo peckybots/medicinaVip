@@ -12,6 +12,7 @@ fundacion: 2000
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-murcia.png"
 ---
 
 Hospital privado Quirónsalud en Murcia con tecnología de diagnóstico avanzada. Referente de la atención privada en la Región de Murcia con un amplio equipo de especialistas y servicios de urgencias 24 horas.

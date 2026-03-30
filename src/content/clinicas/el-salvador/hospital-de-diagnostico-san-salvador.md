@@ -12,6 +12,7 @@ fundacion: 1980
 camas: 100
 featured: true
 draft: false
+imagen: "/images/clinicas/el-salvador/hospital-de-diagnostico-san-salvador.png"
 ---
 
 Hospital privado de referencia en San Salvador reconocido por su tecnología de diagnóstico de vanguardia. Cuenta con equipos de imagen médica de última generación y especialistas con alta formación en diversas áreas médico-quirúrgicas.

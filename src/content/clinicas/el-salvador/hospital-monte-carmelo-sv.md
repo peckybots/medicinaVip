@@ -8,6 +8,7 @@ descripcion: "Hospital Monte Carmelo en San Salvador, institución médica priva
 web: "https://www.hospitalmontecarmelp.com.sv"
 featured: false
 draft: false
+imagen: "/images/clinicas/el-salvador/hospital-monte-carmelo-sv.png"
 ---
 
 Hospital Monte Carmelo en San Salvador, institución médica privada de alta especialidad en la capital salvadoreña. Sus programas de cardiología y oncología son reconocidos en el sistema privado nacional. Con instalaciones modernas y convenios con aseguradoras para la clientela corporativa y ejecutiva.

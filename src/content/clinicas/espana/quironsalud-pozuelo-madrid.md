@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Pozuelo de Alarcón, uno de los municipio
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-pozuelo-madrid.png"
 ---
 
 Hospital Quirónsalud en Pozuelo de Alarcón, uno de los municipios con mayor renta de España. Atiende a una clientela exigente del oeste de Madrid con instalaciones premium y equipo médico de excelencia. Sus programas de oncología y traumatología son especialmente reconocidos.

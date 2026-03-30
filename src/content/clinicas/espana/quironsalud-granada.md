@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en Granada, ciudad universitaria y monumenta
 web: "https://www.quironsalud.es/granada"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-granada.png"
 ---
 
 Hospital Quirónsalud en Granada, ciudad universitaria y monumental al pie de la Sierra Nevada. Sus servicios neurológicos y oncológicos son los de mayor referencia en la provincia. La combinación de medicina universitaria y privada eleva el nivel asistencial de la ciudad.

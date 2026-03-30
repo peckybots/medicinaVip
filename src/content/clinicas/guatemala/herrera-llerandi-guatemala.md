@@ -8,6 +8,7 @@ descripcion: "Hospital privado de alta complejidad en Ciudad de Guatemala, recon
 web: "https://www.herrerallerandi.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/herrera-llerandi-guatemala.png"
 ---
 
 Hospital privado de alta complejidad en Ciudad de Guatemala, reconocido como uno de los mejores del país. Sus programas de oncología y cardiología son de referencia centroamericana. Cuenta con tecnología de última generación y un equipo médico de alta especialización.

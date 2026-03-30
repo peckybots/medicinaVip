@@ -8,6 +8,7 @@ descripcion: "Hospital San Francisco de Asís en la Ciudad de México, instituci
 web: "https://www.hospitalsanfranciscodeasis.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-san-francisco-asis-cdmx.png"
 ---
 
 Hospital San Francisco de Asís en la Ciudad de México, institución hospitalaria privada con décadas de experiencia. Sus servicios médicos y quirúrgicos atienden a residentes de la zona centro-norte de la capital. Con personal médico comprometido y atención de calidad a precios razonables.

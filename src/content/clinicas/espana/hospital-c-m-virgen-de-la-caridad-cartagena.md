@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Cartagena, Murc
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-c-m-virgen-de-la-caridad-cartagena.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Cartagena, Murcia (Región de Murcia), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -8,6 +8,7 @@ descripcion: "La Clínica Privada Vélez Sarsfield en Córdoba es la institució
 web: "https://www.velezmedical.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-privada-velez-sarsfield.png"
 ---
 
 La Clínica Privada Vélez Sarsfield en Córdoba es la institución médica privada de mayor referencia de la segunda ciudad argentina. Sus programas oncológicos y de trasplante de órganos son reconocidos a nivel nacional. Con más de 60 años de historia, forma especialistas médicos en sus unidades docentes.

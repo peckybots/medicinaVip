@@ -13,6 +13,7 @@ fundacion: 2018
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospitaria.png"
 ---
 
 Hospitaria es el hospital privado de alta complejidad más moderno del área metropolitana de Monterrey, cuarto en el ranking regional norte FUNSALUD 2024. Destaca por su arquitectura de vanguardia, tecnología de imagen de última generación y enfoque en cirugía mínimamente invasiva.

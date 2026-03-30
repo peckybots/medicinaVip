@@ -12,6 +12,7 @@ fundacion: 2005
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-san-pablo-arequipa.png"
 ---
 
 Sede regional de la reconocida Clínica San Pablo en Arequipa, segunda ciudad más importante de Perú. Brinda atención especializada a la población del sur peruano con tecnología moderna y especialistas de amplia experiencia.

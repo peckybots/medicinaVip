@@ -8,6 +8,7 @@ descripcion: "Clínica Alemana en Temuco, parte de la red de la Universidad Alem
 web: "https://www.alemanatem.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/alemana-temuco.png"
 ---
 
 Clínica Alemana en Temuco, parte de la red de la Universidad Alemana de Chile con presencia en el sur del país. Sus estándares médicos de alta calidad atienden a la creciente población de la Araucanía. Instalaciones modernas y equipo médico comprometido con la medicina de excelencia.

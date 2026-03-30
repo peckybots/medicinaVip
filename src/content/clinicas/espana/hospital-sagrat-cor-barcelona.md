@@ -12,6 +12,7 @@ fundacion: 1890
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-sagrat-cor-barcelona.png"
 ---
 
 Hospital privado con más de 100 años de historia en Barcelona. Gestionado por los Hermanos de San Juan de Dios, es referente en la atención integral y humanista de la salud privada catalana.

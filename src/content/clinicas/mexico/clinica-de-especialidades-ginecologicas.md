@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Iztapalapa, CIUDAD DE MEXICO, México. 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-de-especialidades-ginecologicas.png"
 ---
 
 Clinica privada ubicada en Iztapalapa, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

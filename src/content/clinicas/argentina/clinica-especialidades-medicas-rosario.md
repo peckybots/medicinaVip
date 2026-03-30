@@ -12,6 +12,7 @@ fundacion: 1975
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-especialidades-medicas-rosario.png"
 ---
 
 Clínica privada integral en Rosario que cubre un amplio espectro de especialidades médico-quirúrgicas. Reconocida por su atención personalizada y equipamiento diagnóstico de última generación.

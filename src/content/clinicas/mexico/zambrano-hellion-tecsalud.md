@@ -13,6 +13,7 @@ fundacion: 2009
 camas: 182
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/zambrano-hellion-tecsalud.png"
 ---
 
 Parte de la red TecSalud del Tecnológico de Monterrey, el Hospital Zambrano Hellion es referencia en oncología molecular y medicina de precisión. Vinculado académicamente con el TEC de Monterrey y con redes internacionales de segunda opinión en Houston.

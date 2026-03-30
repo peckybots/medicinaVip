@@ -12,6 +12,7 @@ fundacion: 1988
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-diagnostico-guatemala.png"
 ---
 
 Hospital privado especializado en diagnóstico y tratamiento de patologías complejas en Guatemala. Con tecnología de imagen avanzada y un equipo de especialistas en diagnóstico, es referente en la medicina de precisión guatemalteca.

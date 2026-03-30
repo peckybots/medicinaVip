@@ -12,6 +12,7 @@ fundacion: 1927
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/sanatorio-italiano-asuncion.png"
 ---
 
 Sanatorio con raíces italianas y larga historia en Asunción. Cuenta con diversas especialidades médico-quirúrgicas y es una de las instituciones privadas más tradicionales del sistema de salud paraguayo.

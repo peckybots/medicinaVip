@@ -8,6 +8,7 @@ descripcion: "Sanatorio Mitre en el barrio de Palermo Norte, Buenos Aires, insti
 web: "https://www.sanatorio-mitre.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-mitre-buenos-aires.png"
 ---
 
 Sanatorio Mitre en el barrio de Palermo Norte, Buenos Aires, institución hospitalaria privada con décadas de trayectoria en la capital argentina. Sus servicios cardiológicos y oncológicos son los de mayor demanda entre los pacientes privados de la zona norte porteña. Con instalaciones modernas y equipo médico de reconocido prestigio.

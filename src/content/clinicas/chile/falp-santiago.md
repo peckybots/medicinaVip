@@ -8,6 +8,7 @@ descripcion: "La Fundación Arturo López Pérez (FALP) es el centro oncológico
 web: "https://www.falp.org"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/falp-santiago.png"
 ---
 
 La Fundación Arturo López Pérez (FALP) es el centro oncológico privado de mayor especialización y reconocimiento en Chile. Dedicada exclusivamente al diagnóstico y tratamiento del cáncer, ofrece los programas más avanzados del país en radioterapia, oncología médica y cuidados paliativos. Es destino de pacientes oncológicos de todo Chile y del cono sur latinoamericano.

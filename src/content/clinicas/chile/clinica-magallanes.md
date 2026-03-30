@@ -8,6 +8,7 @@ descripcion: "La Clínica Magallanes en Punta Arenas es el principal hospital pr
 web: "https://www.clinicamagallanes.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-magallanes.png"
 ---
 
 La Clínica Magallanes en Punta Arenas es el principal hospital privado del extremo austral del mundo. Sus programas de medicina de urgencias y cirugía son esenciales para la comunidad de la Patagonia chilena. Especializada en medicina de ambientes extremos para los trabajadores de la industria del petróleo y la pesca.

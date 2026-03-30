@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/centro-medico-hondureno.png"
 ---
 
 Centro médico privado de referencia en Tegucigalpa que ofrece servicios de salud de alta calidad. Reconocido por su equipamiento moderno y el nivel de sus especialistas médicos en la capital de Honduras.

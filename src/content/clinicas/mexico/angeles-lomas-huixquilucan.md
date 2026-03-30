@@ -8,6 +8,7 @@ descripcion: "Uno de los hospitales privados más reconocidos de la zona metropo
 web: "https://www.hospitalangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-lomas-huixquilucan.png"
 ---
 
 Uno de los hospitales privados más reconocidos de la zona metropolitana de Ciudad de México, ubicado en las Lomas de Vista Hermosa. Destaca por su programa de oncología integral y cirugía robótica. Atiende a pacientes de alto nivel socioeconómico del área del poniente capitalino.

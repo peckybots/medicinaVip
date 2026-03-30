@@ -8,6 +8,7 @@ descripcion: "Hospitales de media y larga estancia privado ubicado en Haro, La R
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centro-sociosanitario-de-convalecencia-los-jazmines.png"
 ---
 
 Hospitales de media y larga estancia privado ubicado en Haro, La Rioja (La Rioja), España. Registrado en el Catálogo Nacional de Hospitales 2025.

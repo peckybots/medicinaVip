@@ -13,6 +13,7 @@ fundacion: 1997
 camas: 220
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-san-jose-tecsalud.png"
 ---
 
 Hospital universitario privado del Tecnológico de Monterrey, reconocido entre los 10 mejores hospitales privados de México. Integra asistencia clínica con docencia e investigación médica de alto nivel.

@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles sobre Insurgentes Sur en la Ciudad de México, a
 web: "https://www.hospitalesangeles.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-insurgentes-sur.png"
 ---
 
 Hospital Ángeles sobre Insurgentes Sur en la Ciudad de México, accesible desde Benito Juárez, Coyoacán y Álvaro Obregón. Ofrece atención hospitalaria completa con especialidades médicas y quirúrgicas de alta calidad. Sus urgencias y hospitalización atienden las 24 horas con médicos de guardia permanente.

@@ -8,6 +8,7 @@ descripcion: "Clínica del Trabajador en Santiago, especializada en salud ocupac
 web: "https://www.ist.cl/clinica-del-trabajador"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-del-trabajador-santiago.png"
 ---
 
 Clínica del Trabajador en Santiago, especializada en salud ocupacional y accidentes del trabajo bajo el sistema de mutualidades chileno. Sus servicios de traumatología laboral y rehabilitación son los más demandados por trabajadores de todo el país. Referente en medicina ocupacional y prevención de riesgos laborales en Chile.

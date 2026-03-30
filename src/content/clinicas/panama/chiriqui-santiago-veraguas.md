@@ -8,6 +8,7 @@ descripcion: "Hospital Chiriquí en Santiago de Veraguas, capital de la provinci
 web: "https://www.hospitalchiriqui.com.pa/santiago"
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/chiriqui-santiago-veraguas.png"
 ---
 
 Hospital Chiriquí en Santiago de Veraguas, capital de la provincia de Veraguas en el corazón de Panamá. Sus servicios hospitalarios atienden a la comunidad de la provincia más grande del país. Con instalaciones modernas y equipo médico especializado, cubre las necesidades sanitarias del centro de Panamá.

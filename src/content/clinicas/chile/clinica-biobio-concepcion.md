@@ -13,6 +13,7 @@ fundacion: 1985
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-biobio-concepcion.png"
 ---
 
 La Clínica Biobío es la principal clínica privada de la región del Biobío y referente para el sur de Chile. Con cobertura de especialidades para la región de Concepción, ofrece atención privada de alta calidad tanto a pacientes locales como de zonas más alejadas del sur del país.

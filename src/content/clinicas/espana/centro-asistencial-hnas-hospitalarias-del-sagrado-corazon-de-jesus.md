@@ -8,6 +8,7 @@ descripcion: "Hospitales de salud mental y tratamiento de toxicomanías privado 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/centro-asistencial-hnas-hospitalarias-del-sagrado-corazon-de-jesus.png"
 ---
 
 Hospitales de salud mental y tratamiento de toxicomanías privado ubicado en Málaga, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

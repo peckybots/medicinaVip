@@ -8,6 +8,7 @@ descripcion: "Hospital La Paz en San Pedro Sula, la capital industrial de Hondur
 web: "https://www.hospitallapaz.hn"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/hospital-la-paz-san-pedro-sula.png"
 ---
 
 Hospital La Paz en San Pedro Sula, la capital industrial de Honduras y la segunda ciudad más importante del país. Sus programas de cardiología y oncología son referentes del sector privado en el norte del país. Con instalaciones modernas y equipo de especialistas de alto nivel.

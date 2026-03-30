@@ -11,6 +11,7 @@ fundacion: 2008
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-redsalud-antofagasta.png"
 ---
 
 Centro privado de RedSalud que atiende a la creciente población minera y residente de Antofagasta. Parte de una de las principales redes hospitalarias privadas de Chile con amplia cobertura de isapres.

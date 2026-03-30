@@ -8,6 +8,7 @@ descripcion: "Clínica Baviera en Zaragoza, referente de la oftalmología privad
 web: "https://www.clinica-baviera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-baviera-zaragoza.png"
 ---
 
 Clínica Baviera en Zaragoza, referente de la oftalmología privada aragonesa con cirugías refractivas y de cataratas de alto nivel. Sus instalaciones modernas y cirujanos especializados atienden a pacientes de toda la comunidad aragonesa. Con los últimos avances en diagnóstico y tratamiento ocular.

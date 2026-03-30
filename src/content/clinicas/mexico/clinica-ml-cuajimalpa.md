@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Cuajimalpa De Morelos, CIUDAD DE MEXICO
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-ml-cuajimalpa.png"
 ---
 
 Clinica privada ubicada en Cuajimalpa De Morelos, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

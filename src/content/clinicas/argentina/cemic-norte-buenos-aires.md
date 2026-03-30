@@ -8,6 +8,7 @@ descripcion: "Sede norte del CEMIC en Buenos Aires, extendiendo la cobertura de 
 web: "https://www.cemic.edu.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/cemic-norte-buenos-aires.png"
 ---
 
 Sede norte del CEMIC en Buenos Aires, extendiendo la cobertura de esta institución universitaria de excelencia. Ofrece los mismos altos estándares de investigación y atención clínica que caracterizan al CEMIC. Sus especialidades de cardiología y neurología son especialmente reconocidas.

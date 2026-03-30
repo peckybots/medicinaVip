@@ -12,6 +12,7 @@ fundacion: 2017
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/paraguay/hospital-universitario-san-lorenzo.png"
 ---
 
 Novedoso hospital universitario inaugurado en 2017 como alianza entre el Grupo San Roque y la Universidad Politécnica y Artística de Paraguay (UPAP). Combina la excelencia asistencial con la formación médica universitaria de alta calidad.

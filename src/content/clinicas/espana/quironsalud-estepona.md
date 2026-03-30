@@ -8,6 +8,7 @@ descripcion: "Centro médico Quirónsalud en Estepona, municipio de la Costa del
 web: "https://www.quironsalud.es/estepona"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-estepona.png"
 ---
 
 Centro médico Quirónsalud en Estepona, municipio de la Costa del Sol occidental en expansión. Especializado en medicina estética y programas de wellness para la creciente comunidad de residentes internacionales. Sus servicios de check-up y medicina preventiva son muy demandados por europeos residentes.

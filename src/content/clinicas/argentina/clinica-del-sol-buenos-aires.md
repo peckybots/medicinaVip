@@ -8,6 +8,7 @@ descripcion: "La Clínica del Sol en el barrio de Palermo es referente en cirug�
 web: "https://www.clinicadelsol.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-del-sol-buenos-aires.png"
 ---
 
 La Clínica del Sol en el barrio de Palermo es referente en cirugía bariátrica y metabólica en Argentina. Sus programas de cirugía de la obesidad tienen excelentes resultados clínicos documentados. Combina cirugía bariátrica con programas integrales de medicina del estilo de vida.

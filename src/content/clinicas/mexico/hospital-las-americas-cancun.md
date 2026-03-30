@@ -8,6 +8,7 @@ descripcion: "Hospital Las Américas en Cancún, una de las opciones hospitalari
 web: "https://www.hospitallasamericas.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-las-americas-cancun.png"
 ---
 
 Hospital Las Américas en Cancún, una de las opciones hospitalarias más importantes del destino turístico número uno de México. Con larga historia en la atención a turistas internacionales, ofrece servicios en múltiples idiomas y coordinación con las principales aseguradoras del mundo. Sus urgencias atienden los 365 días del año con especialistas de guardia.

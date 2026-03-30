@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.incorlarioja.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/consultorios-del-instituto-del-corazon-s-r-l.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en La Ramadita, La Rioja.

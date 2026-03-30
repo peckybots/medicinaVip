@@ -8,6 +8,7 @@ descripcion: "Hospital IDC Salud Recoletas en Burgos, referente sanitario privad
 web: "https://www.idcsalud.es/recoletas-burgos"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/idc-recoletas-burgos.png"
 ---
 
 Hospital IDC Salud Recoletas en Burgos, referente sanitario privado en Castilla y León. Con décadas de presencia en la ciudad castellana, ofrece servicios hospitalarios de calidad con especialistas de amplia trayectoria. Sus instalaciones han sido recientemente renovadas para incorporar la última tecnología médica.

@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/bolivia/clinica-del-sur-cochabamba.png"
 ---
 
 Clínica privada con amplia cobertura de servicios médico-quirúrgicos en Cochabamba. Ofrece atención especializada con equipo médico de amplia experiencia en la región central de Bolivia.

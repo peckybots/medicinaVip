@@ -8,6 +8,7 @@ descripcion: "La Clínica RedSalud Iquique es el establecimiento privado de refe
 web: "https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-iquique"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-redsalud-iquique.png"
 ---
 
 La Clínica RedSalud Iquique es el establecimiento privado de referencia en Iquique, ciudad portuaria y zona franca del norte de Chile. Con cobertura de los principales seguros de salud, atiende a la población regional con especialidades médico-quirúrgicas completas. Sus programas de urgencias y hospitalización son los más accesibles de la ciudad.

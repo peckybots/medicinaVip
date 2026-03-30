@@ -8,6 +8,7 @@ descripcion: "Hospital CMQ en la Riviera Nayarit, atendiendo a turistas y reside
 web: "https://www.cmqhospitals.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/cmq-riviera-nayarit.png"
 ---
 
 Hospital CMQ en la Riviera Nayarit, atendiendo a turistas y residentes del exclusivo corredor costero entre Puerto Vallarta y Punta Mita. Brinda atención médica de calidad en un destino turístico de clase mundial, con personal bilingüe y protocolos para emergencias médicas de visitantes extranjeros. Servicios de telemedicina y coordinación con hospitales de EE.UU.

@@ -8,6 +8,7 @@ descripcion: "Clínica Mar Azul en Manta, el principal puerto pesquero y turíst
 web: "https://www.clinicamarazul.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/mar-azul-manta.png"
 ---
 
 Clínica Mar Azul en Manta, el principal puerto pesquero y turístico de Manabí. Sus servicios hospitalarios atienden a residentes y turistas de la costa manabita. Con instalaciones modernas y atención de urgencias las 24 horas, cubre las necesidades médicas de una ciudad en constante crecimiento.

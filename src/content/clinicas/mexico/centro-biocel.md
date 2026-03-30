@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Ensenada, BAJA CALIFORNIA, México. Est
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-biocel.png"
 ---
 
 Clinica privada ubicada en Ensenada, BAJA CALIFORNIA, México. Establecimiento de salud registrado en CLUES.

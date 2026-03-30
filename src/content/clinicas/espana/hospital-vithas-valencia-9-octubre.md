@@ -12,6 +12,7 @@ fundacion: 1950
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-vithas-valencia-9-octubre.png"
 ---
 
 Principal hospital del grupo Vithas en Valencia, con una larga tradición en la asistencia privada de la ciudad. Ofrece servicios completos de hospitalización, cirugía y urgencias con cobertura de todos los seguros médicos.

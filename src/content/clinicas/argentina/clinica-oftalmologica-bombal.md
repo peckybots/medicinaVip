@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Mediano rie
 web: "http://www.clinicabombal.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-oftalmologica-bombal.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Mediano riesgo con internación con cuidados especiales en San Rafael, Mendoza.

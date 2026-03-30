@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en Alvaro Obregon, CIUDAD DE MEXICO, Méxi
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/centro-de-rehabilitacion-renal-s-a-de-c-v.png"
 ---
 
 Clinica privada ubicada en Alvaro Obregon, CIUDAD DE MEXICO, México. Establecimiento de salud registrado en CLUES.

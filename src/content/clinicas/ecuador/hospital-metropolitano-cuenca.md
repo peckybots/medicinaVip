@@ -8,6 +8,7 @@ descripcion: "Hospital del Grupo Metropolitano en Cuenca, la tercera ciudad de E
 web: "https://www.hospitalmetropolitano.org/cuenca"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/hospital-metropolitano-cuenca.png"
 ---
 
 Hospital del Grupo Metropolitano en Cuenca, la tercera ciudad de Ecuador y referente cultural andino. Ofrece servicios hospitalarios de alta especialidad a la comunidad cuencana y al sur del país. Sus programas de oncología y cardiología son los más demandados de la región austral ecuatoriana.

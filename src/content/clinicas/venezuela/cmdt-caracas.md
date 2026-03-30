@@ -8,6 +8,7 @@ descripcion: "El Centro Médico Docente La Trinidad en Caracas es una instituci�
 web: "https://www.cmdt.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/cmdt-caracas.png"
 ---
 
 El Centro Médico Docente La Trinidad en Caracas es una institución médica académica de referencia en Venezuela. Combina atención médica privada de excelencia con formación especializada. Sus programas de cardiología intervencionista y neurología clínica son de los más avanzados del país.

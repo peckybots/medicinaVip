@@ -8,6 +8,7 @@ descripcion: "Hospital privado moderno en Tegucigalpa con tecnología de última
 web: "https://www.hondurasmedical.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/honduras/honduras-medical-center-tegucigalpa.png"
 ---
 
 Hospital privado moderno en Tegucigalpa con tecnología de última generación. Sus programas de cardiología intervencionista y cirugía robótica son los más avanzados de Honduras. Atiende a ejecutivos, diplomáticos y pacientes internacionales con servicios de primer nivel.

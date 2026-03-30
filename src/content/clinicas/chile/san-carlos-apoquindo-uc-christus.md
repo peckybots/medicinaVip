@@ -13,6 +13,7 @@ fundacion: 2004
 camas: 270
 featured: true
 draft: false
+imagen: "/images/clinicas/chile/san-carlos-apoquindo-uc-christus.png"
 ---
 
 La Clínica San Carlos de Apoquindo es la clínica académica de la Pontificia Universidad Católica de Chile y parte de la red CHRISTUS Health. Es segunda en el ranking nacional 2025 (Meganoticias), con especial reconocimiento en neurocirugía compleja, oncología y cirugía mínimamente invasiva.

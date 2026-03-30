@@ -13,6 +13,7 @@ fundacion: 2000
 camas: 120
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-angeles-tijuana.png"
 ---
 
 Tijuana es uno de los principales destinos de turismo médico de América del Norte. El Hospital Ángeles Tijuana es el principal referente privado de la ciudad, atendiendo tanto pacientes locales como estadounidenses que buscan atención de calidad a menor costo.

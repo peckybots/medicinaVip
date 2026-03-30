@@ -8,6 +8,7 @@ descripcion: "Sanatorio de la Trinidad en Ramos Mejía, La Matanza, atendiendo a
 web: "https://www.trinidadsalud.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/trinidad-ramos-mejia.png"
 ---
 
 Sanatorio de la Trinidad en Ramos Mejía, La Matanza, atendiendo al oeste del Gran Buenos Aires. Sus servicios hospitalarios completos cubren la demanda de salud privada del populoso corredor oeste de la RMBA. Con médicos especializados y atención personalizada característica de la red Trinidad.

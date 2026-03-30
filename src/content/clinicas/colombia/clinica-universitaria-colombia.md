@@ -13,6 +13,7 @@ fundacion: 1960
 camas: 180
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-universitaria-colombia.png"
 ---
 
 Clínica universitaria privada en Bogotá reconocida por combinar docencia e investigación con atención clínica de alta calidad. Referente en formación médica y atención especializada en la capital colombiana.

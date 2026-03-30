@@ -8,6 +8,7 @@ descripcion: "La Clínica RedSalud Elqui es la principal clínica privada de La 
 web: "https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-elqui"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-redsalud-elqui.png"
 ---
 
 La Clínica RedSalud Elqui es la principal clínica privada de La Serena, capital de la Región de Coquimbo. Parte de la red RedSalud con presencia nacional, ofrece atención integral en especialidades para la población del norte chico. Sus instalaciones modernas y equipo médico certificado la posicionan como referente de la salud privada en la zona.

@@ -8,6 +8,7 @@ descripcion: "Sanatorio privado de referencia en Quilmes, sur del Gran Buenos Ai
 web: "https://www.sanatoriomodelo.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-modelo-quilmes.png"
 ---
 
 Sanatorio privado de referencia en Quilmes, sur del Gran Buenos Aires. Con amplia trayectoria, atiende a la población del corredor sur bonaerense con servicios hospitalarios de calidad. Sus programas de urgencias y medicina interna son especialmente reconocidos en la zona.

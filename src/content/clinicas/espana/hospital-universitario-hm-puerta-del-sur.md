@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Móstoles, Madrid (Madrid)
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-universitario-hm-puerta-del-sur.png"
 ---
 
 Hospitales Generales privado ubicado en Móstoles, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

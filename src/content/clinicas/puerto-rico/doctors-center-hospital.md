@@ -12,6 +12,7 @@ fundacion: 1960
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/puerto-rico/doctors-center-hospital.png"
 ---
 
 Hospital privado con amplia trayectoria en San Juan que brinda servicios médico-quirúrgicos completos. Reconocido como uno de los mejores hospitales de Puerto Rico por Yelp, con equipo médico de alta especialidad y tecnología moderna.

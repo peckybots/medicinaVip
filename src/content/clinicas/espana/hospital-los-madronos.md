@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Brunete, Madrid (Madrid), 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-los-madronos.png"
 ---
 
 Hospitales Generales privado ubicado en Brunete, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -12,6 +12,7 @@ fundacion: 1972
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-luz-medica-tucuman.png"
 ---
 
 Sanatorio privado con amplia cobertura de especialidades en San Miguel de Tucumán. Reconocido por su eficiencia y calidad de atención, con equipamiento moderno y profesionales de alta formación en el NOA.

@@ -12,6 +12,7 @@ fundacion: 2015
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/the-panama-clinic.png"
 ---
 
 Hospital privado moderno en Ciudad de Panamá, diseñado bajo estándares internacionales. Atiende tanto a residentes locales como a turistas médicos y pacientes internacionales con personal multilingüe y tecnología avanzada.

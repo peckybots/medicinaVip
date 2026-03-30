@@ -8,6 +8,7 @@ descripcion: "El Sanatorio Las Lomas en San Isidro es el principal sanatorio pri
 web: "https://www.laslomas.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-las-lomas.png"
 ---
 
 El Sanatorio Las Lomas en San Isidro es el principal sanatorio privado del norte del Gran Buenos Aires. Atiende a la comunidad del conurbano norte con servicios de alta especialidad. Sus programas de cardiología y oncología son referentes en la región del GBA norte.

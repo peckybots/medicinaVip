@@ -8,6 +8,7 @@ descripcion: "Hospitales especializados privado ubicado en Benalmádena, Malaga 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/fundacion-cudeca-centro-de-cuidados-paliativos.png"
 ---
 
 Hospitales especializados privado ubicado en Benalmádena, Malaga (Andalucía), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -8,6 +8,7 @@ descripcion: "Otros Centros con Internamiento privado ubicado en Valdés, Asturi
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-de-luarca.png"
 ---
 
 Otros Centros con Internamiento privado ubicado en Valdés, Asturias (Ppdo. de Asturias), España. Registrado en el Catálogo Nacional de Hospitales 2025.

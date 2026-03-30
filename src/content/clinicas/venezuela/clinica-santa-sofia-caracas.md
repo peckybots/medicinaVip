@@ -8,6 +8,7 @@ descripcion: "La Clínica Santa Sofía en Caracas es la institución médica de 
 web: "https://www.santasofia.com.ve"
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-santa-sofia-caracas.png"
 ---
 
 La Clínica Santa Sofía en Caracas es la institución médica de mayor referencia en salud de la mujer en Venezuela. Con más de 50 años especializada en ginecología y obstetricia de alto riesgo. Sus programas de reproducción asistida y neonatología son los más avanzados del sistema privado venezolano.

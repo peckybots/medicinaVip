@@ -13,6 +13,7 @@ fundacion: 1993
 camas: 180
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/hospital-angeles-lomas.png"
 ---
 
 Hospital del grupo Ángeles en la exclusiva zona de Lomas de Chapultepec. Uno de los hospitales privados más reconocidos del país, con tecnología de punta y los mejores especialistas de México.

@@ -12,6 +12,7 @@ fundacion: 1998
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/hospital-clinico-del-sur.png"
 ---
 
 Hospital privado de alta complejidad en Concepción, especializado en cirugía cardiovascular y patologías de alta complejidad. Referente regional del sector privado en la Región del Biobío.

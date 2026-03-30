@@ -11,6 +11,7 @@ fundacion: 1968
 camas: 90
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-colegiales.png"
 ---
 
 Sanatorio privado en el barrio de Colegiales en Buenos Aires especializado en traumatología y ortopedia. Reconocido por su servicio personalizado y la trayectoria de sus especialistas en cirugía del aparato locomotor.

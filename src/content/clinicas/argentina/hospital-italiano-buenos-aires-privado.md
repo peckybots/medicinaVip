@@ -8,6 +8,7 @@ descripcion: "Hospital Italiano de Buenos Aires, uno de los hospitales privados 
 web: "https://www.hospitalitaliano.org.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-italiano-buenos-aires-privado.png"
 ---
 
 Hospital Italiano de Buenos Aires, uno de los hospitales privados más grandes, completos y reconocidos de América Latina. Con más de 4000 empleados, programa de trasplante multivisceral, cirugía robótica y el centro oncológico más avanzado del país, es referente continental. Sus residencias médicas son las más competitivas de Argentina y su investigación clínica es de nivel internacional.

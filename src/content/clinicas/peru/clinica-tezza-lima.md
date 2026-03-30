@@ -8,6 +8,7 @@ descripcion: "Clínica especializada en oncología y cuidados paliativos en Lima
 web: "https://www.clinicatezza.pe"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/clinica-tezza-lima.png"
 ---
 
 Clínica especializada en oncología y cuidados paliativos en Lima, con vocación humanista. Sus programas de atención oncológica integral y cuidados paliativos son únicos en el Perú. El enfoque holístico del paciente oncológico, incluyendo apoyo psicológico y espiritual, la diferencia del resto.

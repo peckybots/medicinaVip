@@ -8,6 +8,7 @@ descripcion: "Hospital privado en Alajuela, la ciudad del Juan Santamaría y seg
 web: "https://www.hospitalalajuela.com.cr"
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-alajuela-cr.png"
 ---
 
 Hospital privado en Alajuela, la ciudad del Juan Santamaría y segunda provincia de Costa Rica. Sus servicios hospitalarios atienden a la creciente comunidad alajuelense y a los viajeros cercanos al Aeropuerto Internacional. Con instalaciones modernas y atención de urgencias disponible.

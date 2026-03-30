@@ -8,6 +8,7 @@ descripcion: "El Hospital Punta Pacífica es el hospital de la red Johns Hopkins
 web: "https://www.hospitalpuntapacifica.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/panama/hospital-punta-pacifica.png"
 ---
 
 El Hospital Punta Pacífica es el hospital de la red Johns Hopkins Medicine International en Panamá. Esta alianza estratégica garantiza estándares de excelencia reconocidos mundialmente. Con vista al océano Pacífico, es el hospital privado más exclusivo y demandado para turismo médico en Panamá.

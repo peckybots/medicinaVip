@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en la ciudad de Durango, capital del estado hom�
 web: "https://www.hospitalesangeles.com/durango"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-durango.png"
 ---
 
 Hospital Ángeles en la ciudad de Durango, capital del estado homónimo en el norte de México. Ofrece servicios hospitalarios completos para la capital duranguense y los municipios de la sierra tarahumara y valles. Con médicos especialistas certificados y tecnología de diagnóstico actualizada.

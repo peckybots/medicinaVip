@@ -13,6 +13,7 @@ fundacion: 1993
 camas: 300
 featured: true
 draft: false
+imagen: "/images/clinicas/republica-dominicana/hospital-plaza-de-la-salud.png"
 ---
 
 Centro hospitalario de referencia nacional y uno de los más completos de República Dominicana. Reconocido por especialistas dominicanos como uno de los mejores hospitales del país, con alta capacidad resolutiva y tecnología de punta.

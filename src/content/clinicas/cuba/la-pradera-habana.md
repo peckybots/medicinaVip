@@ -8,6 +8,7 @@ descripcion: "Centro de salud internacional de referencia en Cuba, especializado
 web: "https://www.lapradera.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/cuba/la-pradera-habana.png"
 ---
 
 Centro de salud internacional de referencia en Cuba, especializado en turismo médico de alta gama. Reconocido por sus tratamientos de medicina antienvejecimiento y neurológicos pioneros a nivel mundial. Atiende a pacientes internacionales con tratamientos innovadores desarrollados por la ciencia cubana.

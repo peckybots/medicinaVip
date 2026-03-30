@@ -8,6 +8,7 @@ descripcion: "Clínica privada con múltiples sedes en Santiago. Reconocida por 
 web: "https://www.avansalud.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-avansalud-santiago.png"
 ---
 
 Clínica privada con múltiples sedes en Santiago. Reconocida por su modelo de atención integral y accesible en la Región Metropolitana. Sus programas de maternidad y urgencias son especialmente valorados por los residentes capitalinos.

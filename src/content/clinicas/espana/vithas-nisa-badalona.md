@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas especializado en neurología y neurocirugía en Ba
 web: "https://www.vithas.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-nisa-badalona.png"
 ---
 
 Hospital Vithas especializado en neurología y neurocirugía en Badalona. Referente nacional en el tratamiento del daño cerebral adquirido y rehabilitación neurológica. Sus programas de neurología y neurocirugía son de referencia en toda Cataluña.

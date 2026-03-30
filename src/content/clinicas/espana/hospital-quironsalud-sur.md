@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Alcorcón, Madrid (Madrid)
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-sur.png"
 ---
 
 Hospitales Generales privado ubicado en Alcorcón, Madrid (Madrid), España. Registrado en el Catálogo Nacional de Hospitales 2025.

@@ -13,6 +13,7 @@ fundacion: 1948
 camas: 220
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/san-jose-tecsalud.png"
 ---
 
 Uno de los hospitales privados más reconocidos de Monterrey, integrante de TecSalud (Tecnológico de Monterrey). Destaca en talento médico con puntaje perfecto (100) en el ranking FUNSALUD 2024, y es referencia en cardiología y trasplantes renales.

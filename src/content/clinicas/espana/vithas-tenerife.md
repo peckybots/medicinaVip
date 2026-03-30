@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en Santa Cruz de Tenerife, capital de la isla de T
 web: "https://vithas.es/santa-cruz-tenerife"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-tenerife.png"
 ---
 
 Hospital Vithas en Santa Cruz de Tenerife, capital de la isla de Tenerife y sede de numerosos residentes europeos. Su equipo médico especializado atiende a una población cosmopolita con diferentes necesidades sanitarias. Instalaciones modernas y servicios en varios idiomas para la comunidad internacional residente en la isla.

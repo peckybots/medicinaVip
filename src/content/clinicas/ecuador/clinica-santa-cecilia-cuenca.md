@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Cuenca, la tercera ciudad más i
 web: "https://www.clinicasantacecilia.com.ec"
 featured: false
 draft: false
+imagen: "/images/clinicas/ecuador/clinica-santa-cecilia-cuenca.png"
 ---
 
 Clínica privada de referencia en Cuenca, la tercera ciudad más importante de Ecuador. Atiende a la población cuencana y a la amplia comunidad de expatriados norteamericanos y europeos que residen en la ciudad. Sus servicios integrales y personal bilingüe la hacen atractiva para residentes extranjeros.

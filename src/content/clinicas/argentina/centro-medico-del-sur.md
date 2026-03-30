@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Con atenci�
 web: "http://www.facebook.com/centromedicocms"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/centro-medico-del-sur.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Con atención médica diaria y con especialidades y/o otras profesiones en Dina Huapi, Río Negro.

@@ -12,6 +12,7 @@ fundacion: 1955
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-25-de-mayo-mar-del-plata.png"
 ---
 
 Clínica privada integral en Mar del Plata con larga trayectoria en la atención de la comunidad local y veraneantes. Cuenta con equipamiento de diagnóstico moderno y profesionales especializados en múltiples áreas.

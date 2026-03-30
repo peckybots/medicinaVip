@@ -12,6 +12,7 @@ fundacion: 1985
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-hospital-sur.png"
 ---
 
 Forma parte del sistema Christus Muguerza, reconocida red de hospitales privados del norte de México. Ofrece atención de calidad con amplia cobertura de seguros médicos nacionales e internacionales.

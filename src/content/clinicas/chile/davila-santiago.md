@@ -8,6 +8,7 @@ descripcion: "Clínica Dávila en Independencia, Santiago, hospital privado de a
 web: "https://www.davila.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/davila-santiago.png"
 ---
 
 Clínica Dávila en Independencia, Santiago, hospital privado de alta complejidad con décadas de liderazgo médico en Chile. Sus programas de trasplante renal, cardiología intervencionista y oncología están entre los mejores del país. Con una robusta plataforma tecnológica y equipo médico de excelencia, resuelve los casos más complejos.

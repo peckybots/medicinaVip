@@ -11,6 +11,7 @@ fundacion: 2000
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-upaep-puebla.png"
 ---
 
 Hospital privado universitario de la UPAEP en Puebla con enfoque en alta especialidad. Integra la formación médica con la atención clínica de excelencia, siendo un referente en investigación y medicina universitaria en el centro de México.

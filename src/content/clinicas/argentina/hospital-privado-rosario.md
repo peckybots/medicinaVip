@@ -13,6 +13,7 @@ fundacion: 1970
 camas: 200
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-privado-rosario.png"
 ---
 
 El Hospital Privado de Rosario es el principal hospital privado de la ciudad y referente para la provincia de Santa Fe. Cuenta con unidad de trasplante renal, oncología de alta complejidad y hemodinamia de vanguardia.

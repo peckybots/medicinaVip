@@ -12,6 +12,7 @@ fundacion: 1970
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-caracas.png"
 ---
 
 Clínica privada con larga trayectoria en Caracas que ofrece servicios médico-quirúrgicos integrales. Cuenta con instalaciones modernas y cobertura para los principales seguros médicos privados de Venezuela.

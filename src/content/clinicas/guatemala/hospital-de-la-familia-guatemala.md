@@ -8,6 +8,7 @@ descripcion: "Hospital privado orientado a la atención familiar integral en Ciu
 web: "https://www.hospitaldelafamilia.com.gt"
 featured: false
 draft: false
+imagen: "/images/clinicas/guatemala/hospital-de-la-familia-guatemala.png"
 ---
 
 Hospital privado orientado a la atención familiar integral en Ciudad de Guatemala. Con enfoque en medicina familiar y pediatría, atiende a múltiples generaciones de familias guatemaltecas. Sus programas de medicina materno-infantil son especialmente demandados.

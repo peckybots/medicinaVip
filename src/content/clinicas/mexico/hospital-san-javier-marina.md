@@ -8,6 +8,7 @@ descripcion: "Hospital San Javier Marina en Puerto Vallarta, especializado en at
 web: "https://www.hospitalsanjavier.com/marina"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-san-javier-marina.png"
 ---
 
 Hospital San Javier Marina en Puerto Vallarta, especializado en atención a turistas nacionales e internacionales del destino más importante del Pacífico mexicano. Con personal bilingüe y coordinación con aseguradoras internacionales, ofrece atención de urgencia y programada de alta calidad. Es el hospital de referencia del corredor turístico Vallarta-Nayarit.

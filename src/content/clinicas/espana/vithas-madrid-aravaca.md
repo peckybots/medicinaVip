@@ -8,6 +8,7 @@ descripcion: "Hospital Vithas en Aravaca, barrio residencial del noroeste de Mad
 web: "https://www.vithas.es/hospital-vithas-aravaca"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/vithas-madrid-aravaca.png"
 ---
 
 Hospital Vithas en Aravaca, barrio residencial del noroeste de Madrid junto a Pozuelo de Alarcón. Sus instalaciones modernas atienden a las familias de mayor poder adquisitivo del noroeste madrileño. Con médicos de alto prestigio y tecnología de diagnóstico actualizada.

@@ -8,6 +8,7 @@ descripcion: "Centro médico de alta especialidad en el norte de Bogotá con enf
 web: "https://www.loscobosmedical.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/los-cobos-medical-center-bogota.png"
 ---
 
 Centro médico de alta especialidad en el norte de Bogotá con enfoque en medicina de precisión. Sus programas de oncología y cirugía robótica son de los más avanzados de Colombia. Atiende a pacientes nacionales e internacionales con estándares de clase mundial.

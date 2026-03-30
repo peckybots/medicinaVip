@@ -8,6 +8,7 @@ descripcion: "Hospital fundado en 1844 por la comunidad británica en Argentina,
 web: "https://www.hospitalbritanico.org.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/hospital-britanico-buenos-aires.png"
 ---
 
 Hospital fundado en 1844 por la comunidad británica en Argentina, uno de los más históricos del país. Reconocido por sus altos estándares médicos, tecnología avanzada y equipo de especialistas de excelencia. Sus programas de cardiología y trasplante son referentes en el sistema de salud privado argentino.

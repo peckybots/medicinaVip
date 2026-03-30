@@ -12,6 +12,7 @@ fundacion: 1958
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-velez-sarsfield.png"
 ---
 
 Clínica privada de referencia en Córdoba que presta servicios médico-quirúrgicos integrales. Combina atención personalizada con tecnología diagnóstica moderna para una amplia gama de especialidades.

@@ -8,6 +8,7 @@ descripcion: "Establecimiento privado registrado en REFES Argentina. Alto riesgo
 web: "http://www.imacsalta.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/instituto-medico-de-alta-complejidad-imac.png"
 ---
 
 Establecimiento privado registrado en REFES Argentina. Alto riesgo con terapia intensiva especializada en Salta, Salta.

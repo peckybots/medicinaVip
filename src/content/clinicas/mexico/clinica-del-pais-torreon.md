@@ -8,6 +8,7 @@ descripcion: "Hospital privado de referencia en la Comarca Lagunera, una de las 
 web: "https://www.clinicadelpais.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/clinica-del-pais-torreon.png"
 ---
 
 Hospital privado de referencia en la Comarca Lagunera, una de las zonas más dinámicas del norte de México. Ofrece atención médica integral con personal certificado y tecnología actualizada. Es la opción preferida de las familias laguneras para servicios privados de salud.

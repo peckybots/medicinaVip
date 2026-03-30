@@ -13,6 +13,7 @@ fundacion: 1975
 camas: 220
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/ruber-internacional-madrid.png"
 ---
 
 El Ruber Internacional es uno de los hospitales privados más exclusivos y con mayor renombre de Madrid, parte de Grupo Quirónsalud. Reconocido por su servicio de oncología integral y fertilidad, atiende una clientela de alto poder adquisitivo con foco en personalización del cuidado.

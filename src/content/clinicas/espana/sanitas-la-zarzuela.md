@@ -13,6 +13,7 @@ fundacion: 1994
 camas: 250
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/sanitas-la-zarzuela.png"
 ---
 
 Sanitas La Zarzuela es el hospital privado de referencia en el oeste de Madrid, con alto reconocimiento en cardiología y ortopedia. Parte del grupo Sanitas/Bupa, combina excelencia clínica con instalaciones hoteleras de nivel VIP y atención a pacientes internacionales.

@@ -8,6 +8,7 @@ descripcion: "Hospital de la cadena Star Médica en Morelia, capital de Michoac�
 web: "https://www.starmedica.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/star-medica-morelia.png"
 ---
 
 Hospital de la cadena Star Médica en Morelia, capital de Michoacán. Atiende a la población michoacana con los estándares de calidad que caracterizan a la red. Sus servicios de urgencias y cardiología son especialmente valorados en la región.

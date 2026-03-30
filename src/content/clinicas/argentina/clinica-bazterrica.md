@@ -13,6 +13,7 @@ fundacion: 1960
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/clinica-bazterrica.png"
 ---
 
 La Clínica Bazterrica es una institución privada de Recoleta con larga trayectoria en atención de alta complejidad. Conocida por su excelencia médica y su entorno hospitalario de calidad premium en uno de los barrios más exclusivos de Buenos Aires.

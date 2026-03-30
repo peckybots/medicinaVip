@@ -8,6 +8,7 @@ descripcion: "La Clínica Cardiovascular Santa María en Medellín es el princip
 web: "https://www.cardiovascular.com.co"
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/cardiovascular-santa-maria-medellin.png"
 ---
 
 La Clínica Cardiovascular Santa María en Medellín es el principal centro privado de cardiología del occidente colombiano. Sus programas de trasplante cardíaco y electrofisiología son reconocidos internacionalmente. Con décadas de especialización, es referente de la cardiología intervencionista en toda Colombia.

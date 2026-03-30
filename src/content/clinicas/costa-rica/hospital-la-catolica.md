@@ -12,6 +12,7 @@ fundacion: 1963
 camas: 130
 featured: false
 draft: false
+imagen: "/images/clinicas/costa-rica/hospital-la-catolica.png"
 ---
 
 Hospital privado con identidad católica que combina la atención médica de calidad con los valores humanistas. Reconocido por su excelencia clínica y trayectoria, es uno de los principales centros médicos privados del Gran Área Metropolitana.

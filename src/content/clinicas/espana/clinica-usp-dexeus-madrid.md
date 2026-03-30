@@ -8,6 +8,7 @@ descripcion: "Clínica en Madrid con amplia experiencia en reproducción asistid
 web: "https://www.clinicausp.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/clinica-usp-dexeus-madrid.png"
 ---
 
 Clínica en Madrid con amplia experiencia en reproducción asistida y ginecología de alta especialidad. Sus servicios de FIV y diagnóstico genético preimplantacional atraen a pacientes de toda España. Con instalaciones modernas y equipo multidisciplinario de alta formación en reproducción humana.

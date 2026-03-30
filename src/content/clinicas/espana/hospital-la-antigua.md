@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Guadalajara, Guadalajara (
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-la-antigua.png"
 ---
 
 Hospitales Generales privado ubicado en Guadalajara, Guadalajara (Castilla-La Mancha), España. Registrado en el Catálogo Nacional de Hospitales 2025.

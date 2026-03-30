@@ -8,6 +8,7 @@ descripcion: "Centro médico de la red Megasalud en el populoso sector de La Flo
 web: "https://www.megasalud.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/megasalud-la-florida.png"
 ---
 
 Centro médico de la red Megasalud en el populoso sector de La Florida, Santiago. Ofrece una amplia gama de especialidades médicas con precios accesibles y tiempos de espera optimizados. Es referente de salud privada accesible en el sector sur de Santiago.

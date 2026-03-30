@@ -8,6 +8,7 @@ descripcion: "Clinica privada ubicada en San Miguel De Allende, GUANAJUATO, Méx
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/sma-health-services-s-c.png"
 ---
 
 Clinica privada ubicada en San Miguel De Allende, GUANAJUATO, México. Establecimiento de salud registrado en CLUES.

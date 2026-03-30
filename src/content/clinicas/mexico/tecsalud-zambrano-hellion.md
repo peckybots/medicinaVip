@@ -8,6 +8,7 @@ descripcion: "Hospital de lujo del sistema TecSalud en el exclusivo municipio de
 web: "https://www.tecsalud.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/tecsalud-zambrano-hellion.png"
 ---
 
 Hospital de lujo del sistema TecSalud en el exclusivo municipio de San Pedro Garza García. Pionero en medicina de precisión y programas de check-up ejecutivo en México. Sus instalaciones de primer nivel atraen a pacientes nacionales e internacionales.

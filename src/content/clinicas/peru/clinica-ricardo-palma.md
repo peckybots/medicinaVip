@@ -13,6 +13,7 @@ fundacion: 1956
 camas: 180
 featured: true
 draft: false
+imagen: "/images/clinicas/peru/clinica-ricardo-palma.png"
 ---
 
 La Clínica Ricardo Palma es una de las clínicas privadas líderes de Lima, pionera en certificación de protocolo safe COVID y referente en oncología y cardiología. Reconocida por su tecnología de diagnóstico avanzado y calidad de atención orientada al paciente exigente.

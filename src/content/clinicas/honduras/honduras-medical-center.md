@@ -13,6 +13,7 @@ fundacion: 1998
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/honduras/honduras-medical-center.png"
 ---
 
 El principal centro médico privado de Honduras y uno de los más modernos de Centroamérica. Reconocido por su tecnología de punta, especialistas de alto nivel y atención a pacientes nacionales e internacionales en la capital hondureña.

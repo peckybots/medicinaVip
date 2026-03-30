@@ -8,6 +8,7 @@ descripcion: "Clínica privada de referencia en Puerto Montt, capital de Los Lag
 web: "https://www.clinicapuertomontt.cl"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-puerto-montt.png"
 ---
 
 Clínica privada de referencia en Puerto Montt, capital de Los Lagos y puerta de entrada a la Patagonia chilena. Atiende a residentes y turistas de la región sur con servicios hospitalarios modernos. Sus servicios de urgencias son esenciales para la creciente actividad turística patagónica.

@@ -8,6 +8,7 @@ descripcion: "Hospital ABC Santa Fe en el corredor corporativo de Santa Fe, CDMX
 web: "https://www.abchospital.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hospital-abc-santa-fe.png"
 ---
 
 Hospital ABC Santa Fe en el corredor corporativo de Santa Fe, CDMX, el hospital más moderno de la red ABC. Con tecnología de cirugía robótica da Vinci y un centro de oncología de clase mundial, atiende a ejecutivos y familias de alto nivel del poniente capitalino. Sus instalaciones de lujo combinan medicina de primer nivel con experiencia hospitalaria excepcional.

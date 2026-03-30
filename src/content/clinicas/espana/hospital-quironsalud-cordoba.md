@@ -12,6 +12,7 @@ fundacion: 2004
 camas: 110
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-quironsalud-cordoba.png"
 ---
 
 Hospital privado Quirónsalud en Córdoba, perteneciente a la red del grupo privado más grande de España. Referente de la atención médica privada en la ciudad de las tres culturas, con alta tecnología y especialistas reconocidos.

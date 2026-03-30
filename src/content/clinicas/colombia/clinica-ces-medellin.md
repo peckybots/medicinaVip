@@ -12,6 +12,7 @@ fundacion: 1984
 camas: 120
 featured: false
 draft: false
+imagen: "/images/clinicas/colombia/clinica-ces-medellin.png"
 ---
 
 Clínica universitaria del CES (Centro de Estudios Superiores) en Medellín, que combina excelente atención clínica con formación médica de alto nivel. Referente educativo y asistencial en Antioquia.

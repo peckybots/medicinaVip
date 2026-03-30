@@ -8,6 +8,7 @@ descripcion: "Hospitales Generales privado ubicado en Olot, Girona (Cataluña), 
 web: ""
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-d-olot-i-comarcal-de-la-garrotxa.png"
 ---
 
 Hospitales Generales privado ubicado en Olot, Girona (Cataluña), España. Registrado en el Catálogo Nacional de Hospitales 2025.

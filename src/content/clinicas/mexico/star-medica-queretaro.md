@@ -13,6 +13,7 @@ fundacion: 2005
 camas: 100
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/star-medica-queretaro.png"
 ---
 
 Décimo en el ranking nacional FUNSALUD 2024, el Hospital Star Médica Querétaro tuvo el mayor ascenso del ranking (del lugar 23 al 10). Parte de la red Star Médica, es referencia en el Bajío para atención cardiológica y oncológica.

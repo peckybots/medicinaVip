@@ -13,6 +13,7 @@ fundacion: 1995
 camas: 130
 featured: true
 draft: false
+imagen: "/images/clinicas/mexico/country-2000-guadalajara.png"
 ---
 
 Hospital Country 2000 es uno de los hospitales privados de alta gama más reconocidos de Guadalajara. Destaca por su vinculación con redes de oncología internacionales (Oncology Consultants de Houston) para segunda opinión, con un puntaje de 82.95 en ranking FUNSALUD 2023.

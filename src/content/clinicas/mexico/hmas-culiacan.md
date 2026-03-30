@@ -8,6 +8,7 @@ descripcion: "Hospital H+ en Culiacán, capital de Sinaloa y centro agroindustri
 web: "https://www.hmas.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/hmas-culiacan.png"
 ---
 
 Hospital H+ en Culiacán, capital de Sinaloa y centro agroindustrial del noroeste mexicano. Con servicios hospitalarios integrales y atención de urgencias las 24 horas, atiende a la creciente población sinaloense. Sus áreas de cardiología y cirugía cuentan con especialistas de amplia experiencia.

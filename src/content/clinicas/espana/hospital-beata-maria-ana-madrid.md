@@ -8,6 +8,7 @@ descripcion: "Hospital privado de tradición religiosa en Madrid del grupo Quir�
 web: "https://www.quironsalud.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-beata-maria-ana-madrid.png"
 ---
 
 Hospital privado de tradición religiosa en Madrid del grupo Quirónsalud. Con décadas de historia en la medicina madrileña, combina valores humanistas con tecnología médica actualizada. Sus programas de oncología y traumatología son reconocidos en el centro de Madrid.

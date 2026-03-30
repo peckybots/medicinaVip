@@ -8,6 +8,7 @@ descripcion: "Hospital privado de tradición española en Puebla, con décadas d
 web: "https://www.beneficenciaespanola.org.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/beneficencia-espanola-puebla.png"
 ---
 
 Hospital privado de tradición española en Puebla, con décadas de historia en la medicina poblana. Reconocido por su rigor científico y calidad en la atención médica. Sus programas de oncología y cardiología son referentes en la segunda ciudad más grande del país.

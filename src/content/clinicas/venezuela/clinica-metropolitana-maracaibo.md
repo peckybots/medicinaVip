@@ -12,6 +12,7 @@ fundacion: 1968
 camas: 200
 featured: true
 draft: false
+imagen: "/images/clinicas/venezuela/clinica-metropolitana-maracaibo.png"
 ---
 
 Principal clínica privada de Maracaibo y la región zuliana. Ofrece atención médico-quirúrgica integral para la numerosa población del estado Zulia, con tecnología moderna y especialistas de amplia experiencia regional.

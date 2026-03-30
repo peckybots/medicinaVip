@@ -8,6 +8,7 @@ descripcion: "Sanatorio del Salvador en Córdoba, institución hospitalaria priv
 web: "https://www.sanatoriosdelsalvador.com.ar"
 featured: false
 draft: false
+imagen: "/images/clinicas/argentina/sanatorio-del-salvador-cordoba.png"
 ---
 
 Sanatorio del Salvador en Córdoba, institución hospitalaria privada con sólida trayectoria en la capital cordobesa. Sus servicios cardiológicos y oncológicos son los de mayor demanda entre los pacientes privados de la ciudad. Con instalaciones modernas y equipo de especialistas de reconocido nivel académico y clínico en Córdoba.

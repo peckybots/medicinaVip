@@ -8,6 +8,7 @@ descripcion: "Hospital Perpetuo Socorro en Las Palmas de Gran Canaria, uno de lo
 web: "https://www.hps.es"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/hospital-perpetuo-socorro-las-palmas.png"
 ---
 
 Hospital Perpetuo Socorro en Las Palmas de Gran Canaria, uno de los hospitales privados más tradicionales y reconocidos de las Islas Canarias. Con más de 100 años de historia en la atención médica canaria, sus servicios oncológicos y cardiológicos son los de mayor referencia en la isla. Combina tradición médica con renovación tecnológica permanente.

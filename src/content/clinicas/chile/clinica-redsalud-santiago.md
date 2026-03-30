@@ -8,6 +8,7 @@ descripcion: "La Clínica RedSalud Santiago en Estación Central es un estableci
 web: "https://www.redsalud.cl/nuestra-red/clinicas/clinica-redsalud-santiago"
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-redsalud-santiago.png"
 ---
 
 La Clínica RedSalud Santiago en Estación Central es un establecimiento privado de cobertura popular en la zona poniente de Santiago. Con acceso desde el metro y buses interregionales, atiende a una gran base de pacientes del sector central y oeste de la capital. Sus programas de urgencias y hospitalización son referentes en accesibilidad para asegurados de menores ingresos.

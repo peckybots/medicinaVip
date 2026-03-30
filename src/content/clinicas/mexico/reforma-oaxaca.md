@@ -8,6 +8,7 @@ descripcion: "Hospital Reforma, institución médica privada consolidada en Oaxa
 web: "https://www.hospitalreformaoaxaca.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/reforma-oaxaca.png"
 ---
 
 Hospital Reforma, institución médica privada consolidada en Oaxaca de Juárez. Ofrece servicios hospitalarios completos con atención personalizada y médicos especialistas de reconocida trayectoria. Destaca por su servicio de urgencias y la calidez en la atención a sus pacientes.

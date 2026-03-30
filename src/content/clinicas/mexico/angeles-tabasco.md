@@ -8,6 +8,7 @@ descripcion: "Hospital Ángeles en Tabasco, ampliando la cobertura del grupo en 
 web: "https://www.hospitalesangeles.com/tabasco"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/angeles-tabasco.png"
 ---
 
 Hospital Ángeles en Tabasco, ampliando la cobertura del grupo en el sureste petrolero de México. Sus servicios especializados atienden a ejecutivos y trabajadores del sector energético de la región. Con tecnología de diagnóstico avanzada y médicos de alta especialidad.

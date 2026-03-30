@@ -8,6 +8,7 @@ descripcion: "Hospital San José en Oaxaca de Juárez, especializado en salud ma
 web: "https://www.hospitalsanjoseoaxaca.com.mx"
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/san-jose-oaxaca.png"
 ---
 
 Hospital San José en Oaxaca de Juárez, especializado en salud materno-infantil para la población del valle central de Oaxaca. Sus servicios de obstetricia y neonatología son referencia en el sur de México. Atención personalizada y calidad médica en uno de los estados con mayor diversidad cultural del país.

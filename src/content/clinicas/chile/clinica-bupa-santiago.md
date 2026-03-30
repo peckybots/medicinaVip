@@ -13,6 +13,7 @@ fundacion: 2010
 camas: 150
 featured: false
 draft: false
+imagen: "/images/clinicas/chile/clinica-bupa-santiago.png"
 ---
 
 Clínica privada moderna del grupo internacional Bupa en Santiago. Ofrece atención de alta calidad con cobertura de seguros internacionales, especializada en la atención de pacientes con planes de salud globales y turismo médico.

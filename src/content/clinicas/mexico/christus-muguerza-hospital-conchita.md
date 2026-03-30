@@ -12,6 +12,7 @@ fundacion: 1943
 camas: 80
 featured: false
 draft: false
+imagen: "/images/clinicas/mexico/christus-muguerza-hospital-conchita.png"
 ---
 
 Hospital materno-infantil de referencia en Monterrey con amplia trayectoria. Especializado en atención a la madre y al recién nacido, con unidad de cuidados intensivos neonatales de alta complejidad.

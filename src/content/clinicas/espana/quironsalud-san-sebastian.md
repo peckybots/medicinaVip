@@ -8,6 +8,7 @@ descripcion: "Hospital Quirónsalud en San Sebastián / Donostia, ciudad vasca d
 web: "https://www.quironsalud.es/hospital-san-sebastian"
 featured: false
 draft: false
+imagen: "/images/clinicas/espana/quironsalud-san-sebastian.png"
 ---
 
 Hospital Quirónsalud en San Sebastián / Donostia, ciudad vasca de referencia cultural y gastronómica. Sus programas de oncología digestiva y cardiología intervencionista son reconocidos a nivel nacional. Instalaciones de vanguardia con tecnología diagnóstica de última generación.

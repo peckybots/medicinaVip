@@ -8,6 +8,7 @@ descripcion: "Clínica de la red Auna en Lima con amplia trayectoria en la medic
 web: "https://www.grupoauna.com"
 featured: false
 draft: false
+imagen: "/images/clinicas/peru/auna-clinica-delgado-lima.png"
 ---
 
 Clínica de la red Auna en Lima con amplia trayectoria en la medicina privada peruana. Sus servicios hospitalarios completos y equipo de especialistas la posicionan como referente del sector. Trabaja con los principales seguros médicos nacionales e internacionales.
