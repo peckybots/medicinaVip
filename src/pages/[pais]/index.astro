@@ -56,7 +56,6 @@ allClinics.forEach(c => {
 });
 
 const allCities = [...cityMap.values()];
-const popularCities = [...allCities].sort((a, b) => b.clinicCount - a.clinicCount).slice(0, 6);
 const sortedCities = [...allCities].sort((a, b) => a.name.localeCompare(b.name, 'es'));
 
 const collectionSchema = {
@@ -98,25 +97,6 @@ const collectionSchema = {
         <div class="flex items-center justify-between mb-4">
           <h2 class="text-sm font-semibold text-gray-500 uppercase tracking-wider">Filtrar por ciudad</h2>
           <span class="text-xs text-gray-400 tabular-nums">{allCities.length} ciudades</span>
-        </div>
-
-        {/* Popular cities — quick access pills */}
-        <div class="flex flex-wrap gap-2 mb-3" id="popular-cities">
-          <a
-            href={`/${pais}/`}
-            class="px-4 py-1.5 rounded-full text-sm font-medium transition-all duration-200 bg-[#1A3A4A] text-white shadow-sm"
-          >
-            Todas
-          </a>
-          {popularCities.map(city => (
-            <a
-              href={`/${pais}/${city.slug}/`}
-              class="px-4 py-1.5 rounded-full text-sm font-medium transition-all duration-200 border border-gray-200 text-gray-600 hover:border-[#C9973A] hover:text-[#C9973A]"
-            >
-              <span class="capitalize">{city.name}</span>
-              <span class="ml-1 text-xs opacity-60">{city.clinicCount}</span>
-            </a>
-          ))}
         </div>
 
         {/* Searchable combobox for all cities */}
